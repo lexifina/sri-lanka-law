@@ -1,6 +1,6 @@
-# State Gem Corporation Act, No. 13 of 1971
+# State Gem Corporation (Act No. 13 of 1971)
 
-Act No. 13 of 1971 · version in force from 1971-03-09 · <https://web.archive.org/web/20220930091440/http://www.lawnet.gov.lk/state-gem-corporation-6/>
+Act No. 13 of 1971 · version in force from 1971-11-01 · <https://web.archive.org/web/20210124182356/http://www.lawnet.gov.lk/state-gem-corporation-2/>
 
 | Provision | File |
 | --- | --- |
@@ -55,4 +55,3 @@ Act No. 13 of 1971 · version in force from 1971-03-09 · <https://web.archive.o
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
-| sec-051 | [sec-051.md](sec-051.md) |
