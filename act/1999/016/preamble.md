@@ -1,0 +1,3 @@
+AN ACT TO INCORPORATE THE NAVODAYA FOUNDATION WHEREAS a Society called and known as the “Navodaya Foundation” has heretofore been formed in Sri Lanka for the purpose of effectually carrying out and transacting all objects and matters connceted with the said Foundation according to the rules agreed to by its members :
+AND WHEREAS the said Foundation has heretofore successfully carried out and transacted the several objects and matters for which it was formed and has applied to be incorporated and it will be for the public advantage to grant the application:
+BE it therefore, enacted by the Parliament of Democratic Socialist Republic of Sri Lanka as follows :-
