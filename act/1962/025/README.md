@@ -1,16 +1,10 @@
-# Control of Insurance Act, No. 25 of 1962
+# Control Of Insurance (Act No. 25 of 1962)
 
-Act No. 25 of 1962 · version in force from 1962-06-16 · <https://web.archive.org/web/20240725074338/http://www.lawnet.gov.lk/control-of-insurance-6/>
+Act No. 25 of 1962 · version in force from 1979-04-19 · <https://web.archive.org/web/20200928095614/http://www.lawnet.gov.lk/control-of-insurance-2/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
-| schedule-01 | [schedule-01.md](schedule-01.md) |
-| schedule-02 | [schedule-02.md](schedule-02.md) |
-| schedule-03 | [schedule-03.md](schedule-03.md) |
-| schedule-04 | [schedule-04.md](schedule-04.md) |
-| schedule-05 | [schedule-05.md](schedule-05.md) |
-| schedule-06 | [schedule-06.md](schedule-06.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
@@ -40,15 +34,6 @@ Act No. 25 of 1962 · version in force from 1962-06-16 · <https://web.archive.o
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
-| sec-030 | [sec-030.md](sec-030.md) |
-| sec-031 | [sec-031.md](sec-031.md) |
-| sec-032 | [sec-032.md](sec-032.md) |
-| sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
-| sec-035 | [sec-035.md](sec-035.md) |
-| sec-036 | [sec-036.md](sec-036.md) |
-| sec-037 | [sec-037.md](sec-037.md) |
-| sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
@@ -57,6 +42,7 @@ Act No. 25 of 1962 · version in force from 1962-06-16 · <https://web.archive.o
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
+| sec-046a | [sec-046a.md](sec-046a.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
@@ -83,6 +69,7 @@ Act No. 25 of 1962 · version in force from 1962-06-16 · <https://web.archive.o
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
+| sec-072a | [sec-072a.md](sec-072a.md) |
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
 | sec-075 | [sec-075.md](sec-075.md) |
@@ -90,6 +77,7 @@ Act No. 25 of 1962 · version in force from 1962-06-16 · <https://web.archive.o
 | sec-077 | [sec-077.md](sec-077.md) |
 | sec-078 | [sec-078.md](sec-078.md) |
 | sec-079 | [sec-079.md](sec-079.md) |
+| sec-079a | [sec-079a.md](sec-079a.md) |
 | sec-080 | [sec-080.md](sec-080.md) |
 | sec-081 | [sec-081.md](sec-081.md) |
 | sec-082 | [sec-082.md](sec-082.md) |
