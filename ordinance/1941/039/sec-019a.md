@@ -1,0 +1,4 @@
+# 19A. Applications in respect of debts purporting to be secured by conditional transfers of immovable property.
+[ 2, 5 of 1959.]
+(1) The Board shall not entertain any application by a debtor or creditor in respect of a debt purporting to be secured by any such conditional transfer of immovable property as is a mortgage within the meaning of this Ordinance unless that application is made before the expiry of the period within which that property may be redeemed by the debtor by virtue of any legally enforceable agreement between him and his creditor.
+(2) Where the Board entertains an application of a debtor in respect of such a debt as is referred to in subsection (1), the Board shall cause notice of that fact signed by the secretary to be sent together with a copy of the application by registered post to the creditor to whom the application relates.

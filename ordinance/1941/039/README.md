@@ -1,6 +1,6 @@
 # Debt Conciliation (Ordinance No. 39 of 1941)
 
-Ordinance No. 39 of 1941 · version in force from 1952-11-22 · <https://web.archive.org/web/20200924115128/http://www.lawnet.gov.lk/debt-conciliation-2/>
+Ordinance No. 39 of 1941 · version in force from 1978-12-28 · <https://web.archive.org/web/20200922010113/http://www.lawnet.gov.lk/debt-conciliation-3/>
 
 | Provision | File |
 | --- | --- |
@@ -9,7 +9,6 @@ Ordinance No. 39 of 1941 · version in force from 1952-11-22 · <https://web.arc
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
-| sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -24,8 +23,11 @@ Ordinance No. 39 of 1941 · version in force from 1952-11-22 · <https://web.arc
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
+| sec-019b | [sec-019b.md](sec-019b.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
+| sec-021a | [sec-021a.md](sec-021a.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
