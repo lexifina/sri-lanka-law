@@ -1,0 +1,2 @@
+# 8B.
+Where an Assessor does not accept a return furnished by any person under section 6 or under section 9 for any quarter in any year of assessment and makes an assessment or additional assessment on that person for that quarter under section 7 or under section 8, he shall communicate to such person in writing his reasons for not accepting the return.

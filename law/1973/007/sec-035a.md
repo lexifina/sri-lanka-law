@@ -1,0 +1,8 @@
+# 35A. Repayment to an exporter of the business turnover tax paid on articles exported.
+[ 7, Law 47 of 1973.]
+(1) Subject to the provisions of subsection (3), where any article is exported from Sri Lanka by any person (hereafter in this section referred to as the ” exporter “) and the Commissioner-General is satisfied-
+(a) that such article was produced or manufactured in Sri Lanka and was purchased by the exporter from the manufacturer or producer of such article;
+(b) that the price paid by the exporter for the purchase of such article forms part of the turnover of the business of that manufacturer or producer; and
+(c) that business turnover tax has in fact been paid by that manufacturer or producer in respect of the turnover of his business, such amount out of the business turnover tax paid in respect of the turnover of that business by the manufacturer or producer of that article as is attributable to the purchase price paid for that article by the exporter, shall be paid to the exporter by the Commissioner-General.
+(2) The provisions of subsection (1) shall apply in relation to any container, receptacle or wrapper in which an article referred to in that subsection is exported in the same manner as if all references to ” article ” in those provisions were references to such container, receptacle or wrapper, as the case may be.
+(3) No payment under subsection (1) shall be made by the Commissioner-General in respect of any article or any article and container, receptacle or wrapper in which such article is exported, unless a claim in writing for such payment is made by the exporter of such article not earlier than three months, and not later than nine months, after the export of such article.
