@@ -1,0 +1,10 @@
+AN ORDINANCE TO DECLARE THE BATTICALOA WATERWORKS TO BE VESTED IN THE CEYLON GOVERNMENT.
+Preamble.
+Whereas an arrangement for the construction of waterworks at a total cost of one hundred and forty-six thousand rupees for the use of the Local Board town of Batticaloa was made in the year nineteen hundred and fourteen between the Government and the Local Board of Batticaloa:
+And whereas it was a term of the said arrangement that the Government should contribute the sum of eighty-four thousand rupees towards the cost of construction and that the balance was to be met by the Local Board out of a loan of sixty-two thousand rupees to be made to the said Board by the Government and to be repaid by a sinking fund at the rate of two and half per centum per annum together with interest at the rate of three and half per centum per annum :
+And whereas the said waterworks were duly constructed by the Government and were handed over to the said Local Board as from the 31st day of March, 1917 : And whereas in the year nineteen hundred and eighteen by agreement with the Government the said Local Board handed over the property in, and the management and control over, the said works to the Government on the terms that the Government should provide such a water supply for the use of the said town as circumstances would permit and that the proceeds of the water-rate to be levied by the Local Board under the provisions of section 44 of the Local Boards’ Ordinance, 1898,* should be paid by the said Local Board to the Government and that the Local Board should be relieved of the liability for payment of interest and sinking fund on the loan aforesaid :
+And whereas it is desirable to make fit and proper provision with a view to removing any doubts as to the respective rights and duties of the Government and of the said Local Board in the premises ;
+Be it therefore enacted by the Governor of Ceylon, by and with the advice and consent of the Legislative Council thereof, as follows:-
+Ordinance Nos,
+17 of 1945
+[ 1 st February
