@@ -1,0 +1,5 @@
+# 67C. Additional fine to be imposed for every offence under sections 65,66 or 67 and a certificate from licensee to be proof of loss or damage in the absence of evidence of the contrary
+[ 5,15 of 1984]
+(1) Where any person is convicted of any offence under section 65. section 66 or section 67, the Magistrate’s Court shall, in addition to any penalty which it is required to Impose under this Act, impose on such person a fine in a sum of money being the value of the loss or damage caused to the licensee as a result of the act or default constituting such offence and any sum recovered as such additional fine shall be paid to the licensee on application made to Court by such licensee.
+(2) Where two or more persons are convicted of having committed the same offence whether as principal or abettor, the value of such damage or loss may be apportioned among such persons and the amount so apportioned shall be imposed on each of such persons as a fine.
+(3) A certificate issued by the licensee shall be received as proof of the: value of such loss or damage in the absence of evidence to the contrary.
