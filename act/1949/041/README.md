@@ -1,6 +1,6 @@
 # Air Force (Act No. 41 of 1949)
 
-Act No. 41 of 1949 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919215832/http://www.lawnet.gov.lk/air-force/>
+Act No. 41 of 1949 · version in force from 1979-04-05 · <https://web.archive.org/web/20200925055057/http://www.lawnet.gov.lk/air-force-3/>
 
 | Provision | File |
 | --- | --- |
@@ -27,6 +27,7 @@ Act No. 41 of 1949 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
+| sec-023a | [sec-023a.md](sec-023a.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
@@ -112,6 +113,7 @@ Act No. 41 of 1949 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-108 | [sec-108.md](sec-108.md) |
 | sec-109 | [sec-109.md](sec-109.md) |
 | sec-110 | [sec-110.md](sec-110.md) |
+| sec-111 | [sec-111.md](sec-111.md) |
 | sec-113 | [sec-113.md](sec-113.md) |
 | sec-115 | [sec-115.md](sec-115.md) |
 | sec-116 | [sec-116.md](sec-116.md) |
