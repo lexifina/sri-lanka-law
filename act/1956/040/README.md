@@ -1,6 +1,6 @@
-# (National Planning Council Act, No. 40 of 1956
+# National Planning Council (Act No. 40 of 1956)
 
-Act No. 40 of 1956 · version in force from 1956-09-14 · <https://web.archive.org/web/20220521192158/http://www.lawnet.gov.lk/national-planning-council-6/>
+Act No. 40 of 1956 · version in force from 1957-12-21 · <https://web.archive.org/web/20220117160553/http://www.lawnet.gov.lk/national-planning-council-2/>
 
 | Provision | File |
 | --- | --- |
