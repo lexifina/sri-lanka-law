@@ -1,6 +1,6 @@
 # Navy (Law No. 33 of 1976)
 
-Law No. 33 of 1976 · version in force from 1979-04-05 · <https://web.archive.org/web/20220117165938/http://www.lawnet.gov.lk/navy-3/>
+Law No. 33 of 1976 · version in force from 1999-12-14 · <https://web.archive.org/web/20240518063628/http://www.lawnet.gov.lk/navy-4/>
 
 | Provision | File |
 | --- | --- |
@@ -36,7 +36,6 @@ Law No. 33 of 1976 · version in force from 1979-04-05 · <https://web.archive.o
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
@@ -90,7 +89,6 @@ Law No. 33 of 1976 · version in force from 1979-04-05 · <https://web.archive.o
 | sec-085 | [sec-085.md](sec-085.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
 | sec-087 | [sec-087.md](sec-087.md) |
-| sec-088 | [sec-088.md](sec-088.md) |
 | sec-089 | [sec-089.md](sec-089.md) |
 | sec-090 | [sec-090.md](sec-090.md) |
 | sec-091 | [sec-091.md](sec-091.md) |

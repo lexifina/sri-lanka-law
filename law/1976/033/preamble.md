@@ -6,4 +6,7 @@ Act Nos,
 8 of 1962
 11 of 1962
 21 of 1979
+24 of 1986
+11 of 1993
+53 of 1999
 [ 9 th December
