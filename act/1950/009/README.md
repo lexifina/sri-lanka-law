@@ -1,6 +1,6 @@
 # Land Acquisition (Act No. 9 of 1950)
 
-Act No. 9 of 1950 · version in force from 1979-01-25 · <https://web.archive.org/web/20220117161025/http://www.lawnet.gov.lk/land-acquisition-3/>
+Act No. 9 of 1950 · version in force from 1986-04-22 · <https://web.archive.org/web/20240525151839/http://www.lawnet.gov.lk/land-acquisition-5/>
 
 | Provision | File |
 | --- | --- |

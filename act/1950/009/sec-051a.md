@@ -1,4 +1,4 @@
 # 51A. Certain actions under this Act before any court to be given priority.
-[ 2, 20 of 1969.]
+[ 2, 20 of 1969]
 (1) Where any decision, declaration or Order to which this section applies, and any act or thing done under or in consequence of such decision, declaration or Order is called in question in any court whether by way of action, appeal, application in revision or any application for an order in the nature of a writ referred to in Articles 140 and 141 of the Constitution, such court shall give the highest priority to the hearing and disposal of such action, appeal or application, and for that purpose shall ordinarily hear and dispose of such action, appeal or application before all other business or cases pending or being heard or disposed of by such court.
 (2) This section shall apply to any decision made under section 4, any declaration made under section 5, and any Order made under section 38.
