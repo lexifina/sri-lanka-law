@@ -1,2 +1,3 @@
-# 33A. Liabilities of the Corporation, including bonuses declared in the case of life insurance policies, guaranteed by the Government. [§ 50,11 of 1963.]
-All liabilities of the Corporation arising out of policies of insurance issued by or taken over by the Corporation, including in the case of life insurance policies the bonuses declared and payable by the Corporation, shall be guaranteed by the Government of Ceylon.
+# 33A. Liabilities of the Corporation, including bonuses declared in the case of life insurance policies, guaranteed by the Government.
+[50,11 of 1963.]
+All liabilities of the Corporation arising out of policies of insurance issued by or taken over by the Corporation, including in the case of life insurance policies the bonuses declared and payable by the Corporation, shall be guaranteed by the Government of Sri Lanka.
