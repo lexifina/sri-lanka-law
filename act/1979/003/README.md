@@ -1,6 +1,6 @@
-# Local Authorities (Special Provisions) Act, No. 3 of 1979
+# Local Authorities (Special Provisions) (Act No. 3 of 1979)
 
-Act No. 3 of 1979 · version in force from 1979-01-09 · <https://web.archive.org/web/20240615065748/http://www.lawnet.gov.lk/local-authorities-special-provisions-7/>
+Act No. 3 of 1979 · version in force from 1979-02-26 · <https://web.archive.org/web/20220117040228/http://www.lawnet.gov.lk/local-authorities-special-provisions-2/>
 
 | Provision | File |
 | --- | --- |
