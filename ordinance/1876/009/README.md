@@ -1,6 +1,6 @@
 # Cattle Trespass (Ordinance No. 9 of 1876)
 
-Ordinance No. 9 of 1876 · version in force from 1955-04-14 · <https://web.archive.org/web/20200921053101/http://www.lawnet.gov.lk/cattle-trespass-2/>
+Ordinance No. 9 of 1876 · version in force from 1958-09-16 · <https://web.archive.org/web/20240813050417/http://www.lawnet.gov.lk/cattle-trespass-3/>
 
 | Provision | File |
 | --- | --- |

@@ -1,3 +1,4 @@
+Repealed By Animals Act, No. 29 of 1958.
 AN ORDINANCE TO AMEND THE LAW RELATING TO CATTLE
 TRESPASS.
 Ordinance Nos,
@@ -11,4 +12,5 @@ Ordinance Nos,
 Act Nos,
 24 of 1949
 22 of 1955
+29 of 1958
 [ 20 th November
