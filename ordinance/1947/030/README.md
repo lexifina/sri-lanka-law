@@ -1,6 +1,6 @@
 # Food Supplies (Ordinance No. 30 of 1947)
 
-Ordinance No. 30 of 1947 · version in force from 1955-03-10 · <https://web.archive.org/web/20200924115203/http://www.lawnet.gov.lk/food-supplies-2/>
+Ordinance No. 30 of 1947 · version in force from 1957-05-02 · <https://web.archive.org/web/20200928081635/http://www.lawnet.gov.lk/food-supplies-3/>
 
 | Provision | File |
 | --- | --- |
