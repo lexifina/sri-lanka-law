@@ -1,6 +1,6 @@
 # Estate Labour (Indian) (Ordinance No. 13 of 1889)
 
-Ordinance No. 13 of 1889 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919210956/http://www.lawnet.gov.lk/estate-labour-indian-2/>
+Ordinance No. 13 of 1889 · version in force from 1978-12-05 · <https://web.archive.org/web/20200922165420/http://www.lawnet.gov.lk/estate-labour-indian-3/>
 
 | Provision | File |
 | --- | --- |
