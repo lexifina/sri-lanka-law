@@ -1,6 +1,6 @@
-# Fisheries (Regulation of Foreign Fishing Boats) Act, No. 59 of 1979
+# Regulation Of Foreign Fishing Boats (Act No. 59 of 1979)
 
-Act No. 59 of 1979 · version in force from 1979-09-25 · <https://web.archive.org/web/20220929105354/http://www.lawnet.gov.lk/fisheries-regulation-of-foreign-fishing-boats-2/>
+Act No. 59 of 1979 · version in force from 1982-10-12 · <https://web.archive.org/web/20240523115719/http://www.lawnet.gov.lk/regulation-of-foreign-fishing-boats-3/>
 
 | Provision | File |
 | --- | --- |
@@ -31,5 +31,4 @@ Act No. 59 of 1979 · version in force from 1979-09-25 · <https://web.archive.o
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
-| sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
