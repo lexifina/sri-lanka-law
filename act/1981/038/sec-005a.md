@@ -1,0 +1,3 @@
+# 5A. ” Interim Committee of Management.
+(1) Where a Committee of Management of a Credit Council has been dissolved under section 4, or where there is no Committee of Management in respect of a Credit Council, the Director of Credit Councils shall nominate an interim Committee of Management consisting of not more than five members for the purpose of administering the affairs of the Committee of Management of a Credit Council.
+(2) The Director of Credit Councils shall appoint the Chairman, Secretary and the Deputy Secretary of each such interim Committee of Management from among the members nominated by him under subsection (1)

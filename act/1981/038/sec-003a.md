@@ -1,0 +1,2 @@
+# 3A. ” Dissolution of Credit Councils.
+Where after the establishment of a Credit Council or Councils for any Government department in terms of section 3 (1) of this Law, the Director of Credit Councils finds it necessary and appropriate that the Credit Council or Councils so established should be varied, the Director may, with the approval of the Minister, dissolve such Credit Council or Councils and in its or their place establish a new Credit Council or Councils as the case may be, in terms of section 3 (1) of this Law. “.
