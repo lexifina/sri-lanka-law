@@ -1,0 +1,3 @@
+AN ACT TO REVISE AND CONSOLIDATE THE LAW RELATING TO WEIGHTS AND MEASURES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH FOR INCIDENTAL THERETO
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows;-
+[ 21 st December
