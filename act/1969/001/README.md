@@ -1,6 +1,6 @@
 # Imports And Exports (Control) (Act No. 1 of 1969)
 
-Act No. 1 of 1969 · version in force from 1969-08-08 · <https://web.archive.org/web/20200922175316/http://www.lawnet.gov.lk/imports-and-exports-control-3/>
+Act No. 1 of 1969 · version in force from 1987-06-02 · <https://web.archive.org/web/20240525090528/http://www.lawnet.gov.lk/imports-and-exports-control-4/>
 
 | Provision | File |
 | --- | --- |
@@ -15,6 +15,11 @@ Act No. 1 of 1969 · version in force from 1969-08-08 · <https://web.archive.or
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011a | [sec-011a.md](sec-011a.md) |
+| sec-011b | [sec-011b.md](sec-011b.md) |
+| sec-011c | [sec-011c.md](sec-011c.md) |
+| sec-011d | [sec-011d.md](sec-011d.md) |
+| sec-011e | [sec-011e.md](sec-011e.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
