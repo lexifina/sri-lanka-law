@@ -1,0 +1,4 @@
+AN ACT TO INCORPORATE THE CEYLON RAILWAY GUARDS’ AND LOCOMOTIVE ENGINEMEN’S PROVI DENT ASSOCIATION.
+WHEREAS an association called and known as “The Ceylon Railway Guards’ and Locomotive Enginemen’s Provident Association ” was established in Colombo in the year one thousand nine hundred and twenty-four for the purpose of carrying out the objects of that association according to the rules agreed to by its members:
+And whereas the said association has heretofore been successfully carrying out its objects, and has applied to be incorporated, and it is now desirable and expedient that the said association should be incorporated :
+Be it therefore enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
