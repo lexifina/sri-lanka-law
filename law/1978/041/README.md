@@ -1,6 +1,6 @@
 # Urban Development Authority (Law No. 41 of 1978)
 
-Law No. 41 of 1978 · version in force from 1979-12-17 · <https://web.archive.org/web/20201030072238/http://www.lawnet.gov.lk/urban-development-authority-2/>
+Law No. 41 of 1978 · version in force from 1988-11-24 · <https://web.archive.org/web/20201022034630/http://www.lawnet.gov.lk/urban-development-authority-3/>
 
 | Provision | File |
 | --- | --- |
@@ -13,6 +13,14 @@ Law No. 41 of 1978 · version in force from 1979-12-17 · <https://web.archive.o
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
+| sec-008a | [sec-008a.md](sec-008a.md) |
+| sec-008b | [sec-008b.md](sec-008b.md) |
+| sec-008c | [sec-008c.md](sec-008c.md) |
+| sec-008d | [sec-008d.md](sec-008d.md) |
+| sec-008e | [sec-008e.md](sec-008e.md) |
+| sec-008f | [sec-008f.md](sec-008f.md) |
+| sec-008g | [sec-008g.md](sec-008g.md) |
+| sec-008h | [sec-008h.md](sec-008h.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
@@ -23,6 +31,15 @@ Law No. 41 of 1978 · version in force from 1979-12-17 · <https://web.archive.o
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
+| sec-019b | [sec-019b.md](sec-019b.md) |
+| sec-019c | [sec-019c.md](sec-019c.md) |
+| sec-019d | [sec-019d.md](sec-019d.md) |
+| sec-019e | [sec-019e.md](sec-019e.md) |
+| sec-019f | [sec-019f.md](sec-019f.md) |
+| sec-019g | [sec-019g.md](sec-019g.md) |
+| sec-019h | [sec-019h.md](sec-019h.md) |
+| sec-019i | [sec-019i.md](sec-019i.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
@@ -30,6 +47,11 @@ Law No. 41 of 1978 · version in force from 1979-12-17 · <https://web.archive.o
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
+| sec-026a | [sec-026a.md](sec-026a.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
+| sec-028a | [sec-028a.md](sec-028a.md) |
+| sec-028b | [sec-028b.md](sec-028b.md) |
+| sec-028c | [sec-028c.md](sec-028c.md) |
+| sec-028d | [sec-028d.md](sec-028d.md) |
 | sec-029 | [sec-029.md](sec-029.md) |

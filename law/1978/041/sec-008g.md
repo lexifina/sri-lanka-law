@@ -1,0 +1,5 @@
+# 8G. Notice of approval of development plan & co.
+[ 3,4 of 1982]
+Where any draft development plan has been approved by the Minister, it shall be the duty of the Authority as soon as may be after such approval
+(a) to cause a notice to be published in the Gazette and in a daily newspaper in the Sinhala, Tamil and English languages circulating in the development area or part thereof to which the development plan relates, to the effect that the development plan has been approved by the Minister and that it shall come into operation on the date of the publication of the notice in the Gazette ; and
+(b) to cause copies of the development plan, together with the written statement, plans, maps and annex urea thereto, to be available for inspection by the public at the head office of the Authority in Colombo, and at such offices of the Authority, and at the office or offices of the local authority or local authorities, situated in or near the development area or part thereof to which the development plan relates,

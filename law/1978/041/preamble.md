@@ -3,5 +3,12 @@ Law Nos,
 41 of 1978
 Act Nos,
 70 of 1979
-[Deemed to have come into operation on 6th September, 1978.]*
-[1st October. 1978.]
+4 of 1982
+44 of 1984
+49 of 1987
+41 of 1988
+Gazette Nos,
+392-9-1986
+[Deemed to have come into operation on 6th September, 1978]*
+[1st October. 1978]
+[ 6 th September
