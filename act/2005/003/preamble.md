@@ -1,0 +1,1 @@
+AN ACT TO REPEAL THE SRI LANKA RAILWAYS AUTHORITY ACT, NO. 60 OF 1993; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :—
