@@ -1,6 +1,6 @@
-# Rent Restriction (Act No. 20 of 1948)
+# Immigrants And Emigrants (Act No. 20 of 1948)
 
-Act No. 20 of 1948 · version in force from 1953-02-27 · <https://web.archive.org/web/20220818152839/http://www.lawnet.gov.lk/rent-restriction/>
+Act No. 20 of 1948 · version in force from 1955-04-14 · <https://web.archive.org/web/20200924103835/http://www.lawnet.gov.lk/immigrants-and-emigrants/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,6 @@ Act No. 20 of 1948 · version in force from 1953-02-27 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
@@ -33,3 +32,30 @@ Act No. 20 of 1948 · version in force from 1953-02-27 · <https://web.archive.o
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
+| sec-029 | [sec-029.md](sec-029.md) |
+| sec-030 | [sec-030.md](sec-030.md) |
+| sec-031 | [sec-031.md](sec-031.md) |
+| sec-032 | [sec-032.md](sec-032.md) |
+| sec-033 | [sec-033.md](sec-033.md) |
+| sec-035 | [sec-035.md](sec-035.md) |
+| sec-036 | [sec-036.md](sec-036.md) |
+| sec-037 | [sec-037.md](sec-037.md) |
+| sec-038 | [sec-038.md](sec-038.md) |
+| sec-039 | [sec-039.md](sec-039.md) |
+| sec-040 | [sec-040.md](sec-040.md) |
+| sec-041 | [sec-041.md](sec-041.md) |
+| sec-042 | [sec-042.md](sec-042.md) |
+| sec-043 | [sec-043.md](sec-043.md) |
+| sec-044 | [sec-044.md](sec-044.md) |
+| sec-045 | [sec-045.md](sec-045.md) |
+| sec-046 | [sec-046.md](sec-046.md) |
+| sec-047 | [sec-047.md](sec-047.md) |
+| sec-048 | [sec-048.md](sec-048.md) |
+| sec-049 | [sec-049.md](sec-049.md) |
+| sec-050 | [sec-050.md](sec-050.md) |
+| sec-051 | [sec-051.md](sec-051.md) |
+| sec-052 | [sec-052.md](sec-052.md) |
+| sec-053 | [sec-053.md](sec-053.md) |
+| sec-054 | [sec-054.md](sec-054.md) |
+| sec-055 | [sec-055.md](sec-055.md) |
+| sec-057 | [sec-057.md](sec-057.md) |
