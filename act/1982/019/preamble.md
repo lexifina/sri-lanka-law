@@ -1,0 +1,3 @@
+AN ACT TO REPEAL THE ESTATES (CONTROL, OF TRANSFER AND ACQUISITION) ACT, NO. 2 OF 1972, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :
+[ 20 th May
