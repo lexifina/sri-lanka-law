@@ -1,6 +1,6 @@
-# Widows’ and Orphans’ Pension Scheme (Armed Forces) Act, No. 18 of 1970
+# Widows’ And Orphans’ Pension Scheme (Armed Forces) (Act No. 18 of 1970)
 
-Act No. 18 of 1970 · version in force from 1970-03-24 · <https://web.archive.org/web/20240713190542/http://www.lawnet.gov.lk/widows-and-orphans-pension-scheme-armed-forces-4/>
+Act No. 18 of 1970 · version in force from 1999-12-31 · <https://web.archive.org/web/20240522021213/http://www.lawnet.gov.lk/widows-and-orphans-pension-scheme-armed-forces-3/>
 
 | Provision | File |
 | --- | --- |
@@ -8,6 +8,8 @@ Act No. 18 of 1970 · version in force from 1970-03-24 · <https://web.archive.o
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
+| sec-003a | [sec-003a.md](sec-003a.md) |
+| sec-003b | [sec-003b.md](sec-003b.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
