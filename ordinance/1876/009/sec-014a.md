@@ -1,0 +1,8 @@
+# 14A.
+It shall be lawful for the Government Agent or the Magistrate to grant permission in writing for the shooting of any stray cattle within his administrative district or division, if it shall be shown to his satisfaction that stray cattle are in the habit of trespassing upon or in any such private land as aforesaid, or any Crown land which is under cultivation, or any irrigation works or aerodrome, and cannot be seized or identified, so that the owner or owners thereof may be ascertained and proceeded against; and thereupon such Government Agent or Magistrate may, at his discretion, direct some fit person to proceed to such land or irrigation works or aerodrome; and such person, if after every reasonable exertion he shall find it impracticable to seize or identify such animals, then and not otherwise shall shoot or otherwise destroy the same or cause the same to be shot or otherwise destroyed in his presence ; and this notwithstanding that in the endeavour to seize the animals they may have been driven off such land or irrigation works or aerodrome :
+Order for
+shooting not to be in force for more than one month.
+Provided that such order shall not be in force for more than one month from the date thereof ;
+Pigs trespassing may be destroyed without any order.
+[ 6, 12 of 1941.]
+Provided further that it shall at all times be lawful for any proprietor or occupier of any cultivated field or enclosed garden, or any other person by his direction, to destroy any pigs found straying therein ; and for any duly authorized person to destroy any pigs found straying in or upon any irrigation works or aerodrome or any land set apart or lawfully used for the recreation of the public.

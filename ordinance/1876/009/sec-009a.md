@@ -1,0 +1,4 @@
+# 9A.
+When, in the case of trespass on any private land, the proprietor or occupier or other person acting in his behalf, and when in the case of any trespass on any irrigation works or aerodrome or saltern, the person in charge thereof or other duly authorized person is unable to seize and secure animals trespassing as aforesaid, but can prove the trespass and whose or in whose charge the said animals were at the time of such trespass, the owners or persons in charge thereof shall be liable, notice being given of the trespass in the manner directed in section 7a of this Ordinance, to the same damages, costs and charges as in the case of seizure, and the course of proceeding in respect thereof shall be similar, as far as the circumstances admit, to that prescribed by section 7a.
+All rights under Ordinance
+forfeited, unless due notice is given to headman.
