@@ -1,0 +1,2 @@
+AN ACT TO ENABLE THE APPOINTMENT OF CRIMINAL JUSTICE COMMISSIONS, TO PRESCRIBE THEIR POWERS AND PROCEDURE, TO FACILITATE THE PERFORMANCE OF THEIR FUNCTIONS, AND TO MAKE PROVISION FOR MATTERS CONNECTED WITH OR INCIDENTAL TO THE AFORESAID MATTERS.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
