@@ -1,6 +1,6 @@
-# Ceylon State Plantations Corporation Act, No. 4 of 1958
+# Sri Lanka State Plantations Corporation (Act No. 4 of 1958)
 
-Act No. 4 of 1958 · version in force from 1958-02-20 · <https://web.archive.org/web/20240725090640/http://www.lawnet.gov.lk/ceylon-state-plantations-corporation-2/>
+Act No. 4 of 1958 · version in force from 1979-07-27 · <https://web.archive.org/web/20210124180051/http://www.lawnet.gov.lk/sri-lanka-state-plantations-corporation-2/>
 
 | Provision | File |
 | --- | --- |
@@ -15,10 +15,8 @@ Act No. 4 of 1958 · version in force from 1958-02-20 · <https://web.archive.or
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
