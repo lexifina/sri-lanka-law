@@ -1,4 +1,5 @@
 # 6A. Provisions relating to . termination of scheduled employment by closure of any trade, industry or business.
-[4, Law 4 of 1976.]
+[4,4 of 1976]
 (1) Where the scheduled employment of any workman is terminated in contravention of the provisions of this Act in consequence of the closure by his employer of any trade, industry or business, the Commissioner may order such employer to pay to such workman on or before a specified date any sum of money as compensation as an alternative to the reinstatement of such workman and any gratuity or any other benefit payable to such workman by such employer.
-(2) Where the Commissioner orders any sum of money to be paid to a workman under subsection (1) the Magistrate’s Court having jurisdiction in the area where such workman is or was employed by his employer shall, if satisfied on the written petition of such workman that payment of such money has not been made within the time specified in that behalf by the Commissioner, make order that the amount of such money shall be paid by such employer to such workman and that such amount if not paid in compliance with the order, be recovered in like manner as a fine imposed by the Court, and the amount so recovered shall be paid to such workman.
+subsection (2) Repealed By
+[ 3,12 of 2003]

@@ -1,6 +1,6 @@
 # Termination Of Employment Of Workmen (Law No. 4 of 1976)
 
-Law No. 4 of 1976 · version in force from 1971-10-28 · <https://web.archive.org/web/20210124191527/http://www.lawnet.gov.lk/termination-of-employment-of-workmen/>
+Law No. 4 of 1976 · version in force from 2003-03-20 · <https://web.archive.org/web/20240807182047/http://www.lawnet.gov.lk/termination-of-employment-of-workmen-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,8 @@ Law No. 4 of 1976 · version in force from 1971-10-28 · <https://web.archive.or
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-006a | [sec-006a.md](sec-006a.md) |
+| sec-006b | [sec-006b.md](sec-006b.md) |
+| sec-006c | [sec-006c.md](sec-006c.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |

@@ -3,4 +3,6 @@ Law Nos,
 4 of 1976
 Act Nos,
 45 of 1971
+51 of 1988
+12 of 2003
 [ 21 st May
