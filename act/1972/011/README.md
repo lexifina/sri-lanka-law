@@ -1,6 +1,6 @@
-# State Agricultural Corporations Act, No. 11 of 1972
+# State Agricultural Corporations (Act No. 11 of 1972)
 
-Act No. 11 of 1972 · version in force from 1972-03-18 · <https://web.archive.org/web/20220930104624/http://www.lawnet.gov.lk/state-agricultural-corporations-6/>
+Act No. 11 of 1972 · version in force from 1980-04-18 · <https://web.archive.org/web/20210119120418/http://www.lawnet.gov.lk/state-agricultural-corporations-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,7 +18,6 @@ Act No. 11 of 1972 · version in force from 1972-03-18 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
