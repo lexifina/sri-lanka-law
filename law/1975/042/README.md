@@ -1,6 +1,6 @@
-# National Prices Commission Law, No. 42 of 1975
+# National Prices Commission (Law No. 42 of 1975)
 
-Law No. 42 of 1975 · version in force from 1975-11-20 · <https://web.archive.org/web/20220521195240/http://www.lawnet.gov.lk/national-prices-commission-law-2/>
+Law No. 42 of 1975 · version in force from 1979-01-01 · <https://web.archive.org/web/20220117162834/http://www.lawnet.gov.lk/national-prices-commission/>
 
 | Provision | File |
 | --- | --- |
@@ -18,6 +18,7 @@ Law No. 42 of 1975 · version in force from 1975-11-20 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-013a | [sec-013a.md](sec-013a.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
@@ -29,6 +30,7 @@ Law No. 42 of 1975 · version in force from 1975-11-20 · <https://web.archive.o
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
+| sec-024a | [sec-024a.md](sec-024a.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
