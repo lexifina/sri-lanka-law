@@ -1,0 +1,5 @@
+# 48A. District Secretary-may delegate his powers &c.
+[ 6,32 of 1982]
+(1) The District Secretary of a Development Council may, subject to the approval of the Development Council and the Executive Committee thereof, by general or special order in writing delegate to any officer of the Development Council any of the powers, functions or duties, conferred or imposed on, or assigned to, him by or under this Act or any other written law.
+(2) The exercise, discharge or performance by any officer of a Development Council of any power, function or duty delegated to him by the District Secretary of the Development Council by an order under subsection (1) shall be subject to such conditions and restrictions, and limited to such purpose or purposes, as may be specified in any such order, and such delegation may at any time be varied or revoked by order of the District Secretary.
+(3) Notwithstanding the delegation by the District Secretary of a Development Council of any power, function or duty to any officer of such Development Council, the District Secretary shall be entitled to exercise, discharge or perform any such power, function or duty.

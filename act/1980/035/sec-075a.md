@@ -1,0 +1,3 @@
+# 75A. Waiver of sums, other than taxes.
+[ 10,32 of 1982]
+A Development Council may by resolution waive the whole or any part of any sum of money (not being a sum for the waiver of which, provision is made by section 75) due to the Council from any person if it appears to the Council that the amount to be waived is inconsiderable or irrecoverable or that it should be written off on the ground of the poverty of the person liable therefor.

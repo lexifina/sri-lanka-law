@@ -1,6 +1,6 @@
-# Development Councils Act, No. 35 of 1980
+# Development Councils (Act No. 35 of 1980)
 
-Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.org/web/20240803141952/http://www.lawnet.gov.lk/development-councils-4/>
+Act No. 35 of 1980 · version in force from 1989-11-03 · <https://web.archive.org/web/20240812204709/http://www.lawnet.gov.lk/development-councils-3/>
 
 | Provision | File |
 | --- | --- |
@@ -22,6 +22,7 @@ Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.o
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
+| sec-017a | [sec-017a.md](sec-017a.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
@@ -41,6 +42,7 @@ Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.o
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
+| sec-036a | [sec-036a.md](sec-036a.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
@@ -53,6 +55,7 @@ Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.o
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
+| sec-048a | [sec-048a.md](sec-048a.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
@@ -80,6 +83,7 @@ Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.o
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
 | sec-075 | [sec-075.md](sec-075.md) |
+| sec-075a | [sec-075a.md](sec-075a.md) |
 | sec-076 | [sec-076.md](sec-076.md) |
 | sec-077 | [sec-077.md](sec-077.md) |
 | sec-078 | [sec-078.md](sec-078.md) |
@@ -95,8 +99,6 @@ Act No. 35 of 1980 · version in force from 1980-09-22 · <https://web.archive.o
 | sec-088 | [sec-088.md](sec-088.md) |
 | sec-089 | [sec-089.md](sec-089.md) |
 | sec-090 | [sec-090.md](sec-090.md) |
-| sec-091 | [sec-091.md](sec-091.md) |
-| sec-092 | [sec-092.md](sec-092.md) |
 | sec-093 | [sec-093.md](sec-093.md) |
 | sec-094 | [sec-094.md](sec-094.md) |
 | sec-095 | [sec-095.md](sec-095.md) |

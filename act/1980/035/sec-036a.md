@@ -1,0 +1,5 @@
+# 36A. Executive Committee may delegate its powers &c.
+[ 5,32 of 1982]
+(1) The Executive Committee of a Development Council may, subject to the approval of the Development Council, by resolution delegate to any officer of such Development Council any of the powers, functions or duties conferred or imposed on, or assigned to, such Executive Committee by or under this Act or any other written law.
+(2) The exercise, discharge or performance by any officer of a Development Council of any power, function or duty delegated to such officer by resolution of the Executive Committee of a Development Council shall be subject to such conditions and restrictions, and limited to such purpose or purposes, as may be specified in the resolution, and any such delegation may at any time be varied or revoked by a resolution of the Executive Committee.
+(3) Notwithstanding the delegation by the Executive Committee of a Development Council of any power, function or duty to any officer of such Development Council, the Executive Committee shall be entitled to exercise, discharge or perform any such power, function or duty.
