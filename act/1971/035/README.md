@@ -1,6 +1,6 @@
-# Business Undertakings (Acquisition) Act, No. 35 of 1971
+# Business Undertakings (Acquisition) (Act No. 35 of 1971)
 
-Act No. 35 of 1971 · version in force from 1971-10-01 · <https://web.archive.org/web/20200924034753/http://www.lawnet.gov.lk/business-undertakings-acquisition-4/>
+Act No. 35 of 1971 · version in force from 1980-05-02 · <https://web.archive.org/web/20210120041228/http://www.lawnet.gov.lk/business-undertakings-acquisition/>
 
 | Provision | File |
 | --- | --- |
@@ -17,6 +17,7 @@ Act No. 35 of 1971 · version in force from 1971-10-01 · <https://web.archive.o
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
+| sec-012a | [sec-012a.md](sec-012a.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
