@@ -1,6 +1,6 @@
-# Surveyors (Ordinance No. 15 of 1889)
+# Auctioneers And Brokers (Ordinance No. 15 of 1889)
 
-Ordinance No. 15 of 1889 · version in force from 1950-10-20 · <https://web.archive.org/web/20210119114400/http://www.lawnet.gov.lk/surveyors-3/>
+Ordinance No. 15 of 1889 · version in force from 1952-11-22 · <https://web.archive.org/web/20200925063922/http://www.lawnet.gov.lk/auctioneers-and-brokers-3/>
 
 | Provision | File |
 | --- | --- |
@@ -8,17 +8,8 @@ Ordinance No. 15 of 1889 · version in force from 1950-10-20 · <https://web.arc
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
-| sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
-| sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
-| sec-012 | [sec-012.md](sec-012.md) |
-| sec-013 | [sec-013.md](sec-013.md) |
-| sec-015 | [sec-015.md](sec-015.md) |
-| sec-016 | [sec-016.md](sec-016.md) |
-| sec-018 | [sec-018.md](sec-018.md) |
-| sec-019 | [sec-019.md](sec-019.md) |
