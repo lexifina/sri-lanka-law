@@ -10,4 +10,6 @@ Act Nos,
 5 of 1959
 24 of 1964
 19 of 1978
+20 of 1983
+29 of 1999
 [ 15 th November

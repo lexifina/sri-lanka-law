@@ -1,6 +1,6 @@
 # Debt Conciliation (Ordinance No. 39 of 1941)
 
-Ordinance No. 39 of 1941 · version in force from 1978-12-28 · <https://web.archive.org/web/20200922010113/http://www.lawnet.gov.lk/debt-conciliation-3/>
+Ordinance No. 39 of 1941 · version in force from 1999-09-17 · <https://web.archive.org/web/20240918193122/http://www.lawnet.gov.lk/debt-conciliation-4/>
 
 | Provision | File |
 | --- | --- |
