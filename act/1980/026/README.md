@@ -1,6 +1,6 @@
-# Food Act, No. 26 of 1980
+# Food (Act No. 26 of 1980)
 
-Act No. 26 of 1980 · version in force from 1980-07-17 · <https://web.archive.org/web/20220925202102/http://www.lawnet.gov.lk/food-act-2/>
+Act No. 26 of 1980 · version in force from 1991-04-19 · <https://web.archive.org/web/20240518174124/http://www.lawnet.gov.lk/food-3/>
 
 | Provision | File |
 | --- | --- |
@@ -38,4 +38,3 @@ Act No. 26 of 1980 · version in force from 1980-07-17 · <https://web.archive.o
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
