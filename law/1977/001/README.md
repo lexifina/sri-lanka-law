@@ -1,6 +1,6 @@
 # Parliamentary Pensions (Law No. 1 of 1977)
 
-Law No. 1 of 1977 · version in force from 1979-07-27 · <https://web.archive.org/web/20220117165359/http://www.lawnet.gov.lk/parliamentary-pensions-2/>
+Law No. 1 of 1977 · version in force from 1990-12-19 · <https://web.archive.org/web/20230608223023/http://www.lawnet.gov.lk/parliamentary-pensions-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,9 @@ Law No. 1 of 1977 · version in force from 1979-07-27 · <https://web.archive.or
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
+| sec-007b | [sec-007b.md](sec-007b.md) |
+| sec-007c | [sec-007c.md](sec-007c.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
