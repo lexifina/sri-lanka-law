@@ -1,6 +1,6 @@
 # Industrial Products (Act No. 18 of 1949)
 
-Act No. 18 of 1949 · version in force from 1956-12-20 · <https://web.archive.org/web/20200924105014/http://www.lawnet.gov.lk/industrial-products-2/>
+Act No. 18 of 1949 · version in force from 1961-12-07 · <https://web.archive.org/web/20200928092106/http://www.lawnet.gov.lk/industrial-products-3/>
 
 | Provision | File |
 | --- | --- |
@@ -23,6 +23,7 @@ Act No. 18 of 1949 · version in force from 1956-12-20 · <https://web.archive.o
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
+| sec-018a | [sec-018a.md](sec-018a.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
