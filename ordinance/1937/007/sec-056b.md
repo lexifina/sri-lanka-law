@@ -1,0 +1,3 @@
+# 56B. Offence of directors and officers.
+[ 15,32 of 1995]
+Where the person convicted of an offence under the Ordinance is a body corporate, every person who at the time of the commission of the offence was a director or an officer of the body corporate shall be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge, or that he exercised all due diligence to avoid the commission of such offence.
