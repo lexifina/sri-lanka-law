@@ -1,0 +1,7 @@
+# 8A. How Judge to deal with witness who makes a contradictory statement.
+[6,83 of 1988]
+(1) If in the course of a trial for an offence under this Ordinance any witness shall on any material point contradict either expressly or by necessary implication a statement previously made and signed by him, before any officer of customs or person referred to in section 8, in the course of any . investigation into such offence under this Ordinance, it shall be lawful for the presiding Judge if he considers it safe and just in all the circumstances
+(a) to act upon the statement given by the witness in the course of the investigation, if such statement is corroborated in material particulars by evidence from an independent source ; and
+(b) to have such witness at the conclusion of such trial arraigned and tried on an indictment which shall be prepared and signed by the Registrar of such court, for intentionally, giving false evidence in a stage of a judicial proceeding.
+(2) At any trial under paragraph (b) of subsection (1) it shall be sufficient to prove that the accused made the contradictory statements alleged in the indictment and it shall not be necessary to prove which of such statements is false.
+(3) The presiding Judge may, if he considers it expedient, adjourn the trial of any witness under paragraph (b) of subsection (1) for such period as he may think fit and in any such case the accused shall be remanded until the conclusion of such trial. “,

@@ -1,0 +1,55 @@
+AN ORDINANCE FOR THE GENERAL REGULATION OF CUSTOMS IN SRI LANKA.
+Ordinance Nos,
+17 of 1869
+1 of 1871
+21 of 1873
+1 of 1875
+22 of 1877
+3 of 1883
+12 of 1884
+4 of 1886
+18 of 1896
+20 of 1898
+13 of 1900
+7 of 1901
+2 of 1903
+9 of 1904
+3 of 1906
+40 of 1908
+5 of 1909
+29 of 1909
+5 of 1910
+9 of 1910
+5 of 1914
+14 of 1914
+21 of 1916
+10 of 1917
+17 of 1922
+3 of 1927
+17 of 1928
+23 of 1929
+6 of 1938
+3 of 1939
+32 of 1941
+54 of 1941
+8 of 1944
+17 of 1946
+43 of 1946
+Law Nos,
+35 of 1974
+Act Nos,
+6 of 1948
+9 of 1949
+10 of 1950
+27 of 1951
+29 of 1952
+25 of 1958
+29 of 1966
+34 of 1966
+23 of 1968
+10 of 1983
+83 of 1988
+24 of 1991
+2 of 2003
+36 of 2003
+[ 1 st January
