@@ -1,0 +1,6 @@
+AN ACT TO PROVIDED FOR THE EXPEDITIOUS HEARING AND DETERMINATION OF APPLICATIONS AND REFERENCES MADE UNDER THE INDUSTRIAL DISPUTES ACT AND THE TERMINATION OF EMPLOYMENT OF WORKMEN (SPECIAL PROVISIONS) ACT, TO AMEND HE INDUSTRIAL DISPUTES ACT AND THE TERMINATION OR EMPLOYMENT OF WORKMEN (SPECIAL PROVISIONS) ACT, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
+Preamble.
+WHEREAS it has become necessary to ensure an expeditious disposal of applications and references made under the Industrial Disputes Act and the Termination of Employment of Workmen (Special Provisions) Act, in order that parties to such applications and references may be able to obtain decisions in respect of the same within a short period of time.
+AND WHEREAS to facilitate such expeditious disposal it is considered desirable to stipulate time frames in respect of the procedure adopted in the determination of applications made to labour tribunals and the Commissioner and references made to an arbitrator, and in respect of the hearing and deciding of appeals lodged against orders made on such applications.
+BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
+[ 20 th March
