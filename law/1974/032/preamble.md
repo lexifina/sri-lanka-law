@@ -1,0 +1,2 @@
+A LAW TO AMEND THE ESTATE DUTY ORDINANCE AND TO GIVE CERTAIN PROVISIONS OF THAT ORDINANCE RETROSPECTIVE EFFECT.
+BE it enacted by the National State Assembly of the Republic of Sri Lanka as follows: –
