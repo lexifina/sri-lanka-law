@@ -1,6 +1,6 @@
-# Social Security Board Act, No. 17 of 1996
+# Social Security Board (Act No. 17 of 1996)
 
-Act No. 17 of 1996 · version in force from 1996-07-26 · <https://web.archive.org/web/20220925203032/http://www.lawnet.gov.lk/social-security-board-3/>
+Act No. 17 of 1996 · version in force from 1999-10-07 · <https://web.archive.org/web/20241005153351/http://www.lawnet.gov.lk/social-security-board-2/>
 
 | Provision | File |
 | --- | --- |
@@ -11,6 +11,7 @@ Act No. 17 of 1996 · version in force from 1996-07-26 · <https://web.archive.o
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-006a | [sec-006a.md](sec-006a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
@@ -33,6 +34,7 @@ Act No. 17 of 1996 · version in force from 1996-07-26 · <https://web.archive.o
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
+| sec-028a | [sec-028a.md](sec-028a.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
