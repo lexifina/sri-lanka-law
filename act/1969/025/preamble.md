@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE RESUSCITATION AND CONTINUANCE IN FORCE OF THE DEFENCE REGULA TIONS (EXTENSION) ACT, NO. 24 OF 1950, WHICH EXPIRED AFTER DECEMBER 31, 1968, AND FOR THE VALIDATION RENDERED NECESSARY BY SUCH EXPIRY.
+BE It enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
