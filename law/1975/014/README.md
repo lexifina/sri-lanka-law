@@ -1,6 +1,6 @@
-# Tea (Tax And Control Of Export) (Law No. 14 of 1975)
+# Sri Lanka Tea Board (Law No. 14 of 1975)
 
-Law No. 14 of 1975 · version in force from 1985-12-27 · <https://web.archive.org/web/20240522021950/http://www.lawnet.gov.lk/tea-tax-and-control-of-export-3/>
+Law No. 14 of 1975 · version in force from 2003-10-15 · <https://web.archive.org/web/20240523122001/http://www.lawnet.gov.lk/sri-lanka-tea-board-3/>
 
 | Provision | File |
 | --- | --- |
@@ -10,6 +10,9 @@ Law No. 14 of 1975 · version in force from 1985-12-27 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
+| sec-005b | [sec-005b.md](sec-005b.md) |
+| sec-005c | [sec-005c.md](sec-005c.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -17,13 +20,16 @@ Law No. 14 of 1975 · version in force from 1985-12-27 · <https://web.archive.o
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
-| sec-014a | [sec-014a.md](sec-014a.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
-| sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
+| sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
+| sec-025 | [sec-025.md](sec-025.md) |
+| sec-031 | [sec-031.md](sec-031.md) |
