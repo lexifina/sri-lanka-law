@@ -1,0 +1,14 @@
+# 60A. Provision of omnibus services when stage carriage permit is revoked.
+[3,7 of 1957.]
+(1) Where a stage carriage permit is revoked under section 60, the Commissioner may-
+(a) grant a stage carriage permit to any person or persons authorizing the provision of an omnibus service or omnibus services on the route or routes in respect of which the revoked stage carriage permit was issued, or
+(b) himself provide an omnibus service or omnibus services on such route or routes.
+(2) Nothing in sections 51, 52, 53, 54, 55, 56 and 66 shall apply in relation to the grant of any stage carriage permit under subsection (1).
+(3) The Minister may by Order published in the Gazette vest in the State or requisition any such omnibuses or other property used by any person for the provision of a regular or an occasional omnibus service or tourist or other similar service as may be required by the Commissioner for the provision by him of an omnibus service.
+(4) Any property vested in the State under subsection (3) shall so vest free from all encumbrances.
+(5) Where any property is on any date vested in the State under subsection (3), the Commissioner shall pay under the general directions of the Minister fair compensation to the person in whose possession that property was on the day on which such property vested in the State.
+(6) Where any property is on any date requisitioned under subsection (3), the Commissioner shall pay as compensation a fair rent or hire to the person in whose possession that property was on the day immediately preceding that date. Any compensation under this subsection shall be considered as accruing due from day to day during the period of requisition and shall be apportionable in respect of time accordingly.
+(7) The mode of payment of compensation under this section shall be as determined by the Minister in charge of the subject of Finance.
+(8) Where any person is aggrieved by the decision of the Commissioner in respect of any compensation payable under this section, that person may make a written appeal from that decision to the Minister, and the Minister’s decision on every appeal under this subsection shall be final and conclusive and shall not be called in question in any court.
+(9) The Commissioner or any officer authorized by him in that behalf may take possession of any omnibus or other property vested in the State or requisitioned under subsection (3).
+(10) Every person who prevents or obstructs any person from or in taking possession, under subsection (9), of any omnibus or other property vested in the State or requisitioned under subsection (3) shall be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be liable to imprisonment of either description for a period not exceeding one year or to a fine not exceeding one thousand rupees or to both such imprisonment and fine.

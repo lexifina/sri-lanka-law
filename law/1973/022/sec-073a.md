@@ -1,0 +1,3 @@
+# 73A. Prohibition of grant of stage carriage permits for regular hiring car services in respect of certain routes.
+[90(1), 48 of 1957.]
+With effect from the date on which any stage carriage permit for a regular hiring car service in Sri Lanka ceases to be in force under section 16 of the Motor Transport Act, No. 48 of 1957(Repealed by the Transport Board Law, No. 19 of 1978.), no stage carriage permit for a regular hiring car service shall be granted to any person in respect of the route or routes on which regular hiring car services were provided under the authority of the permit which so ceases to be in force.

@@ -1,0 +1,3 @@
+# 196A. Yearly examination and certification in respect of vehicles of the Sri Lanka Central Transport Board or any Regional Transport Board.
+[ 5, Law 22 of 1973.]
+Notwithstanding anything to the contrary in section 196, the yearly examination and certification, prior to the issue of a licence, of such motor vehicle as is referred to in section 29, shall, in the case of a motor vehicle belonging to the Sri Lanka Central Transport Board or any Regional Transport Board, be carried out by an officer authorized in that behalf by the Board and any certificate of fitness issued by such officer in respect of any such vehicle shall, for the purposes of this Act, be deemed to be a certificate issued under section 196.

@@ -1,0 +1,2 @@
+# 227A.
+(Section 227A has been taken over from section 29 of the Finance Act, No. 38 of 1971,.inserted by section 3 of the Final-f (Amendment) Law, No. 7 of 1974. ) Notwithstanding any of the provisions of this Act there shall be levied and collected a penalty amounting to ten per centum of the amount of any licence fee due under any regulation made under this Act, if payment of such licence fee is not made in full on or before the date on which such fee falls due for payment under this Act or under any Notification made under section 30A.
