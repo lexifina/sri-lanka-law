@@ -8,4 +8,6 @@ Act Nos,
 24 of 1962
 1 of 1966
 13 of 1978
+52 of 1981
+43 of 1985
 [ 28 th July

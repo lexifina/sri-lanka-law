@@ -1,6 +1,6 @@
 # Maternity Benefits (Ordinance No. 32 of 1939)
 
-Ordinance No. 32 of 1939 · version in force from 1978-12-05 · <https://web.archive.org/web/20220117041200/http://www.lawnet.gov.lk/maternity-benefits-3/>
+Ordinance No. 32 of 1939 · version in force from 1985-11-20 · <https://web.archive.org/web/20241013190601/http://www.lawnet.gov.lk/maternity-benefits-4/>
 
 | Provision | File |
 | --- | --- |
