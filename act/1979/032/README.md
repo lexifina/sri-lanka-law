@@ -1,6 +1,6 @@
 # Employees’ Councils (Act No. 32 of 1979)
 
-Act No. 32 of 1979 · version in force from 1979-06-15 · <https://web.archive.org/web/20200922174831/http://www.lawnet.gov.lk/employees-councils/>
+Act No. 32 of 1979 · version in force from 1984-01-13 · <https://web.archive.org/web/20241009160759/http://www.lawnet.gov.lk/employees-councils-3/>
 
 | Provision | File |
 | --- | --- |
