@@ -1,6 +1,6 @@
 # Firing Ranges And Military Training (Act No. 24 of 1951)
 
-Act No. 24 of 1951 · version in force from 1955-04-14 · <https://web.archive.org/web/20200921055242/http://www.lawnet.gov.lk/firing-ranges-and-military-training/>
+Act No. 24 of 1951 · version in force from 1979-04-05 · <https://web.archive.org/web/20200922164833/http://www.lawnet.gov.lk/firing-ranges-and-military-training-3/>
 
 | Provision | File |
 | --- | --- |
