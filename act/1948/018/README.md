@@ -1,6 +1,6 @@
-# Citizenship* (Act No. 18 of 1948)
+# Citizenship (Act No. 18 of 1948)
 
-Act No. 18 of 1948 · version in force from 1955-04-12 · <https://web.archive.org/web/20200922163955/http://www.lawnet.gov.lk/citizenship-4/>
+Act No. 18 of 1948 · version in force from 2003-04-01 · <https://web.archive.org/web/20240525212517/http://www.lawnet.gov.lk/citizenship-5/>
 
 | Provision | File |
 | --- | --- |
@@ -10,7 +10,9 @@ Act No. 18 of 1948 · version in force from 1955-04-12 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-006a | [sec-006a.md](sec-006a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
@@ -18,6 +20,7 @@ Act No. 18 of 1948 · version in force from 1955-04-12 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-013a | [sec-013a.md](sec-013a.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |

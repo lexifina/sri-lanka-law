@@ -1,0 +1,10 @@
+# 13A. Registration as citizens, of persons registered in a Resident Guest Scheme.
+[2, 43 of 1993]
+(1) A person who has been granted a visa or endorsement under Part III of the Immigrants and Emigrants Act valid for a period of five years and has been registered in a Resident Guest Scheme approved by the Government for foreign investors and professionals may, on his making application in that behalf to the Minister, in the prescribed manner, be registered as a citizen of Sri Lanka if the Minister is satisfied
+(a) that
+(i) he has made a substantial contribution to the economic development of the country; or
+(ii) he has made a significant contribution to the social and cultural life of the country in the fields of science, education, medicine, archaeology, music, literature, agriculture or entertainment ; and
+(b) that he has been resident in Sri Lanka for the prescribed period and is, or intends to continue to be, ordinarily resident in Sri Lanka.
+(2) The number of persons registered as citizens of Sri Lanka under this section shall not exceed two hundred in any year and one thousand in the aggregate.
+(3) The fact that a person is registered under a Resident Guest Scheme approved by the Government for foreign investors and professionals shall not be construed as conferring a right on such person to be registered as a citizen of Sri Lanka under this section.
+(4) The Minister’s refusal under this section to allow the application of any person for registration as a citizen of Sri Lanka shall be final and shall not be contested in any court.
