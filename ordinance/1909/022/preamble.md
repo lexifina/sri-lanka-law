@@ -1,0 +1,29 @@
+AN ORDINANCE TO AMEND AND CONSOLIDATE THE LAW RELATING TO STAMPS.
+Ordinance Nos,
+22 of 1909
+16 of 1917
+8 of 1919
+10 of 1919
+32 of 1919
+19 of 1927
+25 of 1927
+11 of 1928
+4 of 1929
+18 of 1930
+18 of 1932
+4 of 1934
+18 of 1934
+57 of 1935
+1 of 1938
+47 of 1941
+15 of 1942
+3 of 1946
+33 of 1946
+Act Nos,
+4 of 1948
+26 of 1948
+16 of 1951
+9 of 1952
+32 of 1952
+15 of 1956
+[ 1 January
