@@ -1,6 +1,6 @@
-# Associated Newspapers of Ceylon, Limited (Special Provisions) Law, No. 28 of 1973
+# Associated Newspapers Of Ceylon Ltd(Special Provisions) (Law No. 28 of 1973)
 
-Law No. 28 of 1973 · version in force from 1973-07-19 · <https://web.archive.org/web/20240811051025/http://www.lawnet.gov.lk/the-associated-newspapers-of-ceylon-limited-special-provisions-law-2/>
+Law No. 28 of 1973 · version in force from 1981-05-29 · <https://web.archive.org/web/20240716102701/http://www.lawnet.gov.lk/associated-newspapers-of-ceylon-ltdspecial-provisions-3/>
 
 | Provision | File |
 | --- | --- |
@@ -9,6 +9,7 @@ Law No. 28 of 1973 · version in force from 1973-07-19 · <https://web.archive.o
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
+| sec-004a | [sec-004a.md](sec-004a.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
