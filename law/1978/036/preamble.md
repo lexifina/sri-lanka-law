@@ -1,0 +1,4 @@
+A LAW TO INCORPORATE THE MUSLIM LIBRARY.
+Law Nos,
+36 of 1978
+[ 11 th August
