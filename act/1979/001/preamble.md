@@ -1,5 +1,8 @@
+Consumer Production was repealed and replaced by Consumer Authority Act No. 9 of 2003. The following contents are prior to repeal.
 AN ACT TO MAKE PROVISION FOR THE REGULATION OF INTERNAL TRADE; FOR THE PROTECTION OF THE CONSUMER; FOR THE ESTABLISHMENT OF FAIR TRADE PRACTICES. AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
 Act Nos,
 1 of 1979
 37 of 1980
-[Parts I, II and IV- 1st January. 1979.]
+34 of 1992
+17 of 1995
+9 of 2003

@@ -1,6 +1,6 @@
 # Consumer Protection (Act No. 1 of 1979)
 
-Act No. 1 of 1979 · version in force from 1980-09-25 · <https://web.archive.org/web/20200925054316/http://www.lawnet.gov.lk/consumer-protection/>
+Act No. 1 of 1979 · version in force from 2003-03-17 · <https://web.archive.org/web/20240521094246/http://www.lawnet.gov.lk/consumer-protection-3/>
 
 | Provision | File |
 | --- | --- |

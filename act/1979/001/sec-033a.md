@@ -1,5 +1,5 @@
 # 33A. Consumer Protection Fund.
-[2,37 of 1980.]
+[2,37 of 1980]
 (1) A fund to be called the Consumer Protection Fund (hereafter in this section referred to as ” the Fund “) is hereby established.
 (2) There shall be paid into the Fund-
 (a) such sums of money as may be voted from time to time by Parliament for the purpose of consumer education or any purpose connected therewith or incidental thereto;
