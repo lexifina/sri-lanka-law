@@ -1,6 +1,6 @@
 # Business Undertakings (Acquisition) (Act No. 35 of 1971)
 
-Act No. 35 of 1971 · version in force from 1980-05-02 · <https://web.archive.org/web/20210120041228/http://www.lawnet.gov.lk/business-undertakings-acquisition/>
+Act No. 35 of 1971 · version in force from 1988-12-17 · <https://web.archive.org/web/20240916190051/http://www.lawnet.gov.lk/business-undertakings-acquisition-3/>
 
 | Provision | File |
 | --- | --- |

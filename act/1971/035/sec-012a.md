@@ -1,5 +1,5 @@
 # 12A.
-[2, 21 of 1980]
+[2,21 of 1980]
 Payments to be made in respect of-
 (a) any business undertaking acquired by, or vested in, the Government; or
 (b) any property vested in, or requisitioned by, the Government, for the purpose of any undertaking,
