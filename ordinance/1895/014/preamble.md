@@ -1,0 +1,11 @@
+AN ORDINANCE TO CONSOLIDATE, DEFINE, AND AMEND THE LAW OF EVIDENCE.
+Ordinance Nos,
+14 of 1895
+15 of 1904
+16 of 1925
+25 of 1927
+18 of 1928
+1 of 1946
+Act Nos,
+3 of 1961
+[ 1 st January

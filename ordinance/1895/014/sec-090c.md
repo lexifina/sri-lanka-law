@@ -1,0 +1,2 @@
+# 90C. Mode of proof of entries in bankers’ books.
+Subject to the provisions of this Chapter, a certified copy of any entry in a banker’s book shall in all legal proceedings be received as prima facie evidence of the existence of such entry, and shall be admitted as evidence of the matters, transactions, and accounts therein recorded in every case where, and to the same extent as the original entry itself is now by law admissible, but not further or otherwise.

@@ -1,0 +1,2 @@
+# 90D. Case in which officer of bank not compellable to produce books.
+No officer of a bank shall, in any legal proceeding to which the bank is not a party, be compellable to produce any banker’s book the contents of which can be proved under this Chapter, or to appear as a witness to prove the matters, transactions, and accounts therein recorded, unless by order of the court, or a Judge, made for special cause.
