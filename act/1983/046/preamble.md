@@ -1,0 +1,3 @@
+AN ACT TO MAKE PROVISIONS AS ARE CONSEQUENTIAL TO THE SUPPRESSION OF THE POST OF “DIRECTOR OF CULTURAL AFFAIRS ” AND THE DISCHARGE OF HIS FUNCTIONS BY THE SECRETARY.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows : –
+[ 28 th November
