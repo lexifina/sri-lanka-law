@@ -1,0 +1,3 @@
+# 11D. Advisory Committee on maintenance and development.
+[3, Law 39 of 1974]
+There shall be established a Special Advisory Committee consisting of the Controller, who shall be the Chairman, and four other members appointed by the Minister. Where the Controller is not satisfied that a registered estate or registered small holding or registered factory is developed to and maintained at the required standard of production and management, he shall refer the matter to the Advisory Committee for its advice regarding the action that should be taken to ensure that such estate, small holding or factory is developed to and maintained at the required standard of production and management.

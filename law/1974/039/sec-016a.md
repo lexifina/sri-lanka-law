@@ -1,0 +1,5 @@
+# 16A. Transport of tea.
+[ 6,3 of 1983]
+(1) No person other than a licensed dealer in made tea or a registered manufacturer, or a person duly authorized in writing to act on behalf of such licensed dealer or registered manufacturer, shall transport or cause to be transported from one place to another any quantity of made tea in excess of the prescribed quantity:
+Provided, however, that nothing in the preceding provisions of this subsection shall be deemed to prohibit the registered proprietor of a registered estate or small holding who is not a registered manufacturer from transporting or causing the transport of any quantity of made tea manufactured for him by a registered manufacturer from green tea leaf which is the produce of that estate or small holding.
+(2) No person other than a licensed dealer in green tea leaf or the registered proprietor of a registered estate or small holding or a registered manufacturer or a person duly authorized in writing to act on behalf of such licensed dealer, registered proprietor or registered manufacturer shall transport or cause to be transported any quantity of green tea leaf.
