@@ -1,6 +1,6 @@
 # Bread (Ordinance No. 33 of 1944)
 
-Ordinance No. 33 of 1944 · version in force from 1952-03-08 · <https://web.archive.org/web/20200928095019/http://www.lawnet.gov.lk/bread-3/>
+Ordinance No. 33 of 1944 · version in force from 1983-02-10 · <https://web.archive.org/web/20230613062248/http://www.lawnet.gov.lk/bread-4/>
 
 | Provision | File |
 | --- | --- |
