@@ -1,6 +1,6 @@
 # Coconut Research (Ordinance No. 29 of 1928)
 
-Ordinance No. 29 of 1928 · version in force from 1961-06-19 · <https://web.archive.org/web/20200928091828/http://www.lawnet.gov.lk/coconut-research-3/>
+Ordinance No. 29 of 1928 · version in force from 1984-11-28 · <https://web.archive.org/web/20240812193859/http://www.lawnet.gov.lk/coconut-research-5/>
 
 | Provision | File |
 | --- | --- |
