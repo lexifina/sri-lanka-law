@@ -1,12 +1,13 @@
 # Business Turnover Tax (Law No. 7 of 1973)
 
-Law No. 7 of 1973 · version in force from 1980-08-07 · <https://web.archive.org/web/20200926205735/http://www.lawnet.gov.lk/business-turnover-tax-2/>
+Law No. 7 of 1973 · version in force from 1981-06-02 · <https://web.archive.org/web/20240913112416/http://www.lawnet.gov.lk/business-turnover-tax-3/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
+| sec-002a | [sec-002a.md](sec-002a.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
@@ -14,12 +15,10 @@ Law No. 7 of 1973 · version in force from 1980-08-07 · <https://web.archive.or
 | sec-006a | [sec-006a.md](sec-006a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
-| sec-008a | [sec-008a.md](sec-008a.md) |
-| sec-008b | [sec-008b.md](sec-008b.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
-| sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
@@ -27,8 +26,8 @@ Law No. 7 of 1973 · version in force from 1980-08-07 · <https://web.archive.or
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
+| sec-020a | [sec-020a.md](sec-020a.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
-| sec-021a | [sec-021a.md](sec-021a.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
