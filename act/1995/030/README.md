@@ -1,6 +1,6 @@
-# Samurdhi Authority of Sri Lanka Act, No. 30 of 1995
+# Samurdhi Authority Of Sri Lanka (Act No. 30 of 1995)
 
-Act No. 30 of 1995 · version in force from 1995-12-11 · <https://web.archive.org/web/20220929122144/http://www.lawnet.gov.lk/samurdhi-authority-of-sri-lanka-3/>
+Act No. 30 of 1995 · version in force from 1997-02-28 · <https://web.archive.org/web/20240918060534/http://www.lawnet.gov.lk/samurdhi-authority-of-sri-lanka-2/>
 
 | Provision | File |
 | --- | --- |
