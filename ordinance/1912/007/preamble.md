@@ -4,4 +4,7 @@ Ordinance Nos,
 7 of 1919
 Act Nos,
 23 of 1951
+40 of 1961
+26 of 1964
+11 of 1969
 [ 24 th May
