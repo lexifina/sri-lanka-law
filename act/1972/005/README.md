@@ -1,6 +1,6 @@
-# Agrarian Research and Training Institute Act, No. 5 of 1972
+# Agrarian Research And Training Institute (Act No. 5 of 1972)
 
-Act No. 5 of 1972 · version in force from 1972-06-01 · <https://web.archive.org/web/20200921114340/http://www.lawnet.gov.lk/agrarian-research-and-training-institute-6/>
+Act No. 5 of 1972 · version in force from 1995-10-19 · <https://web.archive.org/web/20240918174822/http://www.lawnet.gov.lk/agrarian-research-and-training-institute-3/>
 
 | Provision | File |
 | --- | --- |

@@ -1,2 +1,6 @@
-AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF AN AGRARIAN RESEARCH AND TRAINING INSTITUTE AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
-BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows :-
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE HECTOR KOBBEKADUWA AGRARIAN RESEARCH AND TRAINING INSTITUTE AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+Act Nos,
+5 of 1972
+29 of 1981
+21 of 1995
+[ 21 st February
