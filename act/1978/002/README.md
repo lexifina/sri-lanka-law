@@ -1,6 +1,6 @@
 # Judicature (Act No. 2 of 1978)
 
-Act No. 2 of 1978 · version in force from 1979-06-05 · <https://web.archive.org/web/20220117163924/http://www.lawnet.gov.lk/judicature-2/>
+Act No. 2 of 1978 · version in force from 1999-08-30 · <https://web.archive.org/web/20240814125101/http://www.lawnet.gov.lk/judicature-3/>
 
 | Provision | File |
 | --- | --- |
@@ -9,6 +9,9 @@ Act No. 2 of 1978 · version in force from 1979-06-05 · <https://web.archive.or
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
+| sec-005b | [sec-005b.md](sec-005b.md) |
+| sec-005c | [sec-005c.md](sec-005c.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -23,6 +26,7 @@ Act No. 2 of 1978 · version in force from 1979-06-05 · <https://web.archive.or
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
@@ -36,10 +40,6 @@ Act No. 2 of 1978 · version in force from 1979-06-05 · <https://web.archive.or
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
-| sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
-| sec-035 | [sec-035.md](sec-035.md) |
-| sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
@@ -60,9 +60,9 @@ Act No. 2 of 1978 · version in force from 1979-06-05 · <https://web.archive.or
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
-| sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
+| sec-060a | [sec-060a.md](sec-060a.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
