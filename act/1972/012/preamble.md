@@ -1,0 +1,2 @@
+AN ACT TO ESTABLISH AND INCORPORATE A COMMISSION TO BE KNOWN AS THE CO-OPERATIVE EMPLOYEES COMMISSION, TO MAKE SPECIAL PROVISION IN RESPECT OF EMPLOYEES OF CO-OPERATIVE SOCIETIES, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
