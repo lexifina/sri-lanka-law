@@ -1,6 +1,6 @@
 # Branding, Sale, And Transfer Of Cattle (Ordinance No. 10 of 1898)
 
-Ordinance No. 10 of 1898 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919215727/http://www.lawnet.gov.lk/branding-sale-and-transfer-of-cattle-2/>
+Ordinance No. 10 of 1898 · version in force from 1958-09-16 · <https://web.archive.org/web/20240805200928/http://www.lawnet.gov.lk/branding-sale-and-transfer-of-cattle-3/>
 
 | Provision | File |
 | --- | --- |

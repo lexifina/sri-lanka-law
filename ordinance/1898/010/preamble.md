@@ -1,3 +1,4 @@
+Repealed By Animals Act, No. 29 of 1958.
 AN ORDINANCE TO MAKE PROVISION FOR THE BRANDING, SALE, AND TRANSFER OF CATTLE.
 Ordinance Nos,
 10 of 1898
@@ -8,4 +9,5 @@ Ordinance Nos,
 12 of 1945
 Act Nos,
 22 of 1955
+29 of 1958
 [ 28 th July
