@@ -1,0 +1,3 @@
+AN ACT TO AMEND THE RUBBER RESEARCH ORDINANCE
+BE: it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:
+[ 23 rd October
