@@ -1,6 +1,6 @@
 # Embarkation Tax (Law No. 32 of 1976)
 
-Law No. 32 of 1976 · version in force from 1961-04-25 · <https://web.archive.org/web/20200928093721/http://www.lawnet.gov.lk/embarkation-tax-2/>
+Law No. 32 of 1976 · version in force from 2003-08-20 · <https://web.archive.org/web/20240920111404/http://www.lawnet.gov.lk/embarkation-tax-3/>
 
 | Provision | File |
 | --- | --- |
