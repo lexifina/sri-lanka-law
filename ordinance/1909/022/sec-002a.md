@@ -1,0 +1,4 @@
+# 2A. Amendment or variation of Schedules to this ordinance
+[ 100, 11 of 1963]
+(1) Any Schedule* of this Ordinance may be amended or may be varied by an Order made by the Minister and published in the Gazette. Every such Order shall be brought before Parliament within a period of two months from the date of publication of such Order in the Gazette by a motion that such Order shall be approved.
+(2) Any Order which Parliament refuses to approve shall, with effect from the date of such refusal, be deemed to be revoked but without prejudice to the validity of anything previously done thereunder. Notification of the date on which such Order is deemed to be revoked shall be published in the Gazette.(Schedule omitted – See List of Enactments omitted from the Revised Edition, See also sections 56 and 318 of the Merchant Shipping Act.)

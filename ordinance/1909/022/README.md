@@ -1,12 +1,14 @@
 # Stamps (Ordinance No. 22 of 1909)
 
-Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.archive.org/web/20220818153002/http://www.lawnet.gov.lk/stamps-2/>
+Ordinance No. 22 of 1909 · version in force from 1982-12-14 · <https://web.archive.org/web/20240805030322/http://www.lawnet.gov.lk/stamps-4/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
+| sec-001a | [sec-001a.md](sec-001a.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
+| sec-002a | [sec-002a.md](sec-002a.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
@@ -18,6 +20,7 @@ Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.arc
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -36,6 +39,7 @@ Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.arc
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
+| sec-032a | [sec-032a.md](sec-032a.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
@@ -57,11 +61,11 @@ Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.arc
 | sec-051 | [sec-051.md](sec-051.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
-| sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
+| sec-058a | [sec-058a.md](sec-058a.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
@@ -79,6 +83,7 @@ Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.arc
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
 | sec-075 | [sec-075.md](sec-075.md) |
+| sec-075a | [sec-075a.md](sec-075a.md) |
 | sec-076 | [sec-076.md](sec-076.md) |
 | sec-077 | [sec-077.md](sec-077.md) |
 | sec-078 | [sec-078.md](sec-078.md) |
@@ -91,10 +96,11 @@ Ordinance No. 22 of 1909 · version in force from 1956-02-14 · <https://web.arc
 | sec-085 | [sec-085.md](sec-085.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
 | sec-087 | [sec-087.md](sec-087.md) |
+| sec-087a | [sec-087a.md](sec-087a.md) |
 | sec-088 | [sec-088.md](sec-088.md) |
-| sec-089 | [sec-089.md](sec-089.md) |
-| sec-090 | [sec-090.md](sec-090.md) |
 | sec-091 | [sec-091.md](sec-091.md) |
 | sec-092 | [sec-092.md](sec-092.md) |
 | sec-093 | [sec-093.md](sec-093.md) |
+| sec-093a | [sec-093a.md](sec-093a.md) |
+| sec-093b | [sec-093b.md](sec-093b.md) |
 | sec-094 | [sec-094.md](sec-094.md) |
