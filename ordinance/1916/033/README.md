@@ -1,6 +1,6 @@
 # Firearms (Ordinance No. 33 of 1916)
 
-Ordinance No. 33 of 1916 · version in force from 1980-01-24 · <https://web.archive.org/web/20200928084737/http://www.lawnet.gov.lk/firearms-3/>
+Ordinance No. 33 of 1916 · version in force from 1996-08-21 · <https://web.archive.org/web/20240518173929/http://www.lawnet.gov.lk/firearms-4/>
 
 | Provision | File |
 | --- | --- |
@@ -49,6 +49,8 @@ Ordinance No. 33 of 1916 · version in force from 1980-01-24 · <https://web.arc
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
+| sec-044a | [sec-044a.md](sec-044a.md) |
+| sec-044b | [sec-044b.md](sec-044b.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
@@ -56,5 +58,7 @@ Ordinance No. 33 of 1916 · version in force from 1980-01-24 · <https://web.arc
 | sec-049 | [sec-049.md](sec-049.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
+| sec-051a | [sec-051a.md](sec-051a.md) |
+| sec-051b | [sec-051b.md](sec-051b.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
