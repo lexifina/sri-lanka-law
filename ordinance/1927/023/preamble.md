@@ -6,7 +6,18 @@ Ordinance Nos,
 14 of 1936
 34 of 1939
 13 of 1947
+Law Nos,
+4 of 1974
+14 of 1974
+19 of 1976
 Act Nos,
 6 of 1949
 16 of 1951
+22 of 1958
+11 of 1963
+27 of 1969
+50 of 1982
+5 of 1990
+Gazette Nos,
+1386-18-2005
 [ 1 st January

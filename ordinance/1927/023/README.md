@@ -1,6 +1,6 @@
 # Registration Of Documents (Ordinance No. 23 of 1927)
 
-Ordinance No. 23 of 1927 · version in force from 1951-04-12 · <https://web.archive.org/web/20220818152827/http://www.lawnet.gov.lk/registration-of-documents-2/>
+Ordinance No. 23 of 1927 · version in force from 1990-03-06 · <https://web.archive.org/web/20240918171235/http://www.lawnet.gov.lk/registration-of-documents-4/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,7 @@ Ordinance No. 23 of 1927 · version in force from 1951-04-12 · <https://web.arc
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
