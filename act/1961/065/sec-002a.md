@@ -1,0 +1,9 @@
+# 2A. Special provision to enable accounts to be opened in banks other than those mentioned in section 2(1). (3, 36 of 1968.]
+(1) The Minister, acting on the recommendation of the Monetary Board, may, from time to time, by Order published in the Gazette, declare that any bank, other than any bank mentioned in subsection (1) of section 2, whose name is specified in the Order shall, from such date as shall be specified therein, be an approved bank for the purposes of this section.
+(2) The Minister, acting on the recommendation of the Monetary Board, may, by Order published in the Gazette, amend or revoke any Order published by him under subsection (1).
+(3) The Monetary Board may, from time to time, determine the terms and conditions which shall be complied with by any approved bank. The Monetary Board shall communicate in writing every such determination to such bank.
+(4) Every Order made by the Minister in pursuance of the provisions of this section shall, as soon as may be after its publication in the Gazette, be tabled in Parliament. Parliament may by resolution revoke any Order made by the Minister under this section within sixty days of the publication of such Order in the Gazette, and in the computation of such period of sixty days no account shall be taken of any period during which Parliament stands prorogued or dissolved. Such revocation of any Order shall be without prejudice to the validity of anything previously done thereunder.
+(5) Any approved bank may open any account whatsoever in that bank in the name of any person, body corporate, firm or other body of persons referred to in section 2(1).
+(6) In section 2 and this section, the expression-
+(a) u approved bank ” means any bank in respect of which an Order published by the Minister under subsection (1) is for the time being in force;
+(b) ” Monetary Board ” means the Monetary Board of the Central Bank established under the Monetary Law Act.
