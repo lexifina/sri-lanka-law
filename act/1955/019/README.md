@@ -1,6 +1,6 @@
 # Government-Sponsored Corporations (Act No. 19 of 1955)
 
-Act No. 19 of 1955 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919062219/http://www.lawnet.gov.lk/government-sponsored-corporations-2/>
+Act No. 19 of 1955 · version in force from 1957-12-21 · <https://web.archive.org/web/20200922011417/http://www.lawnet.gov.lk/government-sponsored-corporations-3/>
 
 | Provision | File |
 | --- | --- |
@@ -41,6 +41,7 @@ Act No. 19 of 1955 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
+| sec-036a | [sec-036a.md](sec-036a.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
