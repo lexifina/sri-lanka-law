@@ -10,4 +10,7 @@ Act Nos,
 22 of 1955
 11 of 1968
 22 of 1980
+18 of 1981
+42 of 1981
+3 of 1992
 [ 1 st November
