@@ -1,6 +1,6 @@
-# Foreign Exchange (Amnesty) Act, No. 32 of 1993
+# Foreign Exchange (Amnesty) (Act No. 32 of 1993)
 
-Act No. 32 of 1993 · version in force from 1993-08-11 · <https://web.archive.org/web/20220929104247/http://www.lawnet.gov.lk/foreign-exchange-amnesty-5/>
+Act No. 32 of 1993 · version in force from 1998-09-14 · <https://web.archive.org/web/20211129002930/http://www.lawnet.gov.lk/foreign-exchange-amnesty-3/>
 
 | Provision | File |
 | --- | --- |
