@@ -10,6 +10,11 @@ Ordinance Nos,
 20 of 1945
 34 of 1946
 47 of 1947
+Law Nos,
+41 of 1975
+23 of 1978
 Act Nos,
 22 of 1955
+11 of 1963
+3 of 1970
 [ 1 st January
