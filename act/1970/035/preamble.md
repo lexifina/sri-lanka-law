@@ -1,0 +1,2 @@
+AN ACT TO MAKE SPECIAL PROVISIONS FOR THE IMPLEMENTATION OF A SCHEME TO REORGANIZE THE CO-OPERATIVE MOVEMENT, IN PARTICULAR FOR THE DISSOLUTION OF SOCIETIES AND THE AMALGAMATION OF SOCIETIES, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
