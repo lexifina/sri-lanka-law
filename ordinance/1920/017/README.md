@@ -1,6 +1,6 @@
 # Buffaloes Protection (Ordinance No. 17 of 1920)
 
-Ordinance No. 17 of 1920 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919212645/http://www.lawnet.gov.lk/buffaloes-protection-2/>
+Ordinance No. 17 of 1920 · version in force from 1958-09-16 · <https://web.archive.org/web/20240712141816/http://www.lawnet.gov.lk/buffaloes-protection-3/>
 
 | Provision | File |
 | --- | --- |

@@ -1,3 +1,4 @@
+Repealed By Animals Act, No. 29 of 1958.
 AN ORDINANCE TO REGULATE AND CONTROL THE SLAUGHTER OF BUFFALOES.
 Ordinance Nos,
 17 of 1920
@@ -6,4 +7,5 @@ Ordinance Nos,
 29 of 1947
 Act Nos,
 22 of 1955
+29 of 1958
 [ 30 th July
