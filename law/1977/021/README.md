@@ -1,6 +1,6 @@
-# Partition Law, No. 21 of 1977
+# Partition (Law No. 21 of 1977)
 
-Law No. 21 of 1977 · version in force from 1977-11-29 · <https://web.archive.org/web/20220930085355/http://www.lawnet.gov.lk/partition-law-2/>
+Law No. 21 of 1977 · version in force from 1977-12-15 · <https://web.archive.org/web/20220117152835/http://www.lawnet.gov.lk/partition-3/>
 
 | Provision | File |
 | --- | --- |
