@@ -1,6 +1,6 @@
-# Consumer Protection Act, No. 1 of 1979
+# Consumer Protection (Act No. 1 of 1979)
 
-Act No. 1 of 1979 · version in force from 1979-01-01 · <https://web.archive.org/web/20240721195551/http://www.lawnet.gov.lk/consumer-protection-4/>
+Act No. 1 of 1979 · version in force from 1980-09-25 · <https://web.archive.org/web/20200925054316/http://www.lawnet.gov.lk/consumer-protection/>
 
 | Provision | File |
 | --- | --- |
@@ -38,7 +38,6 @@ Act No. 1 of 1979 · version in force from 1979-01-01 · <https://web.archive.or
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
+| sec-033a | [sec-033a.md](sec-033a.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
-| sec-035 | [sec-035.md](sec-035.md) |
-| sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
