@@ -1,0 +1,8 @@
+# 24A. Persons authorized to institute and conduct, prosecutions.
+[ 16,6 of 1994]
+(1) For the avoidance of doubt, it is hereby declared that the Registrar or any Food Inspector, Public Health Inspector, Grama Niladhari, Inspector of Labour or any public officer authorized in that behalf by the Registrar shall be empowered to institute proceedings; and conduct prosecutions for offences under this Act.
+(2) Any person authorised under subsection (1) by the Registrar shall have the power to ascertain whether-
+(a) the packaging of pesticide is effected in compliance with the provisions of this Act ;
+(b) any person has contravened the provisions of section 18 ;
+(c) a certificate for sale has been obtained by every seller.
+(3) For the purposes of exercising the powers referred to in subsection (2), every officer authorized under subsection (1), may enter any premises, after sufficient notice at all reasonable hours of the day in the discharge of his functions under this Act, Such officer shall not be liable on account of such entry or on account of anything done bona fide in such, premises after such entry which is necessary for the exercise performance and discharge of his powers, duties and functions under this Act. “.

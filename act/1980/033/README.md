@@ -1,6 +1,6 @@
-# Control of Pesticides Act, No. 33 of 1980
+# Control Of Pesticides (Act No. 33 of 1980)
 
-Act No. 33 of 1980 · version in force from 1980-09-05 · <https://web.archive.org/web/20240721184448/http://www.lawnet.gov.lk/control-of-pesticides-6/>
+Act No. 33 of 1980 · version in force from 1994-04-06 · <https://web.archive.org/web/20240518055559/http://www.lawnet.gov.lk/control-of-pesticides-3/>
 
 | Provision | File |
 | --- | --- |
@@ -26,9 +26,11 @@ Act No. 33 of 1980 · version in force from 1980-09-05 · <https://web.archive.o
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
+| sec-021a | [sec-021a.md](sec-021a.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
+| sec-024a | [sec-024a.md](sec-024a.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
