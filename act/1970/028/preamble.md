@@ -1,0 +1,2 @@
+AN ACT TO MAKE SPECIAL PROVISION TO PREVENT LANDLORDS FROM EJECTING TENANTS BY RESORT TO THREATS, VIOLENCE AND HARASSMENT, BY DISCONTINUING OR WITHHOLDING AMENITIES, BY INTERFERING IN THE USE AND OCCUPATION OF PREMISES OR BY OTHER MEANS, AND TO PROVIDE FOR MATTERS INCIDENTAL THERETO OR CONNECTED THEREWITH.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
