@@ -1,0 +1,2 @@
+# 13C. Power of board to cancel the registration of a mosque which had been registered by reason of a mistake of law or of fact. [§ 4, 21 of 1962.]
+If at any time the board is satisfied that it has caused a mosque to be registered by reason of a mistake of law or of fact, it shall be lawful for the board to cause the entry relating to that mosque to be deleted from the register of mosques, and such mosque shall be deemed to be not registered with effect from the date of such deletion.
