@@ -1,0 +1,3 @@
+AN ACT TO INCORPORATE THE CALVARY CHURCH OF SRI LANKA WHEREAS a society called and Known as “The Calvary Church of Sri Lanka” has heretofore been formed by representatives of such churches in Sri Lanka for the Purpose of promoting co-operative fellowship among Churches of Iike faith in Sri Lanka and abroad and transacting all matters connected with the said society according to the rules agreed to by the said society:
+AND WHEREAS the said Society has heretofore successfully carried out and transacted the several objects and matters for which it was formed and has applied to be incorporated, and it will be for the public advantage to grant the application:
+BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:
