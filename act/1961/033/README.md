@@ -1,11 +1,10 @@
-# Agricultural Products (Guaranteed Prices and Control of Hulling and Milling) Act, No. 33 of 1961
+# Agricultural Products (Guaranteed Prices And Control Of Hulling And Milling) (Act No. 33 of 1961)
 
-Act No. 33 of 1961 · version in force from 1961-06-02 · <https://web.archive.org/web/20200926203545/http://www.lawnet.gov.lk/agricultural-products-guaranteed-prices-and-control-of-hulling-and-milling-4/>
+Act No. 33 of 1961 · version in force from 1964-09-19 · <https://web.archive.org/web/20200922014146/http://www.lawnet.gov.lk/agricultural-products-guaranteed-prices-and-control-of-hulling-and-milling-2/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
-| schedule-01 | [schedule-01.md](schedule-01.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
