@@ -1,0 +1,6 @@
+AN ACT TO PROVIDE FOR THE RECOVERY OF LOANS GRANTED BY BANKS FOR THE ECONOMIC DEVELOPMENT OF SRI LANKA ; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :–
+Act Nos,
+4 of 1990
+24 of 1995
+[ 6 th March
