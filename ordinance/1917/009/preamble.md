@@ -1,0 +1,9 @@
+AN ORDINANCE TO DEFINE AND AMEND THE LAW RELATING TO TRUSTS.
+Ordinance Nos,
+9 of 1917
+4 of 1918
+1 of 1934
+Act Nos,
+7 of 1968
+30 of 1971
+[ 16 th April
