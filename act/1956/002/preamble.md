@@ -1,4 +1,6 @@
 AN ACT TO PROVIDE FOR THE PREPARATION AND PUBLICATION OF A REVISED EDITION OF THE LEGISLATIVE ENACTMENTS OF CEYLON.
+See Revised Edition Of the Legislative Enactments (Supplements) 26 of 1961
 Act Nos,
 2 of 1956
+26 of 1961
 [ 1 st February

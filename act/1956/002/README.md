@@ -1,6 +1,6 @@
 # Revised Edition Of The Legislative Enactments (Act No. 2 of 1956)
 
-Act No. 2 of 1956 · version in force from 1956-02-01 · <https://web.archive.org/web/20240918055122/http://www.lawnet.gov.lk/revised-edition-of-the-legislative-enactments-4/>
+Act No. 2 of 1956 · version in force from 1961-05-15 · <https://web.archive.org/web/20220818152849/http://www.lawnet.gov.lk/revised-edition-of-the-legislative-enactments-2/>
 
 | Provision | File |
 | --- | --- |
@@ -8,3 +8,19 @@ Act No. 2 of 1956 · version in force from 1956-02-01 · <https://web.archive.or
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
+| sec-004 | [sec-004.md](sec-004.md) |
+| sec-005 | [sec-005.md](sec-005.md) |
+| sec-006 | [sec-006.md](sec-006.md) |
+| sec-007 | [sec-007.md](sec-007.md) |
+| sec-008 | [sec-008.md](sec-008.md) |
+| sec-009 | [sec-009.md](sec-009.md) |
+| sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
+| sec-015 | [sec-015.md](sec-015.md) |
+| sec-016 | [sec-016.md](sec-016.md) |
+| sec-017 | [sec-017.md](sec-017.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
+| sec-019 | [sec-019.md](sec-019.md) |
