@@ -1,6 +1,6 @@
 # Firearms (Ordinance No. 33 of 1916)
 
-Ordinance No. 33 of 1916 · version in force from 1955-04-14 · <https://web.archive.org/web/20200924102816/http://www.lawnet.gov.lk/firearms-2/>
+Ordinance No. 33 of 1916 · version in force from 1980-01-24 · <https://web.archive.org/web/20200928084737/http://www.lawnet.gov.lk/firearms-3/>
 
 | Provision | File |
 | --- | --- |

@@ -4,7 +4,10 @@ Ordinance Nos,
 6 of 1920
 12 of 1945
 7 of 1947
+Law Nos,
+38 of 1975
 Act Nos,
 18 of 1955
 22 of 1955
+8 of 1980
 [ 1 st April
