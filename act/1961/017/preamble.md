@@ -1,0 +1,5 @@
+AN ACT TO VALIDATE THE LEVY AND PAYMENT OF EXPORT DUTY ON PLUMBAGO AT A REDUCED RATE, TO ENABLE SUCH DUTY TO BE LEVIED AND PAID AT A REDUCED RATE, AND TO MAKE PROVISION FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS by virtue of an Order duly made under section 2 of the Revenue Protection Ordinance, export duty on plumbago became leviable and payable at a reduced rate with effect from the twelfth day of November, 1959:
+And whereas with effect from the fifth day of December, 1959, the export duty on plumbago became leviable and payable at the rate in operation immediately prior to the twelfth day of November, 1959, by virtue of the operation of the provisions of section 3 of that Ordinance:
+And whereas it has now become necessary to validate the levy and payment of such reduced rate of export duty and to enable such export duty to be levied and paid at such reduced rate:
+Be it therefore enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
