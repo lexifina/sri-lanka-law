@@ -1,6 +1,6 @@
 # Wages Boards (Ordinance No. 27 of 1941)
 
-Ordinance No. 27 of 1941 · version in force from 1953-02-27 · <https://web.archive.org/web/20220818153140/http://www.lawnet.gov.lk/wages-boards-2/>
+Ordinance No. 27 of 1941 · version in force from 1980-01-29 · <https://web.archive.org/web/20210124193545/http://www.lawnet.gov.lk/wages-boards-3/>
 
 | Provision | File |
 | --- | --- |
@@ -8,6 +8,10 @@ Ordinance No. 27 of 1941 · version in force from 1953-02-27 · <https://web.arc
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
+| sec-003a | [sec-003a.md](sec-003a.md) |
+| sec-003b | [sec-003b.md](sec-003b.md) |
+| sec-003c | [sec-003c.md](sec-003c.md) |
+| sec-003d | [sec-003d.md](sec-003d.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
@@ -35,7 +39,6 @@ Ordinance No. 27 of 1941 · version in force from 1953-02-27 · <https://web.arc
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
-| sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
@@ -48,8 +51,10 @@ Ordinance No. 27 of 1941 · version in force from 1953-02-27 · <https://web.arc
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
+| sec-043a | [sec-043a.md](sec-043a.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
+| sec-045a | [sec-045a.md](sec-045a.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
@@ -62,8 +67,10 @@ Ordinance No. 27 of 1941 · version in force from 1953-02-27 · <https://web.arc
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
+| sec-057a | [sec-057a.md](sec-057a.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
+| sec-059a | [sec-059a.md](sec-059a.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
