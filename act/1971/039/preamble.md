@@ -1,0 +1,2 @@
+AN ACT TO AUTHORIZE THE RAISING OF LOANS IN OR OUTSIDE CEYLON FOR THE SERVICE OF THE GOVERNMENT DURING THE PERIOD COMMENCING ON OCTOBER 1, 1971, AND ENDING ON DECEMBER 31, 1971, AND THE PAYMENT FROM SUCH LOANS OF MONEYS REQUIRED DURING THAT PERIOD FOR EXPENDITURE ON SUCH SERVICE.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
