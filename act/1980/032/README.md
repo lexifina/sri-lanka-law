@@ -1,6 +1,6 @@
-# Foreign Employment Agency Act, No. 32 of 1980
+# Foreign Employment Agency (Act No. 32 of 1980)
 
-Act No. 32 of 1980 · version in force from 1980-08-26 · <https://web.archive.org/web/20221004134626/http://www.lawnet.gov.lk/foreign-employment-agency-4/>
+Act No. 32 of 1980 · version in force from 1981-03-23 · <https://web.archive.org/web/20200926221117/http://www.lawnet.gov.lk/foreign-employment-agency/>
 
 | Provision | File |
 | --- | --- |
@@ -31,5 +31,3 @@ Act No. 32 of 1980 · version in force from 1980-08-26 · <https://web.archive.o
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
-| sec-027 | [sec-027.md](sec-027.md) |
-| sec-028 | [sec-028.md](sec-028.md) |
