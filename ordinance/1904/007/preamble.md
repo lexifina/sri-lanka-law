@@ -1,0 +1,10 @@
+AN ORDINANCE TO PROVIDE FOR THE REGISTRATION OF DESIGNS.
+Ordinance Nos,
+7 of 1904
+9 of 1906
+23 of 1914
+15 of 1906
+24 of 1932
+Act Nos,
+55 of 1949
+[ 1 st September
