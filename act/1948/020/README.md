@@ -1,6 +1,6 @@
 # Immigrants And Emigrants (Act No. 20 of 1948)
 
-Act No. 20 of 1948 · version in force from 1955-04-14 · <https://web.archive.org/web/20200924103835/http://www.lawnet.gov.lk/immigrants-and-emigrants/>
+Act No. 20 of 1948 · version in force from 1961-12-07 · <https://web.archive.org/web/20200928090015/http://www.lawnet.gov.lk/immigrants-and-emigrants-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,7 @@ Act No. 20 of 1948 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
@@ -48,12 +49,16 @@ Act No. 20 of 1948 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
+| sec-045a | [sec-045a.md](sec-045a.md) |
+| sec-045b | [sec-045b.md](sec-045b.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
+| sec-051a | [sec-051a.md](sec-051a.md) |
+| sec-051b | [sec-051b.md](sec-051b.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
