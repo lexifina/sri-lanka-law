@@ -1,6 +1,6 @@
 # Indigenous Medicine (Ordinance No. 17 of 1941)
 
-Ordinance No. 17 of 1941 · version in force from 1949-11-24 · <https://web.archive.org/web/20200919054725/http://www.lawnet.gov.lk/indigenous-medicine-2/>
+Ordinance No. 17 of 1941 · version in force from 1961-06-02 · <https://web.archive.org/web/20240812210912/http://www.lawnet.gov.lk/indigenous-medicine-3/>
 
 | Provision | File |
 | --- | --- |
