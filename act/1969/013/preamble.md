@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE PAYMENT OF PENSIONS, GRATUITIES, AND RETIRING ALLOWANCES TO CERTAIN LOCAL GOVERNMENT SERVICE EMPLOYEES WHO HAVE RETIRED FROM SERVICE AND FOR MATTERS CONNECTED THEREWITH.
+BE It enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
