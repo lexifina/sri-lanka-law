@@ -1,0 +1,7 @@
+AN ACT TO PROVIDE A STRATEGY DEAL WITH SHORTAGE WHICH ARE LIKELY TO ARISE DUE TO THE OUTBREAK OF HOSTILITIES OUTSIDE THE TERRITORY OF SRI LANKA; TO ENSURE THE AVAILABILITY OF SUPPLIES OF ARTICLES ESSENTIAL TO THE LIFE OF THE COMMUNITY TO PROVIDE FOR THE EQUAL DISTRIBUTION OF SUCH ARTICLE AT FAIR PRICES; TO ENSURE THE MAINTENANCE OF UTILITY SERVICES ESSENTIAL TO PUBLIC LIFE AND TO REGULATE THE PRICE OF SUCH SERVICES AND TO PROVIDE FOR THE MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
+Preamble.
+WHEREAS there exists the probability of an outbreak of aimed hostilities between certain nations in the near future:
+AND WHEREAS, the outbreak of aimed hostilities is likely to result in a shortage in the supplies of any article essential to the life of the community in Sri Lanka or is likely to disrupt the distribution of supplier of such articles and to thereby result in a shortage of such article or to interrupt the maintenance of utility services essential to public life:
+AND WHEREAS it appeals to be necessary for the Government to vest itself with such powers us are necessary to ensure the availability of a regular supply of articles essential to the Community and also to ensure the equitable distribution of such articles at a Ian puce to the consumers and the uninterrupted maintenance of utility services essential to public life and to regulate the prices of such services:
+NOW Therefore be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
+[ 23 rd March
