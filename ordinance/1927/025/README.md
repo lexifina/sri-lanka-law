@@ -1,6 +1,6 @@
 # Bills Of Exchange (Ordinance No. 25 of 1927)
 
-Ordinance No. 25 of 1927 · version in force from 1955-02-18 · <https://web.archive.org/web/20200921055802/http://www.lawnet.gov.lk/bills-of-exchange-2/>
+Ordinance No. 25 of 1927 · version in force from 1961-05-30 · <https://web.archive.org/web/20200922023212/http://www.lawnet.gov.lk/bills-of-exchange-3/>
 
 | Provision | File |
 | --- | --- |
