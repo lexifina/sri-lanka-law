@@ -1,6 +1,6 @@
 # Institute Of Personnel Management (Law No. 24 of 1976)
 
-Law No. 24 of 1976 · version in force from 1976-11-05 · <https://web.archive.org/web/20220117041612/http://www.lawnet.gov.lk/institute-of-personnel-management/>
+Law No. 24 of 1976 · version in force from 1976-11-15 · <https://web.archive.org/web/20240917065039/http://www.lawnet.gov.lk/institute-of-personnel-management-3/>
 
 | Provision | File |
 | --- | --- |
