@@ -3,4 +3,7 @@ Act Nos,
 37 of 1954
 22 of 1955
 30 of 1955
+42 of 1958
+36 of 1966
+9 of 1978
 [ 6 th August

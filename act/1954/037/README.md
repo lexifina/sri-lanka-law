@@ -1,6 +1,6 @@
 # National Housing (Act No. 37 of 1954)
 
-Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.org/web/20220818002404/http://www.lawnet.gov.lk/national-housing/>
+Act No. 37 of 1954 · version in force from 1978-11-29 · <https://web.archive.org/web/20220117040635/http://www.lawnet.gov.lk/national-housing-3/>
 
 | Provision | File |
 | --- | --- |
@@ -30,6 +30,12 @@ Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.o
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
+| sec-025a | [sec-025a.md](sec-025a.md) |
+| sec-025b | [sec-025b.md](sec-025b.md) |
+| sec-025c | [sec-025c.md](sec-025c.md) |
+| sec-025d | [sec-025d.md](sec-025d.md) |
+| sec-025e | [sec-025e.md](sec-025e.md) |
+| sec-025f | [sec-025f.md](sec-025f.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
@@ -49,10 +55,14 @@ Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.o
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
+| sec-045a | [sec-045a.md](sec-045a.md) |
+| sec-045b | [sec-045b.md](sec-045b.md) |
+| sec-045c | [sec-045c.md](sec-045c.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
+| sec-049a | [sec-049a.md](sec-049a.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
@@ -64,10 +74,12 @@ Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.o
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
+| sec-060a | [sec-060a.md](sec-060a.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
+| sec-064a | [sec-064a.md](sec-064a.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
 | sec-066 | [sec-066.md](sec-066.md) |
 | sec-067 | [sec-067.md](sec-067.md) |
@@ -75,11 +87,13 @@ Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.o
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
+| sec-071a | [sec-071a.md](sec-071a.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
 | sec-075 | [sec-075.md](sec-075.md) |
 | sec-076 | [sec-076.md](sec-076.md) |
+| sec-076a | [sec-076a.md](sec-076a.md) |
 | sec-077 | [sec-077.md](sec-077.md) |
 | sec-078 | [sec-078.md](sec-078.md) |
 | sec-079 | [sec-079.md](sec-079.md) |
@@ -89,15 +103,26 @@ Act No. 37 of 1954 · version in force from 1955-08-25 · <https://web.archive.o
 | sec-083 | [sec-083.md](sec-083.md) |
 | sec-084 | [sec-084.md](sec-084.md) |
 | sec-085 | [sec-085.md](sec-085.md) |
+| sec-085a | [sec-085a.md](sec-085a.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
 | sec-087 | [sec-087.md](sec-087.md) |
 | sec-088 | [sec-088.md](sec-088.md) |
 | sec-089 | [sec-089.md](sec-089.md) |
 | sec-090 | [sec-090.md](sec-090.md) |
+| sec-090a | [sec-090a.md](sec-090a.md) |
+| sec-090b | [sec-090b.md](sec-090b.md) |
+| sec-090c | [sec-090c.md](sec-090c.md) |
+| sec-090d | [sec-090d.md](sec-090d.md) |
+| sec-090e | [sec-090e.md](sec-090e.md) |
 | sec-091 | [sec-091.md](sec-091.md) |
+| sec-091a | [sec-091a.md](sec-091a.md) |
+| sec-091b | [sec-091b.md](sec-091b.md) |
+| sec-091c | [sec-091c.md](sec-091c.md) |
+| sec-091d | [sec-091d.md](sec-091d.md) |
 | sec-092 | [sec-092.md](sec-092.md) |
 | sec-093 | [sec-093.md](sec-093.md) |
 | sec-094 | [sec-094.md](sec-094.md) |
+| sec-094a | [sec-094a.md](sec-094a.md) |
 | sec-095 | [sec-095.md](sec-095.md) |
 | sec-096 | [sec-096.md](sec-096.md) |
 | sec-097 | [sec-097.md](sec-097.md) |
