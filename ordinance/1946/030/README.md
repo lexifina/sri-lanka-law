@@ -1,6 +1,6 @@
 # Rating And Valuation (Ordinance No. 30 of 1946)
 
-Ordinance No. 30 of 1946 · version in force from 1946-03-15 · <https://web.archive.org/web/20211228075630/http://www.lawnet.gov.lk/rating-and-valuation-2/>
+Ordinance No. 30 of 1946 · version in force from 1981-08-07 · <https://web.archive.org/web/20220117045945/http://www.lawnet.gov.lk/rating-and-valuation-3/>
 
 | Provision | File |
 | --- | --- |
