@@ -1,16 +1,16 @@
-# Assisted Schools and Training Colleges (Special Provisions) Act, No. 5 of 1960
+# Assisted School And Training Colleges (Special Provisions) (Act No. 5 of 1960)
 
-Act No. 5 of 1960 · version in force from 1960-11-17 · <https://web.archive.org/web/20200923173014/http://www.lawnet.gov.lk/assisted-school-and-training-colleges-2/>
+Act No. 5 of 1960 · version in force from 1981-09-28 · <https://web.archive.org/web/20240812072921/http://www.lawnet.gov.lk/assisted-school-and-training-colleges-special-provisions-2/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
-| schedule-01 | [schedule-01.md](schedule-01.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |

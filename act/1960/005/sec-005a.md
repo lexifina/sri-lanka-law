@@ -1,0 +1,3 @@
+# 5A. Financial assistance to unaided schools.
+[ 2,65 of 1981]
+Notwithstanding anything contained in section 5, the Director-General of Education may give financial assistance by way of grants from State funds to any unaided school which was a Grade I or Grade II Assisted school (not being an Assisted training college) the proprietor of which at any time before the date specified in the Order made and published under section 3 served a written notice on the Director-General of Education that he has elected under subsection (1) of section 5 to administer such school as an unaided school. Any aid given under this section shall be subject to such conditions applicable in respect of all such schools as may be imposed by regulations made by the Minister.
