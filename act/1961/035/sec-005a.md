@@ -1,0 +1,2 @@
+# 5A. Exemption of tax under this Act in certain circumstances. [§ 20, 10 of 1962.]
+Where a company which is liable to the tax under this Act for any financial year is also liable to income tax for the year of assessment corresponding to that financial year then, if the amount of the income tax payable by that company exceeds eighty per centum of the assessable income of that company for that year of assessment, that company shall be deemed for all purposes to be exempt from the liability to the tax under this Act for that financial year.
