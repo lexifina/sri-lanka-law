@@ -1,6 +1,6 @@
 # Air Navigation (Act No. 15 of 1950)
 
-Act No. 15 of 1950 · version in force from 1964-11-12 · <https://web.archive.org/web/20201029085712/http://www.lawnet.gov.lk/air-navigation-3/>
+Act No. 15 of 1950 · version in force from 2003-08-20 · <https://web.archive.org/web/20240722065825/http://www.lawnet.gov.lk/air-navigation-5/>
 
 | Provision | File |
 | --- | --- |
@@ -27,6 +27,7 @@ Act No. 15 of 1950 · version in force from 1964-11-12 · <https://web.archive.o
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
+| sec-021a | [sec-021a.md](sec-021a.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
@@ -38,7 +39,6 @@ Act No. 15 of 1950 · version in force from 1964-11-12 · <https://web.archive.o
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
