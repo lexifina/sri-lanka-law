@@ -1,6 +1,6 @@
-# National Water Supply and Drainage Board Law, No. 2 of 1974
+# National Water Supply And Drainage Board (Law No. 2 of 1974)
 
-Law No. 2 of 1974 · version in force from 1974-02-12 · <https://web.archive.org/web/20220521191338/http://www.lawnet.gov.lk/national-water-supply-and-drainage-board-4/>
+Law No. 2 of 1974 · version in force from 1974-11-01 · <https://web.archive.org/web/20220117040514/http://www.lawnet.gov.lk/national-water-supply-and-drainage-board-2/>
 
 | Provision | File |
 | --- | --- |
@@ -65,7 +65,6 @@ Law No. 2 of 1974 · version in force from 1974-02-12 · <https://web.archive.or
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
-| sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
@@ -91,7 +90,6 @@ Law No. 2 of 1974 · version in force from 1974-02-12 · <https://web.archive.or
 | sec-084 | [sec-084.md](sec-084.md) |
 | sec-085 | [sec-085.md](sec-085.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
-| sec-087 | [sec-087.md](sec-087.md) |
 | sec-088 | [sec-088.md](sec-088.md) |
 | sec-089 | [sec-089.md](sec-089.md) |
 | sec-090 | [sec-090.md](sec-090.md) |
