@@ -1,0 +1,4 @@
+# 35A. Power of police officer to arrest without warrant.
+[ 9,64 of 1988]
+(1) Any police officer may without orders from a Magistrate and without a warrant, arrest any person reasonably suspected of having been concerned in, or connected with, the commission of any offence under this Act, punishable with imprisonment for a term exceeding six months if such person refuses to give, his name or address or gives a name or address which he has reason to believe to be false, or if there is reason to believe that such person may abscond.
+(2) Every police officer making an arrest under this section shall, without unnecessary delay take or send the person arrested to the nearest police station, together with a statement setting out the offence with which the accused is charged. The officer in charge of the police station shall, without unnecessary delay, take or send the person arrested to the nearest Magistrate.
