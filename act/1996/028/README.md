@@ -1,6 +1,6 @@
-# Protection of the Rights of Persons with Disabilities Act, No. 28 of 1996
+# Protection of the Rights of Persons with Disabilities (Act No. 28 of 1996)
 
-Act No. 28 of 1996 · version in force from 1996-10-24 · <https://web.archive.org/web/20221004141529/http://www.lawnet.gov.lk/protection-of-the-rights-of-persons-with-disabilities-3/>
+Act No. 28 of 1996 · version in force from 2003-10-22 · <https://web.archive.org/web/20210802150006/http://www.lawnet.gov.lk/protection-of-the-rights-of-persons-with-disabilities-2/>
 
 | Provision | File |
 | --- | --- |
@@ -38,7 +38,6 @@ Act No. 28 of 1996 · version in force from 1996-10-24 · <https://web.archive.o
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
