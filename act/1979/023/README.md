@@ -1,6 +1,6 @@
-# Mahaweli Authority of Short title. Sri Lanka Act, No. 23 of 1979
+# Mahaweli Authority Of Sri Lanka (Act No. 23 of 1979)
 
-Act No. 23 of 1979 · version in force from 1979-04-19 · <https://web.archive.org/web/20240610111607/http://www.lawnet.gov.lk/mahaweli-authority-of-sri-lanka-6/>
+Act No. 23 of 1979 · version in force from 1993-12-13 · <https://web.archive.org/web/20240525083948/http://www.lawnet.gov.lk/mahaweli-authority-of-sri-lanka-3/>
 
 | Provision | File |
 | --- | --- |
@@ -27,6 +27,7 @@ Act No. 23 of 1979 · version in force from 1979-04-19 · <https://web.archive.o
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
+| sec-022a | [sec-022a.md](sec-022a.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
