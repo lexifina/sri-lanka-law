@@ -1,6 +1,6 @@
 # Co-Operative Wholesale Establishment (Act No. 47 of 1949)
 
-Act No. 47 of 1949 · version in force from 1978-07-25 · <https://web.archive.org/web/20200922174748/http://www.lawnet.gov.lk/co-operative-wholesale-establishment-3/>
+Act No. 47 of 1949 · version in force from 1991-08-16 · <https://web.archive.org/web/20240806231921/http://www.lawnet.gov.lk/co-operative-wholesale-establishment-4/>
 
 | Provision | File |
 | --- | --- |
@@ -33,6 +33,7 @@ Act No. 47 of 1949 · version in force from 1978-07-25 · <https://web.archive.o
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
