@@ -1,6 +1,6 @@
 # Labour Inspections (Maintenance Of Secrecy) (Act No. 17 of 1953)
 
-Act No. 17 of 1953 · version in force from 1953-03-27 · <https://web.archive.org/web/20200921070044/http://www.lawnet.gov.lk/labour-inspections-maintenance-of-secrecy-2/>
+Act No. 17 of 1953 · version in force from 1972-04-03 · <https://web.archive.org/web/20220117050303/http://www.lawnet.gov.lk/labour-inspections-maintenance-of-secrecy-3/>
 
 | Provision | File |
 | --- | --- |
