@@ -1,6 +1,6 @@
 # Ceylon Hotels Corporation (Act No. 44 of 1966)
 
-Act No. 44 of 1966 · version in force from 1970-02-22 · <https://web.archive.org/web/20200928084322/http://www.lawnet.gov.lk/ceylon-hotels-corporation/>
+Act No. 44 of 1966 · version in force from 1983-08-19 · <https://web.archive.org/web/20240518072456/http://www.lawnet.gov.lk/ceylon-hotels-corporation-3/>
 
 | Provision | File |
 | --- | --- |
