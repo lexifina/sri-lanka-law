@@ -1,6 +1,6 @@
 # Insurance Corporation (Act No. 2 of 1961)
 
-Act No. 2 of 1961 · version in force from 1979-04-19 · <https://web.archive.org/web/20220117165859/http://www.lawnet.gov.lk/insurance-corporation-2/>
+Act No. 2 of 1961 · version in force from 1986-12-02 · <https://web.archive.org/web/20240910214007/http://www.lawnet.gov.lk/insurance-corporation-3/>
 
 | Provision | File |
 | --- | --- |
@@ -27,7 +27,6 @@ Act No. 2 of 1961 · version in force from 1979-04-19 · <https://web.archive.or
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
-| sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-033a | [sec-033a.md](sec-033a.md) |

@@ -6,4 +6,5 @@ Act Nos,
 18 of 1965
 6 of 1966
 22 of 1979
-[Sections 2. 7. 8, 17, 18. 30. 31 and 34- 10th January, 1961] [Other provisions of the Act – 1st January, 1962]
+43 of 1986
+Gazette Nos,
