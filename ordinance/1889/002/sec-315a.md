@@ -1,5 +1,4 @@
 # 315A. Power to vary allowance or additional payments.
-[ 2, 4 of 1940]
 (1) Where a judgment-debtor who has been committed to jail is, with the approval of the Commissioner of Prisons, either given any special diet on medical advice or admitted to any hospital for examination or treatment, and the monthly allowance fixed under section 314 for the subsistence of that judgment-debtor is insufficient to meet the cost of such special diet, examination or treatment, the court may by order, on application made by the Fiscal, and after hearing such representations as may be made by the party on whose application the decree has been executed and such other evidence as the court may deem necessary-
 (a) vary the monthly allowance fixed under section 314, and specify the period during which the allowance so varied shall be payable, or
 (b) fix such additional sum as may, in the opinion of the court, be necessary to meet the cost of such examination or treatment in hospital and all expenses incidental thereto or connected therewith, and may specify in that order the time and manner of payment of such additional sum.

@@ -1,5 +1,5 @@
 # 30A. Agent to accept service in action upon mortgage of immovable property.
-[ 3, 7 of 1949]
+[2, Law 12 of 1973.]
 (1) The mortgagor of any immovable property may make application for the registration of the address of any registered attorney or any person for the service of process in any action upon the mortgage. The application shall be made substantially in the form No. 11A in the First Schedule.
 (2) The address for service shall be registered in or in continuation of the folio in which is registered the mortgage of the immovable property.
 (3) Where the applicant declares in his application that a previously registered address is cancelled, the Registrar shall make a new entry in the register and cancel the registration of the previous address.

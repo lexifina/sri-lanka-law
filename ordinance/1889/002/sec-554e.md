@@ -1,0 +1,4 @@
+# 554E.
+[86, Law 20 of 1977.]
+If at the final hearing or on the determination of the issues thus framed, it shall appear to the court that the prima facie proof of the material allegations of the petition has not been rebutted, then the order nisi shall be made absolute, and a certificate of heir ship shall issue accordingly to the petitioner. If, on the other hand, it shall then appear to the court that the prima facie proof of any material allegations in the petition has been rebutted and that the petitioner has failed to establish his claim the order nisi shall be discharged, and the petition dismissed :
+Provided that it shall be open to any of the respondents at such hearing of issues to establish his right to be an heir of the deceased and to have a certificate of heir ship issued to him, whether the petition is dismissed or not.
