@@ -1,6 +1,6 @@
-# Provincial Councils Act, No. 42 of 1987
+# Provincial Councils (Act No. 42 of 1987)
 
-Act No. 42 of 1987 · version in force from 1987-11-14 · <https://web.archive.org/web/20221004133239/http://www.lawnet.gov.lk/provincial-councils-3/>
+Act No. 42 of 1987 · version in force from 1990-07-06 · <https://web.archive.org/web/20240523112430/http://www.lawnet.gov.lk/provincial-councils-2/>
 
 | Provision | File |
 | --- | --- |
@@ -10,6 +10,7 @@ Act No. 42 of 1987 · version in force from 1987-11-14 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -32,6 +33,7 @@ Act No. 42 of 1987 · version in force from 1987-11-14 · <https://web.archive.o
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
+| sec-027a | [sec-027a.md](sec-027a.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |

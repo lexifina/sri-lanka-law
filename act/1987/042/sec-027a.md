@@ -1,0 +1,3 @@
+# 27A. Powers of Governor.
+[ 3,28 of 1990]
+Where a Provincial Council has been dissolved before the annual financial statement for the financial year has been approved, or a Provincial Council ceases, for any other reason to function, the Governor may, notwithstanding anything in the preceding provisions of this Part, authorise the issue from the Provincial Fund, and the expenditure of such Funds, as he may consider necessary for the administration of the province, until the expiry of a period of three months from the date on which the new Provincial Council is summoned to meet or the date on which the Provincial Council resumes functioning.
