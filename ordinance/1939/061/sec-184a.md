@@ -1,0 +1,3 @@
+# 184A. Secretary to exercise powers of council, Chairman and vice chairman in certain cases.
+[ 14, 48 of 1983]
+Where an Urban Council is unable to discharge its functions by reason of the Chairman and Vice-chairman ceasing to hold office, the Secretary shall, during any period that elapses between the occurrence of the vacancies in respect of those offices and the filling of those vacancies in accordance with the provisions of the Local Authorities Elections Ordinance, have, exercise, perform and discharge all the rights, privileges, powers, duties and functions vested in, or conferred or imposed on, the Council, the Chairman or vice-chairman by this Ordinance or by any other written law.

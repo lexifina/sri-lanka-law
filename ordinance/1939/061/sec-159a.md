@@ -1,5 +1,6 @@
-# 159A.
-(1) An Urban Council may, with the approval of the Minister given after consultation with the Minister in charge of the subject of Public Administration, grant, out of the local fund established by that Council, to any person-
+# 159A. Ex gratia payment of pension, annuity, gratuity or retiring allowance.
+[2,7 of 1959]
+(1) An Urban Council may, with the approval of the Minister given after consultation with the Minister in charge of the subject of Public Administration, grant, out of the local fund established by that Council, to any person
 (a) who retires or has retired from service as an officer or servant of that Council, or
 (b) who is or was transferred from such service to, and retires or has retired from, the service of the Government,
 a pension, gratuity, or retiring allowance in respect of any period of his service as such officer or servant for which no pension, gratuity, or retiring allowance or no adequate pension, gratuity, or retiring allowance is payable under any by-laws or rules of that Council or under any pension scheme established or deemed to be established under the Local Government Service Law.

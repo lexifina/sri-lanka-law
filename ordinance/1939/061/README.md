@@ -1,6 +1,6 @@
 # Urban Councils (Ordinance No. 61 of 1939)
 
-Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.archive.org/web/20201027061617/http://www.lawnet.gov.lk/urban-councils-3/>
+Ordinance No. 61 of 1939 · version in force from 1987-04-16 · <https://web.archive.org/web/20201027061817/http://www.lawnet.gov.lk/urban-councils-4/>
 
 | Provision | File |
 | --- | --- |
@@ -35,6 +35,7 @@ Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.arc
 | sec-034b | [sec-034b.md](sec-034b.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
+| sec-036a | [sec-036a.md](sec-036a.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
@@ -127,13 +128,17 @@ Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.arc
 | sec-125 | [sec-125.md](sec-125.md) |
 | sec-126 | [sec-126.md](sec-126.md) |
 | sec-127 | [sec-127.md](sec-127.md) |
+| sec-127a | [sec-127a.md](sec-127a.md) |
+| sec-127b | [sec-127b.md](sec-127b.md) |
+| sec-127c | [sec-127c.md](sec-127c.md) |
+| sec-127d | [sec-127d.md](sec-127d.md) |
+| sec-127e | [sec-127e.md](sec-127e.md) |
 | sec-128 | [sec-128.md](sec-128.md) |
 | sec-129 | [sec-129.md](sec-129.md) |
 | sec-130 | [sec-130.md](sec-130.md) |
 | sec-131 | [sec-131.md](sec-131.md) |
 | sec-132 | [sec-132.md](sec-132.md) |
 | sec-133 | [sec-133.md](sec-133.md) |
-| sec-134 | [sec-134.md](sec-134.md) |
 | sec-135 | [sec-135.md](sec-135.md) |
 | sec-136 | [sec-136.md](sec-136.md) |
 | sec-137 | [sec-137.md](sec-137.md) |
@@ -153,6 +158,7 @@ Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.arc
 | sec-151 | [sec-151.md](sec-151.md) |
 | sec-152 | [sec-152.md](sec-152.md) |
 | sec-153 | [sec-153.md](sec-153.md) |
+| sec-153a | [sec-153a.md](sec-153a.md) |
 | sec-154 | [sec-154.md](sec-154.md) |
 | sec-155 | [sec-155.md](sec-155.md) |
 | sec-156 | [sec-156.md](sec-156.md) |
@@ -193,6 +199,7 @@ Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.arc
 | sec-182 | [sec-182.md](sec-182.md) |
 | sec-183 | [sec-183.md](sec-183.md) |
 | sec-184 | [sec-184.md](sec-184.md) |
+| sec-184a | [sec-184a.md](sec-184a.md) |
 | sec-185 | [sec-185.md](sec-185.md) |
 | sec-186 | [sec-186.md](sec-186.md) |
 | sec-187 | [sec-187.md](sec-187.md) |
@@ -218,6 +225,7 @@ Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.arc
 | sec-207 | [sec-207.md](sec-207.md) |
 | sec-208 | [sec-208.md](sec-208.md) |
 | sec-209 | [sec-209.md](sec-209.md) |
+| sec-209a | [sec-209a.md](sec-209a.md) |
 | sec-210 | [sec-210.md](sec-210.md) |
 | sec-211 | [sec-211.md](sec-211.md) |
 | sec-212 | [sec-212.md](sec-212.md) |

@@ -1,0 +1,4 @@
+# 127B. Public bathing places.
+[ 23,48 of 1984]
+(1) The Council may by public notice prohibit bathing or the washing of animals or clothes in any public place not set apart for the purpose, or at times or by persons other than those specified in the notice, and all other acts which may in any manner pollute or render water in public places foul or unfit for use, or may cause inconvenience or annoyance to persons using the bathing or washing places. Such notice shall be published in the Gazette in the Sinhala, Tamil and English languages and in at least one Sinhala, one Tamil and one English newspapers.
+(2) Every person who bathes, washes, or does any act contrary to subsection (1) shall, be guilty of an offence and shall on conviction be liable to a fine not exceeding five hundred rupees.

@@ -1,4 +1,4 @@
 # 170A. Recovery of payments due to the Urban Council.
-[ 2S, 48 of 1971,1]
+[ 28, 48 of 1971]
 (1) Where under the provisions of this Ordinance, or any by-law, rule or regulation made under this Ordinance, any duty, fine, penalty, fee or other payment has become due to the Urban Council, then, notwithstanding anything to the contrary in any such provision or any such by-law, rule or regulation, it shall be the duty of the secretary of the Council to take all steps necessary to recover such duty, fine, penalty, fee or other payment and credit it to the funds of the Urban Council.
 (2) Where any rate, tax, rent, fee, duty, toll, fine, penalty or any other payment whatsoever has become due to the Urban Council under any written law, other than this Ordinance, or any by-law, rule or regulation made under this Ordinance, then, notwithstanding anything to the contrary in the aforesaid written law, it shall be the duty of the secretary of the Council to take all steps necessary to recover such rate, tax, rent, fee, duty, toll, fine, penalty or other payment and credit it to the funds of the Urban Council.
