@@ -1,6 +1,6 @@
-# Save the Nation Contribution Act, No. 5 of 1996
+# Save The Nation Contribution (Act No. 5 of 1996)
 
-Act No. 5 of 1996 · version in force from 1996-03-20 · <https://web.archive.org/web/20221004134808/http://www.lawnet.gov.lk/save-the-nation-contribution-3/>
+Act No. 5 of 1996 · version in force from 2002-06-19 · <https://web.archive.org/web/20240521201001/http://www.lawnet.gov.lk/save-the-nation-contribution-2/>
 
 | Provision | File |
 | --- | --- |
