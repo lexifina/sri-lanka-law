@@ -1,6 +1,6 @@
-# National Youth Services Act, No. 69 of 1979
+# National Youth Services (Act No. 69 of 1979)
 
-Act No. 69 of 1979 · version in force from 1979-11-23 · <https://web.archive.org/web/20220521193050/http://www.lawnet.gov.lk/national-youth-services-4/>
+Act No. 69 of 1979 · version in force from 1980-01-01 · <https://web.archive.org/web/20220117033810/http://www.lawnet.gov.lk/national-youth-services-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,7 +18,6 @@ Act No. 69 of 1979 · version in force from 1979-11-23 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -39,5 +38,4 @@ Act No. 69 of 1979 · version in force from 1979-11-23 · <https://web.archive.o
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
-| sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
