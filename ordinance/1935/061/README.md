@@ -1,6 +1,6 @@
 # Cheetus (Ordinance No. 61 of 1935)
 
-Ordinance No. 61 of 1935 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919054929/http://www.lawnet.gov.lk/cheetus-2/>
+Ordinance No. 61 of 1935 · version in force from 1957-08-21 · <https://web.archive.org/web/20200922181851/http://www.lawnet.gov.lk/cheetus-3/>
 
 | Provision | File |
 | --- | --- |

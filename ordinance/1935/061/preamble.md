@@ -7,4 +7,5 @@ Ordinance Nos,
 Act Nos,
 55 of 1949
 22 of 1955
+34 of 1957
 [ 1 st April
