@@ -1,6 +1,6 @@
-# Sri Lanka Fruit Board Law, No. 30 of 1973
+# Sri Lanka Fruit Board (Law No. 30 of 1973)
 
-Law No. 30 of 1973 · version in force from 1973-07-26 · <https://web.archive.org/web/20221007191626/http://www.lawnet.gov.lk/sri-lanka-fruit-board-law-2/>
+Law No. 30 of 1973 · version in force from 1973-08-06 · <https://web.archive.org/web/20210119115831/http://www.lawnet.gov.lk/sri-lanka-fruit-board/>
 
 | Provision | File |
 | --- | --- |
