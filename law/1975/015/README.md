@@ -1,6 +1,6 @@
-# Siri Anuradhapura Bastian Pilgrims Rest Management Society Law, No. 15 of 1975
+# Siri Anuradhapura Bastian Pilgrims Rest (Law No. 15 of 1975)
 
-Law No. 15 of 1975 · version in force from 1975-03-17 · <https://web.archive.org/web/20221007192825/http://www.lawnet.gov.lk/siri-anuradhapura-bastian-pilgrims-rest-management-society-law-2/>
+Law No. 15 of 1975 · version in force from 1986-11-18 · <https://web.archive.org/web/20240518040303/http://www.lawnet.gov.lk/siri-anuradhapura-bastian-pilgrims-rest-3/>
 
 | Provision | File |
 | --- | --- |
