@@ -1,6 +1,6 @@
-# Employees’ Holidays Act, No. 6 of 1959
+# Employees’ Holidays (Act No. 6 of 1959)
 
-Act No. 6 of 1959 · version in force from 1959-02-09 · <https://web.archive.org/web/20221004133443/http://www.lawnet.gov.lk/employees-holidays-5/>
+Act No. 6 of 1959 · version in force from 1959-10-01 · <https://web.archive.org/web/20200922004002/http://www.lawnet.gov.lk/employees-holidays/>
 
 | Provision | File |
 | --- | --- |
