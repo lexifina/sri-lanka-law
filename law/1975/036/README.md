@@ -1,6 +1,6 @@
-# National Science Council of Sri Lanka Law, No. 36 of 1975
+# National Science Council (Law No. 36 of 1975)
 
-Law No. 36 of 1975 · version in force from 1975-09-09 · <https://web.archive.org/web/20220523050409/http://www.lawnet.gov.lk/national-science-council-of-sri-lanka-law-2/>
+Law No. 36 of 1975 · version in force from 1980-01-24 · <https://web.archive.org/web/20220117153638/http://www.lawnet.gov.lk/national-science-council-2/>
 
 | Provision | File |
 | --- | --- |
@@ -42,6 +42,4 @@ Law No. 36 of 1975 · version in force from 1975-09-09 · <https://web.archive.o
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
-| sec-038 | [sec-038.md](sec-038.md) |
-| sec-039 | [sec-039.md](sec-039.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
