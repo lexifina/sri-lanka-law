@@ -1,6 +1,6 @@
 # Army (Act No. 17 of 1949)
 
-Act No. 17 of 1949 · version in force from 1949-10-10 · <https://web.archive.org/web/20200924113408/http://www.lawnet.gov.lk/army/>
+Act No. 17 of 1949 · version in force from 1971-06-28 · <https://web.archive.org/web/20200928083130/http://www.lawnet.gov.lk/army-3/>
 
 | Provision | File |
 | --- | --- |
@@ -28,6 +28,7 @@ Act No. 17 of 1949 · version in force from 1949-10-10 · <https://web.archive.o
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
+| sec-023a | [sec-023a.md](sec-023a.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
@@ -156,6 +157,8 @@ Act No. 17 of 1949 · version in force from 1949-10-10 · <https://web.archive.o
 | sec-154 | [sec-154.md](sec-154.md) |
 | sec-155 | [sec-155.md](sec-155.md) |
 | sec-156 | [sec-156.md](sec-156.md) |
+| sec-156a | [sec-156a.md](sec-156a.md) |
+| sec-156b | [sec-156b.md](sec-156b.md) |
 | sec-157 | [sec-157.md](sec-157.md) |
 | sec-158 | [sec-158.md](sec-158.md) |
 | sec-159 | [sec-159.md](sec-159.md) |
