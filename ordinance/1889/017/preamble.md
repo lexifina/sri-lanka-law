@@ -6,4 +6,5 @@ Ordinance Nos,
 Act Nos,
 26 of 1957
 48 of 1961
+40 of 1988
 [ 30 th June

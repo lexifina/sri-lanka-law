@@ -1,6 +1,6 @@
 # Gaming (Ordinance No. 17 of 1889)
 
-Ordinance No. 17 of 1889 · version in force from 1961-06-19 · <https://web.archive.org/web/20200922161848/http://www.lawnet.gov.lk/gaming-3/>
+Ordinance No. 17 of 1889 · version in force from 1988-11-24 · <https://web.archive.org/web/20240918175149/http://www.lawnet.gov.lk/gaming-4/>
 
 | Provision | File |
 | --- | --- |
@@ -19,7 +19,6 @@ Ordinance No. 17 of 1889 · version in force from 1961-06-19 · <https://web.arc
 | sec-008a | [sec-008a.md](sec-008a.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
