@@ -1,6 +1,12 @@
 AN ORDINANCE TO AMEND AND CONSOLIDATE THE LAW RELATING TO IRRIGATION.
 Ordinance Nos,
 32 of 1946
+Law Nos,
+37 of 1973
 Act Nos,
 1 of 1951
+48 of 1968
+23 of 1983
+34 of 1990
+13 of 1994
 [ 1 st November
