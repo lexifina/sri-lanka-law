@@ -1,6 +1,6 @@
-# Sri Lanka Press Council Law, No. 5 of 1973
+# Sri Lanka Press Council (Law No. 5 of 1973)
 
-Law No. 5 of 1973 · version in force from 1973-02-27 · <https://web.archive.org/web/20220929121824/http://www.lawnet.gov.lk/sri-lanka-press-council-6/>
+Law No. 5 of 1973 · version in force from 1973-03-30 · <https://web.archive.org/web/20210124193710/http://www.lawnet.gov.lk/sri-lanka-press-council-2/>
 
 | Provision | File |
 | --- | --- |
