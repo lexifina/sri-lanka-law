@@ -1,0 +1,3 @@
+AN ACT TO AMEND THE MOTOR TRAFFIC ACT
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows : –
+[ 8 th December
