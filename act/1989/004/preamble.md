@@ -1,0 +1,7 @@
+Repealed and Replaced by Janasaviya(Repeal) Act, No. 1 of 1997. The following Chapter Contents are prior to repeal.
+AN ACT TO MAKE PROVISION FOR THE ADMINISTRATION OF RELIEF UNDER THE JANASAVIYA PROGRAMME WITH A VIEW TO MAXIMIZING THE UTILIZATION OF HUMAN RESOURCES, FRO-MOTIING SOCIAL STABILITY AND ALLEVIATING POVERTY ; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows;
+Act Nos,
+4 of 1989
+1 of 1997
+[ 10 th May
