@@ -1,6 +1,6 @@
-# Road Development Authority Act, No. 73 of 1981
+# Road Development Authority (Act No. 73 of 1981)
 
-Act No. 73 of 1981 · version in force from 1981-12-15 · <https://web.archive.org/web/20220929120908/http://www.lawnet.gov.lk/road-development-authority-3/>
+Act No. 73 of 1981 · version in force from 1988-03-24 · <https://web.archive.org/web/20240525085707/http://www.lawnet.gov.lk/road-development-authority-2/>
 
 | Provision | File |
 | --- | --- |
