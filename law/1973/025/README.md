@@ -1,6 +1,6 @@
-# Sports Law, No. 25 of 1973
+# Sports (Law No. 25 of 1973)
 
-Law No. 25 of 1973 · version in force from 1973-07-09 · <https://web.archive.org/web/20221004140322/http://www.lawnet.gov.lk/sports-6/>
+Law No. 25 of 1973 · version in force from 1973-08-10 · <https://web.archive.org/web/20210124192312/http://www.lawnet.gov.lk/sports-2/>
 
 | Provision | File |
 | --- | --- |
