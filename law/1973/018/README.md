@@ -1,6 +1,6 @@
-# Department of Prisons Prisoners’ Welfare Fund Law, No. 18 of 1973
+# Prisoners’ Welfare Fund (Law No. 18 of 1973)
 
-Law No. 18 of 1973 · version in force from 1973-05-09 · <https://web.archive.org/web/20240807120253/http://www.lawnet.gov.lk/department-of-prisons-prisoners-welfare-fund-2/>
+Law No. 18 of 1973 · version in force from 1979-08-30 · <https://web.archive.org/web/20220117045342/http://www.lawnet.gov.lk/prisoners-welfare-fund/>
 
 | Provision | File |
 | --- | --- |
