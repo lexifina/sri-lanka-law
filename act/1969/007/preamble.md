@@ -1,0 +1,2 @@
+AN ACT TO MAKE PROVISION FOE THE RECOVERY OF POSSESSION OF QUARTERS PROVIDED BY OR ON BEHALF OF THE GOVERNMENT FOR THE OCCUPATION OF PERSONS, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
