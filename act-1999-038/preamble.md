@@ -1,0 +1,6 @@
+AN ACT TO ESTABLISH A BOARD CALLED THE VIJAYA KUMARATUNGA MEMORIAL HOSPITAL BOARD ; TO VEST IN THAT BOARD THE CONTROL, MANAGEMENT AND ADMINISTRATION OF THE VIJAYA KUMARATUNGA MEMORIAL HOSPITAL ; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS the Vijaya Kumaratunga Memorial Foundation established by the Vijaya Kumaratunga Memorial Foundation Act, No. 31 of 1998 to perpetuate the memory of the late Mr.Vijaya Kumaratunga has constructed a Hospital at Seeduwa on the land and premises described in the Schedule to this Act :
+AND WHEREAS it is wish of the Board of Management of the said Foundation that such Hospital be administered and managed with a view to advancing the ideal of the late Mr. Vijaya Kumaratunga, to wit, of promoting peace and goodwill among all communities and peoples of Sri Lanka ;
+AND WHEREAS it is necessary for this purpose to vest the control, management and administration of the Hospital in an independent Board :
+AND WHEREAS the Board of Management of the said Foundation has requested that legal provision be made for this purpose and it is in the public interest to grant such request :
+Now THEREFORE BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
