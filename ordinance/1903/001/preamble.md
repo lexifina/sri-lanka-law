@@ -16,4 +16,7 @@ Ordinance Nos,
 15 of 1944
 Act Nos,
 18 of 1950
+41 of 1961
+7 of 1966
+20 of 1971
 [ 15 th October
