@@ -1,0 +1,3 @@
+AN ACT TO MAKE INTERIM PROVISION FOR THE INTERPRETATION OF WRITTEN LAW ON MATTERS SET OUT IN LIST I OF THE NINTH SCHEDULE TO THE CONSTITUTION.
+BE it enacted by the Parliament of the Democratic Socialist. Republic of Sri Lanka as follows :”
+[ 30 th May
