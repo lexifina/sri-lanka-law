@@ -1,0 +1,8 @@
+AN ORDINANCE FOR THE SUPPRESSION OF LOTTERIES.
+Ordinance Nos,
+8 of 1844
+3 of 1883
+6 of 1944
+Act Nos,
+2 of 1954
+[ 10 th July
