@@ -1,6 +1,6 @@
 # Food Control (Possession) (Act No. 14 of 1956)
 
-Act No. 14 of 1956 · version in force from 1956-02-03 · <https://web.archive.org/web/20200924102611/http://www.lawnet.gov.lk/food-control-possession-2/>
+Act No. 14 of 1956 · version in force from 1957-02-21 · <https://web.archive.org/web/20200928081446/http://www.lawnet.gov.lk/food-control-possession-3/>
 
 | Provision | File |
 | --- | --- |
