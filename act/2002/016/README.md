@@ -1,6 +1,6 @@
-# Debits Tax Act, No. 16 of 2002
+# Debits Tax (Act No. 16 of 2002)
 
-Act No. 16 of 2002 · version in force from 2002-08-19 · <https://www.parliament.lk/en/business-of-parliament/act-details/G3063>
+Act No. 16 of 2002 · version in force from 2003-02-27 · <https://web.archive.org/web/20240805031555/http://www.lawnet.gov.lk/debits-tax-2/>
 
 | Provision | File |
 | --- | --- |
@@ -19,6 +19,7 @@ Act No. 16 of 2002 · version in force from 2002-08-19 · <https://www.parliamen
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
+| sec-014a | [sec-014a.md](sec-014a.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
