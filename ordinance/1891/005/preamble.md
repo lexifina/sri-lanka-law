@@ -13,4 +13,8 @@ Act Nos,
 19 of 1949
 13 of 1953
 15 of 1966
+18 of 1983
+9 of 1986
+35 of 1991
+13 of 1996
 [ 4 th October

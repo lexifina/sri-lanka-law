@@ -1,6 +1,6 @@
 # Public Service Mutual Provident Association (Ordinance No. 5 of 1891)
 
-Ordinance No. 5 of 1891 · version in force from 1978-01-12 · <https://web.archive.org/web/20220117041531/http://www.lawnet.gov.lk/public-service-mutual-provident-association-3/>
+Ordinance No. 5 of 1891 · version in force from 1996-07-09 · <https://web.archive.org/web/20240518032426/http://www.lawnet.gov.lk/public-service-mutual-provident-association-4/>
 
 | Provision | File |
 | --- | --- |
@@ -15,6 +15,7 @@ Ordinance No. 5 of 1891 · version in force from 1978-01-12 · <https://web.arch
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
