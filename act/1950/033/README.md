@@ -1,6 +1,6 @@
 # Requisitioning Of Land (Act No. 33 of 1950)
 
-Act No. 33 of 1950 · version in force from 1953-04-07 · <https://web.archive.org/web/20220818152841/http://www.lawnet.gov.lk/requisitioning-of-land/>
+Act No. 33 of 1950 · version in force from 1961-06-19 · <https://web.archive.org/web/20220117045057/http://www.lawnet.gov.lk/requisitioning-of-land-3/>
 
 | Provision | File |
 | --- | --- |
