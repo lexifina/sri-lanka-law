@@ -1,0 +1,2 @@
+A LAW TO PROVIDE FOR THE ESTABLISHMENT OF THE SRI LANKA TEA BOARD AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the National State Assembly of the Republic of Sri Lanka as follows: –
