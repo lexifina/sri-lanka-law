@@ -1,6 +1,6 @@
 # Moratuwa Social Service Society (Ordinance No. 33 of 1942)
 
-Ordinance No. 33 of 1942 · version in force from 1924-09-14 · <https://web.archive.org/web/20220117051955/http://www.lawnet.gov.lk/moratuwa-social-service-society-3/>
+Ordinance No. 33 of 1942 · version in force from 1942-09-14 · <https://web.archive.org/web/20240812062720/http://www.lawnet.gov.lk/moratuwa-social-service-society-4/>
 
 | Provision | File |
 | --- | --- |
