@@ -1,6 +1,6 @@
 # Foreign Loans (Act No. 29 of 1957)
 
-Act No. 29 of 1957 · version in force from 1980-06-06 · <https://web.archive.org/web/20200922022107/http://www.lawnet.gov.lk/foreign-loans-2/>
+Act No. 29 of 1957 · version in force from 1984-08-23 · <https://web.archive.org/web/20241013164733/http://www.lawnet.gov.lk/foreign-loans-3/>
 
 | Provision | File |
 | --- | --- |
