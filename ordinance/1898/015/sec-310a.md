@@ -1,0 +1,2 @@
+# 310A. Execution of sentences under section 53 of the Penal Code.
+When any person has been sentenced under section 53 of the Penal Code, to be detained during the Governor-General’s pleasure,3 he shall, notwithstanding any enactment to the contrary, be liable to be detained in such place and under such conditions as the Governor-General8 may from time to time direct, and whilst so detained shall be deemed to be in legal custody.

@@ -1,0 +1,5 @@
+# 253C. Compensation for groundlessly giving in charge.
+(1) Whenever any person causes a peace officer to arrest another person, if it appears to the Magistrate who takes cognizance of the case that there was no sufficient ground for causing such arrest, he may award such compensation not exceeding twenty-five rupees to be paid by the person so causing the arrest to the person so arrested for his loss of time and expenses in the matter as the Magistrate thinks fit.
+(2) In such cases, if more persons than one are arrested, the Magistrate may in like manner award to each of them such compensation not exceeding twenty- five rupees as such Magistrate thinks fit.
+(3) All compensation awarded under this section may be recovered as if it were a fine, and if it cannot be so recovered, the person by whom it is payable shall be sentenced to simple imprisonment for such term not exceeding thirty days as the Magistrate directs, unless such sum be sooner paid.
+(4) Such compensation shall be no bar to an action for false imprisonment.

@@ -1,0 +1,3 @@
+# 440B. Custody of women and persons under sixteen years pending inquiry or trial.
+In every case where the committal or remand of any person for custody pending inquiry or trial is authorized by any written law, the court may, if such person is a woman or under the age of sixteen years, in lieu of committing or remanding such person to the custody of the Fiscal, direct that for the period for which such committal or remand may otherwise have been ordered under that law, such person shall remain in the custody of a probation officer or in an approved home.
+In this section ” approved home ” means a home or other similar institution for women or persons under the age of sixteen years, which has been approved by the Minister1 by notification published in the Gazette.

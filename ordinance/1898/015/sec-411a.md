@@ -1,0 +1,2 @@
+# 411A. Power of Fiscal to execute conveyance to purchaser.
+Whenever immovable property has been sold under the provisions of this Chapter it shall be lawful for the Fiscal under whose direction the attachment and sale was carried out to execute a conveyance in favour of the purchaser, and a conveyance so executed shall vest the property sold in the purchaser in like manner as if such conveyance had been executed by the person against whom the warrant for the attachment and sale of such immovable property was issued.

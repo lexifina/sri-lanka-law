@@ -1,0 +1,2 @@
+# 165B. Accused to elect panel of jurors.
+On committing the accused for trial before any higher court the Magistrate shall ask the accused to elect from which of the respective panels of jurors the jury shall be taken for the trial in the event of the trial being held before the Supreme Court, and the Magistrate shall record such election if made. The accused so electing shall, if the trial is held before the Supreme Court be bound by and may be tried according to his election, subject however in all cases to the provisions of section 224.

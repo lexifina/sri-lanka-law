@@ -1,0 +1,4 @@
+# 362A. Powers of inquirer.
+(1) Any inquirer may, for the purpose of any inquiry under this Chapter, if he considers it expedient, issue process to compel the attendance of any witness to give evidence before him, or to produce any document or other thing.
+(2) If any person so summoned fails or neglects to attend at the time and place specified in such summons, the inquirer may issue his warrant for the apprehension and production before him of such person.
+(3) Every person who so fails to attend, or who refuses to take the oath of a witness, or refuses to answer any question which shall be legally asked of him, or fails or refuses to produce any document or other thing, shall be guilty of an offence, and shall be liable on conviction thereof to a fine not exceeding fifty rupees, or to imprisonment of either description for any period not exceeding three months, or to both.

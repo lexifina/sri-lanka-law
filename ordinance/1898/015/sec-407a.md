@@ -1,0 +1,6 @@
+# 407A. Depositions of Magistrates and Interpreters receivable in evidence in certain cases.
+[ 4, 67 of 1938.]
+Where, for the purpose of proving any statement made by a deceased person, the Magistrate by whom the statement was recorded and the person, if any, by whom it was interpreted are examined in the course of an inquiry into any offence, the deposition of such Magistrate or of such person, taken and attested by any other Magistrate in the presence of the accused, may be given in evidence at the trial of the accused, although the deponent is not called as a witness:
+Provided that-
+(1) where the Magistrate who commits the accused for trial is of opinion that it is necessary or expedient, or where either party in the case requests, that any such deponent should be present to give evidence at the trial, such deponent shall be summoned as a witness for the purpose of giving evidence in the same manner as the other witnesses for the prosecution; and
+(2) nothing in this section shall affect or be deemed to affect the power of the court of trial to summon and examine such deponent as a witness at any time.

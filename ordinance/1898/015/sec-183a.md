@@ -1,0 +1,3 @@
+# 183A. Conviction of an attempt to commit an offence, though attempt is not separately charged.
+When a person is charged with an offence and it is proved that he attempted to commit that offence and that in such attempt he did an act towards the commission of that offence he may be convicted of an attempt to commit that offence although he was not charged with such attempt:
+Provided that nothing in this section shall be deemed to authorize the conviction of any person for an attempt to commit an offence unless an attempt to commit that offence is made punishable by any written law for the time being in force in Ceylon.

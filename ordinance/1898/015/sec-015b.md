@@ -1,0 +1,2 @@
+# 15B.
+Any court may, in any circumstances in which it is empowered by any written or other law to sentence an offender to imprisonment, whether in default of payment of a fine or not, in lieu of imposing a sentence of imprisonment order that the offender be detained in the precincts of the court until such hour on the day on which the order is made, not being later than 8 p.m., as the court may specify in the order.
