@@ -1,6 +1,6 @@
 # Urban Councils (Ordinance No. 61 of 1939)
 
-Ordinance No. 61 of 1939 · version in force from 1955-04-14 · <https://web.archive.org/web/20201027091457/http://www.lawnet.gov.lk/urban-councils-2/>
+Ordinance No. 61 of 1939 · version in force from 1979-09-04 · <https://web.archive.org/web/20201027061617/http://www.lawnet.gov.lk/urban-councils-3/>
 
 | Provision | File |
 | --- | --- |
@@ -16,16 +16,9 @@ Ordinance No. 61 of 1939 · version in force from 1955-04-14 · <https://web.arc
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
-| sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
-| sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
-| sec-017 | [sec-017.md](sec-017.md) |
-| sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
-| sec-020 | [sec-020.md](sec-020.md) |
-| sec-021 | [sec-021.md](sec-021.md) |
-| sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
@@ -38,6 +31,8 @@ Ordinance No. 61 of 1939 · version in force from 1955-04-14 · <https://web.arc
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
+| sec-034a | [sec-034a.md](sec-034a.md) |
+| sec-034b | [sec-034b.md](sec-034b.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
@@ -59,6 +54,7 @@ Ordinance No. 61 of 1939 · version in force from 1955-04-14 · <https://web.arc
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
+| sec-055a | [sec-055a.md](sec-055a.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
@@ -163,24 +159,34 @@ Ordinance No. 61 of 1939 · version in force from 1955-04-14 · <https://web.arc
 | sec-157 | [sec-157.md](sec-157.md) |
 | sec-158 | [sec-158.md](sec-158.md) |
 | sec-159 | [sec-159.md](sec-159.md) |
+| sec-159a | [sec-159a.md](sec-159a.md) |
+| sec-159b | [sec-159b.md](sec-159b.md) |
 | sec-160 | [sec-160.md](sec-160.md) |
 | sec-161 | [sec-161.md](sec-161.md) |
 | sec-162 | [sec-162.md](sec-162.md) |
 | sec-163 | [sec-163.md](sec-163.md) |
 | sec-164 | [sec-164.md](sec-164.md) |
 | sec-165 | [sec-165.md](sec-165.md) |
+| sec-165a | [sec-165a.md](sec-165a.md) |
+| sec-165b | [sec-165b.md](sec-165b.md) |
+| sec-165c | [sec-165c.md](sec-165c.md) |
+| sec-165d | [sec-165d.md](sec-165d.md) |
+| sec-166 | [sec-166.md](sec-166.md) |
 | sec-167 | [sec-167.md](sec-167.md) |
 | sec-168 | [sec-168.md](sec-168.md) |
 | sec-169 | [sec-169.md](sec-169.md) |
 | sec-170 | [sec-170.md](sec-170.md) |
+| sec-170a | [sec-170a.md](sec-170a.md) |
 | sec-171 | [sec-171.md](sec-171.md) |
 | sec-172 | [sec-172.md](sec-172.md) |
 | sec-173 | [sec-173.md](sec-173.md) |
 | sec-174 | [sec-174.md](sec-174.md) |
+| sec-174a | [sec-174a.md](sec-174a.md) |
 | sec-175 | [sec-175.md](sec-175.md) |
 | sec-176 | [sec-176.md](sec-176.md) |
 | sec-177 | [sec-177.md](sec-177.md) |
 | sec-178 | [sec-178.md](sec-178.md) |
+| sec-178a | [sec-178a.md](sec-178a.md) |
 | sec-179 | [sec-179.md](sec-179.md) |
 | sec-180 | [sec-180.md](sec-180.md) |
 | sec-181 | [sec-181.md](sec-181.md) |

@@ -1,0 +1,4 @@
+# 165D. Tax on certain sales of land.
+[ 15, 42 of 1979.]
+(1) Where any land within the administrative limits of an Urban Council is sold by public auction or otherwise, by an auctioneer or broker or his servant or agent, the vendor or such auctioneer or broker or his servant or agent, shall pay to the Council, from the proceeds of the sale of such land, a tax equivalent to one per centum of the amount of such proceeds.
+(2) If the tax payable under subsection (1) is not paid within fourteen days of demand, the Council shall report such failure to the Magistrate’s Court and the Court shall proceed to recover the amount due as if it were a fine imposed by Court, notwithstanding that such amount exceeds the amount of a fine which a Magistrate may impose in the exercise of his ordinary jurisdiction and the amount so recovered by Court shall be paid into the local fund of the Council.
