@@ -1,6 +1,6 @@
 # Milk Board (Act No. 12 of 1954)
 
-Act No. 12 of 1954 · version in force from 1955-06-29 · <https://web.archive.org/web/20220818002310/http://www.lawnet.gov.lk/milk-board/>
+Act No. 12 of 1954 · version in force from 1964-09-19 · <https://web.archive.org/web/20220117033641/http://www.lawnet.gov.lk/milk-board-3/>
 
 | Provision | File |
 | --- | --- |
