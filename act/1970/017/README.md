@@ -1,6 +1,6 @@
-# Ceylon National Library Services Board Act, No. 17 of 1970
+# Ceylon National Library Services Board (Act No. 17 of 1970)
 
-Act No. 17 of 1970 · version in force from 1970-03-24 · <https://web.archive.org/web/20240808101644/http://www.lawnet.gov.lk/ceylon-national-library-services-board-6/>
+Act No. 17 of 1970 · version in force from 1970-05-01 · <https://web.archive.org/web/20200922173758/http://www.lawnet.gov.lk/ceylon-national-library-services-board-2/>
 
 | Provision | File |
 | --- | --- |
