@@ -1,0 +1,8 @@
+# 21A. Revocation of vesting Order. [§ 7, 22 of 1961.]
+(1) Notwithstanding that any movable or immovable property has vested in the Ceylon Transport Board by virtue of a vesting Order, the Minister may at any time by subsequent Order published in the Gazette (hereafter in this section referred to as a ” divesting Order “) revoke that vesting Order.
+(2) The following provisions shall apply in any case where a vesting Order in respect of any movable or immovable property is revoked by a divesting Order: –
+(a) that property shall be deemed never to have vested in the Ceylon Transport Board by virtue of that vesting Order, and any question which might arise as to any right, title or interest, in or over that property shall be determined accordingly;
+(b) that property shall, if it is immovable property, be deemed to have been and to be property which was requisitioned by a requisitioning Order with effect from the date on which that vesting Order took effect and was derequisitioned by a derequisitioning Order with effect from the date of the revocation of that vesting Order;
+(c) all claims made under this Act to the compensation payable in respect of that immovable property and all proceeding taken under this Act in regard to such claims before that vesting Order was revoked shall be deemed to be null and void, and fresh claims to compensation in respect of that immovable property may be made under this Act and fresh proceedings in regard to such fresh claims may be taken under this Act;
+(d) no compensation shall be payable under this Act in respect of that property if it is movable property.
+(3) The preceding provisions of this section shall have effect notwithstanding anything in any other provision of this Act or in any other written law.

@@ -1,0 +1,2 @@
+# 52A. Certification of amount that cannot be paid out of compensation under section 52. [§ 21, 22 of 1961.] [§ 7. 34 of 1962.]
+Where the total compensation to which a person is entitled in respect of any property vested in or requisitioned for the Ceylon Transport Board is inadequate to pay the whole or any part of any sum payable out of that compensation under section 52, the chairman of that board shall certify in writing the amount due from such person which cannot be paid out of that compensation.

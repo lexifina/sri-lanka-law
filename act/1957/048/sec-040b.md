@@ -1,0 +1,4 @@
+# 40B. Commutation. of liability to pay pensions. [§ 13, 22 of 1961.]
+Where any holder of a stage carriage permit for a regular omnibus service is liable to pay a sum of money by way of pension to any person, whether or not such sum is so payable under any such pension scheme relating to workers employed in connexion with such omnibus service as is in operation on the date on which that permit ceases to be in force by virtue of section 13 or otherwise or where such holder had undertaken to make or was in fact making any such payment, such holder shall, upon a written request in that behalf made by such person, commute that liability, undertaking or payment under and in accordance with the terms of-
+(a) an individual agreement or a collective agreement in that behalf which is binding on such holder and such person; or
+(b) any decision in that behalf given by a Motor Transport labour tribunal on a reference made to such tribunal under section 42.

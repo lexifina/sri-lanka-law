@@ -1,0 +1,2 @@
+# 17A. No compensation for loss incurred by reason of the vesting in the board of omnibuses used for providing occasional omnibus services. [§ 5, 22 of 1961.]
+No person shall be entitled to compensation for any loss incurred by him, whether directly or indirectly, or by way of business or otherwise, by reason of the vesting in the board under this Act of any omnibus used or intended to be used by such person for the purpose of providing occasional omnibus services.

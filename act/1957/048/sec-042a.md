@@ -1,0 +1,2 @@
+# 42A. Regulations. [§ 17. 22 of 1961.]
+Regulations may be made under this Act for the purpose of giving effect to the principles and provisions of this Part of this Act, and in particular but without prejudice to the generality of the powers herein before conferred, in respect of the reference of matters under this Act to, and the inquiries into such matters by, the Commissioner of Labour, and Motor Transport labour tribunals constituted under section 41.
