@@ -1,0 +1,2 @@
+AN ACT TO ESTABLISH AND MAINTAIN A SCHEME FOR THE GRANT OF PENSIONS TO WIDOWS AND CHILDREN OF DECEASED MEMBERS OF THE ARMED FORCES AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
