@@ -1,0 +1,4 @@
+# 323A. Application of certain provisions of the Colombo Municipal Council Waterworks Ordinance to Kandy.
+[ 3, Law 38 of 1973.]
+(1) Sections 3, 4, 7 and sections 9 to 44 (inclusive) of the Colombo Municipal Council Waterworks Ordinance and the regulations set out in the Schedule thereto shall apply to the Municipality of Kandy, subject to the modifications set out in the Eleventh Schedule hereto.
+(2) In the event of any conflict or inconsistency between the provisions made applicable to the Municipality of Kandy by subsection (1) and the provisions of any by-laws relating to waterworks applicable to such Municipality, the provisions made applicable by subsection (1) shall prevail over the provisions of such by-laws to the extent of such conflict or inconsistency.

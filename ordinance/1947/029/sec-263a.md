@@ -1,0 +1,5 @@
+# 263A. Sale of property vested in the Council to the person who would be entitled to such property but for the title thereto vesting in the Council.
+[7, 15 of 1957.]
+A Municipal Council shall sell and convey any immovable property vested in the Council under section 263 to the person who would be entitled to such property but for the title thereto vesting in the Council, if-
+(a) within twelve months reckoned from the date on which such property vested in the Council, such person makes a written application in that behalf to the Council, and
+(b) within such period reckoned from the date of the receipt of the application as may be determined by the Council and notified to such person, he pays to the Council a sum equivalent to the price paid by the Council for the purchase of such property and the amounts and costs which, if such property were sold and conveyed by the Council under section 264, would be deducted under subsection (2) of that section from the surplus referred to in that subsection.

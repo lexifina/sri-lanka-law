@@ -1,0 +1,3 @@
+# 215A. Mayor’s powers with regard to budget.
+[ 107, Law 24 of 1977.]
+If the Municipal Council modifies or rejects all or any of the items in any budget or supplementary budget or adds any item thereto and the Mayor does not agree with any such decision of the Council, he shall re-submit the budget or supplementary budget to the Council for further consideration. Where a budget or supplementary budget is not passed by the Council within two weeks after it is re-submitted, such budget or supplementary budget shall, notwithstanding that it has not been passed by the Council, be deemed to be the duly adopted budget or supplementary budget of the Council.

@@ -1,0 +1,7 @@
+# 42A. Demolition of unauthorized buildings.
+[ 2, 15 of 1957.]
+(1) The Mayor of a Municipal Council may cause a written notice to be served on the occupier of any unauthorized building directing such occupier to demolish that building.
+(2) Where a notice served under subsection (1) on the occupier of an unauthorized building is not complied with within fourteen days reckoned from the date of such service, the Mayor may cause that building to be demolished ; and any person or persons acting under the authority of the Mayor may enter the land on which such building is situated and do all such acts as may be necessary for the purpose of such demolition.
+(3) The provisions of section 68 shall, mutatis mutandis, apply in the case of any building demolished under subsection (2) in like manner and to the same extent as they apply in the case of any building pulled down under section 67.
+(4) No action or other proceeding shall lie against any person for any act done in the exercise of the powers conferred by subsection (2), and no person shall be entitled to any compensation for any damage or loss caused by such act.
+(5) In this section, the expression ” unauthorized building” means any building situated within the administrative limits of a Municipal Council and erected on any land belonging to or vested in the State or that Council without prior permission given by or on behalf of the State, or that Council, as the case may be.

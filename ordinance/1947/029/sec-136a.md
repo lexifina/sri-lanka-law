@@ -1,0 +1,7 @@
+# 136A. Pollution caused by factories.
+[ 2, 42 of 1979.]
+(1) Any person who, within the administrative limits of the Colombo Municipal Council, operates or causes to be operated any factory which causes pollution so as to endanger or prejudice the health of the neighbourhood, shall be guilty of an offence.
+(2) Where a Magistrate after summary inquiry convicts a person of an offence under subsection (1) he shall, depending on the degree of pollution caused by such factory, make order-
+(a) that such person pay a fine equivalent to twice the fee payable for a licence issued under the provisions of this Ordinance or any by-law made thereunder, in respect of the premises on which that factory is situated notwithstanding that such amount exceeds the amount of fine which a Magistrate may impose in the exercise of his ordinary jurisdiction and the amount so recovered shall be paid into the Fund of the Council; or
+(b) that operations in such factory shall cease.
+For the purposes of this section, ” pollution” means any direct or indirect alteration of the physical, thermal, chemical, biological or radioactive properties of any part of the environment by discharging, emitting or depositing wastes so as to affect any beneficial use adversely, to cause a condition which is hazardous or potentially hazardous to public health, safety or welfare or to animals, birds, wildlife, fish or acquatic life, or to plants,

@@ -1,6 +1,6 @@
 # Municipal Councils (Ordinance No. 29 of 1947)
 
-Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.archive.org/web/20220818002342/http://www.lawnet.gov.lk/municipal-councils-2/>
+Ordinance No. 29 of 1947 · version in force from 1979-09-04 · <https://web.archive.org/web/20210908160208/http://www.lawnet.gov.lk/municipal-councils-3/>
 
 | Provision | File |
 | --- | --- |
@@ -10,16 +10,13 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
-| sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
-| sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
-| sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
@@ -42,11 +39,14 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
+| sec-037a | [sec-037a.md](sec-037a.md) |
+| sec-037b | [sec-037b.md](sec-037b.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
+| sec-042a | [sec-042a.md](sec-042a.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
@@ -141,6 +141,7 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-134 | [sec-134.md](sec-134.md) |
 | sec-135 | [sec-135.md](sec-135.md) |
 | sec-136 | [sec-136.md](sec-136.md) |
+| sec-136a | [sec-136a.md](sec-136a.md) |
 | sec-137 | [sec-137.md](sec-137.md) |
 | sec-138 | [sec-138.md](sec-138.md) |
 | sec-139 | [sec-139.md](sec-139.md) |
@@ -175,6 +176,7 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-168 | [sec-168.md](sec-168.md) |
 | sec-169 | [sec-169.md](sec-169.md) |
 | sec-170 | [sec-170.md](sec-170.md) |
+| sec-171 | [sec-171.md](sec-171.md) |
 | sec-172 | [sec-172.md](sec-172.md) |
 | sec-173 | [sec-173.md](sec-173.md) |
 | sec-175 | [sec-175.md](sec-175.md) |
@@ -187,6 +189,8 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-182 | [sec-182.md](sec-182.md) |
 | sec-183 | [sec-183.md](sec-183.md) |
 | sec-184 | [sec-184.md](sec-184.md) |
+| sec-184a | [sec-184a.md](sec-184a.md) |
+| sec-184b | [sec-184b.md](sec-184b.md) |
 | sec-185 | [sec-185.md](sec-185.md) |
 | sec-186 | [sec-186.md](sec-186.md) |
 | sec-187 | [sec-187.md](sec-187.md) |
@@ -210,6 +214,7 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-205 | [sec-205.md](sec-205.md) |
 | sec-206 | [sec-206.md](sec-206.md) |
 | sec-207 | [sec-207.md](sec-207.md) |
+| sec-207a | [sec-207a.md](sec-207a.md) |
 | sec-208 | [sec-208.md](sec-208.md) |
 | sec-209 | [sec-209.md](sec-209.md) |
 | sec-210 | [sec-210.md](sec-210.md) |
@@ -218,6 +223,7 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-213 | [sec-213.md](sec-213.md) |
 | sec-214 | [sec-214.md](sec-214.md) |
 | sec-215 | [sec-215.md](sec-215.md) |
+| sec-215a | [sec-215a.md](sec-215a.md) |
 | sec-216 | [sec-216.md](sec-216.md) |
 | sec-217 | [sec-217.md](sec-217.md) |
 | sec-218 | [sec-218.md](sec-218.md) |
@@ -246,9 +252,15 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-241 | [sec-241.md](sec-241.md) |
 | sec-242 | [sec-242.md](sec-242.md) |
 | sec-243 | [sec-243.md](sec-243.md) |
+| sec-244 | [sec-244.md](sec-244.md) |
 | sec-245 | [sec-245.md](sec-245.md) |
 | sec-246 | [sec-246.md](sec-246.md) |
 | sec-247 | [sec-247.md](sec-247.md) |
+| sec-247a | [sec-247a.md](sec-247a.md) |
+| sec-247b | [sec-247b.md](sec-247b.md) |
+| sec-247c | [sec-247c.md](sec-247c.md) |
+| sec-247d | [sec-247d.md](sec-247d.md) |
+| sec-247e | [sec-247e.md](sec-247e.md) |
 | sec-248 | [sec-248.md](sec-248.md) |
 | sec-249 | [sec-249.md](sec-249.md) |
 | sec-250 | [sec-250.md](sec-250.md) |
@@ -256,6 +268,7 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-252 | [sec-252.md](sec-252.md) |
 | sec-253 | [sec-253.md](sec-253.md) |
 | sec-254 | [sec-254.md](sec-254.md) |
+| sec-254a | [sec-254a.md](sec-254a.md) |
 | sec-255 | [sec-255.md](sec-255.md) |
 | sec-256 | [sec-256.md](sec-256.md) |
 | sec-257 | [sec-257.md](sec-257.md) |
@@ -265,7 +278,9 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-261 | [sec-261.md](sec-261.md) |
 | sec-262 | [sec-262.md](sec-262.md) |
 | sec-263 | [sec-263.md](sec-263.md) |
+| sec-263a | [sec-263a.md](sec-263a.md) |
 | sec-264 | [sec-264.md](sec-264.md) |
+| sec-264a | [sec-264a.md](sec-264a.md) |
 | sec-265 | [sec-265.md](sec-265.md) |
 | sec-266 | [sec-266.md](sec-266.md) |
 | sec-267 | [sec-267.md](sec-267.md) |
@@ -286,7 +301,6 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-282 | [sec-282.md](sec-282.md) |
 | sec-283 | [sec-283.md](sec-283.md) |
 | sec-284 | [sec-284.md](sec-284.md) |
-| sec-285 | [sec-285.md](sec-285.md) |
 | sec-286 | [sec-286.md](sec-286.md) |
 | sec-287 | [sec-287.md](sec-287.md) |
 | sec-288 | [sec-288.md](sec-288.md) |
@@ -325,6 +339,8 @@ Ordinance No. 29 of 1947 · version in force from 1956-02-17 · <https://web.arc
 | sec-321 | [sec-321.md](sec-321.md) |
 | sec-322 | [sec-322.md](sec-322.md) |
 | sec-323 | [sec-323.md](sec-323.md) |
+| sec-323a | [sec-323a.md](sec-323a.md) |
+| sec-323b | [sec-323b.md](sec-323b.md) |
 | sec-324 | [sec-324.md](sec-324.md) |
 | sec-325 | [sec-325.md](sec-325.md) |
 | sec-326 | [sec-326.md](sec-326.md) |
