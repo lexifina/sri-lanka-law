@@ -1,6 +1,6 @@
 # Colombo Young Men’S Buddhist Association (Ordinance No. 11 of 1927)
 
-Ordinance No. 11 of 1927 · version in force from 1927-09-29 · <https://web.archive.org/web/20200919222101/http://www.lawnet.gov.lk/colombo-young-mens-buddhist-association/>
+Ordinance No. 11 of 1927 · version in force from 1957-04-13 · <https://web.archive.org/web/20200922171031/http://www.lawnet.gov.lk/colombo-young-mens-buddhist-association-3/>
 
 | Provision | File |
 | --- | --- |
@@ -16,3 +16,5 @@ Ordinance No. 11 of 1927 · version in force from 1927-09-29 · <https://web.arc
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
