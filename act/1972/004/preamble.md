@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE GRANT OF LOANS TO STUDENTS OF UNIVERSITIES AND CERTAIN APPROVED HIGHER EDUCATIONAL INSTITUTIONS AND, FOR THAT PURPOSE, TO ESTABLISH A FUND; AND TO MAKE PROVISION FOR ALL MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
