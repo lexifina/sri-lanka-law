@@ -1,12 +1,10 @@
-# Muslim Mosques and Charitable Trusts or Wakfs Act, No. 51 of 1956
+# Muslim Mosques And Charitable Trusts Or Wakfs (Act No. 51 of 1956)
 
-Act No. 51 of 1956 · version in force from 1956-11-07 · <https://web.archive.org/web/20220523043902/http://www.lawnet.gov.lk/muslim-mosques-and-charitable-trusts-or-wakfs-6/>
+Act No. 51 of 1956 · version in force from 1962-06-16 · <https://web.archive.org/web/20220117172021/http://www.lawnet.gov.lk/muslim-mosques-and-charitable-trusts-or-wakfs-2/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
-| schedule-01 | [schedule-01.md](schedule-01.md) |
-| schedule-02 | [schedule-02.md](schedule-02.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
@@ -18,13 +16,11 @@ Act No. 51 of 1956 · version in force from 1956-11-07 · <https://web.archive.o
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-009a | [sec-009a.md](sec-009a.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-013a | [sec-013a.md](sec-013a.md) |
 | sec-013b | [sec-013b.md](sec-013b.md) |
 | sec-013c | [sec-013c.md](sec-013c.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-015a | [sec-015a.md](sec-015a.md) |
 | sec-015b | [sec-015b.md](sec-015b.md) |
@@ -36,8 +32,6 @@ Act No. 51 of 1956 · version in force from 1956-11-07 · <https://web.archive.o
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-022a | [sec-022a.md](sec-022a.md) |
-| sec-023 | [sec-023.md](sec-023.md) |
-| sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
@@ -47,7 +41,6 @@ Act No. 51 of 1956 · version in force from 1956-11-07 · <https://web.archive.o
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
@@ -69,8 +62,6 @@ Act No. 51 of 1956 · version in force from 1956-11-07 · <https://web.archive.o
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
-| sec-056 | [sec-056.md](sec-056.md) |
-| sec-057 | [sec-057.md](sec-057.md) |
 | sec-057a | [sec-057a.md](sec-057a.md) |
 | sec-057b | [sec-057b.md](sec-057b.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
