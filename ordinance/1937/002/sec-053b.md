@@ -1,0 +1,3 @@
+# 53B. Prohibition of the possession, &c. of the flesh of any animal, reptile or bird killed or taken by the use of poison, &c.
+[ 35,44 of 1964.]
+No person shall have in his possession, sell, expose for sale or transport the flesh of any animal, reptile or bird which has been killed or taken by the use of any poison, explosive, or stupefying substance: Provided that no person shall be convicted under this section if he proves that he did not know and had no reasonable cause to believe that the animal, reptile or bird, whose flesh he is charged with having in his possession, selling, exposing for sale or transporting, had been killed or taken by the use of any poison, explosive, or stupefying substance.

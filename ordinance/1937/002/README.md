@@ -1,6 +1,6 @@
 # Fauna And Flora Protection (Ordinance No. 2 of 1937)
 
-Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.archive.org/web/20200922180848/http://www.lawnet.gov.lk/fauna-and-flora-protection-2/>
+Ordinance No. 2 of 1937 · version in force from 1970-01-21 · <https://web.archive.org/web/20200922182313/http://www.lawnet.gov.lk/fauna-and-flora-protection-3/>
 
 | Provision | File |
 | --- | --- |
@@ -10,7 +10,9 @@ Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.arch
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-006a | [sec-006a.md](sec-006a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
@@ -18,6 +20,7 @@ Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.arch
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -26,6 +29,7 @@ Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.arch
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
+| sec-022a | [sec-022a.md](sec-022a.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
@@ -36,7 +40,6 @@ Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.arch
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
-| sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
@@ -56,21 +59,32 @@ Ordinance No. 2 of 1937 · version in force from 1949-09-02 · <https://web.arch
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
+| sec-052a | [sec-052a.md](sec-052a.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
+| sec-053a | [sec-053a.md](sec-053a.md) |
+| sec-053b | [sec-053b.md](sec-053b.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
+| sec-058a | [sec-058a.md](sec-058a.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
-| sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
 | sec-066 | [sec-066.md](sec-066.md) |
+| sec-066a | [sec-066a.md](sec-066a.md) |
+| sec-066b | [sec-066b.md](sec-066b.md) |
 | sec-067 | [sec-067.md](sec-067.md) |
+| sec-067a | [sec-067a.md](sec-067a.md) |
+| sec-067b | [sec-067b.md](sec-067b.md) |
+| sec-067c | [sec-067c.md](sec-067c.md) |
+| sec-067d | [sec-067d.md](sec-067d.md) |
+| sec-067e | [sec-067e.md](sec-067e.md) |
+| sec-067f | [sec-067f.md](sec-067f.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
