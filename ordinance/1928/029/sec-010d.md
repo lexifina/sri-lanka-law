@@ -1,0 +1,6 @@
+# 10D. Appointment of public officers to the staff of the board.
+[ 6, 53 of 1961.]
+(1) At the request of the board, any officer in the public service may, with the consent of that officer and of the Secretary to the Ministry charged with the subject of Public Administration, be temporarily appointed to the staff of the board for such period as may be determined by the board with like consent, or be permanently appointed to such staff.
+(2) Where any officer in the public service is temporarily appointed to the staff of the board, subsection (2) of section 26 of the Government-sponsored Corporations Act, shall, mutatis mutandis, apply to and in relation to him.
+(3) Where any officer in the public service is permanently appointed to the staff of the board, subsection (3) of section 26 of the Government-sponsored Corporations Act, shall mutatis mutandis, apply to and in relation to him.
+(4) Where the board employs any person who has entered into a contract with the Government by which he has agreed to serve the Government for a specified period, any period of service to the board by that person shall be regarded as service to the Government for the purpose of discharging the obligations of such contract.
