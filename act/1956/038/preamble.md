@@ -1,0 +1,6 @@
+AN ACT TO ACQUIRE COMPULSORILY FOR HER MAJESTY AN EXTENT OF LAND IN MAWATAGAMA IN THE KURUNEGALA DISTRICT, TO PROVIDE FOR THE PAYMENT OF COMPENSATION FOR SUCH ACQUISITION, AND TO MAKE PROVISION FOR MATTERS INCIDENTAL TO OR CONNECTED WITH THE PURPOSES AFORESAID. Preamble.
+Whereas, for the construction of an aerodrome for war purposes, possession of 248 parcels of land in Mawatagama in the Kurunegala District was taken in 1945 by the competent authority under Regulation 34 of the Defence (Miscellaneous) Regulations:
+And whereas 185 of such parcels of land have been so defaced that their boundaries cannot be defined for the purpose of de-requisitioning them: And whereas it has been decided to acquire compulsorily for Her Majesty the area consisting of the aforesaid 185 parcels of land:
+Cap. 460.
+And whereas the acquisition of such area cannot be made under the Land Acquisition Act by reason of the fact that the metes and bounds of the aforesaid 185 parcels of land cannot be defined and therefore disputes in respect of them that should be referred to court cannot be so referred:
+Be it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
