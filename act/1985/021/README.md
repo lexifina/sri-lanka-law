@@ -1,6 +1,6 @@
-# Sri Lanka Bureau of foreign Employment Act, No. 21 of 1985
+# Sri lanka Bureau Of Foreign Employment (Act No. 21 of 1985)
 
-Act No. 21 of 1985 · version in force from 1985-06-07 · <https://web.archive.org/web/20220925202139/http://www.lawnet.gov.lk/sri-lanka-bureau-of-foreign-employment-3/>
+Act No. 21 of 1985 · version in force from 1994-02-28 · <https://web.archive.org/web/20240807194708/http://www.lawnet.gov.lk/sri-lanka-bureau-of-foreign-employment-2/>
 
 | Provision | File |
 | --- | --- |
@@ -65,6 +65,7 @@ Act No. 21 of 1985 · version in force from 1985-06-07 · <https://web.archive.o
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
+| sec-060a | [sec-060a.md](sec-060a.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
@@ -72,6 +73,7 @@ Act No. 21 of 1985 · version in force from 1985-06-07 · <https://web.archive.o
 | sec-065 | [sec-065.md](sec-065.md) |
 | sec-066 | [sec-066.md](sec-066.md) |
 | sec-067 | [sec-067.md](sec-067.md) |
+| sec-067a | [sec-067a.md](sec-067a.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
