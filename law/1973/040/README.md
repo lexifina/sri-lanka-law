@@ -1,6 +1,6 @@
-# Tobacco Tax (Amendment) Law, No. 40 of 1973
+# Tobacco Tax (Law No. 40 of 1973)
 
-Law No. 40 of 1973 · version in force from 1973-10-03 · <https://web.archive.org/web/20240907214726/http://www.lawnet.gov.lk/tobacco-tax-amendment-law-2/>
+Law No. 40 of 1973 · version in force from 1979-01-18 · <https://web.archive.org/web/20210124184011/http://www.lawnet.gov.lk/tobacco-tax-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,3 +12,11 @@ Law No. 40 of 1973 · version in force from 1973-10-03 · <https://web.archive.o
 | sec-003b | [sec-003b.md](sec-003b.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-006 | [sec-006.md](sec-006.md) |
+| sec-007 | [sec-007.md](sec-007.md) |
+| sec-008 | [sec-008.md](sec-008.md) |
+| sec-009 | [sec-009.md](sec-009.md) |
+| sec-010 | [sec-010.md](sec-010.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
