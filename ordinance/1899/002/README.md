@@ -1,6 +1,6 @@
 # Public Servants (Liabilities) (Ordinance No. 2 of 1899)
 
-Ordinance No. 2 of 1899 · version in force from 1951-03-15 · <https://web.archive.org/web/20220117163731/http://www.lawnet.gov.lk/public-servants-liabilities-3/>
+Ordinance No. 2 of 1899 · version in force from 1990-03-06 · <https://web.archive.org/web/20241014215353/http://www.lawnet.gov.lk/public-servants-liabilities-4/>
 
 | Provision | File |
 | --- | --- |

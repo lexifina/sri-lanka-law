@@ -3,4 +3,5 @@ Ordinance Nos,
 2 of 1899
 Act Nos,
 10 of 1951
+11 of 1990
 [ 6 th March
