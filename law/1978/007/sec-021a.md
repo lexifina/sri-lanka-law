@@ -1,5 +1,5 @@
 # 21A. Effect of this Law notwithstanding inconsistencies.
-[8, 4 of 1978.]
+[8, 4 of 1978]
 The provisions of this Law and any warrant issued under the provisions of this Law shall be so interpreted and given full force and effect in-order that any commission shall have full authority, power and jurisdiction to inquire into the conduct of any Prime Minister, Minister or other public officer including –
 (a) the misuse or abuse of power, interference, fraud, corruption or nepotism,
 (b) any political victimization of any person,

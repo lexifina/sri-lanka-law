@@ -1,6 +1,6 @@
 # Special Presidential Commissions Of Inquiry (Law No. 7 of 1978)
 
-Law No. 7 of 1978 · version in force from 1978-11-22 · <https://web.archive.org/web/20210119112414/http://www.lawnet.gov.lk/special-presidential-commissions-of-inquiry-2/>
+Law No. 7 of 1978 · version in force from 1986-10-29 · <https://web.archive.org/web/20240920131206/http://www.lawnet.gov.lk/special-presidential-commissions-of-inquiry-3/>
 
 | Provision | File |
 | --- | --- |
@@ -18,6 +18,7 @@ Law No. 7 of 1978 · version in force from 1978-11-22 · <https://web.archive.or
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
