@@ -1,0 +1,2 @@
+# 75G. Power to issue directions to insurance broker.
+The Controller may issue to any person carrying on business as an insurance broker, any such written directions as he may think necessary for the purpose of ensuring compliance by such person with the provisions of this Act or any regulations made thereunder, and the person to whom any such directions are issued shall comply with such directions within such time as shall be specified therein.

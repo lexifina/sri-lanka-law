@@ -1,13 +1,12 @@
 # 79A.
-[7,9 of 1967.]
+[7,9 of 1967]
 (1) Where the Controller or an administrator appointed under section 53 or any policy holder or member of an insurer which is a company incorporated under any law for the time being in force or the liquidator of any such insurance company in liquidation is of the opinion-
 (a) that any person whether he be a person who has taken part in the promotion or formation of such company or is a past or present director, managing agent or manager, or other officer or employee of such company-
 (i) has misapplied or retained or become liable or accountable for any money or other property of such company, or
 (ii) has been guilty of any misfeasance or breach of trust in relation to such company, or
 (iii) has acted in a manner prejudicial to the interests of the policy holders of such company; or
 (b) that any person, whether he is or has been in any way connected with the affairs of such company or not, is in wrongful possession of any money or other property of such company or having any such money or other Power of Controller or an administrator appointed under section 53 or policy holder or member of an insurance company to apply in certain circumstances to a District Court for an order for payment of money or restoration of property by any person. property in his possession wrongfully withholds it, or has converted it to any use other than that of such company; or
-(c) that any person has by contravention of the provisions of this Act diminished the amount of the life assurance fund of such company,
-then the Controller, or such administrator, policy holder, member or liquidator may, on application made to the District Court within the jurisdiction of which such company carries on business or such person resides, be entitled to an order-
+(c) that any person has by contravention of the provisions of this Act diminished the amount of the life assurance fund of such company, then the Controller, or such administrator, policy holder, member or liquidator may, on application made to the District Court within the jurisdiction of which such company carries on business or such person resides, be entitled to an order-
 (a) for the payment by such person, to the life assurance fund of such company, of such sum by way of compensation as the Court thinks fit in respect of the misapplication, retention, misfeasance or breach of trust or acts prejudicial to the interests of the policy holders of such company, or
 (b) for the payment by such person to the life assurance fund of such company of such sum as may be found due from him in respect of any money or other property of such company for which he is accountable, or for the restoration of other property or part thereof, as the case may be, or
 (c) where the amount of the life assurance fund of such company has been diminished, for the payment by such person to such fund of such sum as the Court thinks fit.

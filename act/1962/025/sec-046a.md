@@ -1,5 +1,5 @@
 # 46A. Power of Controller or person authorized by him to inquire into the working and financial condition of an insurance company.
-[2,9 of 1967.]
+[2,9 of 1967]
 For the purposes of this Act, the Controller or other person authorized in that behalf by him in writing may hold an inquiry into the working and financial condition of any insurer which is a company incorporated under any law for the time being in force, and accordingly every director, manager or other officer or employee of such company, whether past or present shall, whenever required to do so by notice in writing by the Controller or such other person-
 (a) furnish such information in regard to the affairs of such company and produce such books, accounts or documents in his custody as the Controller or such other person may require;
 (b) attend at such place and on such date and at such time as may be specified in such notice to be examined by the Controller or such other person in regard to any matter relating to the working and financial condition of such company.
