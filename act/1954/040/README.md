@@ -1,6 +1,6 @@
 # Food Production (Estates) (Act No. 40 of 1954)
 
-Act No. 40 of 1954 · version in force from 1954-07-30 · <https://web.archive.org/web/20200919215413/http://www.lawnet.gov.lk/food-production-estates/>
+Act No. 40 of 1954 · version in force from 1957-10-20 · <https://web.archive.org/web/20200922174911/http://www.lawnet.gov.lk/food-production-estates-3/>
 
 | Provision | File |
 | --- | --- |
