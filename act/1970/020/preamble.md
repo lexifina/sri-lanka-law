@@ -1,0 +1,4 @@
+AN ACT TO INCORPORATE THE YOUNG MEN’S BUDDHIST ASSOCIATION, MATARA. Preamble.
+WHEREAS an Association called and known as ‘The Young Men’s Buddhist Association, Matara ‘ has heretofore been established at Matara for the purpose of effectually carrying out and transacting all matters connected with the said Association according to the rules agreed to by its members:
+And whereas the said Association has heretofore successfully carried out and transacted the several objects and matters for which it was established, and has applied to be incorporated, and it will be for the public advantage to grant the application:
+Be it, therefore, enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
