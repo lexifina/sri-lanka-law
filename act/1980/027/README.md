@@ -1,6 +1,6 @@
-# Cosmetics., Devices and Drugs Act, No. 27 of 1980
+# Cosmetics, Devices And Drugs (Act No. 27 of 1980)
 
-Act No. 27 of 1980 · version in force from 1980-07-17 · <https://web.archive.org/web/20240725065322/http://www.lawnet.gov.lk/cosmetics-devices-and-drugs-4/>
+Act No. 27 of 1980 · version in force from 1981-02-01 · <https://web.archive.org/web/20200925062530/http://www.lawnet.gov.lk/cosmetics-devices-and-drugs-2/>
 
 | Provision | File |
 | --- | --- |
