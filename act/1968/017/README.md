@@ -1,6 +1,6 @@
 # Institute Of Engineers (Act No. 17 of 1968)
 
-Act No. 17 of 1968 · version in force from 1968-05-31 · <https://web.archive.org/web/20220117040111/http://www.lawnet.gov.lk/institute-of-engineers/>
+Act No. 17 of 1968 · version in force from 1996-02-08 · <https://web.archive.org/web/20240518025646/http://www.lawnet.gov.lk/institute-of-engineers-3/>
 
 | Provision | File |
 | --- | --- |
