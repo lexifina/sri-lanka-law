@@ -1,0 +1,7 @@
+AN ORDINANCE TO PROVIDE FOR THE TAKING OF A CENSUS FROM TIME TO TIME.
+Ordinance Nos,
+9 of 1900
+6 of 1945
+Act Nos,
+22 of 1955
+[ 30 th October
