@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE PROMOTION OF TOURIST: DEVELOPMENT AND, IN PARTICULAR, BUT WITHOUT PREJUDICE TO THE GENERALITY OF THE FOREGOING PROVISIONS, TO PROVIDE FOR THE PROMOTION AND CARRYING OUT OF TOURIST DEVELOPMENT PROJECTS AND FOR MATTERS CONNECTED THEREWITH 0F INCIDENTAL THERETO, AND TO AMEND THE CEYLON TOURIST BOARD ACT, NO. 10 OF 1986.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
