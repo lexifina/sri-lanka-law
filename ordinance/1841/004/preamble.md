@@ -1,0 +1,17 @@
+AN ORDINANCE TO AMEND AND CONSOLIDATE THE LAW RELATING TO VAGRANTS.
+Ordinance Nos,
+4 of 1841
+7 of 1873
+7 of 1889
+17 of 1889
+19 of 1889
+12 of 1891
+3 of 1894
+3 of 1904
+21 of 1919
+3 of 1930
+51 of 1941
+20 of 1947
+Act Nos,
+2 of 1978
+[ 1 st January
