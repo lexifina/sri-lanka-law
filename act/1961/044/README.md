@@ -1,6 +1,6 @@
-# Control of Publications on Horse-racing Act, No. 44 of 1961
+# Publications On Horse-Racing (Act No. 44 of 1961)
 
-Act No. 44 of 1961 · version in force from 1961-06-17 · <https://web.archive.org/web/20240725060652/http://www.lawnet.gov.lk/control-of-publications-on-horse-racing-2/>
+Act No. 44 of 1961 · version in force from 1987-06-16 · <https://web.archive.org/web/20240813055429/http://www.lawnet.gov.lk/publications-on-horse-racing-3/>
 
 | Provision | File |
 | --- | --- |
