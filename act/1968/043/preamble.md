@@ -1,0 +1,2 @@
+AN ACT TO KEEP IN FORCE CERTAIN ORDERS MADE BY THE MINISTER UNDER SECTION 43 OF THE CO-OPERA TIVE SOCIETIES ORDINANCE AS AMENDED BY EMERGENCY REGULATIONS MADE UNDER THE PUBLIC SECURITY ORDINANCE.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
