@@ -1,0 +1,6 @@
+AN ACT TO INCORPORATE THE BANDARAWELA SUWAMADU SUWASETHA SUWASEWA NIKETHANAYA OF SRI LANKA
+Preamble.
+WHEREAS an Institute called and known as the “Bandarawela Suwamadu Suwasetha Suwasewa Nikethanaya of Sri Lanka ” as heretofore been established at Bandarawela for the purpose of effectually carrying out its objects and transacting all matters connected with the said institute according to the rules agreed to by its members :
+AND WHEREAS the said Institute has heretofore successfully carried out and transacted the several objects and matters for which it was established and has applied to be incorporated and it will be for the public advantage to grant the application :
+BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows : ”
+[ 20 th June
