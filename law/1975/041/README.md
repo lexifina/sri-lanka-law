@@ -1,6 +1,6 @@
-# Marriage And Divorce (Kandyan) (Law No. 41 of 1975)
+# Marriage And Divorce (Muslim) (Law No. 41 of 1975)
 
-Law No. 41 of 1975 · version in force from 1955-04-14 · <https://web.archive.org/web/20220117153308/http://www.lawnet.gov.lk/marriage-and-divorce-kandyan-3/>
+Law No. 41 of 1975 · version in force from 1969-12-09 · <https://web.archive.org/web/20220117153718/http://www.lawnet.gov.lk/marriage-and-divorce-muslim-3/>
 
 | Provision | File |
 | --- | --- |
@@ -24,13 +24,12 @@ Law No. 41 of 1975 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
-| sec-023a | [sec-023a.md](sec-023a.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
-| sec-024a | [sec-024a.md](sec-024a.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
@@ -77,3 +76,32 @@ Law No. 41 of 1975 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
+| sec-071 | [sec-071.md](sec-071.md) |
+| sec-072 | [sec-072.md](sec-072.md) |
+| sec-073 | [sec-073.md](sec-073.md) |
+| sec-074 | [sec-074.md](sec-074.md) |
+| sec-075 | [sec-075.md](sec-075.md) |
+| sec-076 | [sec-076.md](sec-076.md) |
+| sec-077 | [sec-077.md](sec-077.md) |
+| sec-078 | [sec-078.md](sec-078.md) |
+| sec-079 | [sec-079.md](sec-079.md) |
+| sec-080 | [sec-080.md](sec-080.md) |
+| sec-081 | [sec-081.md](sec-081.md) |
+| sec-082 | [sec-082.md](sec-082.md) |
+| sec-083 | [sec-083.md](sec-083.md) |
+| sec-084 | [sec-084.md](sec-084.md) |
+| sec-085 | [sec-085.md](sec-085.md) |
+| sec-086 | [sec-086.md](sec-086.md) |
+| sec-087 | [sec-087.md](sec-087.md) |
+| sec-088 | [sec-088.md](sec-088.md) |
+| sec-089 | [sec-089.md](sec-089.md) |
+| sec-090 | [sec-090.md](sec-090.md) |
+| sec-091 | [sec-091.md](sec-091.md) |
+| sec-092 | [sec-092.md](sec-092.md) |
+| sec-093 | [sec-093.md](sec-093.md) |
+| sec-094 | [sec-094.md](sec-094.md) |
+| sec-095 | [sec-095.md](sec-095.md) |
+| sec-096 | [sec-096.md](sec-096.md) |
+| sec-097 | [sec-097.md](sec-097.md) |
+| sec-098 | [sec-098.md](sec-098.md) |
+| sec-099 | [sec-099.md](sec-099.md) |
