@@ -1,6 +1,6 @@
-# Interim .Devaluation Allowance of Employees Act, No. 40 of 1968
+# Interim Devaluation Allowance Of Employees (Act No. 40 of 1968)
 
-Act No. 40 of 1968 · version in force from 1968-11-10 · <https://web.archive.org/web/20240611213202/http://www.lawnet.gov.lk/interim-devaluation-allowance-of-employees-4/>
+Act No. 40 of 1968 · version in force from 1968-11-18 · <https://web.archive.org/web/20220117034150/http://www.lawnet.gov.lk/interim-devaluation-allowance-of-employees-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,4 +18,3 @@ Act No. 40 of 1968 · version in force from 1968-11-10 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
