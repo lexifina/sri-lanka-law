@@ -5,10 +5,17 @@ Ordinance Nos,
 3 of 1936
 58 of 1946
 63 of 1946
+Law Nos,
+35 of 1976
 Act Nos,
 27 of 1948
 7 of 1950
 30 of 1951
 50 of 1953
 3 of 1955
+8 of 1957
+52 of 1957
+2 of 1959
+58 of 1961
+4 of 1979
 [ 1 st August

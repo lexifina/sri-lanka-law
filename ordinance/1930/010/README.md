@@ -1,6 +1,6 @@
 # Rubber Research (Ordinance No. 10 of 1930)
 
-Ordinance No. 10 of 1930 · version in force from 1955-02-18 · <https://web.archive.org/web/20220818152911/http://www.lawnet.gov.lk/rubber-research/>
+Ordinance No. 10 of 1930 · version in force from 1979-01-18 · <https://web.archive.org/web/20220117042317/http://www.lawnet.gov.lk/rubber-research-3/>
 
 | Provision | File |
 | --- | --- |
@@ -14,4 +14,8 @@ Ordinance No. 10 of 1930 · version in force from 1955-02-18 · <https://web.arc
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
+| sec-009a | [sec-009a.md](sec-009a.md) |
+| sec-009b | [sec-009b.md](sec-009b.md) |
+| sec-009c | [sec-009c.md](sec-009c.md) |
+| sec-009d | [sec-009d.md](sec-009d.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
