@@ -1,0 +1,3 @@
+# 12A. Power of Minister to give direction.
+[8, 50 of 1999]
+The Minister may in consultation with the Ministers in charge respectively, of the Department of Technical Education and Training, the Vocational Training Authority of Sri Lanka and any Technical Training or Vocational Education Institution funded by the Government, direct such Department Authority and Institution, respectively, to prepare and implements plans for Technical Education and Vocational Training in compliance with the Development Plans and guidelines of the Commission and it shall be the duty of such Department, Authority and Institution respectively, to comply with every such direction.
