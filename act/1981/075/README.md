@@ -1,6 +1,6 @@
-# Sugarcane Research Institute Act, No. 75 of 1981
+# Sugarcane Research Institute (Act No. 75 of 1981)
 
-Act No. 75 of 1981 · version in force from 1981-12-29 · <https://web.archive.org/web/20220930100845/http://www.lawnet.gov.lk/sugarcane-research-institute-3/>
+Act No. 75 of 1981 · version in force from 1992-02-26 · <https://web.archive.org/web/20240812202106/http://www.lawnet.gov.lk/sugarcane-research-institute-2/>
 
 | Provision | File |
 | --- | --- |
@@ -23,6 +23,8 @@ Act No. 75 of 1981 · version in force from 1981-12-29 · <https://web.archive.o
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
+| sec-018a | [sec-018a.md](sec-018a.md) |
+| sec-018b | [sec-018b.md](sec-018b.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |

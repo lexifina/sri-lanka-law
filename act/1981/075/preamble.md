@@ -1,3 +1,7 @@
 AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE SUGARCANE RESEARCH INSTITUTE AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
 BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :
+Act Nos,
+75 of 1981
+Act Nos,
+5 of 1992
 [ 29 th December
