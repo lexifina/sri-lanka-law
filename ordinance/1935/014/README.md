@@ -1,6 +1,6 @@
 # Trade Unions (Ordinance No. 14 of 1935)
 
-Ordinance No. 14 of 1935 · version in force from 1948-08-28 · <https://web.archive.org/web/20220818153059/http://www.lawnet.gov.lk/trade-unions-2/>
+Ordinance No. 14 of 1935 · version in force from 1970-08-20 · <https://web.archive.org/web/20210119121632/http://www.lawnet.gov.lk/trade-unions-3/>
 
 | Provision | File |
 | --- | --- |

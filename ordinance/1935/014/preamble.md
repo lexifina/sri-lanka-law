@@ -4,4 +4,6 @@ Ordinance Nos,
 3 of 1946
 Act Nos,
 15 of 1948
+18 of 1958
+24 of 1970
 [ 1 st November
