@@ -1,0 +1,5 @@
+AN ACT TO PROVIDE FOR THE CONTINUATION Of THE POSSESSION AND CONTROL BY THE GOVERNMENT; OF THE UNDERTAKING CARRIED ON BY CEYLON COLD STORES FOR A FURTHER PERIOD OF ONE YEAR.
+WHEREAS the possession and control of the business undertaking carried on by the company known as the Ceylon Cold Stores Limited, was taken over by the Government for a period of three months, by regulation made under section 5 of the Public Security Ordinance, duo to the disruption of the services provided by that undertaking and industrial unrest.
+WHEREAS for the purpose of ensuring the maintenance of the services provided by such undertaking, which are integral to the national economy and essential to the life of the community, and for the purposes of securing the due recognition of, and respect for, the rights of the employees of such undertaking it has become necessary for the Government to continue to administer and control such business undertaking for a further period of one year:
+Now therefore be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:”
+[ 10 th April
