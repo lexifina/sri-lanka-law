@@ -1,8 +1,8 @@
 # 60A. Recovery of possession of State land possessed under an agreement with the Commissioner.
-[2,9 of 1978.]
+[2,9 of 1978]
 (1) Where any person is in possession of any State land in pursuance of an agreement (whether such agreement was entered into before or after the coming into operation of this section) between himself and the Commissioner and the Commissioner is satisfied having regard to the extent of State land available at his disposal for the construction of houses in the area within which such land is situated, that it is expedient to recover possession of such land, he may, notwithstanding anything in this Act or in the terms of such agreement, cancel such agreement by notice in writing to the parties to such agreement, and such agreement shall be determined accordingly.
 (2)
-(a) Where the Commissioner cancels any agreement in the exercise of the powers conferred on him by subsection (1), he shall-
+(a) Where the Commissioner cancels any agreement in the exercise of the powers conferred on him by subsection (1), he shall”
 (i) return to every person who is a party to such agreement, all moneys paid by such person in compliance, or in purported compliance, with the terms of such agreement, together with interest thereon at the rate of seven per centum per annum from the date of payment to the date of return and
 (ii) order the payment to such person of such sum as is in the opinion of the Commissioner, reasonable compensation for improvements, if any, effected by such person on such land.
 (b) Any person dissatisfied with an order made by the Commissioner under sub-paragraph (ii) of paragraph (a) may appeal therefrom to the Minister.

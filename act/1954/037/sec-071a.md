@@ -1,3 +1,3 @@
 # 71A. Rectification of errors in mortgage bonds and amendment of such bonds.
-[13, 36 of 1966.]
+[13, 36 of 1966]
 Where the bond mortgaging any land to the appropriate authority as security for a loan granted from the National Housing Fund contains any clerical or other error or requires amendment or alteration in respect of any provision contained therein, such error may be rectified or such amendment or alteration may be made by an endorsement on such bond signed by the mortgagor and the appropriate authority or any officer authorized in that behalf by that authority. Such an endorsement shall, upon registration in the office of the Registrar of Lands, be sufficient for all purposes to rectify the error or to effect the amendment or alteration, and the bond on which any such endorsement is made shall, when it is registered in the office of the Registrar of Lands, have effect as though it had been originally executed as so rectified or amended or altered.

@@ -1,6 +1,6 @@
 # National Housing (Act No. 37 of 1954)
 
-Act No. 37 of 1954 · version in force from 1978-11-29 · <https://web.archive.org/web/20220117040635/http://www.lawnet.gov.lk/national-housing-3/>
+Act No. 37 of 1954 · version in force from 1981-07-24 · <https://web.archive.org/web/20240525072654/http://www.lawnet.gov.lk/national-housing-4/>
 
 | Provision | File |
 | --- | --- |

@@ -1,10 +1,10 @@
-# 91D. Power of Commissioner to call for information, amp c.
-[ 22, 36 of 1966.]
-(1) The Commissioner may, by written direction, require any person-
+# 91D. Power of Commissioner to call for information, & c.
+[ 22, 36 of 1966]
+(1) The Commissioner may, by written direction, require any person”
 (a) who is the tenant or subtenant of any building let by the Commissioner or by a building society; or
 (b) who is the owner or tenant of any building for the construction of which a loan has been granted from the National Housing Fund, to furnish to the Commissioner before the date specified in the direction such written information as he may require in respect of that house or building, as the case may be, or to appear before the Commissioner or any officer specified in the direction by the Commissioner on such date and at such time as may be specified therein for the purpose of being examined on oath or affirmation in respect of matters relating to that house or building, as the case may be.
 (2) Every person who furnishes any written information required by the Commissioner under subsection (2) shall verify such information by a declaration that the particulars contained in such information are true and accurate.
-(3) Every person who, being a person to whom a direction under subsection (1) has been given,-
+(3) Every person who, being a person to whom a direction under subsection (1) has been given,”
 (a) refuses to perform any act, or to give any information, required of him by that direction; or
 (b) gives to any question put to him, when he in compliance with that direction appears before the Commissioner or an officer specified therein, an answer which to his knowledge is false or incorrect; or
 (c) furnishes any written information containing any particulars which to his knowledge are false or inaccurate, shall be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be liable to a fine not exceeding five hundred rupees or to imprisonment of either description for a period not exceeding three months or to both such fine and imprisonment.
