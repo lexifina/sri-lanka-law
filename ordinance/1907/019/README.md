@@ -1,6 +1,6 @@
-# Marriages ( General ) (Ordinance No. 19 of 1907)
+# Marriages (General) (Ordinance No. 19 of 1907)
 
-Ordinance No. 19 of 1907 · version in force from 1978-07-03 · <https://web.archive.org/web/20220117033028/http://www.lawnet.gov.lk/marriages-general-3/>
+Ordinance No. 19 of 1907 · version in force from 2001-09-25 · <https://web.archive.org/web/20230509105637/http://www.lawnet.gov.lk/marriages-general-5/>
 
 | Provision | File |
 | --- | --- |
@@ -15,16 +15,15 @@ Ordinance No. 19 of 1907 · version in force from 1978-07-03 · <https://web.arc
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
+| sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
@@ -35,6 +34,7 @@ Ordinance No. 19 of 1907 · version in force from 1978-07-03 · <https://web.arc
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
+| sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
@@ -54,7 +54,6 @@ Ordinance No. 19 of 1907 · version in force from 1978-07-03 · <https://web.arc
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
-| sec-051 | [sec-051.md](sec-051.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |

@@ -12,9 +12,13 @@ Ordinance Nos,
 47 of 1947
 Law Nos,
 41 of 1975
-23 of 1978
 Act Nos,
 22 of 1955
 11 of 1963
 3 of 1970
+18 of 1995
+12 of 1997
+11 of 2001
+Gazette Nos,
+1386-18-2005
 [ 1 st January
