@@ -1,0 +1,1 @@
+AN ACT TO PROVIDE FOR THE IMPOSITION OF A TAX ON DEBITS FROM CHEQUES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH AND INCIDENTAL THERETO. BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :—
