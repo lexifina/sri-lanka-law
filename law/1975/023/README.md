@@ -1,6 +1,6 @@
-# Credit Councils Law, No. 23 of 1975
+# Credit Councils (Law No. 23 of 1975)
 
-Law No. 23 of 1975 · version in force from 1975-05-09 · <https://web.archive.org/web/20240720002701/http://www.lawnet.gov.lk/credit-councils-law-2/>
+Law No. 23 of 1975 · version in force from 1975-07-01 · <https://web.archive.org/web/20200922001849/http://www.lawnet.gov.lk/credit-councils-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,4 +18,3 @@ Law No. 23 of 1975 · version in force from 1975-05-09 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
