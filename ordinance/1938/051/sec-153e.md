@@ -1,0 +1,16 @@
+# 153E. Power of court on application under the foregoing sections.
+[ 11,15 of 1964.]
+Without prejudice to the generality of the powers of the court under section 153A or 153B, any order under either of those sections may provide for-
+(a) the regulation of the conduct of the company’s affairs in future;
+(b) the purchase of the shares or interests of any members of the company by other members thereof or by the company;
+(c) in the case of a purchase of shares by the company as aforesaid, the consequent reduction of its share capital,
+(d) the termination, setting aside or modification of any agreement, howsoever arrived at, between the company on the one hand, and any of the following persons, on- the other, namely:-
+(i) the managing director,
+(ii) any other director,
+(iii) the board of directors,
+(iv) the agent or secretary, or
+(v) the manager,
+upon such terms and conditions as may, in the opinion of the court, be just and equitable in all the circumstances of the case;
+(e) the termination, setting aside or modification of any agreement between the company and any person not referred to in paragraph (d), but always so that no such agreement shall be terminated, set aside or modified except after due notice to the party concerned and after obtaining his consent;
+(f) the setting aside of any transfer, delivery of goods, payment. execution or other act relating to property made or done by or against the company within three months before the date of the application, or the commencement of winding-up proceedings, as the case may be, which would, if made or done by or against an individual, be deemed in a case of his insolvency to be a fraudulent preference; and
+(g) any other matter for which in the opinion of the court it is just and equitable that provision should be made.

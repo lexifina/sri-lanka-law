@@ -1,0 +1,4 @@
+# 360B. Proceedings in actions by a member or members against a company to be by way of summary procedure.
+[ 17, 15 of 1964.]
+(1) Where an action is instituted against any company by any person in his capacity as a holder of shares in such company, the proceedings in such action shall be taken by way of summary procedure and, for the purpose of enabling such proceedings to be so taken, section 8 of the Civil Procedure Code shall have effect as if for the words ” by this Ordinance ” occurring therein, there were substituted the words ” by this Ordinance or by the Companies Ordinance “.
+(2) Notwithstanding anything to the contrary in any written law, the petition presented in court in any action referred to in subsection (1), and the written objections, if any, of the respondent, shall be stamped to the value of ten rupees, but no further stamps shall be required for any other document in the same legal proceedings.
