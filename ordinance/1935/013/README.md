@@ -1,6 +1,6 @@
 # Coconut Products (Ordinance No. 13 of 1935)
 
-Ordinance No. 13 of 1935 · version in force from 1956-02-17 · <https://web.archive.org/web/20200924113243/http://www.lawnet.gov.lk/coconut-products-2/>
+Ordinance No. 13 of 1935 · version in force from 1967-12-29 · <https://web.archive.org/web/20200922170859/http://www.lawnet.gov.lk/coconut-products-3/>
 
 | Provision | File |
 | --- | --- |
@@ -25,6 +25,8 @@ Ordinance No. 13 of 1935 · version in force from 1956-02-17 · <https://web.arc
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
+| sec-020a | [sec-020a.md](sec-020a.md) |
+| sec-020b | [sec-020b.md](sec-020b.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
