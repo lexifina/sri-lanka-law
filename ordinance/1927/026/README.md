@@ -1,6 +1,6 @@
 # Medical Practitioners, Pharmacists, Midwives, And Nurses (Ordinance No. 26 of 1927)
 
-Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.archive.org/web/20220117170439/http://www.lawnet.gov.lk/medical-practitioners-pharmacists-midwives-and-nurses-3/>
+Ordinance No. 26 of 1927 · version in force from 1998-06-26 · <https://web.archive.org/web/20241003232040/http://www.lawnet.gov.lk/medical-practitioners-pharmacists-midwives-and-nurses-5/>
 
 | Provision | File |
 | --- | --- |
@@ -24,6 +24,11 @@ Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.arc
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
+| sec-019b | [sec-019b.md](sec-019b.md) |
+| sec-019c | [sec-019c.md](sec-019c.md) |
+| sec-019d | [sec-019d.md](sec-019d.md) |
+| sec-019e | [sec-019e.md](sec-019e.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
@@ -31,7 +36,9 @@ Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.arc
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
+| sec-026a | [sec-026a.md](sec-026a.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
+| sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
@@ -43,6 +50,7 @@ Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.arc
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
+| sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
@@ -63,6 +71,14 @@ Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.arc
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
+| sec-060a | [sec-060a.md](sec-060a.md) |
+| sec-060b | [sec-060b.md](sec-060b.md) |
+| sec-060c | [sec-060c.md](sec-060c.md) |
+| sec-060d | [sec-060d.md](sec-060d.md) |
+| sec-060e | [sec-060e.md](sec-060e.md) |
+| sec-060f | [sec-060f.md](sec-060f.md) |
+| sec-060g | [sec-060g.md](sec-060g.md) |
+| sec-060h | [sec-060h.md](sec-060h.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
@@ -73,8 +89,10 @@ Ordinance No. 26 of 1927 · version in force from 1979-02-09 · <https://web.arc
 | sec-067a | [sec-067a.md](sec-067a.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
+| sec-069a | [sec-069a.md](sec-069a.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
+| sec-074a | [sec-074a.md](sec-074a.md) |

@@ -1,0 +1,6 @@
+# 26A. Renewal of registration.
+[ 13, 30 of 1987]
+(1) The Minister may require persons registered under this Ordinance to renew their registration at prescribed intervals and on payment of the prescribed fee.
+(2) Different intervals and different fees may be prescribed in respect of different categories of persons registered under this Ordinance.
+(3) The Medical Council may erase from the appropriate register, the name of any person who fails to renew his registration before the expiry of the period prescribed for the category to which such person belongs.
+(4) Any person whose name has been erased from a register under subsection (3) shall be entitled to have his name restored to such register on payment of the prescribed fee if he continues to hold the qualification on the faith of which he was first registered in such register.
