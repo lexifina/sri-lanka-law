@@ -1,6 +1,6 @@
 # Law Society (Ordinance No. 33 of 1947)
 
-Ordinance No. 33 of 1947 · version in force from 1947-07-02 · <https://web.archive.org/web/20200921061719/http://www.lawnet.gov.lk/law-society/>
+Ordinance No. 33 of 1947 · version in force from 1973-11-14 · <https://web.archive.org/web/20240805032106/http://www.lawnet.gov.lk/law-society-3/>
 
 | Provision | File |
 | --- | --- |
