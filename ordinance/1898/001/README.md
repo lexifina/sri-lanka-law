@@ -1,6 +1,6 @@
 # Widows’ And Orphans’ Pension Fund (Ordinance No. 1 of 1898)
 
-Ordinance No. 1 of 1898 · version in force from 1957-01-24 · <https://web.archive.org/web/20210119123902/http://www.lawnet.gov.lk/widows-and-orphans-pension-fund-3/>
+Ordinance No. 1 of 1898 · version in force from 1998-12-28 · <https://web.archive.org/web/20240521185617/http://www.lawnet.gov.lk/widows-and-orphans-pension-fund-4/>
 
 | Provision | File |
 | --- | --- |
@@ -10,11 +10,11 @@ Ordinance No. 1 of 1898 · version in force from 1957-01-24 · <https://web.arch
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
-| sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-012a | [sec-012a.md](sec-012a.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
@@ -34,6 +34,7 @@ Ordinance No. 1 of 1898 · version in force from 1957-01-24 · <https://web.arch
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
+| sec-029a | [sec-029a.md](sec-029a.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
@@ -53,12 +54,20 @@ Ordinance No. 1 of 1898 · version in force from 1957-01-24 · <https://web.arch
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
+| sec-049a | [sec-049a.md](sec-049a.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
+| sec-051a | [sec-051a.md](sec-051a.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
+| sec-057a | [sec-057a.md](sec-057a.md) |
+| sec-057b | [sec-057b.md](sec-057b.md) |
+| sec-057c | [sec-057c.md](sec-057c.md) |
+| sec-057d | [sec-057d.md](sec-057d.md) |
+| sec-057e | [sec-057e.md](sec-057e.md) |
+| sec-057f | [sec-057f.md](sec-057f.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
