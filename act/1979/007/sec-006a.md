@@ -1,0 +1,3 @@
+# 6A. Applications for ejectment to be disposed of within certain periods.
+[ 2,58 of 1981]
+Every application made under section 5 shall be finally disposed of within a period of two calendar months from the date of such application and where a court; makes, in pursuance of any such application, an order under section 7 or section 10, directing that any person be ejected from the land referred ‘to in that order, the court shall make all such orders as are necessary to ensure that such persons are ejected from that land within a period of three months from the date of the application for ejectment.

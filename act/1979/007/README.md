@@ -1,25 +1,24 @@
-# State Lands (Recovery of Possession) Act, No. 7 of 1979
+# State Lands (Recovery Of Possession) (Act No. 7 of 1979)
 
-Act No. 7 of 1979 · version in force from 1979-01-25 · <https://web.archive.org/web/20221004122436/http://www.lawnet.gov.lk/state-lands-recovery-of-possession-6/>
+Act No. 7 of 1979 · version in force from 2005-02-10 · <https://web.archive.org/web/20240919135737/http://www.lawnet.gov.lk/state-lands-recovery-of-possession-3/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
-| sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-006a | [sec-006a.md](sec-006a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
+| sec-011a | [sec-011a.md](sec-011a.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
-| sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
