@@ -1,0 +1,6 @@
+# 18C. The Deans of the faculties.
+[ 17,37 of 1995]
+(1) There shall be a Dean of each Deans of the Faculty who shall be a full time officer c Faculties University and the academic and administrative head of that Faculty. The Dean be elected by the Faculty board from the Head of the Departments of Study comprising such Faculty, and shall,” when elected cease to be the Head of the Department of Study
+(2) The Dean shall, subject to the provisions of any appropriate Instrument, office for a period of three years reckoned from the date of this elections and shall, less retrieved from office,’ be eligible for
+(3) Where owing to leave of illness or other cause the Dean of a Faculty is temporarily unable to perform the duties of his office for a period not exceeding three months, the Venerable Vice-Chancellor shall appoint another Head of Department of that Faculty “to act in the of Deed. for such period:
+Where however, a Dean of a Faculty retires or resigns or is for any other reason unable to perform the duties of his office for a period exceeding three months, the post of dean of that faculty shall be deemed to vacant and a new Dean shall be elected in accordance with the provisions of sub section(1).

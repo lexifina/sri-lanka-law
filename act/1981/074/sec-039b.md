@@ -1,0 +1,13 @@
+# 39B. Powers of the Minister &c.
+[ 23,37 of 1995]
+(1) The Minister may, from time issue to the Council such general written directions as he may deem necessary in pursuance of national policy in matter such as finance, university places and medium of instruction, to enable him to discharge effectively his responsibilities. Every such direction shall as soon possible be tabled in Parliament.
+(2)
+(a) The Minister may by order published in the Gazette appoint any person by name or office to be a Specified Authority for the purpose of this Part of this Act.
+(b) Specified Authority may with the approval of the Minister delegate any of his powers to such standing committees or adhoc committee consisting of such number of members as may be determined by the Specified authority or any officer or servant appointment by such Authority.
+(c) For the purpose of enabling him to discharge effectively his responsibilities, the Minister may order all or any of the activities, or the administration of the University, to be investigated and reported upon by the Specified Authority.
+(3) Where the Minister is satisfied that the situation prevailing in the university is likely to endanger national security or is detrimental or prejudicial to national policy, he may direct the Council to take all such steps as he may deem necessary to bring such situation under control.
+(4) Where the Minister is satisfied that, due to any strike or lockout or any other cause, the work or administration of the University has been seriously dislocated and that the authorities of the University have failed to restore normal conditions, the Minister may take all such measures as may be necessary to ensure the restoration of normal conditions in the University. Pending the restoration of normal conditions the Minister may, by order published in the Gazette, make all such provisions as be may deem necessary in respect of all or any of the following matters relating to the University:-
+(a) the closure of the University;
+(b) the appointment of any person by name or by office, to be a competent authority for the purpose of exercising performing or discharging in lieu, of any officer, authority or other body of the University, any power, duty or function conferred or imposed on or assigned to such other authority to body under this Act or any appropriate instrument; and
+(c) any other matter connected with or relating to any of the matters aforesaid.
+(5) Any order made by the Minister under subsection (4) shall come into force on such date as may be specified therein. Any such order shall as soon as possible thereafter, be tabled in Parliament and shall, unless earlier rescinded, remain in force for a period not exceeding three month thereafter.

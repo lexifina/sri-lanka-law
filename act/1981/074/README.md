@@ -1,6 +1,6 @@
-# Buddhist and Pali University of Sri Lanka Act, No. 74 of 1981
+# Buddhist And Pali University Of Sri Lanka (Act No. 74 of 1981)
 
-Act No. 74 of 1981 · version in force from 1981-12-15 · <https://web.archive.org/web/20200923150210/http://www.lawnet.gov.lk/buddhist-and-pali-university-of-sri-lanka-3/>
+Act No. 74 of 1981 · version in force from 1995-12-29 · <https://web.archive.org/web/20240716053355/http://www.lawnet.gov.lk/buddhist-and-pali-university-of-sri-lanka-2/>
 
 | Provision | File |
 | --- | --- |
@@ -10,7 +10,7 @@ Act No. 74 of 1981 · version in force from 1981-12-15 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
-| sec-006 | [sec-006.md](sec-006.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
@@ -18,16 +18,21 @@ Act No. 74 of 1981 · version in force from 1981-12-15 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
+| sec-018a | [sec-018a.md](sec-018a.md) |
+| sec-018b | [sec-018b.md](sec-018b.md) |
+| sec-018c | [sec-018c.md](sec-018c.md) |
+| sec-018d | [sec-018d.md](sec-018d.md) |
+| sec-018e | [sec-018e.md](sec-018e.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
+| sec-023a | [sec-023a.md](sec-023a.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
@@ -44,6 +49,8 @@ Act No. 74 of 1981 · version in force from 1981-12-15 · <https://web.archive.o
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
+| sec-039a | [sec-039a.md](sec-039a.md) |
+| sec-039b | [sec-039b.md](sec-039b.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
@@ -51,5 +58,4 @@ Act No. 74 of 1981 · version in force from 1981-12-15 · <https://web.archive.o
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
-| sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
