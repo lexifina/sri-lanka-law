@@ -1,6 +1,6 @@
-# Agrarian Services Act, No. 58 of 1979
+# Agrarian Services (Act No. 58 of 1979)
 
-Act No. 58 of 1979 · version in force from 1979-09-25 · <https://web.archive.org/web/20200924041724/http://www.lawnet.gov.lk/agrarian-services-6/>
+Act No. 58 of 1979 · version in force from 1993-09-08 · <https://web.archive.org/web/20240523122156/http://www.lawnet.gov.lk/agrarian-services-3/>
 
 | Provision | File |
 | --- | --- |
@@ -10,17 +10,20 @@ Act No. 58 of 1979 · version in force from 1979-09-25 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
+| sec-005b | [sec-005b.md](sec-005b.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
-| sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
+| sec-012a | [sec-012a.md](sec-012a.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
+| sec-016a | [sec-016a.md](sec-016a.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
@@ -32,7 +35,6 @@ Act No. 58 of 1979 · version in force from 1979-09-25 · <https://web.archive.o
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
-| sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
@@ -43,14 +45,21 @@ Act No. 58 of 1979 · version in force from 1979-09-25 · <https://web.archive.o
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
+| sec-038a | [sec-038a.md](sec-038a.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
+| sec-041a | [sec-041a.md](sec-041a.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
+| sec-042a | [sec-042a.md](sec-042a.md) |
+| sec-042b | [sec-042b.md](sec-042b.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
+| sec-045a | [sec-045a.md](sec-045a.md) |
+| sec-045b | [sec-045b.md](sec-045b.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
+| sec-046a | [sec-046a.md](sec-046a.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
@@ -61,12 +70,15 @@ Act No. 58 of 1979 · version in force from 1979-09-25 · <https://web.archive.o
 | sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
+| sec-056a | [sec-056a.md](sec-056a.md) |
+| sec-056b | [sec-056b.md](sec-056b.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
+| sec-062a | [sec-062a.md](sec-062a.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
