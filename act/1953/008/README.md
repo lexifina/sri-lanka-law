@@ -1,6 +1,6 @@
 # Chank Fisheries (Act No. 8 of 1953)
 
-Act No. 8 of 1953 · version in force from 1955-04-14 · <https://web.archive.org/web/20200925060918/http://www.lawnet.gov.lk/chank-fisheries-3/>
+Act No. 8 of 1953 · version in force from 1996-01-11 · <https://web.archive.org/web/20240806225245/http://www.lawnet.gov.lk/chank-fisheries-4/>
 
 | Provision | File |
 | --- | --- |

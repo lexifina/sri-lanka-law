@@ -1,5 +1,7 @@
+Repealed and Replaced by Fisheries and Aquatic Resource Act, No. 2 of 1996. The following Chapter Contents are prior to repeal.
 AN ACT TO MAKE PROVISION FOR REGULATING THE TAKING OF CHANKS, BECHE-DE- MER, CORAL, AND SHELLS, FOR REGULATING CHANK FISHERIES AND THE EXPORTATION OF CHANKS, AND OTHER MATTERS INCIDENTAL TO OR CONNECTED WITH THE MATTERS AFORESAID.
 Act Nos,
 8 of 1953
 22 of 1955
-[Sections 5. 6. 10. 11. and 17 14th March. 1953.]*
+2 of 1996
+[ 14 th March
