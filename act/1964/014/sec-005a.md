@@ -1,0 +1,19 @@
+# 5A. Power of local authority to transfer certain houses to which this Act applies.
+[ 3, 63 of 1979.]
+(1) Where prior to the 15th day of October, 1979, a house to which this Act applies has been let to any person under the provisions of section 3(1) and the monthly rental of such house immediately prior to such letting did not exceed twenty-five rupees, the local authority within the administrative limits of which that house is situated shall, by an instrument of disposition, transfer, free of charge, that house to that person.
+(2) Where prior to the 15th day of October, 1979, a house to which this Act applies has been let to any person otherwise than under the provisions of section 3 (1) and the monthly rental of that house does not exceed twenty-five rupees, the local authority within the administrative limits of which that house is situated shall, by an instrument of disposition, transfer, free of charge, that house-
+(a) to the tenant of that house who is in occupation thereof on the 15th day of October, 1979; or
+(b) to the person in occupation of that house on the 15th day of October, 1979, where the tenant of that house is not in occupation thereof on that date, –
+if, and only if, the Advisory Board constituted for that local authority is satisfied that
+(i) such tenant or person in occupation, as the case may be, is in need of housing accommodation,
+(ii) such tenant or person in occupation, as the case may be, is a citizen of Sri Lanka, and
+(iii) the name of such tenant or person in occupation, as the case may be, appears in the electoral list prepared for the general election of members of that local authority.
+(3) Where the Advisory Board constituted for a local authority decides that the tenant or person in occupation, as the case may be, of a house referred to in subsection (2) does not satisfy the requirements set out in paragraphs (i), (ii) and (hi) of that subsection-
+(a) that tenant or person in occupation, as the case may be, may appeal against that decision to the Secretary to the Ministry charged with the subject of Local Government within fourteen days of the communication to him of that decision. The decision of such Secretary on any such appeal shall be final; and
+(b) the local authority within the administrative limits of which such house is situated may, by an instrument of disposition, transfer, free of charge, that house to any person who satisfies those requirements.
+(4) No transfer of a house shall be made by a local authority under paragraph (b) of subsection (3)-
+(a) except with the prior approval of the Advisory Board constituted for that local authority;
+(b) unless six months’ notice in writing is given by that local authority to the tenant or person in occupation, as the case may be, of that house of its intention to so transfer that house to some other person and alternate accommodation is provided for such tenant or person in occupation, as the case may be, by that local authority ; and
+(c) until and unless any appeal made by the tenant or person in occupation, as the case may be, of such house under paragraph (a) of subsection (3) has been dismissed.
+(5) Nothing in the Prevention of Frauds Ordinance shall apply to any instrument of disposition effecting a transfer under subsection (1) or subsection (2) or subsection (3) and no stamp duty shall be payable in respect thereof. The local authority executing any such instrument of disposition shall cause a copy thereof to be presented for registration to the Registrar of Lands of the district in which the house transferred by such instrument is situated. No fee shall be payable in respect of such registration.
+(6) All expenses incurred by a local authority in transferring a house under this section shall be a charge on the funds of that local authority.
