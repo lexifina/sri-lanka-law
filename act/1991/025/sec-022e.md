@@ -1,0 +1,4 @@
+# 22E. Appointed of officers and servants of public corporations to the staff of the commission.
+[ 23,27 of 1996]
+(1) At the request of the commission any officer or servant of a public corporation may, with the consent of such officer or servant and the governing board of such corporation, be temporarily appointed to the staff of the commission for such period as may be determined by the commission with like consent or with the like consent permanently appointed to the staff of the commission on such terms and conditions ,including those relating to pension or provident fund rights, as may be agreed upon by the commission and the governing board of such corporation.
+(2) Where any persons is appointed, whether temporarily or permanently under subsection (1) to the staff of the commission, he shall be other subject to the same disciplinary control as any other member of the staff.
