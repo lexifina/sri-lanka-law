@@ -1,6 +1,6 @@
-# State Film Corporation Act, No. 47 of 1971
+# National Film Corporation Of Sri Lanka (Act No. 47 of 1971)
 
-Act No. 47 of 1971 · version in force from 1971-11-03 · <https://web.archive.org/web/20220929115718/http://www.lawnet.gov.lk/state-film-corporation-3/>
+Act No. 47 of 1971 · version in force from 1980-10-29 · <https://web.archive.org/web/20220117162952/http://www.lawnet.gov.lk/national-film-corporation-of-sri-lanka-2/>
 
 | Provision | File |
 | --- | --- |
@@ -19,7 +19,6 @@ Act No. 47 of 1971 · version in force from 1971-11-03 · <https://web.archive.o
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
-| sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
@@ -68,5 +67,7 @@ Act No. 47 of 1971 · version in force from 1971-11-03 · <https://web.archive.o
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
+| sec-063a | [sec-063a.md](sec-063a.md) |
+| sec-063b | [sec-063b.md](sec-063b.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |

@@ -1,2 +1,7 @@
-AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A STATE FILM CORPORATION IN CEYLON.
-BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A NATIONAL FILM CORPORATION IN SRI LANKA.
+Act Nos,
+47 of 1971
+45 of 1980
+[ 21 st January
+, 1972 ]
+Short title,
