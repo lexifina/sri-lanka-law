@@ -1,4 +1,7 @@
+Repealed and Replaced by the National Gem And Jewellery Authority Act, No 50 of 1993. The following Chapter Contents are prior to repeal.
 AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A CORPORATION FOR THE DEVELOPMENT, REGULATION AND CONTROL OF THE GEM INDUSTRY. AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
 Act Nos,
 13 of 1971
+64 of 1981
+50 of 1993
 [ 1 st November
