@@ -1,2 +1,15 @@
-A LAW TO AMEND THE CONTROL OF PRICES ACT.
-BE it enacted by the National State Assembly of the Republic of Sri Lanka as follows: –
+Consumer Production was repealed and replaced by Consumer Authority Act No. 9 of 2003.The following contents are prior to repeal.
+AN ACT TO PROVIDE FOR THE REGULATION AND CONTROL OF THE PRICE OF COMMODITIES AND TO TAKE POWER TO REQUISITION FOR CERTAIN PURPOSES ARTICLES OTHER THAN ARTICLES OF FOOD OR DRINK AND TO PROVIDE FOR THE PAYMENT OF COMPENSATION IN RESPECT OF ANY ARTICLE SO REQUISITIONED.
+Law Nos,
+21 of 1975
+43 of 1975
+Act Nos,
+29 of 1950
+31 of 1952
+44 of 1957
+23 of 1962
+9 of 1964
+16 of 1966
+33 of 1979
+9 of 2003
+[ 9 th December
