@@ -1,0 +1,2 @@
+AN ACT TO AMEND THE CODE OF CRIMINAL PROCEDURE ACT, No. 15 OP 1979, WITH A VIEW TO RESOLVING CERTAIN DOUBTS THAT HAVE ARISEN IN RELATION TO THE GRANTING OF BAIL.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows : –
