@@ -1,6 +1,6 @@
-# Sir John Kotelawala Defence Academy Act, No. 68 of 1981
+# Sir John Kotelawala Defence Academy (Act No. 68 of 1981)
 
-Act No. 68 of 1981 · version in force from 1981-11-03 · <https://web.archive.org/web/20220929113149/http://www.lawnet.gov.lk/sir-john-kotelawala-defence-academy-3/>
+Act No. 68 of 1981 · version in force from 1990-08-24 · <https://web.archive.org/web/20240523124936/http://www.lawnet.gov.lk/sir-john-kotelawala-defence-academy-2/>
 
 | Provision | File |
 | --- | --- |
@@ -12,9 +12,12 @@ Act No. 68 of 1981 · version in force from 1981-11-03 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
+| sec-007b | [sec-007b.md](sec-007b.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
@@ -29,4 +32,5 @@ Act No. 68 of 1981 · version in force from 1981-11-03 · <https://web.archive.o
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
+| sec-024a | [sec-024a.md](sec-024a.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
