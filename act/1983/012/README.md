@@ -1,6 +1,6 @@
-# Payment of Gratuity Act, No. 12 of 1983
+# Payment Of Gratuity (Act No. 12 of 1983)
 
-Act No. 12 of 1983 · version in force from 1983-03-18 · <https://web.archive.org/web/20221007184033/http://www.lawnet.gov.lk/payment-of-gratuity-3/>
+Act No. 12 of 1983 · version in force from 1992-11-13 · <https://web.archive.org/web/20240908041010/http://www.lawnet.gov.lk/payment-of-gratuity-2/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,9 @@ Act No. 12 of 1983 · version in force from 1983-03-18 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
+| sec-007b | [sec-007b.md](sec-007b.md) |
+| sec-007c | [sec-007c.md](sec-007c.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |

@@ -1,3 +1,7 @@
 AN ACT TO PROVIDE FOR THE PAYMENT or A GRATUITY BY EMPLOYERS TO THEIR WORKMEN, FOR THE AMENDMENT OF THE LAND ACQUISITION ACT, THE LAND REFORM LAW AND THE INDUSTRIAL DISPUTES ACT, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
-BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:”
+Act Nos,
+12 of 1983
+41 of 1990
+62 of 1992
 [ 18 th March
