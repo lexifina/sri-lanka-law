@@ -1,0 +1,6 @@
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE SIR JOHN KOTELAWALA DEFENCE ACADEMY, TO PROVIDE FOR THE VESTING OF KANDAWELA ESTATE AND THE MOVABLE PROPERTY THEREON IN THE ACADEMY, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS by deed No. 1292 dated 11th July, 1979, and attested by Sree Ragavan Narayanasamy of Colombo, Notary Public, Sir John Lionel Kotelawala CH, K.B.E, LLD transferred as and by way of gift absolute and irrevocable to the Democratic Socialist Republic of Sri Lanka the land and premises owned and possessed by him known as Kandawela Estate described in the Schedule hereto:
+AND WHEREAS by deed No. 1389 dated 7th April, 1980, and attested by Sree Ragavan Narayanasamy of Colombo, Notary Public, the said Sir John Lionel Kotelawala CH, K.B.E.,LLD transferred as and by way of gift absolute and irrevocable to the Democratic Socialist Republic of Sri Lanka all the movable properties described in the Schedule thereto:
+AND WHEREAS it was the wish and desire of Sir John Lionel Kotewala CH, K.B.E., LLD, now deceased, that the said land and premises and movable properties shall be used for the purpose of establishing a National Defence Academy to provide pre-officer cadet training:
+Be it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:
+[ 3 rd November
