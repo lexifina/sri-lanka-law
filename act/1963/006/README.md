@@ -1,6 +1,6 @@
-# Manufacture of Matches (Regulation) Act, No. 6 of 1963
+# Manufacture Of Matches (Regulation) (Act No. 6 of 1963)
 
-Act No. 6 of 1963 · version in force from 1963-09-04 · <https://web.archive.org/web/20220521180412/http://www.lawnet.gov.lk/manufacture-of-matches-3/>
+Act No. 6 of 1963 · version in force from 1963-12-01 · <https://web.archive.org/web/20220117160435/http://www.lawnet.gov.lk/manufacture-of-matches-regulation/>
 
 | Provision | File |
 | --- | --- |
@@ -20,5 +20,3 @@ Act No. 6 of 1963 · version in force from 1963-09-04 · <https://web.archive.or
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
-| sec-016 | [sec-016.md](sec-016.md) |
-| sec-017 | [sec-017.md](sec-017.md) |
