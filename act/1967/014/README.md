@@ -1,6 +1,6 @@
 # Indo-Ceylon Agreement (Implementation) (Act No. 14 of 1967)
 
-Act No. 14 of 1967 · version in force from 1971-10-28 · <https://web.archive.org/web/20200926215935/http://www.lawnet.gov.lk/indo-ceylon-agreement-implementation-2/>
+Act No. 14 of 1967 · version in force from 1981-07-23 · <https://web.archive.org/web/20240814142652/http://www.lawnet.gov.lk/indo-ceylon-agreement-implementation-4/>
 
 | Provision | File |
 | --- | --- |
