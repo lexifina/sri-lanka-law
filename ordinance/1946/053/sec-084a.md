@@ -1,0 +1,4 @@
+# 84A. Duty of employers to grant leave to employees to vote.
+[23, 15 of 1965.]
+(1) Any person, being the employer of any other person who is entitled to vote at any election under this Ordinance shall, upon application in writing in that behalf made by such other person. grant such other person, leave, without loss of pay, for such continuous period (not less than two hours in duration) as that person may deem sufficient to enable such other person to vote at that election.
+(2) Any person who contravenes or fails to comply with the provisions of subsection (1) shall be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be liable to a fine not exceeding five hundred rupees, or to imprisonment of either description for a term not exceeding one month or to both such fine and imprisonment.

@@ -1,0 +1,10 @@
+# 65A.
+[70, Law 24 of 1977.]
+(1) If the office of Mayor falls vacant due to death, resignation or for any other cause, the elections officer shall declare the Deputy Mayor elected as Mayor.
+(2) If the office of Deputy Mayor falls vacant due to death, resignation or for any other cause, the elections officer shall declare elected as Deputy Mayor from the nomination paper of the recognized political party or independent group to which the Deputy Mayor who vacated office belonged the member whose name appears next after the name of such Deputy Mayor who vacated office.
+(3) If the office of a member falls vacant due to death, resignation or for any other cause, the elections officer shall declare elected as member the candidate whose name appears next after the last of the elected members in the nomination paper of the recognized political party or independent group to which the member who vacated office belonged.
+(4) Where all the candidates whose names remain in the nomination paper of any recognized political party or independent group have been elected and a vacancy occurs to be filled by a candidate from such party or group the elections officer shall inform the Minister through the Commissioner-
+(a) that a candidate has to be elected to fill a vacancy of a member ; and
+(b) that there remains no candidate to be elected from the nomination paper of the party or group to which that member belonged.
+(5) Upon the receipt of such information, the Minister shall call upon the secretary of such recognized political party or the group leader of such independent group to nominate a candidate who is eligible under this Ordinance for election as member of that local authority, to fill such vacant seat or office.
+(6) The Minister shall, by Order published in the Gazette, appoint such person as member of that local authority to fill such vacancy or office and the person so appointed shall be deemed, for all purposes, to be a member under the provisions of this Ordinance, and shall hold office only until the expiry of the current term of office of the members elected at the last preceding general election.

@@ -1,0 +1,4 @@
+# 84C. Requisitioning of premises for use as polling stations.
+[23, 15 of 1965.]
+(1) Where the Commissioner considers that any premises, other than any school referred to in section 70, are required for the purpose of being used as a polling station, he may requisition those premises for that purpose by order in writing addressed to and served on the person in actual possession of those premises, or where no person is in such actual possession, on the owner of such premises.
+(2) Where any premises are requisitioned under subsection (1), the period of such requisition shall not extend beyond four weeks. (3) In this section, ” premises ” means any land, building or part of a building and includes a hut, shed or structure or any part thereof.
