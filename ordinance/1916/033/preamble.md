@@ -1,0 +1,10 @@
+AN ORDINANCE TO AMEND THE LAW RELATING TO FIREARMS.
+Ordinance Nos,
+33 of 1916
+6 of 1920
+12 of 1945
+7 of 1947
+Act Nos,
+18 of 1955
+22 of 1955
+[ 1 st April
