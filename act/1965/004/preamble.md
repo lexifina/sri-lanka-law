@@ -1,0 +1,5 @@
+AN ACT TO ENABLE THE RE-ENTRY OF CERTAIN LOST ENTRIES IN THE MARRIAGE REGISTER KEPT BY ONE OF THE REGISTRARS OF MUSLIM MARRIAGES APPOINTED FOR THE PARANAKURU KORALE IN THE KEGALLA DISTRICT UNDER THE MUSLIM MARRIAGE AND DIVORCE ACT. Cap. 115.
+Whereas in the month of May, 1959, A. L. M. Aboosally Marikkar, one of the Registrars of Muslim Marriages appointed for the Paranakuru Korale in the administrative district of Kegalla, under the Muslim Marriage and Divorce Act, entered statements of the particulars of certain marriages, in foil and counterfoil, in the marriage register kept by him under section 18 of that Act:
+And whereas the volume of the said marriage register containing the said statements has subsequently been reported to have been lost:
+And whereas it is expedient that statements of the particulars of the said marriages should be entered afresh in the said marriage register:
+Be it, therefore, enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
