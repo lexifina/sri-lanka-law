@@ -1,6 +1,6 @@
 # Bank Of Ceylon (Ordinance No. 53 of 1938)
 
-Ordinance No. 53 of 1938 · version in force from 1980-12-29 · <https://web.archive.org/web/20200922021501/http://www.lawnet.gov.lk/bank-of-ceylon-3/>
+Ordinance No. 53 of 1938 · version in force from 2000-08-18 · <https://web.archive.org/web/20241012042709/http://www.lawnet.gov.lk/bank-of-ceylon-4/>
 
 | Provision | File |
 | --- | --- |
@@ -15,11 +15,14 @@ Ordinance No. 53 of 1938 · version in force from 1980-12-29 · <https://web.arc
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
+| sec-017a | [sec-017a.md](sec-017a.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
