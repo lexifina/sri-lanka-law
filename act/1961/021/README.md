@@ -1,6 +1,6 @@
-# Institute Of Surveying And Mapping (Act No. 21 of 1961)
+# Fertilizers (Act No. 21 of 1961)
 
-Act No. 21 of 1961 · version in force from 1969-06-25 · <https://web.archive.org/web/20220117165707/http://www.lawnet.gov.lk/institute-of-surveying-and-mapping/>
+Act No. 21 of 1961 · version in force from 1980-12-31 · <https://web.archive.org/web/20240523121718/http://www.lawnet.gov.lk/fertilizers-4/>
 
 | Provision | File |
 | --- | --- |
@@ -16,3 +16,18 @@ Act No. 21 of 1961 · version in force from 1969-06-25 · <https://web.archive.o
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-015 | [sec-015.md](sec-015.md) |
+| sec-016 | [sec-016.md](sec-016.md) |
+| sec-017 | [sec-017.md](sec-017.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
+| sec-019 | [sec-019.md](sec-019.md) |
+| sec-020 | [sec-020.md](sec-020.md) |
+| sec-021 | [sec-021.md](sec-021.md) |
+| sec-022 | [sec-022.md](sec-022.md) |
+| sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
+| sec-025 | [sec-025.md](sec-025.md) |
+| sec-026 | [sec-026.md](sec-026.md) |
+| sec-027 | [sec-027.md](sec-027.md) |
