@@ -1,6 +1,6 @@
-# Registration of Persons Act, No. 32 of 1968
+# Registration Of Persons (Act No. 32 of 1968)
 
-Act No. 32 of 1968 · version in force from 1968-06-22 · <https://web.archive.org/web/20230606102611/http://www.lawnet.gov.lk/registration-of-persons-6/>
+Act No. 32 of 1968 · version in force from 1971-10-12 · <https://web.archive.org/web/20220117165822/http://www.lawnet.gov.lk/registration-of-persons-2/>
 
 | Provision | File |
 | --- | --- |
@@ -41,6 +41,7 @@ Act No. 32 of 1968 · version in force from 1968-06-22 · <https://web.archive.o
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
+| sec-036a | [sec-036a.md](sec-036a.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
@@ -58,5 +59,4 @@ Act No. 32 of 1968 · version in force from 1968-06-22 · <https://web.archive.o
 | sec-051 | [sec-051.md](sec-051.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
-| sec-054 | [sec-054.md](sec-054.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
