@@ -1,6 +1,6 @@
-# Sri Lanka Ex-Servicemen’s Association Law, No. 8 of 1976
+# Sri Lanka Ex-Servicemen’S Association (Law No. 8 of 1976)
 
-Law No. 8 of 1976 · version in force from 1976-04-09 · <https://web.archive.org/web/20220930090106/http://www.lawnet.gov.lk/sri-lanka-ex-servicemens-association-law-2/>
+Law No. 8 of 1976 · version in force from 1992-08-17 · <https://web.archive.org/web/20240917045217/http://www.lawnet.gov.lk/sri-lanka-ex-servicemens-association-3/>
 
 | Provision | File |
 | --- | --- |
