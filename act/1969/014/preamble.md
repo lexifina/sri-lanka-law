@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE REMOVAL OF DOUBTS AS TO THE VALIDITY OF LOANS GRANTED BY CO-OPEHATIVE SOCIETIES FOR AGRICULTURAL PURPOSES TO THEIR MEMBERS ON THE SECURITY OF CERTAIN BONDS, AND AS TO THE VALIDITY OF SUCH BONDS, AND FOR PURPOSES CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
