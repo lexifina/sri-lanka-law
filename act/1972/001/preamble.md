@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A UNIVERSITY OF CEYLON, FOR THE ESTABLISHMENT, MAINTENANCE AND ADMINISTRATION OF THAT UNIVERSITY, ITS CAMPUSES, FACULTIES AND INSTITUTES AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty by and with, the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
