@@ -1,6 +1,6 @@
-# Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979
+# Prevention Of Terrorism (Act No. 48 of 1979)
 
-Act No. 48 of 1979 · version in force from 1979-07-20 · <https://web.archive.org/web/20221004131119/http://www.lawnet.gov.lk/prevention-of-terrorism-temporary-provisions-2/>
+Act No. 48 of 1979 · version in force from 1988-07-15 · <https://web.archive.org/web/20220404065653/http://www.lawnet.gov.lk/prevention-of-terrorism-3/>
 
 | Provision | File |
 | --- | --- |
@@ -20,6 +20,7 @@ Act No. 48 of 1979 · version in force from 1979-07-20 · <https://web.archive.o
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
+| sec-015a | [sec-015a.md](sec-015a.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
