@@ -1,0 +1,17 @@
+AN ACT TO AMEND THE MUNICIPAL COUNCILS ORDINANCE.
+Ordinance Nos,
+29 of 1947
+Act Nos,
+1 of 1949
+9 of 1950
+3 of 1951
+12 of 1951
+39 of 1951
+8 of 1952
+38 of 1953
+7 of 1954
+26 of 1954
+44 of 1954
+22 of 1955
+22 of 1956
+[ 15 th August
