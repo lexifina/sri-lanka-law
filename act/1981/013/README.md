@@ -1,6 +1,6 @@
-# National Health Development Fund Act, No. 13 of 1981
+# National Health Development Fund (Act No. 13 of 1981)
 
-Act No. 13 of 1981 · version in force from 1981-03-05 · <https://web.archive.org/web/20220521182941/http://www.lawnet.gov.lk/national-health-development-fund-3/>
+Act No. 13 of 1981 · version in force from 1987-05-21 · <https://web.archive.org/web/20240918175454/http://www.lawnet.gov.lk/national-health-development-fund-2/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,7 @@ Act No. 13 of 1981 · version in force from 1981-03-05 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
