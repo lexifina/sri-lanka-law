@@ -1,0 +1,2 @@
+# 69C. Obligation to comply with Notice to quit.
+Where a Notice to quit has been served or exhibited as provided under section 69B, the person in possession or occupation of the building to which the notice relates shall together with his dependants, or other occupants, if any. duly vacate such building or portion thereof and deliver peaceful vacant possession of such building or portion thereof to the General Manager or any person authorized by him in that behalf and specified in the notice.

@@ -1,0 +1,2 @@
+# 69F. Provisions of this Part to prevail over any other provision of this Act or other written law.
+The provisions of this Part shall have effect notwithstanding anything contained in any other provision of this Act or other written law, and accordingly, in the event of any conflict or inconsistency between the provisions of this Part and such other provision or written law, the provisions of this Part shall prevail.

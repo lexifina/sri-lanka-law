@@ -1,6 +1,6 @@
 # National Housing Development Authority (Act No. 17 of 1979)
 
-Act No. 17 of 1979 · version in force from 1979-04-01 · <https://web.archive.org/web/20220117032941/http://www.lawnet.gov.lk/national-housing-development-authority-2/>
+Act No. 17 of 1979 · version in force from 2003-10-22 · <https://web.archive.org/web/20240908032313/http://www.lawnet.gov.lk/national-housing-development-authority-3/>
 
 | Provision | File |
 | --- | --- |
@@ -74,10 +74,18 @@ Act No. 17 of 1979 · version in force from 1979-04-01 · <https://web.archive.o
 | sec-067 | [sec-067.md](sec-067.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
+| sec-069a | [sec-069a.md](sec-069a.md) |
+| sec-069b | [sec-069b.md](sec-069b.md) |
+| sec-069c | [sec-069c.md](sec-069c.md) |
+| sec-069d | [sec-069d.md](sec-069d.md) |
+| sec-069e | [sec-069e.md](sec-069e.md) |
+| sec-069f | [sec-069f.md](sec-069f.md) |
+| sec-069g | [sec-069g.md](sec-069g.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
 | sec-073 | [sec-073.md](sec-073.md) |
+| sec-073a | [sec-073a.md](sec-073a.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
 | sec-075 | [sec-075.md](sec-075.md) |
 | sec-076 | [sec-076.md](sec-076.md) |
