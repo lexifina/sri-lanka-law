@@ -1,0 +1,5 @@
+AN ACT TO VALIDATE THE APPOINTMENTS OF QUAZIS OR BOARDS OF QUAZIS WHO OR WHICH HAD BEEN APPOINTED BY THE MINISTER UNDER THE PROVISIONS OF THE MUSLIM MARRIAGE AND DIVORCE ACT AND TO MAKE PROVISION FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. Cap. 115.
+Whereas under the provisions of the Muslim Marriage and Divorce Act before such Act was amended by Act No. 1 of 1965 an appointment of a Quazi or a Board of Quazis was made by the Minister:
+And whereas the Supreme Court in the case of K. S. S. Jailabdeen vs. A. R. Danina Umma (S. C. 2/1962-Quazi Court, Colombo South, No. 626) held that the Minister was not the proper authority to make such an appointment:
+And whereas it is necessary to validate the appointments of Quazis or Boards of Quazis who or which had been appointed by the Minister:
+Be it therefore enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
