@@ -1,6 +1,6 @@
 # Double Taxation (Relief) (Act No. 26 of 1950)
 
-Act No. 26 of 1950 · version in force from 1950-10-20 · <https://web.archive.org/web/20200924102139/http://www.lawnet.gov.lk/double-taxation-relief-2/>
+Act No. 26 of 1950 · version in force from 1963-03-30 · <https://web.archive.org/web/20240525213157/http://www.lawnet.gov.lk/double-taxation-relief-3/>
 
 | Provision | File |
 | --- | --- |
