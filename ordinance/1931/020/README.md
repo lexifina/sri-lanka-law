@@ -1,6 +1,6 @@
 # Land Settlement (Ordinance No. 20 of 1931)
 
-Ordinance No. 20 of 1931 · version in force from 1955-04-14 · <https://web.archive.org/web/20220117045624/http://www.lawnet.gov.lk/land-settlement-3/>
+Ordinance No. 20 of 1931 · version in force from 1996-08-22 · <https://web.archive.org/web/20240920101750/http://www.lawnet.gov.lk/land-settlement-6/>
 
 | Provision | File |
 | --- | --- |
@@ -10,6 +10,7 @@ Ordinance No. 20 of 1931 · version in force from 1955-04-14 · <https://web.arc
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -17,6 +18,7 @@ Ordinance No. 20 of 1931 · version in force from 1955-04-14 · <https://web.arc
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |

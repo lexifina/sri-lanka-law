@@ -5,4 +5,5 @@ Ordinance Nos,
 31 of 1933
 Act Nos,
 22 of 1955
+23 of 1996
 [ 23 rd October
