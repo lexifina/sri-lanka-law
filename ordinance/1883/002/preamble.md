@@ -1,0 +1,36 @@
+AN ORDINANCE TO PROVIDE A GENERAL PENAL CODE FOR CEYLON.
+Ordinance Nos,
+2 of 1883
+11 of 1887
+13 of 1888
+13 of 1890
+3 of 1892
+11 of 1895
+15 of 1898
+16 of 1898
+5 of 1903
+10 of 1903
+12 of 1906
+10 of 1909
+10 of 1910
+26 of 1912
+7 of 1915
+16 of 1918
+21 of 1919
+25 of 1919
+5 of 1924
+19 of 1926
+23 of 1937
+29 of 1938
+50 of 1939
+54 of 1939
+62 of 1939
+19 of 1941
+6 of 1944
+12 of 1945
+40 of 1945
+37 of 1946
+Act Nos,
+6 of 1968
+50 of 1980
+[ 1 st January

@@ -1,0 +1,9 @@
+# 360A. Procuration.
+Any person who-
+(1) procures or attempts to procure any girl or woman under twenty-one years of age to leave Sri Lanka (whether with or without her consent) with a view to illicit sexual intercourse with any person outside Sri Lanka, or removes or attempts to remove from Sri Lanka any such girl or woman (whether with or without her consent) for the said purpose;
+(2) procures or attempts to procure any girl or woman to leave Sri Lanka (whether with or without her consent) with intent that she may become the inmate of, or frequent, a brothel elsewhere, or removes or attempts to remove from Sri Lanka any girl or woman (whether with or without her consent) for the said purpose;
+(3) brings or attempts to bring into Sri Lanka any girl or woman under twenty-one years of age (whether with or without her consent) with a view to illicit sexual intercourse with any person, whether within or without Sri Lanka;
+(4) procures or attempts to procure any girl or woman (whether with or without her consent) to become, within or without Sri Lanka, a common prostitute ;
+(5) procures or attempts to procure any girl or woman (whether with or without her consent) to leave her usual place of abode in Sri Lanka A(such place not being a brothel), with intent that she may for the purposes of prostitution become the inmate of, or frequent, a brothel within or without Sri Lanka,
+shall be guilty of an offence, and shall be liable on conviction to imprisonment of either description for any period not exceeding two years, and if a male, in addition to any such imprisonment, to be whipped;
+Provided that no person shall be convicted of any offence under this section upon the evidence of one witness, unless such evidence be coiioborated in some material particular by evidence implicating the accused.

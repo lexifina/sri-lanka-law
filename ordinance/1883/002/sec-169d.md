@@ -1,0 +1,3 @@
+# 169D. Presentation at elections.
+(1) Whoever at an election applies for a voting paper or votes in the name of any other person, whether living or dead, or in a fictitious name, or who having voted once at such election applies at the same election for a voting paper in his own name, and whoever abets, procures, or attempts to procure, the voting by any person in any such way commits the offence of presentation at an election.
+(2) For the purposes of this section, the word ” election ” includes any proceeding in which a poll or ballot is taken for the purpose of ascertaining the opinion of the majority of any specified set of persons on any question held under or by virtue of any enactment or any rules or regulations made thereunder.

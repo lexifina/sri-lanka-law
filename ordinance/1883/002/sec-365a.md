@@ -1,0 +1,2 @@
+# 365A. Acts of gross indecency between male persons.
+Any male person who, in public or private, commits, or is a party to the commission of, or procures or attempts to procure the commission by any male person of, any act of gross indecency with another male person, shall be guilty of an offence, and shall be punished with imprisonment of either description for a term which may extend to two years or with fine, or with both, and shall also be liable to be punished with whipping.

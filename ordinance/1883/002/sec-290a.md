@@ -1,0 +1,2 @@
+# 290A. Acts in relation to places of worship ,&c,with intent to insult the religion of any class.
+Whoever does any act, in or upon, or in the vicinity of, any place of worship or any object which is held sacred with intent to or in veneration by any class of persons, with the intention wounding the religious feelings of any class of persons or with the knowledge that any class of persons is likely to consider such act as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.

@@ -1,0 +1,2 @@
+# 482A. Punishment of persons reconvicted under this Chapter.
+Whoever, having been sentenced to a term of twelve months’ imprisonment or upwards for an offence punishable under this Chapter shall again be convicted of any offence punishable under this Chapter, shall be liable for every such subsequent conviction, at the discretion of the court, to imprisonment of either description, which may extend to two years, or to fine, or to both such punishments.

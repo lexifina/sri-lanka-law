@@ -1,0 +1,2 @@
+# 478B. Using as genuine forged or counterfeit currency note or bank note.
+Whoever sells to, or buys or receives from any other person or otherwise traffics in or uses as genuine, any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment of either description for a term which may extend to twenty years and shall also be liable to fine.

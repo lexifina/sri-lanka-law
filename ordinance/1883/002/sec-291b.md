@@ -1,0 +1,2 @@
+# 291B. Deliberate and malicious acts intended to outrage religious feelings of any class, by insulting its religion or religious beliefs.
+Whoever, with the deliberate and malicious intention of outraging the religious feelings of any class of persons, by words, either spoken or written, or by visible representations, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.

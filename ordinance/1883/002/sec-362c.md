@@ -1,0 +1,2 @@
+# 362C. Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted.
+Whoever commits the offence defined in the last preceding section, having concealed from the person with whom the subsequent marriage is contracted the fact of the former marriage, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

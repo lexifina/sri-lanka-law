@@ -1,0 +1,5 @@
+# 364A. Defilement of girls between twelve and fourteen.
+(1) Whoever has carnal intercourse or attempts to have carnal intercourse with any girl of or above the age of twelve years and under the age of fourteen years shall be guilty of an offence, and shall be punished with imprisonment of either description for a term not exceeding two years, and may in addition be punished with whipping.
+(2) It shall be a sufficient defence to any charge under this section if it should be made to appear to the court or jury before whom the charge shall be brought that the person so charged had reasonable cause to believe that the girl was of or above the age of fourteen years.
+(3) Sexual intercourse by a man with his own wife, or between a man and girl who are living together as husband and wife with the consent of the parents or guardians of the girl, shall not be an offence under this section if the girl is of or above the age of twelve years.
+(4) No prosecution shall be commenced for an offence under this section more than three months after the commission of the offence.

@@ -1,0 +1,5 @@
+# 478A. Counterfeiting currency notes or bank notes.
+(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment of either description for a term which may extend to twenty years and shall also be liable to fine.
+(2) For the purposes of this section and of sections 478B, 478c, and 478D-
+(a) “bank note” means a promissory note or engagement for the payment of money to bearer on demand .issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any state, or sovereign power and intended to be used as equivalent to, or as a substitute for, money;
+(b) ” currency note ” means a currency note issued under the Currency Ordinance, No. 21 of 1941, or under the Monetary Law Act, or any enactment in operation for the time being relating to the issue of paper currency in Sri Lanka and includes any note of a similar character, by whatever name called, issued by or on behalf of the Government of any foreign State.
