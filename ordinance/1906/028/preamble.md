@@ -1,0 +1,8 @@
+AN ORDINANCE TO PROHIBIT THE CARRYING OF DANGEROUS KNIVES.
+Ordinance Nos,
+28 of 1906
+14 of 1907
+12 of 1945
+Act Nos,
+30 of 1949
+[ 24 th November
