@@ -1,0 +1,3 @@
+# 31A. Imposition of a surcharge on employers who fail to furnish returns.
+[6, 42 of 1988]
+Where any employer, who is required in terms of this Act or any regulation made thereunder, to furnish a return together with any contribution, has failed to furnish such return, within the specified period or has furnished incorrect or deficient return and is unable to explain to the satisfaction of the Commissioner, the reason for the failure to furnish such return for that period; he shall be liable to pay to the Fund a surcharge at. the rate of one per cent of the amount of such contribution for every completed month or a part thereof from the last date on or before which the return was due to the date of receipt by the Central Bank of Sri Lanka of a duly completed return.
