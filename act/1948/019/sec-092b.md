@@ -1,0 +1,7 @@
+# 92B. Compensation for requisitioning premises.
+[ 21, 16 of 1956.]
+(1) Where any premises are requisitioned under section 92a, the Commissioner shall pay, out of moneys provided for the purpose by Parliament, compensation for such requisition to the person who was in actual possession of those premises immediately before the requisition or, where no person was in such actual possession, the owner of those premises, and shall make good any damage done to those premises during the period of the requisition.
+(2) The amount of compensation payable under subsection (1) in respect of any premises shall be determined by taking into consideration-
+(a) the rent payable in respect of those premises, or, where no rent is so payable, the rent payable for similar premises in the locality, and
+(b) if, in consequence of the requisition of those premises, the person who was in actual possession of those premises immediately before the requisition was compelled to change his residence or place of business, the reasonable expenses, if any, incidental to such change.
+(3) Where any person entitled to compensation under this section is aggrieved by the decision of the Commissioner in regard to the amount of the compensation, that person may appeal in writing to the Minister from that decision. Upon such appeal being made, the Minister shall appoint an arbitrator and shall refer such appeal to him for determination, and the determination of the arbitrator on such appeal shall be final.

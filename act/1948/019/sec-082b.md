@@ -1,0 +1,5 @@
+# 82B. Powers of the Supreme Court in appeals.
+[ 3, 19 of 1948.]
+(1) The Supreme Court may upon any appeal preferred under section 82A, affirm or reverse the determination of the Election Judge ; and where it reverses the determination, the court shall decide whether the Member whose return or election was complained of in the election petition, or any other and what person, was duly returned or elected, or whether the election was void, and a certificate of such decision shall be issued by the court.
+(2) The Supreme Court may make any order which it may deem just as to the costs of the appeal and as to the costs of and incidental to the presentation of the election petition and of the proceedings consequent thereon, and may by such order reverse or vary any order as to costs made by the Election Judge ; and the provisions of the Third Schedule as to the award, taxation and recovery of costs shall mutatis mutandis apply in relation to the award of such costs by the Supreme Court and the taxation and recovery thereof.
+(3) The decision of the Supreme Court on any appeal shall be final and conclusive.

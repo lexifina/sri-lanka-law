@@ -1,0 +1,2 @@
+# 68A.
+A candidate, or an election agent, who prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertisement, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher shall be guilty of an illegal practice. 68B. A candidate, or an election agent, who knowingly makes the declaration as to election expenses required by section 70 falsely shall be guilty of an illegal practice.
