@@ -1,0 +1,23 @@
+AN ORDINANCE TO AMEND AND CONSOLIDATE THE LAW RELATING TO THE POST OFFICE IN CEYLON.
+Ordinance Nos,
+11 of 1908
+24 of 1912
+26 of 1914
+20 of 1917
+14 of 1926
+27 of 1932
+5 of 1933
+30 of 1933
+35 of 1933
+21 of 1934
+12 of 1936
+37 of 1938
+65 of 1938
+6 of 1940
+18 of 1941
+61 of 1946
+Act Nos,
+31 of 1955
+[ 1 st January
+, 1909 ]
+short title.
