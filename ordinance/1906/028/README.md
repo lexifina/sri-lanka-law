@@ -1,6 +1,6 @@
 # Dangerous Knives (Ordinance No. 28 of 1906)
 
-Ordinance No. 28 of 1906 · version in force from 1949-06-06 · <https://web.archive.org/web/20200924101644/http://www.lawnet.gov.lk/dangerous-knives-2/>
+Ordinance No. 28 of 1906 · version in force from 1978-11-02 · <https://web.archive.org/web/20200922180551/http://www.lawnet.gov.lk/dangerous-knives-3/>
 
 | Provision | File |
 | --- | --- |
@@ -18,5 +18,6 @@ Ordinance No. 28 of 1906 · version in force from 1949-06-06 · <https://web.arc
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |

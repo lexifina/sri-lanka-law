@@ -5,4 +5,5 @@ Ordinance Nos,
 12 of 1945
 Act Nos,
 30 of 1949
+2 of 1978
 [ 24 th November
