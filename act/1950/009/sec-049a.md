@@ -1,0 +1,4 @@
+# 49A. Acquisition of land for the purposes of a public corporation.
+[17, 28 of 1964.]
+(1) Where any land is required for any purpose of a public corporation and the acquisition of such land for that purpose under this Act is not authorized by any other written law, the Minister to whom the subject of that corporation has been assigned under the Constitution may, by Order published in the Gazette, declare that such land is so required, and upon such publication that purpose shall be deemed to be a public purpose, and the provisions of this Act shall apply accordingly to the acquisition of such land for that corporation.
+(2) For the purposes of this section, the expression ” public corporation ” means a corporation which was, or is, established with capital wholly or partly provided by the Government.

@@ -1,6 +1,6 @@
 # Land Acquisition (Act No. 9 of 1950)
 
-Act No. 9 of 1950 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919045220/http://www.lawnet.gov.lk/land-acquisition/>
+Act No. 9 of 1950 · version in force from 1979-01-25 · <https://web.archive.org/web/20220117161025/http://www.lawnet.gov.lk/land-acquisition-3/>
 
 | Provision | File |
 | --- | --- |
@@ -9,6 +9,7 @@ Act No. 9 of 1950 · version in force from 1955-04-14 · <https://web.archive.or
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
+| sec-004a | [sec-004a.md](sec-004a.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
@@ -28,6 +29,7 @@ Act No. 9 of 1950 · version in force from 1955-04-14 · <https://web.archive.or
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
+| sec-023a | [sec-023a.md](sec-023a.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
@@ -43,19 +45,25 @@ Act No. 9 of 1950 · version in force from 1955-04-14 · <https://web.archive.or
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
+| sec-038a | [sec-038a.md](sec-038a.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
+| sec-039a | [sec-039a.md](sec-039a.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
+| sec-040a | [sec-040a.md](sec-040a.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
+| sec-046a | [sec-046a.md](sec-046a.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
+| sec-049a | [sec-049a.md](sec-049a.md) |
 | sec-050 | [sec-050.md](sec-050.md) |
 | sec-051 | [sec-051.md](sec-051.md) |
+| sec-051a | [sec-051a.md](sec-051a.md) |
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
