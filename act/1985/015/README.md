@@ -1,6 +1,6 @@
-# Regional Rural Development Banks (Act No. 15 of 1985)
+# Regional Development Banks (Act No. 15 of 1985)
 
-Act No. 15 of 1985 · version in force from 1985-04-10 · <https://web.archive.org/web/20240917045909/http://www.lawnet.gov.lk/regional-rural-development-banks-2/>
+Act No. 15 of 1985 · version in force from 1997-06-05 · <https://web.archive.org/web/20240814125645/http://www.lawnet.gov.lk/regional-development-banks-2/>
 
 | Provision | File |
 | --- | --- |
@@ -21,7 +21,7 @@ Act No. 15 of 1985 · version in force from 1985-04-10 · <https://web.archive.o
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
-| sec-017 | [sec-017.md](sec-017.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
@@ -46,10 +46,12 @@ Act No. 15 of 1985 · version in force from 1985-04-10 · <https://web.archive.o
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
-| sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
 | sec-049 | [sec-049.md](sec-049.md) |
+| sec-050 | [sec-050.md](sec-050.md) |
+| sec-051 | [sec-051.md](sec-051.md) |
+| sec-052 | [sec-052.md](sec-052.md) |
