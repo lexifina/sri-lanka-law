@@ -1,6 +1,6 @@
-# Prize Competitions Act, No. 37 of 1957
+# Prize Competitions (Act No. 37 of 1957)
 
-Act No. 37 of 1957 · version in force from 1957-08-21 · <https://web.archive.org/web/20220930092329/http://www.lawnet.gov.lk/prize-competitions-4/>
+Act No. 37 of 1957 · version in force from 1968-12-24 · <https://web.archive.org/web/20220117170857/http://www.lawnet.gov.lk/prize-competitions/>
 
 | Provision | File |
 | --- | --- |
