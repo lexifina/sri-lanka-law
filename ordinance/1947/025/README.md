@@ -1,6 +1,6 @@
 # Public Security (Ordinance No. 25 of 1947)
 
-Ordinance No. 25 of 1947 · version in force from 1953-08-19 · <https://web.archive.org/web/20220818152750/http://www.lawnet.gov.lk/public-security-2/>
+Ordinance No. 25 of 1947 · version in force from 1978-02-07 · <https://web.archive.org/web/20201201204435/http://www.lawnet.gov.lk/public-security-3/>
 
 | Provision | File |
 | --- | --- |
@@ -16,3 +16,16 @@ Ordinance No. 25 of 1947 · version in force from 1953-08-19 · <https://web.arc
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
+| sec-015 | [sec-015.md](sec-015.md) |
+| sec-016 | [sec-016.md](sec-016.md) |
+| sec-017 | [sec-017.md](sec-017.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
+| sec-019 | [sec-019.md](sec-019.md) |
+| sec-020 | [sec-020.md](sec-020.md) |
+| sec-021 | [sec-021.md](sec-021.md) |
+| sec-022 | [sec-022.md](sec-022.md) |
+| sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
