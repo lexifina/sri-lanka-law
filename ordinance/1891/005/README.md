@@ -1,6 +1,6 @@
 # Public Service Mutual Provident Association (Ordinance No. 5 of 1891)
 
-Ordinance No. 5 of 1891 · version in force from 1953-03-27 · <https://web.archive.org/web/20220818152754/http://www.lawnet.gov.lk/public-service-mutual-provident-association/>
+Ordinance No. 5 of 1891 · version in force from 1978-01-12 · <https://web.archive.org/web/20220117041531/http://www.lawnet.gov.lk/public-service-mutual-provident-association-3/>
 
 | Provision | File |
 | --- | --- |
