@@ -1,6 +1,6 @@
 # Lotteries (Ordinance No. 8 of 1844)
 
-Ordinance No. 8 of 1844 · version in force from 1954-01-23 · <https://web.archive.org/web/20220818002158/http://www.lawnet.gov.lk/lotteries-2/>
+Ordinance No. 8 of 1844 · version in force from 1958-09-04 · <https://web.archive.org/web/20220117171308/http://www.lawnet.gov.lk/lotteries-3/>
 
 | Provision | File |
 | --- | --- |
