@@ -1,6 +1,6 @@
 # Plantation Management Institute (Act No. 45 of 1979)
 
-Act No. 45 of 1979 · version in force from 1981-05-01 · <https://web.archive.org/web/20220117045301/http://www.lawnet.gov.lk/plantation-management-institute-2/>
+Act No. 45 of 1979 · version in force from 2003-11-14 · <https://web.archive.org/web/20240814142050/http://www.lawnet.gov.lk/plantation-management-institute-3/>
 
 | Provision | File |
 | --- | --- |
@@ -18,7 +18,15 @@ Act No. 45 of 1979 · version in force from 1981-05-01 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
+| sec-015a | [sec-015a.md](sec-015a.md) |
+| sec-015b | [sec-015b.md](sec-015b.md) |
+| sec-015c | [sec-015c.md](sec-015c.md) |
+| sec-015d | [sec-015d.md](sec-015d.md) |
+| sec-015e | [sec-015e.md](sec-015e.md) |
+| sec-015f | [sec-015f.md](sec-015f.md) |
+| sec-015g | [sec-015g.md](sec-015g.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
@@ -28,10 +36,12 @@ Act No. 45 of 1979 · version in force from 1981-05-01 · <https://web.archive.o
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
+| sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
+| sec-030a | [sec-030a.md](sec-030a.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
