@@ -3,4 +3,6 @@ Law Nos,
 24 of 1978
 Act Nos,
 24 of 1968
+51 of 1981
+7 of 1998
 [ 4 th September

@@ -1,6 +1,6 @@
 # State Printing Corporation (Law No. 24 of 1978)
 
-Law No. 24 of 1978 · version in force from 1968-06-16 · <https://web.archive.org/web/20210119114645/http://www.lawnet.gov.lk/state-printing-corporation-2/>
+Law No. 24 of 1978 · version in force from 1998-03-27 · <https://web.archive.org/web/20240919145417/http://www.lawnet.gov.lk/state-printing-corporation-3/>
 
 | Provision | File |
 | --- | --- |
