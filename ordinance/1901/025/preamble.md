@@ -1,0 +1,14 @@
+AN ORDINANCE TO PROVIDE FOR THE REGISTRATION OF DOGS.
+Ordinance Nos,
+25 of 1901
+20 of 1915
+3 of 1920
+21 of 1921
+26 of 1938
+61 of 1939
+12 of 1945
+23 of 1946
+29 of 1947
+Act Nos,
+60 of 1961
+[ 3 rd January
