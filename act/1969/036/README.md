@@ -1,6 +1,6 @@
-# Industrial Development Act, No. 36 of 1969
+# Industrial Development (Act No. 36 of 1969)
 
-Act No. 36 of 1969 · version in force from 1969-12-28 · <https://web.archive.org/web/20240615024553/http://www.lawnet.gov.lk/industrial-development-4/>
+Act No. 36 of 1969 · version in force from 1970-01-29 · <https://web.archive.org/web/20200922020749/http://www.lawnet.gov.lk/industrial-development/>
 
 | Provision | File |
 | --- | --- |
@@ -18,7 +18,6 @@ Act No. 36 of 1969 · version in force from 1969-12-28 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
