@@ -1,6 +1,6 @@
 # Bank Of Ceylon (Ordinance No. 53 of 1938)
 
-Ordinance No. 53 of 1938 · version in force from 1955-11-12 · <https://web.archive.org/web/20200921063637/http://www.lawnet.gov.lk/bank-of-ceylon/>
+Ordinance No. 53 of 1938 · version in force from 1980-12-29 · <https://web.archive.org/web/20200922021501/http://www.lawnet.gov.lk/bank-of-ceylon-3/>
 
 | Provision | File |
 | --- | --- |
@@ -15,10 +15,8 @@ Ordinance No. 53 of 1938 · version in force from 1955-11-12 · <https://web.arc
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -38,28 +36,10 @@ Ordinance No. 53 of 1938 · version in force from 1955-11-12 · <https://web.arc
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
-| sec-034 | [sec-034.md](sec-034.md) |
-| sec-035 | [sec-035.md](sec-035.md) |
-| sec-036 | [sec-036.md](sec-036.md) |
-| sec-037 | [sec-037.md](sec-037.md) |
-| sec-038 | [sec-038.md](sec-038.md) |
-| sec-039 | [sec-039.md](sec-039.md) |
-| sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
-| sec-045 | [sec-045.md](sec-045.md) |
-| sec-046 | [sec-046.md](sec-046.md) |
-| sec-047 | [sec-047.md](sec-047.md) |
-| sec-048 | [sec-048.md](sec-048.md) |
-| sec-049 | [sec-049.md](sec-049.md) |
-| sec-050 | [sec-050.md](sec-050.md) |
-| sec-051 | [sec-051.md](sec-051.md) |
-| sec-052 | [sec-052.md](sec-052.md) |
-| sec-053 | [sec-053.md](sec-053.md) |
-| sec-054 | [sec-054.md](sec-054.md) |
-| sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
 | sec-057 | [sec-057.md](sec-057.md) |
 | sec-058 | [sec-058.md](sec-058.md) |
@@ -70,14 +50,14 @@ Ordinance No. 53 of 1938 · version in force from 1955-11-12 · <https://web.arc
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
-| sec-066 | [sec-066.md](sec-066.md) |
-| sec-067 | [sec-067.md](sec-067.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
+| sec-069a | [sec-069a.md](sec-069a.md) |
+| sec-069b | [sec-069b.md](sec-069b.md) |
+| sec-069c | [sec-069c.md](sec-069c.md) |
+| sec-069d | [sec-069d.md](sec-069d.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
-| sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
-| sec-075 | [sec-075.md](sec-075.md) |
 | sec-076 | [sec-076.md](sec-076.md) |
