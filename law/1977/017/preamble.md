@@ -1,0 +1,2 @@
+A LAW TO REPEAL THE FOREIGN EXCHANGE ENTITLEMENT CERTIFICATES ACT, NO. 28 OF 1968, AND TO PROVIDE FOR CERTAIN CONSEQUENTIAL MATTERS.
+BE it enacted by the National State Assembly of the Republic of Sri Lanka as follows : –
