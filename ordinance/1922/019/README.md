@@ -1,6 +1,6 @@
 # British Soldiers’ And Sailors’ Institute (Ordinance No. 19 of 1922)
 
-Ordinance No. 19 of 1922 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919212834/http://www.lawnet.gov.lk/british-soldiers-and-sailors-institute/>
+Ordinance No. 19 of 1922 · version in force from 1973-02-14 · <https://web.archive.org/web/20240910201439/http://www.lawnet.gov.lk/british-soldiers-and-sailors-institute-3/>
 
 | Provision | File |
 | --- | --- |
