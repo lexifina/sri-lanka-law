@@ -1,6 +1,6 @@
-# Tea Small : Holdings Development Law, No. 35 of 1975
+# Tea Small Holdings Development (Law No. 35 of 1975)
 
-Law No. 35 of 1975 · version in force from 1975-09-09 · <https://web.archive.org/web/20221004124208/http://www.lawnet.gov.lk/tea-small-holdings-development-law-2/>
+Law No. 35 of 1975 · version in force from 2003-10-22 · <https://web.archive.org/web/20240920111205/http://www.lawnet.gov.lk/tea-small-holdings-development-3/>
 
 | Provision | File |
 | --- | --- |
@@ -13,6 +13,7 @@ Law No. 35 of 1975 · version in force from 1975-09-09 · <https://web.archive.o
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
+| sec-008a | [sec-008a.md](sec-008a.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
@@ -22,6 +23,7 @@ Law No. 35 of 1975 · version in force from 1975-09-09 · <https://web.archive.o
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
+| sec-017a | [sec-017a.md](sec-017a.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
