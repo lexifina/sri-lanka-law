@@ -1,11 +1,13 @@
 # Money Lending (Ordinance No. 2 of 1918)
 
-Ordinance No. 2 of 1918 · version in force from 1954-02-22 · <https://web.archive.org/web/20220818002328/http://www.lawnet.gov.lk/money-lending-2/>
+Ordinance No. 2 of 1918 · version in force from 1963-12-21 · <https://web.archive.org/web/20220117034908/http://www.lawnet.gov.lk/money-lending-3/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
+| sec-001a | [sec-001a.md](sec-001a.md) |
+| sec-001b | [sec-001b.md](sec-001b.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
