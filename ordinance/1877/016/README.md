@@ -1,6 +1,6 @@
 # Prisons (Ordinance No. 16 of 1877)
 
-Ordinance No. 16 of 1877 · version in force from 1952-11-13 · <https://web.archive.org/web/20220818152724/http://www.lawnet.gov.lk/prisons-2/>
+Ordinance No. 16 of 1877 · version in force from 1980-01-24 · <https://web.archive.org/web/20220117050027/http://www.lawnet.gov.lk/prisons-3/>
 
 | Provision | File |
 | --- | --- |
@@ -16,6 +16,7 @@ Ordinance No. 16 of 1877 · version in force from 1952-11-13 · <https://web.arc
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
+| sec-011a | [sec-011a.md](sec-011a.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
@@ -105,6 +106,7 @@ Ordinance No. 16 of 1877 · version in force from 1952-11-13 · <https://web.arc
 | sec-098 | [sec-098.md](sec-098.md) |
 | sec-099 | [sec-099.md](sec-099.md) |
 | sec-100 | [sec-100.md](sec-100.md) |
+| sec-101 | [sec-101.md](sec-101.md) |
 | sec-102 | [sec-102.md](sec-102.md) |
 | sec-103 | [sec-103.md](sec-103.md) |
 | sec-104 | [sec-104.md](sec-104.md) |
