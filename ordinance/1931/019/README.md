@@ -1,6 +1,6 @@
 # Buddhist Temporalities (Ordinance No. 19 of 1931)
 
-Ordinance No. 19 of 1931 · version in force from 1955-04-14 · <https://web.archive.org/web/20200919054301/http://www.lawnet.gov.lk/buddhist-temporalities/>
+Ordinance No. 19 of 1931 · version in force from 1980-05-13 · <https://web.archive.org/web/20200922003757/http://www.lawnet.gov.lk/buddhist-temporalities-3/>
 
 | Provision | File |
 | --- | --- |
