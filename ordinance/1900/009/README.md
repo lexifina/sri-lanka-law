@@ -1,6 +1,6 @@
 # Census (Ordinance No. 9 of 1900)
 
-Ordinance No. 9 of 1900 · version in force from 1955-04-14 · <https://web.archive.org/web/20200922163011/http://www.lawnet.gov.lk/census-3/>
+Ordinance No. 9 of 1900 · version in force from 2000-08-18 · <https://web.archive.org/web/20240918042402/http://www.lawnet.gov.lk/census-4/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,6 @@ Ordinance No. 9 of 1900 · version in force from 1955-04-14 · <https://web.arch
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
@@ -25,6 +24,7 @@ Ordinance No. 9 of 1900 · version in force from 1955-04-14 · <https://web.arch
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
+| sec-020a | [sec-020a.md](sec-020a.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |

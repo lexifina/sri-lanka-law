@@ -4,4 +4,6 @@ Ordinance Nos,
 6 of 1945
 Act Nos,
 22 of 1955
+16 of 1981
+55 of 2000
 [ 30 th October
