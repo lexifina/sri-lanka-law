@@ -1,6 +1,6 @@
-# Students (Higher Education) Loan Fund Act, No. 4 of 1972
+# Students (Higher Education) Loan Fund (Act No. 4 of 1972)
 
-Act No. 4 of 1972 · version in force from 1972-12-12 · <https://web.archive.org/web/20221004131416/http://www.lawnet.gov.lk/students-higher-education-loan-fund-6/>
+Act No. 4 of 1972 · version in force from 1983-12-13 · <https://web.archive.org/web/20240812071425/http://www.lawnet.gov.lk/students-higher-education-loan-fund-3/>
 
 | Provision | File |
 | --- | --- |
