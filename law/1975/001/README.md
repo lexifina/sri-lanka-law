@@ -1,6 +1,6 @@
 # Declaration Of Assets And Liabilities (Law No. 1 of 1975)
 
-Law No. 1 of 1975 · version in force from 1975-08-01 · <https://web.archive.org/web/20200922022420/http://www.lawnet.gov.lk/declaration-of-assets-and-liabilities/>
+Law No. 1 of 1975 · version in force from 1988-12-17 · <https://web.archive.org/web/20240916192947/http://www.lawnet.gov.lk/declaration-of-assets-and-liabilities-3/>
 
 | Provision | File |
 | --- | --- |
@@ -14,6 +14,8 @@ Law No. 1 of 1975 · version in force from 1975-08-01 · <https://web.archive.or
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
+| sec-009a | [sec-009a.md](sec-009a.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |

@@ -1,0 +1,14 @@
+# 9A. Procedure for prosecution and trail of offences referred to in section 9(1) (b) or (bb).
+[9, 74 of 1988]
+An offence under paragraph (b) or subsection (1) of section 9 (in this referred to as “the relevant offence”) referred to shall inquired in, tried and otherwise in section 9 (1) dealt with, according to the provisions of the (b) or (bb) Procedure Act. No. 15 of 1979 (in the section referred, to as “the Criminal Procedure Act”) subject to the following modifications”
+(a) no complaint under section 136(1) (a) of the Criminal Procedure Act in respect of the relevant offence shall be entertained by a. Magistrate unless it is-
+(i) in writing :
+(ii) drawn and countersigned by a pleader;
+(iii) signed by the complaint: and
+(iv) accompanied by a certified copy, obtained under subsection (3) of section 5 of this Law, of the declaration in respect of which the offence is alleged to have been committed ;
+(b) Notwithstanding anything in sub-section (5) of section 9, of this Law, the prior sanction of the Attorney-General shall not be necessary for the institution of a prosecution for the relevant offence;
+(c) where a complaint in respect of the relevant offence is entertained by a Magistrate, the Magistrate shall where he is of opinion that there is sufficient ground for proceeding against the person alleged to have committed the offence, not issue summons, under section 130 of the Criminal Procedure Act requiring the attendance of such person unless the complainant deposits in court, such sum as the Magistrate may determine, as security or the payment of the costs incurred, or likely to be incurred, by the accused and of any compensation that may fee ordered under paragraph (d) ;
+(d) whenever a Magistrate acquits or discharges a person accused of the relevant offence and declares that the complaint was frivolous or vexatious, the Magistrate shall order the complainant to pay the State. reasonable costs in a sum determined by the Magistrate and shall also order the complainant to pay to the accused the amount of the costs-incurred by the accused and such compensation as the Magistrate shall think fit from and out of the security deposited by the complainant ;
+(e) nothing in subsection (7) of section 17 of the Criminal Procedure Act shall limit the amount of the compensation that may be ordered by a Magistrate under paragraph (d) ;
+(f) where the complainant in a prosecution for the relevant offence pays the State costs and compensation ordered against him under paragraph (d), the accused shall not be entitled to institute, or maintain, an action for damages in any civil court against such complainant in respect of such prosecution ; and
+(g) notwithstanding any thing in section 318 of the Criminal Procedure Act. the complainant in. a prosecution for the relevant offence may appeal against the acquittal of the person accused of such offence, without the written approval of the Attorney-General.
