@@ -1,6 +1,6 @@
-# Sri Lanka Export Development Act, No. 40 of 1979
+# Sri Lanka Export Development (Act No. 40 of 1979)
 
-Act No. 40 of 1979 · version in force from 1979-06-25 · <https://web.archive.org/web/20220930094042/http://www.lawnet.gov.lk/sri-lanka-export-development-4/>
+Act No. 40 of 1979 · version in force from 1979-07-16 · <https://web.archive.org/web/20240910022010/http://www.lawnet.gov.lk/sri-lanka-export-development-3/>
 
 | Provision | File |
 | --- | --- |
