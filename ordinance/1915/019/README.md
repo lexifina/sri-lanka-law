@@ -1,6 +1,6 @@
 # Housing And Town Improvement (Ordinance No. 19 of 1915)
 
-Ordinance No. 19 of 1915 · version in force from 1956-02-17 · <https://web.archive.org/web/20200919220734/http://www.lawnet.gov.lk/housing-and-town-improvement/>
+Ordinance No. 19 of 1915 · version in force from 1980-10-09 · <https://web.archive.org/web/20200922182510/http://www.lawnet.gov.lk/housing-and-town-improvement-3/>
 
 | Provision | File |
 | --- | --- |
@@ -107,7 +107,6 @@ Ordinance No. 19 of 1915 · version in force from 1956-02-17 · <https://web.arc
 | sec-100 | [sec-100.md](sec-100.md) |
 | sec-101 | [sec-101.md](sec-101.md) |
 | sec-102 | [sec-102.md](sec-102.md) |
-| sec-103 | [sec-103.md](sec-103.md) |
 | sec-104 | [sec-104.md](sec-104.md) |
 | sec-105 | [sec-105.md](sec-105.md) |
 | sec-106 | [sec-106.md](sec-106.md) |
