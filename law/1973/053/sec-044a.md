@@ -1,0 +1,4 @@
+# 44A. Proof of collective agreements, settlements
+(1) An extract from the Gazette containing a collective agreement and purporting to have been printed by the Government Printer, or a copy of such agreement purporting to have been certified to be a true copy by the Commissioner, may be produced in any court in proof of such agreement.
+(2) An extract from the Gazette containing a memorandum of settlement of an industrial dispute and purporting to have been printed by the Government Printer, or a copy of such memorandum purporting to have been certified to be a true copy by the Commissioner, may be produced in any court in proof of such memorandum.
+(3) An extract from the Gazette containing an award made under this Act and purporting to have been pirated by the Government Printer, or a copy of such award purporting to have been certified to be a true copy by the Commissioner, may be produced in any court in proof of such award.

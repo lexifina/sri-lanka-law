@@ -1,0 +1,4 @@
+# 44D. Inclusion of prescribed particulars in register or record kept under any other written law.
+[ 13, 4 of 1962]
+(1) Where an employer is by virtue of the Wages Boards Ordinance, the Maternity Benefits Ordinance, the Shop and Office Employees (Regulation of Employment and Remuneration) Act, or the Employees’ Holidays Act, No. 6 of 1959, required to maintain any register or record, he shall, if so required by any regulation made under this Act, include in that register or record such particulars as may be prescribed in respect of any prescribed class or description of his workmen.
+(2) Where by any regulation made under this Act any prescribed particulars are required to be included in any such register or record as is referred to in subsection (1), that register or record shall, for the purposes of this Act, be deemed to be a register or record maintained under this Act.

@@ -1,6 +1,6 @@
-# Industrial Disputes (Special Provisions) Law, No. 53 of 1973
+# Industrial Disputes (Law No. 53 of 1973)
 
-Law No. 53 of 1973 · version in force from 1973-12-11 · <https://web.archive.org/web/20240610083758/http://www.lawnet.gov.lk/industrial-disputes-special-provisions-law-2/>
+Law No. 53 of 1973 · version in force from 2003-03-20 · <https://web.archive.org/web/20240913111918/http://www.lawnet.gov.lk/industrial-disputes-4/>
 
 | Provision | File |
 | --- | --- |
@@ -10,3 +10,72 @@ Law No. 53 of 1973 · version in force from 1973-12-11 · <https://web.archive.o
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-006 | [sec-006.md](sec-006.md) |
+| sec-007 | [sec-007.md](sec-007.md) |
+| sec-008 | [sec-008.md](sec-008.md) |
+| sec-009 | [sec-009.md](sec-009.md) |
+| sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
+| sec-010b | [sec-010b.md](sec-010b.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
+| sec-015 | [sec-015.md](sec-015.md) |
+| sec-015a | [sec-015a.md](sec-015a.md) |
+| sec-016 | [sec-016.md](sec-016.md) |
+| sec-017 | [sec-017.md](sec-017.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
+| sec-019 | [sec-019.md](sec-019.md) |
+| sec-020 | [sec-020.md](sec-020.md) |
+| sec-021 | [sec-021.md](sec-021.md) |
+| sec-022 | [sec-022.md](sec-022.md) |
+| sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
+| sec-025 | [sec-025.md](sec-025.md) |
+| sec-026 | [sec-026.md](sec-026.md) |
+| sec-027 | [sec-027.md](sec-027.md) |
+| sec-028 | [sec-028.md](sec-028.md) |
+| sec-029 | [sec-029.md](sec-029.md) |
+| sec-030 | [sec-030.md](sec-030.md) |
+| sec-031 | [sec-031.md](sec-031.md) |
+| sec-031a | [sec-031a.md](sec-031a.md) |
+| sec-031b | [sec-031b.md](sec-031b.md) |
+| sec-031c | [sec-031c.md](sec-031c.md) |
+| sec-031d | [sec-031d.md](sec-031d.md) |
+| sec-031e | [sec-031e.md](sec-031e.md) |
+| sec-031f | [sec-031f.md](sec-031f.md) |
+| sec-031g | [sec-031g.md](sec-031g.md) |
+| sec-031h | [sec-031h.md](sec-031h.md) |
+| sec-032 | [sec-032.md](sec-032.md) |
+| sec-032a | [sec-032a.md](sec-032a.md) |
+| sec-033 | [sec-033.md](sec-033.md) |
+| sec-034 | [sec-034.md](sec-034.md) |
+| sec-035 | [sec-035.md](sec-035.md) |
+| sec-036 | [sec-036.md](sec-036.md) |
+| sec-037 | [sec-037.md](sec-037.md) |
+| sec-038 | [sec-038.md](sec-038.md) |
+| sec-039 | [sec-039.md](sec-039.md) |
+| sec-040 | [sec-040.md](sec-040.md) |
+| sec-040a | [sec-040a.md](sec-040a.md) |
+| sec-041 | [sec-041.md](sec-041.md) |
+| sec-042 | [sec-042.md](sec-042.md) |
+| sec-043 | [sec-043.md](sec-043.md) |
+| sec-043a | [sec-043a.md](sec-043a.md) |
+| sec-043b | [sec-043b.md](sec-043b.md) |
+| sec-044 | [sec-044.md](sec-044.md) |
+| sec-044a | [sec-044a.md](sec-044a.md) |
+| sec-044b | [sec-044b.md](sec-044b.md) |
+| sec-044c | [sec-044c.md](sec-044c.md) |
+| sec-044d | [sec-044d.md](sec-044d.md) |
+| sec-044e | [sec-044e.md](sec-044e.md) |
+| sec-045 | [sec-045.md](sec-045.md) |
+| sec-046 | [sec-046.md](sec-046.md) |
+| sec-047 | [sec-047.md](sec-047.md) |
+| sec-047a | [sec-047a.md](sec-047a.md) |
+| sec-047b | [sec-047b.md](sec-047b.md) |
+| sec-047c | [sec-047c.md](sec-047c.md) |
+| sec-048a | [sec-048a.md](sec-048a.md) |
+| sec-049 | [sec-049.md](sec-049.md) |
+| sec-050 | [sec-050.md](sec-050.md) |
+| sec-051 | [sec-051.md](sec-051.md) |

@@ -1,0 +1,11 @@
+# 40A.
+[ 21, 62 of 1957]
+(1) Where any person-
+(a) without sufficient reason publishes any statement or does any other act that brings any arbitrator, industrial court or labour tribunal or any member of such court into disrepute during the progress or after the conclusion of any inquiry conducted by such arbitrator, court or tribunal ; or
+(b) interferes with the lawful process of such arbitrator, court or tribunal,
+such person shall be deemed to commit the offence of contempt against or in disrespect of the authority of such arbitrator, court or tribunal.
+(2) Every offence of contempt committed against or in disrespect of the authority of any arbitrator or industrial court or labour tribunal shall be punishable by the Court of Appeal under article 105(3) of the Constitution as though it were an offence of contempt committed against or in disrespect of the Court of Appeal.
+(3) Every complaint of a contempt committed against or in disrespect of the authority of any arbitrator or industrial court or labour tribunal shall be communicated to the President of the Court of Appeal by letter signed by the arbitrator, or by the president of the industrial court or, where such court consists of one person, by such person, or by the person presiding over such tribunal.
+(4) The President of the Court of Appeal may, upon his receiving a communication under subsection (3), issue a rule nisi for contempt of court on the person named in that communication as having committed the offence of contempt referred to in that communication.
+(5) A person on whom a rule nisi is issued under subsection (4) shall be liable to be punished unless he shows cause to the satisfaction of the Court of Appeal.
+(6) In any proceedings against any person for the offence of contempt committed against or in disrespect of the authority of any arbitrator or industrial court or labour tribunal, such arbitrator or any member of such court or the person presiding over such tribunal shall not be liable to be summoned as a witness by the first-mentioned person, but the Court of Appeal may, if it considers it necessary to do so, examine such arbitrator or any member of the industrial court or the person presiding over such tribunal.
