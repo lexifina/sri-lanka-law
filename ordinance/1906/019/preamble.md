@@ -4,4 +4,7 @@ Ordinance Nos,
 24 of 1943
 Act Nos,
 28 of 1980
+27 of 1985
+7 of 1991
+19 of 2000
 [ 28 th March

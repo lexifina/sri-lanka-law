@@ -1,0 +1,3 @@
+# 3D. Incorporation of the Roman Catholic Bishop of Ratnapura.
+[ 2,19 of 2000]
+The Roman Catholic Bishop of Ratnapure, to wit the Right Reverend Dr. P. Don Albert Malcolm Ranjith and his successors duly appointed according to the laws and usages of the Roman Catholic Church, shall be a body corporate and shall, for all purposes of this Ordinance, have the name of the Roman Catholic Bishop of Ratnapura. and by such name shall have perpetual succession and shall have full power to acquire, purchase, lake, hold, and enjoy movable and immovable property of even description and to sell or otherwise dispose of the same, and may sue or be sued in respect of such property in all courts of justice .

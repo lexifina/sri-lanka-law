@@ -1,0 +1,3 @@
+# 3C. Incorporation of the Roman Catholic Bishop of Kurunegala.
+[ 3,7 of 1991]
+The Roman Catholic Bishop of Kurunegala to wit, the Right Reverend Doctor Raymond Peiris and his successors duly appointed according to the laws and usages of the Roman Catholic Church, shall be a body corporate and shall, for all purposes of this Ordinance, have the name of the Roman Catholic Bishop of Kurunegala, and by such name shall have perpetual succession and shall have full power to acquire, purchase, take, hold and enjoy movable and immovable property of every description and to sell or otherwise dispose of the same, and may sue or be sued in respect of such property in ail courts of justice.

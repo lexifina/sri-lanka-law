@@ -1,0 +1,3 @@
+# 5B. Vesting of property in the Bishop of Mannar and the Bishop of Anuraphapum.
+[ 3,27 of 1985]
+All property, both movable and immovable, already acquired, held or possessed by the said Right Reverend Doctor Thomas Savundaranayagam D.D., and by the said Right Reverend Doctor Henry Goonewardene, O.M.I., in their official capacity shall, subject to any trust or conditions affecting the same, vest in the said Bishop of Mannar and the said Bishop of Anuradhapura respectively.
