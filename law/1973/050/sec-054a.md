@@ -1,0 +1,3 @@
+# 54A. Compensation payable in respect of property vested in or requisitioned for the Corporation on or after August 1,1970-
+[5,50 of 1973]
+Notwithstanding anything to the contrary in this Act. or in any other written law, the Corporation may pay to any person as compensation in respect of property vested in, or requisitioned for, the Corporation under this Act, where such vesting or requisitioning is made on or after the first day of August, 1970, such amount as the Minister may, pursuant to any agreement reached between the Minister and such person in respect of the amount of compensation for such property, direct the Corporation to pay.

@@ -1,0 +1,4 @@
+# 54B. Power of the Chairman of the Board of Directors to pay advances on account of compensation.
+[5, Law 50 of 1973]
+(1) The Chairman of the Board of Directors may before the determination of a claim for compensation under this Act pay to a person whom he considers entitled to such compensation an advance, And any sum so paid shall be deducted from the amount of the compensation awarded to him.
+(2) Where any sum is paid after the date of commencement of this Act to any person as an advance on account of compensation to be paid to such person under this Act in respect of any land vested in or requisitioned for the Corporation, such payment shall be deemed to have been paid under subsection (1) and accordingly such sum shall be deducted from the amount of the compensation awarded to such person.

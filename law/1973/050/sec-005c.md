@@ -1,0 +1,9 @@
+# 5C. Power of Minister by Order to vest the exclusive right in the Corporation to import, export, sell, supply or distribute petroleum of certain classes or descriptions.
+[4,5 of 1963]
+(1) The Minister may, from time to time, by Order declare that the right to import, export, sell, supply or distribute petroleum of any such class or description as shall be specified in the Order, not being petroleum of any class or description specified in subsection (!) of section 5B. shall, save as otherwise expressly provided by or under this Act, vest exclusively in the Corporation. Any such Order may be amended, varied or revoked by the Minister by a like Order.
+(2) The provisions of subsections (3) to (5), both inclusive, of section 66 shall mutatis mutandis apply to every Order made under subsection (1) of this section in like manner and to the same extent as such provisions apply to an Order made under the said section 66.
+(3) So long as an Order made by the Minister under subsection (1) is in force in respect of petroleum of any class or description, no person other than the Corporation shall, save as otherwise expressly provided by or under this Act, import, export, sell, supply or distribute petroleum of that class or description.
+(4) The sale, supply or distribution by any person of petroleum of any class or description in respect of which there is for the time being in force an Order made by the Minister under subsection (1) shall be deemed not to be-
+(a) an interference with, or a violation of, the exclusive right vested in the Corporation by that Order; or
+(b) a contravention of the provisions of subsection (3),
+if, but only if, it is done with the written authority of the Board of Directors under section 5E, and in accordance with the terms and conditions subject to which such authority is granted-

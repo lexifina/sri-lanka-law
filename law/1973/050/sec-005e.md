@@ -1,0 +1,3 @@
+# 5E. Power of, Board of Directors to authorize persons to sell, ;c-,petroleum of certain classes or descriptions.
+[4,5 of 1963]
+Notwithstanding that the exclusive right to sell, supply or distribute petroleum of any class or description is vested in the Corporation by any provision of this Act or any Order made thereunder, the Board of Directors may, from time to time, as respects petroleum of that class or description only grant written authority to any person to sell, supply or distribute petroleum of that class or description subject to such terms and conditions as may be determined by such Board.
