@@ -5,4 +5,7 @@ Act Nos,
 32 of 1962
 22 of 1964
 22 of 1971
+38 of 1990
+10 of 1993
+[20th October, 1949]
 [ 20 th October
