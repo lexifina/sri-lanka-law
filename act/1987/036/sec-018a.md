@@ -1,0 +1,4 @@
+# 18A. Furnishing incorrect or false information.
+[ 11,26 of 1991]
+(1) Where a licence is granted to a stock broker or stock dealer on the basis of particulars furnished by such stock broker or stock dealer which are subsequently found to be inaccurate or false, the Commission shall suspend for a specified period the licence granted to such stock broker or stock dealer and request such stock broker or stock dealer to furnish the correct particulars on or before the expiry of the period of suspension. The Commission may on receipt of the particulars and after consideration thereof, revoke the order of suspension.
+(2) Where the particulars are not furnished within the period specified under subsection (1) in compliance with a request made under that subsection or the Commission determines on a consideration of the particulars furnished that the order of suspension should not. be revoked, it shall cancel the licence,

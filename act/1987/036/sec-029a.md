@@ -1,0 +1,10 @@
+# 29A.
+[ 17,18 of 2003]
+(1) No listed public company or any public company which has applied to obtain a listing in a licensed stock exchange, shall make any issue of securities unless the issue has been approved by the Commission or any person authorized in that behalf by the Commission.
+(2) For the purposes of this section, “issue of securities” means
+(a) in relation to a public company which has applied to obtain a listing, an introduction, an offer for subscription. an offer for sale or any placement of securities on a licensed stock exchange;
+(b) in relation to a listed public company –
+(i) new issues or offer for sale of securities to the public, whether such issues or offers for sale are by way of public issues or otherwise or any placements of securities;
+(ii) rights issues of securities;
+(iii) bonus issues of securities;
+(iv) schemes of arrangements, schemes of reconstruction, take over schemes, share option schemes and acquisition of assets by way of issues of securities.
