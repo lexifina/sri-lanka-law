@@ -1,6 +1,6 @@
 # All Ceylon Buddhist Congress (Act No. 24 of 1955)
 
-Act No. 24 of 1955 · version in force from 1955-04-16 · <https://web.archive.org/web/20200922012201/http://www.lawnet.gov.lk/all-ceylon-buddhist-congress-3/>
+Act No. 24 of 1955 · version in force from 1991-12-10 · <https://web.archive.org/web/20240916193848/http://www.lawnet.gov.lk/all-ceylon-buddhist-congress-4/>
 
 | Provision | File |
 | --- | --- |
