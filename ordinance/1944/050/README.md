@@ -1,12 +1,11 @@
 # Telecommunications (Ordinance No. 50 of 1944)
 
-Ordinance No. 50 of 1944 · version in force from 1948-06-11 · <https://web.archive.org/web/20220818153033/http://www.lawnet.gov.lk/telecommunications-2/>
+Ordinance No. 50 of 1944 · version in force from 1979-11-19 · <https://web.archive.org/web/20210119104325/http://www.lawnet.gov.lk/telecommunications-3/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
-| sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
@@ -46,6 +45,9 @@ Ordinance No. 50 of 1944 · version in force from 1948-06-11 · <https://web.arc
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
+| sec-042a | [sec-042a.md](sec-042a.md) |
+| sec-042b | [sec-042b.md](sec-042b.md) |
+| sec-042c | [sec-042c.md](sec-042c.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
