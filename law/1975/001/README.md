@@ -1,6 +1,6 @@
-# Declaration of Assets and Liabilities Law, No. 1 of 1975
+# Declaration Of Assets And Liabilities (Law No. 1 of 1975)
 
-Law No. 1 of 1975 · version in force from 1975-02-04 · <https://web.archive.org/web/20220426143509/http://www.lawnet.gov.lk/declaration-of-assets-and-liabilities-law-2/>
+Law No. 1 of 1975 · version in force from 1975-08-01 · <https://web.archive.org/web/20200922022420/http://www.lawnet.gov.lk/declaration-of-assets-and-liabilities/>
 
 | Provision | File |
 | --- | --- |
