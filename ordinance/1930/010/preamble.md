@@ -18,4 +18,7 @@ Act Nos,
 2 of 1959
 58 of 1961
 4 of 1979
+10 of 1983
+39 of 1987
+28 of 2003
 [ 1 st August
