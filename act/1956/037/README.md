@@ -1,6 +1,6 @@
-# Fee-Charging Employment Agencies Act, No. 37 of 1956
+# Fee-Charging Employment Agencies (Act No. 37 of 1956)
 
-Act No. 37 of 1956 · version in force from 1956-09-01 · <https://web.archive.org/web/20220930102153/http://www.lawnet.gov.lk/fee-charging-employment-agencies-4/>
+Act No. 37 of 1956 · version in force from 1980-08-26 · <https://web.archive.org/web/20201029084703/http://www.lawnet.gov.lk/fee-charging-employment-agencies/>
 
 | Provision | File |
 | --- | --- |
@@ -12,13 +12,11 @@ Act No. 37 of 1956 · version in force from 1956-09-01 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
-| sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
