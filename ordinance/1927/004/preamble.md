@@ -1,0 +1,4 @@
+AN ORDINANCE RELATING TO OBSCENE PUBLICATIONS.
+Ordinance Nos,
+4 of 1927
+[ 1 st August
