@@ -1,6 +1,6 @@
 # Ayurvedic Medical Council (Ordinance No. 46 of 1935)
 
-Ordinance No. 46 of 1935 · version in force from 1935-11-28 · <https://web.archive.org/web/20200919052202/http://www.lawnet.gov.lk/ayurvedic-medical-council/>
+Ordinance No. 46 of 1935 · version in force from 1961-06-02 · <https://web.archive.org/web/20240807184144/http://www.lawnet.gov.lk/ayurvedic-medical-council-3/>
 
 | Provision | File |
 | --- | --- |
