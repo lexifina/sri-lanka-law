@@ -1,2 +1,12 @@
-A LAW TO AMEND THE BIRTHS AND DEATHS REGISTRATION ACT.
-BE it enacted by the National State Assembly of the Republic of Sri ‘Lanka as follows:
+AN ACT TO AMEND AND CONSOLIDATE THE LAW RELATING TO THE REGISTRATION OF BIRTHS, DEATHS, AND STILL-BIRTHS.
+Law Nos,
+40 of 1975
+41 of 1975
+23 of 1978
+Act Nos,
+17 of 1951
+12 of 1952
+15 of 1953
+30 of 1954
+22 of 1955
+[ 1 st August
