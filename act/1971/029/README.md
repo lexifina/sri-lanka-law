@@ -1,6 +1,6 @@
 # Holidays (Act No. 29 of 1971)
 
-Act No. 29 of 1971 · version in force from 1971-09-02 · <https://web.archive.org/web/20200922015829/http://www.lawnet.gov.lk/holidays-3/>
+Act No. 29 of 1971 · version in force from 1991-04-19 · <https://web.archive.org/web/20240812064835/http://www.lawnet.gov.lk/holidays-4/>
 
 | Provision | File |
 | --- | --- |
