@@ -1,6 +1,6 @@
-# Finance Act, No. 16 of 1995
+# Finance – 1995 (Act No. 16 of 1995)
 
-Act No. 16 of 1995 · version in force from 1995-08-31 · <https://web.archive.org/web/20221004132244/http://www.lawnet.gov.lk/finance-4/>
+Act No. 16 of 1995 · version in force from 2003-02-27 · <https://web.archive.org/web/20240916191746/http://www.lawnet.gov.lk/finance-1995-2/>
 
 | Provision | File |
 | --- | --- |
@@ -12,11 +12,13 @@ Act No. 16 of 1995 · version in force from 1995-08-31 · <https://web.archive.o
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
-| sec-009 | [sec-009.md](sec-009.md) |
+| sec-008a | [sec-008a.md](sec-008a.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
+| sec-010b | [sec-010b.md](sec-010b.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
-| sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
