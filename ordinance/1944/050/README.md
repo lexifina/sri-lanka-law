@@ -1,6 +1,6 @@
 # Telecommunications (Ordinance No. 50 of 1944)
 
-Ordinance No. 50 of 1944 · version in force from 1979-11-19 · <https://web.archive.org/web/20210119104325/http://www.lawnet.gov.lk/telecommunications-3/>
+Ordinance No. 50 of 1944 · version in force from 1996-10-08 · <https://web.archive.org/web/20240807192431/http://www.lawnet.gov.lk/telecommunications-4/>
 
 | Provision | File |
 | --- | --- |

@@ -1,4 +1,5 @@
-# 42B.
+# 42B. Attempts to commit offence under section
+[ 2,17 of 1974]
 Any person who-
 (a) attempts to commit or does any act preparatory to the commission of or
 (b) aids or abets another person to commit, or
