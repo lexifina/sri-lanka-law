@@ -1,6 +1,6 @@
-# Agricultural Insurance Law, No. 27 of 1973
+# Agricultural Insurance (Law No. 27 of 1973)
 
-Law No. 27 of 1973 · version in force from 1973-07-11 · <https://web.archive.org/web/20200926204747/http://www.lawnet.gov.lk/agricultural-insurance-law-2/>
+Law No. 27 of 1973 · version in force from 1979-08-30 · <https://web.archive.org/web/20200922175156/http://www.lawnet.gov.lk/agricultural-insurance-2/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,6 @@ Law No. 27 of 1973 · version in force from 1973-07-11 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
