@@ -1,6 +1,6 @@
 # Special Areas (Colombo) Development (Ordinance No. 40 of 1947)
 
-Ordinance No. 40 of 1947 · version in force from 1955-04-14 · <https://web.archive.org/web/20220818152951/http://www.lawnet.gov.lk/special-areas-colombo-development/>
+Ordinance No. 40 of 1947 · version in force from 1961-06-19 · <https://web.archive.org/web/20210124173958/http://www.lawnet.gov.lk/special-areas-colombo-development-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,6 +12,7 @@ Ordinance No. 40 of 1947 · version in force from 1955-04-14 · <https://web.arc
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
@@ -48,6 +49,7 @@ Ordinance No. 40 of 1947 · version in force from 1955-04-14 · <https://web.arc
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
+| sec-044a | [sec-044a.md](sec-044a.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |

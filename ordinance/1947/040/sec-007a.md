@@ -1,0 +1,3 @@
+# 7A. Payment of compensation under the Defence (Compensation) Regulations 1941 in respect of lands in special areas.
+[ 3, 56 of 1961.]
+Any compensation payable by the State to any person under paragraph (b) of regulation 2 (I) of the Defence (Compensation) Regulations, 1941, in respect of any land referred to in section 3 (1) (a) may, if such compensation has not been already paid by the State to such person, be paid to such person by the board for and on behalf of the State. The payment of such compensation to such person by the board under the preceding provisions of this section shall operate as a satisfaction in full of such person’s claim to such compensation from the State.
