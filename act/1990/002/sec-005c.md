@@ -1,0 +1,3 @@
+# 5C. Manner of service where service is done through process officer.
+[ 5,9 of 1994]
+Where a decree nisi is ordered to be served personally through a process officer, such decree nisi may be served in any part of Sri Lanka provided that where a decree nisi is required to be served outside the local limits of the jurisdiction of the court issuing the same, the decree nisi shall be forwarded by such court to the court within whose jurisdiction the defendant is believed to be residing, and it shall be the duty of the last mentioned court to cause the decree nisi to be duly served on the defendant in accordances with the provisions of this Act.
