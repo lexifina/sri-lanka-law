@@ -3,4 +3,8 @@ Law Nos,
 8 of 1978
 Act Nos,
 30 of 1971
+8 of 1982
+33 of 1987
+28 of 1995
+22 of 1999
 [ 29 th September
