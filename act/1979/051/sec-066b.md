@@ -1,0 +1,3 @@
+# 66B. Procedure in taking property into custody.
+[ 23,7 of 1984]
+Every officer taking into custody any property referred to in section 66A shall place on such property or the receptacle (if any) in which it is contained a mark indicating that the same has been so taken into custody and shall as soon as may be, make a report of the circumstances. Upon the receipt of such report the Ports Authority shall forthwith forward the same to the Magistrate having jurisdiction to try the offence and such Magistrate shall take such measures as may be necessary to hear and determine the case and the disposal of the property according to law.

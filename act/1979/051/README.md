@@ -1,6 +1,6 @@
 # Sri Lanka Ports Authority (Act No. 51 of 1979)
 
-Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.org/web/20210119105501/http://www.lawnet.gov.lk/sri-lanka-ports-authority-2/>
+Act No. 51 of 1979 · version in force from 1992-02-19 · <https://web.archive.org/web/20240522022112/http://www.lawnet.gov.lk/sri-lanka-ports-authority-3/>
 
 | Provision | File |
 | --- | --- |
@@ -15,9 +15,11 @@ Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
+| sec-014a | [sec-014a.md](sec-014a.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -26,6 +28,7 @@ Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.o
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
+| sec-022a | [sec-022a.md](sec-022a.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
@@ -46,6 +49,7 @@ Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.o
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
+| sec-042a | [sec-042a.md](sec-042a.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
@@ -65,16 +69,30 @@ Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.o
 | sec-059 | [sec-059.md](sec-059.md) |
 | sec-060 | [sec-060.md](sec-060.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
+| sec-061a | [sec-061a.md](sec-061a.md) |
+| sec-061b | [sec-061b.md](sec-061b.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
 | sec-066 | [sec-066.md](sec-066.md) |
+| sec-066a | [sec-066a.md](sec-066a.md) |
+| sec-066b | [sec-066b.md](sec-066b.md) |
+| sec-066c | [sec-066c.md](sec-066c.md) |
+| sec-066d | [sec-066d.md](sec-066d.md) |
+| sec-066e | [sec-066e.md](sec-066e.md) |
+| sec-066f | [sec-066f.md](sec-066f.md) |
+| sec-066g | [sec-066g.md](sec-066g.md) |
+| sec-066h | [sec-066h.md](sec-066h.md) |
 | sec-067 | [sec-067.md](sec-067.md) |
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
 | sec-071 | [sec-071.md](sec-071.md) |
+| sec-071a | [sec-071a.md](sec-071a.md) |
+| sec-071b | [sec-071b.md](sec-071b.md) |
+| sec-071c | [sec-071c.md](sec-071c.md) |
+| sec-071d | [sec-071d.md](sec-071d.md) |
 | sec-072 | [sec-072.md](sec-072.md) |
 | sec-073 | [sec-073.md](sec-073.md) |
 | sec-074 | [sec-074.md](sec-074.md) |
@@ -88,6 +106,13 @@ Act No. 51 of 1979 · version in force from 1979-08-01 · <https://web.archive.o
 | sec-082 | [sec-082.md](sec-082.md) |
 | sec-083 | [sec-083.md](sec-083.md) |
 | sec-084 | [sec-084.md](sec-084.md) |
+| sec-084a | [sec-084a.md](sec-084a.md) |
+| sec-084b | [sec-084b.md](sec-084b.md) |
+| sec-084c | [sec-084c.md](sec-084c.md) |
+| sec-084d | [sec-084d.md](sec-084d.md) |
+| sec-084e | [sec-084e.md](sec-084e.md) |
+| sec-084f | [sec-084f.md](sec-084f.md) |
+| sec-084g | [sec-084g.md](sec-084g.md) |
 | sec-085 | [sec-085.md](sec-085.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
 | sec-087 | [sec-087.md](sec-087.md) |
