@@ -1,0 +1,3 @@
+AN ACT TO PROVIDE FOR THE IMPOSITION OF STAMP DUTY OH INSTRUMENTS AND DOCUMENTS AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:
+[ 14 th December
