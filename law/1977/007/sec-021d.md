@@ -1,0 +1,3 @@
+# 21D. Annual accounts with the auditor’s report and a report of the annual activities of the Council to be transmitted to the Minister.
+[2,9 of 1969.]
+The Council shall, on receipt of the Auditor-General’s report on the accounts for each financial year, transmit such report together with the income and expenditure account and the balance sheet to which the report relates, and a statement by the Council of its activities during that financial year to the Minister who shall cause copies thereof to be laid before Parliament before the end of the year next following the year to which such report and accounts relate.
