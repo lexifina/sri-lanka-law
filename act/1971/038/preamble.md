@@ -1,0 +1,2 @@
+AN ACT TO ENACT THE PROVISIONS OF LAW NECESSARY TO GIVE LEGAL FORCE TO CERTAIN PROPOSALS, FINANCIAL OR OTHERWISE, CONTAINED IN THE BUDGET SPEECH OF THE MINISTER OF FINANCE FOR THE YEAR 1970-71, AND TO PROVIDE FOR OTHER MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the-same, as follows:-
