@@ -1,0 +1,3 @@
+# 3A. Incorporation of the Bishop of Badulla.
+[2 28 of 1980.]
+The Roman Catholic Bishop of Badulla, to wit, the Right Reverend Doctor Don Leo Nanayakkara, O.S.B., and his successors duly appointed according to the laws and usages of the Roman Catholic Church, shall be a body corporate and shall, for all the purposes of this Ordinance, have the name of the Bishop of Badulla, and by such name shall have perpetual succession and shall have full power to acquire, purchase, take, hold and enjoy movable and immovable property of every description and to sell or otherwise dispose of the same, and may sue or be sued in respect of such property in all Courts of Justice.
