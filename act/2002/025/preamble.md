@@ -1,0 +1,1 @@
+AN ACT TO PROVIDE FOR THE RENDERING OF ASSISTANCE IN CRIMINAL MATTERS BY SRI LANKA AND SPECIFIED COUNTRIES; AND FOR BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :—
