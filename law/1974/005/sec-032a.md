@@ -1,0 +1,14 @@
+# 32A. Prohibition possession and use of radio receiving sets.
+[ 6,48 of 1988]
+(1) On or after the relevant date no person shall possess or use any radio receiving set except under the authority of a licence issued in that behalf by the Corporation.
+(2) The requirements of subsection (1) shall not apply
+(a) to the possession and use of a radio receiving set by any person at a school, a Higher Educational Institution or other institution which the Minister may specify by Order published in the Gazette, for the purposes of this section, having regard to the fact that social or educational activities of benefit to the community are being carried on at such institution ,
+(b) to the possession and use of a radio receiving set by any importer, seller, manufacturer or an assembler of radio receiving sets who is registered and holds a Certificate of Registration issued tinder section 32N of this Act, in the course of his business as such importer, seller, manufacturer or assembler ;
+(c) to the possession and use of a radio receiving set by a repairer of radio receiving sets in the course of his business as such repairer;
+(d) to use by any person, of a radio receiving set with the permission, express or implied, or on the instruct-
+(e) to the possession and use of a radio receiving set by any person employed in the Corporation or in any private broadcasting station established and maintained under a licence issued by the Minister under section 44 for the purposes of the Corporation of that station.
+(3)
+(a) Where the Minister considers that several radio receiving sets are likely to be used in any category of premises, he may, by Order published in the Gazette, declare that the provisions of this section shall apply in respect of that category of premises.
+(b) The owner of any premises included in a category of premises to which this section applies, may in lieu of applying for a licence in respect of every radio receiving set installed in such premises, apply for a licence in respect of these premises. Every application made under this subsection shall be accompanied by the prescribed fee. Different fees may be prescribed in respect of different category of premises, having regard to the number of radio receiving sets likely to be used in that category of premises.
+(c) The provisions of section 32C, 32D, 32E and 32F shall, mutatis mutandis, apply to, and in relation to, the application for, the issue and renewal of, licences issued under subsection (2).
+(d) Where a licence issued under this section in respect of any premises is in force, the possession and use of a radio receiving set by any person on such premises shall be deemed to be under the authority of a licence issued under section 32c. For the purposes of this Section “Higher Educational Institution” shall have the same meaning as in the Universities Act, No. 18 of 1978.
