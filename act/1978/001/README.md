@@ -1,6 +1,6 @@
 # Tower Hall Theatre Foundation (Act No. 1 of 1978)
 
-Act No. 1 of 1978 · version in force from 1978-10-19 · <https://web.archive.org/web/20210124194547/http://www.lawnet.gov.lk/tower-hall-theatre-foundation-2/>
+Act No. 1 of 1978 · version in force from 1997-07-10 · <https://web.archive.org/web/20240805182245/http://www.lawnet.gov.lk/tower-hall-theatre-foundation-3/>
 
 | Provision | File |
 | --- | --- |
