@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE DETERMINATION OF THE CLAIMS FOR COMPENSATION MADE BY PERSONS OTHER THAN FOREIGN-OWNED PETROLEUM COMPANIES IN RESPECT OF LAND VESTED IN OR REQUISITIONED FOR THE CEYLON PETROLEUM.- CORPORATION, FOR THE MODE AND MANNER OF THE PAYMENT OF COMPENSATION, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted, by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
