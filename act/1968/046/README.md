@@ -1,6 +1,6 @@
-# Radioactive Minerals Act, No. 46 of 1968
+# Radioactive Minerals (Act No. 46 of 1968)
 
-Act No. 46 of 1968 · version in force from 1968-12-14 · <https://web.archive.org/web/20220930085527/http://www.lawnet.gov.lk/radioactive-minerals-6/>
+Act No. 46 of 1968 · version in force from 1992-07-28 · <https://web.archive.org/web/20240812195845/http://www.lawnet.gov.lk/radioactive-minerals-3/>
 
 | Provision | File |
 | --- | --- |

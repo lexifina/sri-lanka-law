@@ -1,2 +1,6 @@
+Repealed and Replaced by Mines And Minerals Act 33 of 1992. The following Chapter Contents are prior to repeal.
 AN ACT TO PROVIDE FOR THE REGULATION AND CONTROL OF THE MINING, PRODUCTION AND TREATMENT OF RADIOACTIVE MINERALS AND SUBSTANCES, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
-BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
+Act Nos,
+46 of 1968
+33 of 1992
+[ 14 th December
