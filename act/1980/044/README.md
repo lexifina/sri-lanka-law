@@ -1,6 +1,6 @@
 # Registration Of Electors (Act No. 44 of 1980)
 
-Act No. 44 of 1980 · version in force from 1981-01-23 · <https://web.archive.org/web/20220117153351/http://www.lawnet.gov.lk/registration-of-electors-2/>
+Act No. 44 of 1980 · version in force from 1989-05-11 · <https://web.archive.org/web/20240920100430/http://www.lawnet.gov.lk/registration-of-electors-3/>
 
 | Provision | File |
 | --- | --- |
@@ -18,9 +18,11 @@ Act No. 44 of 1980 · version in force from 1981-01-23 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
+| sec-017a | [sec-017a.md](sec-017a.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
