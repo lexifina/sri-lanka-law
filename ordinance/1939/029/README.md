@@ -1,6 +1,6 @@
 # Agricultural Products (Regulation) (Ordinance No. 29 of 1939)
 
-Ordinance No. 29 of 1939 · version in force from 1953-07-30 · <https://web.archive.org/web/20200919055407/http://www.lawnet.gov.lk/agricultural-products-regulation-2/>
+Ordinance No. 29 of 1939 · version in force from 1964-02-14 · <https://web.archive.org/web/20200922012354/http://www.lawnet.gov.lk/agricultural-products-regulation-3/>
 
 | Provision | File |
 | --- | --- |
