@@ -1,6 +1,6 @@
-# State Landmarks (Ordinance No. 7 of 1909)
+# Crown Landmarks (Ordinance No. 7 of 1909)
 
-Ordinance No. 7 of 1909 · version in force from 1910-01-01 · <https://web.archive.org/web/20210124174827/http://www.lawnet.gov.lk/state-landmarks-2/>
+Ordinance No. 7 of 1909 · version in force from 1971-08-31 · <https://web.archive.org/web/20240522021354/http://www.lawnet.gov.lk/crown-landmarks-3/>
 
 | Provision | File |
 | --- | --- |
