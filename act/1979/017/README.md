@@ -1,6 +1,6 @@
-# National Housing Development Authority Act, No. 17 of 1979
+# National Housing Development Authority (Act No. 17 of 1979)
 
-Act No. 17 of 1979 · version in force from 1979-03-20 · <https://web.archive.org/web/20220520211303/http://www.lawnet.gov.lk/national-housing-development-authority-6/>
+Act No. 17 of 1979 · version in force from 1979-04-01 · <https://web.archive.org/web/20220117032941/http://www.lawnet.gov.lk/national-housing-development-authority-2/>
 
 | Provision | File |
 | --- | --- |
