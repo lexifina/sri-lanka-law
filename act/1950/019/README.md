@@ -1,6 +1,6 @@
 # Electricity (Act No. 19 of 1950)
 
-Act No. 19 of 1950 · version in force from 1955-04-14 · <https://web.archive.org/web/20200924112914/http://www.lawnet.gov.lk/electricity-2/>
+Act No. 19 of 1950 · version in force from 1969-06-06 · <https://web.archive.org/web/20200925065521/http://www.lawnet.gov.lk/electricity-3/>
 
 | Provision | File |
 | --- | --- |
@@ -85,4 +85,3 @@ Act No. 19 of 1950 · version in force from 1955-04-14 · <https://web.archive.o
 | sec-080 | [sec-080.md](sec-080.md) |
 | sec-081 | [sec-081.md](sec-081.md) |
 | sec-082 | [sec-082.md](sec-082.md) |
-| sec-083 | [sec-083.md](sec-083.md) |
