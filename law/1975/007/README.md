@@ -1,6 +1,6 @@
 # Shop And Office Employees (Law No. 7 of 1975)
 
-Law No. 7 of 1975 · version in force from 1978-12-05 · <https://web.archive.org/web/20210124190758/http://www.lawnet.gov.lk/shop-and-office-employees-3/>
+Law No. 7 of 1975 · version in force from 1985-11-20 · <https://web.archive.org/web/20240813051242/http://www.lawnet.gov.lk/shop-and-office-employees-4/>
 
 | Provision | File |
 | --- | --- |
@@ -27,6 +27,12 @@ Law No. 7 of 1975 · version in force from 1978-12-05 · <https://web.archive.or
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-018a | [sec-018a.md](sec-018a.md) |
 | sec-018b | [sec-018b.md](sec-018b.md) |
+| sec-018c | [sec-018c.md](sec-018c.md) |
+| sec-018d | [sec-018d.md](sec-018d.md) |
+| sec-018e | [sec-018e.md](sec-018e.md) |
+| sec-018f | [sec-018f.md](sec-018f.md) |
+| sec-018g | [sec-018g.md](sec-018g.md) |
+| sec-018h | [sec-018h.md](sec-018h.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
