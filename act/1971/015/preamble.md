@@ -1,0 +1,2 @@
+AN ACT TO MAKE PROVISION FOR THE LEVY AND RECOVERY OF A TAX COMPUTED WITH REFERENCE TO THE STAY IN CEYLON OF CERTAIN PERSONS WHO ARE NOT CITIZENS OF CEYLON, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows:-
