@@ -1,11 +1,12 @@
-AN ORDINANCE TO PROVIDE FOR THE LICENSING OF AUCTIONEERS AND BROKERS.
+Repealed and Replaced by the Survey Act Act, No.17 of 2002. The following Chapter Contents are prior to repeal.
+AN ORDINANCE TO PROVIDE FOR THE LICENSING OF SURVEYORS.
 Ordinance Nos,
 15 of 1889
+8 of 1897
+10 of 1908
 26 of 1909
-18 of 1921
-25 of 1922
-17 of 1930
-15 of 1945
+28 of 1916
+20 of 1930
 Act Nos,
-39 of 1952
-[ 31 st October
+28 of 1950
+17 of 2002
