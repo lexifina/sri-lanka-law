@@ -1,0 +1,2 @@
+AN ACT TO REQUISITION MOTOR VEHICLES, AGRICULTURAL PLANTS, MACHINERY AND EQUIPMENT FOR TEMPORARY USE BY THE GOVERNMENT FOR CERTAIN PURPOSES, FOR THE PAYMENT OF COMPENSATION THEREFOR AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Queen’s Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Ceylon in this present Parliament assembled, and by the authority of the same, as follows: –
