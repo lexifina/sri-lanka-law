@@ -1,6 +1,6 @@
 # Printers And Publishers (Ordinance No. 1 of 1885)
 
-Ordinance No. 1 of 1885 · version in force from 1951-09-01 · <https://web.archive.org/web/20220818152720/http://www.lawnet.gov.lk/printers-and-publishers-2/>
+Ordinance No. 1 of 1885 · version in force from 1983-08-10 · <https://web.archive.org/web/20240812065810/http://www.lawnet.gov.lk/printers-and-publishers-4/>
 
 | Provision | File |
 | --- | --- |
