@@ -1,14 +1,18 @@
 # Co-Operative Wholesale Establishment (Act No. 47 of 1949)
 
-Act No. 47 of 1949 · version in force from 1955-11-12 · <https://web.archive.org/web/20200919050622/http://www.lawnet.gov.lk/co-operative-wholesale-establishment-2/>
+Act No. 47 of 1949 · version in force from 1978-07-25 · <https://web.archive.org/web/20200922174748/http://www.lawnet.gov.lk/co-operative-wholesale-establishment-3/>
 
 | Provision | File |
 | --- | --- |
 | preamble | [preamble.md](preamble.md) |
 | sec-001 | [sec-001.md](sec-001.md) |
 | sec-002 | [sec-002.md](sec-002.md) |
+| sec-002a | [sec-002a.md](sec-002a.md) |
+| sec-002b | [sec-002b.md](sec-002b.md) |
+| sec-002c | [sec-002c.md](sec-002c.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
+| sec-004a | [sec-004a.md](sec-004a.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
@@ -16,6 +20,7 @@ Act No. 47 of 1949 · version in force from 1955-11-12 · <https://web.archive.o
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
+| sec-011a | [sec-011a.md](sec-011a.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
@@ -28,7 +33,6 @@ Act No. 47 of 1949 · version in force from 1955-11-12 · <https://web.archive.o
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
-| sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
