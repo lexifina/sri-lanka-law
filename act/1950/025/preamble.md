@@ -3,6 +3,9 @@ Act Nos,
 25 of 1950
 30 of 1952
 42 of 1952
+51 of 1958
+32 of 1970
+42 of 1971
 [ 9 th December
 , 1950 ]
 short title.

@@ -1,6 +1,6 @@
 # Food Control (Act No. 25 of 1950)
 
-Act No. 25 of 1950 · version in force from 1952-11-22 · <https://web.archive.org/web/20200924103634/http://www.lawnet.gov.lk/food-control-2/>
+Act No. 25 of 1950 · version in force from 1971-10-28 · <https://web.archive.org/web/20200928084219/http://www.lawnet.gov.lk/food-control-3/>
 
 | Provision | File |
 | --- | --- |
@@ -17,4 +17,3 @@ Act No. 25 of 1950 · version in force from 1952-11-22 · <https://web.archive.o
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
-| sec-013 | [sec-013.md](sec-013.md) |
