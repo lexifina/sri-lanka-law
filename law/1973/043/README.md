@@ -1,6 +1,6 @@
 # People’S Bank (Law No. 43 of 1973)
 
-Law No. 43 of 1973 · version in force from 1980-12-29 · <https://web.archive.org/web/20220117040029/http://www.lawnet.gov.lk/peoples-bank-2/>
+Law No. 43 of 1973 · version in force from 1986-09-24 · <https://web.archive.org/web/20240910210959/http://www.lawnet.gov.lk/peoples-bank-3/>
 
 | Provision | File |
 | --- | --- |
@@ -18,6 +18,7 @@ Law No. 43 of 1973 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -33,6 +34,14 @@ Law No. 43 of 1973 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
+| sec-029a | [sec-029a.md](sec-029a.md) |
+| sec-029b | [sec-029b.md](sec-029b.md) |
+| sec-029c | [sec-029c.md](sec-029c.md) |
+| sec-029d | [sec-029d.md](sec-029d.md) |
+| sec-029e | [sec-029e.md](sec-029e.md) |
+| sec-029f | [sec-029f.md](sec-029f.md) |
+| sec-029g | [sec-029g.md](sec-029g.md) |
+| sec-029h | [sec-029h.md](sec-029h.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |

@@ -1,0 +1,15 @@
+# 29C. Procedure where manager is appointed.
+[ 4,32 of 1986]
+(1) Any person authorized by resolution of the Board under section 2911 in respect of any property shall be entitled generally to take action in terms of the resolution and in particular
+(a) to sell the produce of such property;
+(b) to sell the goods manufactured wholly or partly from any plant or machinery, on the security of which any loan was granted, if default has been made in respect of such loan ;
+(c) to receive the rents, profits or other income from such property;
+(d) to pay the expenses incurred in the control and management of such property; out of the income from such property;
+(e) to appropriate to himself out of such income such sum (if any) as the Board may deem fit to fix as remuneration for his services;
+(f) to remain in possession of such property until all moneys due to the bank under the mortgage on such property have been fully paid or until he is directed by the Board to yield possession of such property under subsection (2).
+(2) Every person authorized by resolution of the Board under section 29B in respect of any property shall
+(a) pay monthly, out of the income of such property such sum (if any) as the Board may in its discretion fix, to the mortgager for his maintenance;
+(b) pay quarterly or as otherwise directed by the Board to such person or persons and in such manner as the Board may direct the balance of the income from such property remaining after the payments herein before authorized have been made;
+(c) keep and render to the Board at such intervals as the Board may determine, clear and accurate records of all sums received or paid out by him in respect of such property;
+(d) yield possession of such property to the mortgagor or some other person as directed by the Board and pay to the Board any balance of the income from such property remaining in his hands after the payments herein before authorized have been made,
+(3) The Board shall when all sums due to the Bank under the mortgage have been fully paid surrender possession of the mortgaged property to the mortgager and return to him. any balance remaining of the income from such property.
