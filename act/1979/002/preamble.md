@@ -1,2 +1,4 @@
 AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE NATIONAL DEVELOPMENT BANK OF SRI LANKA, AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
-BE it enacted by the Parliament of the Democratic socialist Republic of Sri Lanka as follows :-
+Act Nos,
+2 of 1979
+[ 24 th January

@@ -1,6 +1,6 @@
-# National Development Bank of Sri Lanka Act, No. 2 of 1979
+# National Development Bank Of Sri Lanka (Act No. 2 of 1979)
 
-Act No. 2 of 1979 · version in force from 1979-01-05 · <https://web.archive.org/web/20220521183949/http://www.lawnet.gov.lk/national-development-bank-of-sri-lanka-7/>
+Act No. 2 of 1979 · version in force from 1979-01-24 · <https://web.archive.org/web/20220117155604/http://www.lawnet.gov.lk/national-development-bank-of-sri-lanka-2/>
 
 | Provision | File |
 | --- | --- |
