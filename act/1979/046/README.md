@@ -1,6 +1,6 @@
-# Airports Authority Act, No. 46 of 1979
+# Airports Authority (Act No. 46 of 1979)
 
-Act No. 46 of 1979 · version in force from 1979-07-11 · <https://web.archive.org/web/20200923172500/http://www.lawnet.gov.lk/airports-authority-act-2/>
+Act No. 46 of 1979 · version in force from 1979-08-01 · <https://web.archive.org/web/20200925063644/http://www.lawnet.gov.lk/airports-authority-2/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,6 @@ Act No. 46 of 1979 · version in force from 1979-07-11 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
