@@ -1,6 +1,6 @@
-# Sri Lanka Foundation Law, No. 31 of 1973
+# Sri Lanka Foundation (Law No. 31 of 1973)
 
-Law No. 31 of 1973 · version in force from 1973-08-17 · <https://web.archive.org/web/20220930095607/http://www.lawnet.gov.lk/sri-lanka-foundation-law-2/>
+Law No. 31 of 1973 · version in force from 1981-05-29 · <https://web.archive.org/web/20240805191204/http://www.lawnet.gov.lk/sri-lanka-foundation-3/>
 
 | Provision | File |
 | --- | --- |
