@@ -1,0 +1,2 @@
+# 18A. Non-cultivation of any extent of paddy land to be notified to the landlord and the Cultivation Committee. [§ 16, 11 of 1964.]
+Where a tenant cultivator of any extent of paddy land is unable to cultivate such extent during any paddy cultivation season he shall, at the commencement of that season, notify in writing the landlord of such extent and the Cultivation Committee within whose local jurisdiction such extent wholly or mainly lies that he is unable to cultivate such extent during that season.

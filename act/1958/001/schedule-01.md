@@ -1,0 +1,14 @@
+# Schedule
+(SECTION 7)
+1. Sons.
+2. Daughters.
+3. Grandsons.
+4. Grand-daughters.
+5. Father.
+6. Mother.
+7. Brothers.
+8. Sisters.
+9. Uncles.
+10. Aunts.
+11. Nephews.
+12 Nieces.

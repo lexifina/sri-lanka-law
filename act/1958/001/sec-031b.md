@@ -1,0 +1,2 @@
+# 31B. Absence of elected member from three consecutive meetings of a Cultivation Committee without leave to be deemed to be resignation.[§ 8, 61 of 1961.]
+Where a person who is an elected member, or is deemed under section 29 to be an elected member, of a Cultivation Committee is absent from three consecutive meetings of that Committee without leave of that Committee first obtained, he shall, with effect from the day immediately following the date of the last of those three meetings, be deemed to have resigned from that Committee.
