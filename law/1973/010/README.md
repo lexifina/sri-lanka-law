@@ -1,6 +1,6 @@
-# Common Amenities Board Law, No. 10 of 1973
+# Condominium Management Authority (Law No. 10 of 1973)
 
-Law No. 10 of 1973 · version in force from 1973-03-20 · <https://web.archive.org/web/20240725091020/http://www.lawnet.gov.lk/common-amenities-board-3/>
+Law No. 10 of 1973 · version in force from 2003-08-20 · <https://web.archive.org/web/20240523125132/http://www.lawnet.gov.lk/condominium-management-authority-2/>
 
 | Provision | File |
 | --- | --- |
@@ -14,16 +14,24 @@ Law No. 10 of 1973 · version in force from 1973-03-20 · <https://web.archive.o
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
+| sec-009a | [sec-009a.md](sec-009a.md) |
+| sec-009b | [sec-009b.md](sec-009b.md) |
+| sec-009c | [sec-009c.md](sec-009c.md) |
+| sec-009d | [sec-009d.md](sec-009d.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
+| sec-010b | [sec-010b.md](sec-010b.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
-| sec-016 | [sec-016.md](sec-016.md) |
-| sec-017 | [sec-017.md](sec-017.md) |
+| sec-015a | [sec-015a.md](sec-015a.md) |
+| sec-015b | [sec-015b.md](sec-015b.md) |
+| sec-015c | [sec-015c.md](sec-015c.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
+| sec-019a | [sec-019a.md](sec-019a.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |

@@ -1,0 +1,26 @@
+# 15B. Recovery of sums liable to be paid to the Authority by a person out of the of such person.
+[ 14,24 of 2003]
+(1) Any person who is liable to pay any sum under this Law to the Authority shall, if he is an employee of the Government of Sri Lanka, or the Local Government Service, Judicial Service, or of any corporate or incorporated body, be liable to have any such sum recovered or deducted out of his remuneration from such employment.
+(2) The General Manager shall, if he is of the opinion that the method of recovery referred
+to in subsection (1) is a satisfactory method of recovery in the case of any person, direct in writing to the employer of mat person to deduct and pay to the Authority out of the remuneration payable to that person such amount in such manner, and at such intervals as may be specified in the directions.
+(3) Every employer who receives a direction under subsection (2) shall forthwith comply with such direction.
+(4) Where a deduction from remuneration out of such employment is made, the employer shall
+within a reasonable time, but not later than fourteen days from the date of recovery, issue a receipt to the person from whom the recovery has been made acknowledging receipt of such money or recovery of such dues and shall forthwith inform the General Manager from whom he has received such direction of that fact.
+(5) Where any person in respect of whom a direction under subsection (2) is in force is
+about to leave, or leaves, the employment of his employer, the employer shall forthwith
+(a) if the remuneration due to such person exceeds the sum liable to be paid tinder such direction to the Authority deduct that sum from such remuneration and pay the sum so deducted to the Authority ; and
+(b) if such remuneration does not exceed the sum to be recovered, pay the amount of such remuneration to the Authority.
+(6) Where for any reason an employer of any person is unable to comply with a direction
+issued under subsection (2). he shall inform the General Manager forthwith in writing of his inability to do so and the reason therefor.
+(7) Every employer who contravenes any of the preceding provisions of this section shall
+be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be liable to a fine not exceeding ten thousand rupees or to imprisonment of either description for a period not exceeding one year or to both such fine and imprisonment.
+(8) Where any offence under the preceding provisions of this section is committed by a body
+of persons, then
+(a)if the body of person is a body corporate, every director and officer of that body corporate ; and
+(b) if the body of persons is a firm, every partner of that firm,
+shall be deemed to be guilty of such offence :
+Provided that no such director, officer or partner shall be deemed to be guilty of such offence if he is able to prove that such offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+(9) No prosecution for an offence under this section shall be instituted except by or with
+the sanction of the Authority.
+(10) Nothing in the preceding provisions of this section shall affect, or be deemed or
+construed to affect the rights of the General Manager “to recover in any other manner or by. any other procedure applicable in that behalf, any sum which is liable to be paid to the Authority under this law and in respect of which he has given a direction under subsection (2).
