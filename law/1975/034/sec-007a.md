@@ -1,0 +1,8 @@
+# 7A. Special provision relating to President and Vice- President.
+[6,15 of 1998]
+(1) A member of the Institute shall not be eligible for election as President of the Council for more than one term of office.
+(2) A member of the Institute shall not be qualified to be elected as Vice-President of the Council unless he-
+(a) is a Fellow of the Institute; and
+(b) has served in at least three Committees appointed by the Council; and
+(c) has been a member of the Council for at least one term during the period of five years immediately preceding the date of closing of nominations for the post of Vice-President.
+(3) Notwithstanding anything to the contrary in this Act, the Member of the Institute holding office as Vice-President of the Council, shall be deemed, to be elected as President of the Council, for the next term of office of the Council, by the members of the Institute, unless the Council resolves to the contrary, by secret ballot, at a meeting held at least six months prior to the date of commencement of the next term of office of the Council and by a majority of not less than three fourths of the members of the Council (including those not present) voting in its favour. In the event of the Council so resolving or in the event of the member of the Institute holding office as Vice-President of the Council being unable or unwilling to accept office as President of the Council for the next term of office of the Council, the members of the Institute shall elect a President from among themselves, so however, that the member so elected shall be a member who has the qualifications set out in paragraphs (a), (b) and (c) of subsection (2) and is not the member holding office as President of the Council.”.
