@@ -1,6 +1,6 @@
-# Tax Reserve Certificates Act, No. 22 of 1957
+# Tax Reserve Certificates (Act No. 22 of 1957)
 
-Act No. 22 of 1957 · version in force from 1957-04-13 · <https://web.archive.org/web/20221004141259/http://www.lawnet.gov.lk/tax-reserve-certificates-7/>
+Act No. 22 of 1957 · version in force from 1961-06-19 · <https://web.archive.org/web/20210119122927/http://www.lawnet.gov.lk/tax-reserve-certificates-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,4 +18,3 @@ Act No. 22 of 1957 · version in force from 1957-04-13 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
