@@ -1,6 +1,6 @@
 # Weights And Measures (Ordinance No. 37 of 1946)
 
-Ordinance No. 37 of 1946 · version in force from 1955-03-01 · <https://web.archive.org/web/20220818153144/http://www.lawnet.gov.lk/weights-and-measures-2/>
+Ordinance No. 37 of 1946 · version in force from 1979-03-14 · <https://web.archive.org/web/20210119123618/http://www.lawnet.gov.lk/weights-and-measures-3/>
 
 | Provision | File |
 | --- | --- |
@@ -12,11 +12,6 @@ Ordinance No. 37 of 1946 · version in force from 1955-03-01 · <https://web.arc
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
-| sec-008 | [sec-008.md](sec-008.md) |
-| sec-009 | [sec-009.md](sec-009.md) |
-| sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
-| sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
@@ -40,6 +35,8 @@ Ordinance No. 37 of 1946 · version in force from 1955-03-01 · <https://web.arc
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
 | sec-035 | [sec-035.md](sec-035.md) |
+| sec-035a | [sec-035a.md](sec-035a.md) |
+| sec-035b | [sec-035b.md](sec-035b.md) |
 | sec-036 | [sec-036.md](sec-036.md) |
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
@@ -49,6 +46,10 @@ Ordinance No. 37 of 1946 · version in force from 1955-03-01 · <https://web.arc
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
+| sec-044a | [sec-044a.md](sec-044a.md) |
+| sec-044b | [sec-044b.md](sec-044b.md) |
+| sec-044c | [sec-044c.md](sec-044c.md) |
+| sec-044d | [sec-044d.md](sec-044d.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
 | sec-047 | [sec-047.md](sec-047.md) |
@@ -59,6 +60,6 @@ Ordinance No. 37 of 1946 · version in force from 1955-03-01 · <https://web.arc
 | sec-052 | [sec-052.md](sec-052.md) |
 | sec-053 | [sec-053.md](sec-053.md) |
 | sec-054 | [sec-054.md](sec-054.md) |
+| sec-054a | [sec-054a.md](sec-054a.md) |
 | sec-055 | [sec-055.md](sec-055.md) |
 | sec-056 | [sec-056.md](sec-056.md) |
-| sec-057 | [sec-057.md](sec-057.md) |

@@ -1,0 +1,3 @@
+# 44C. Use or possession of weights, &c., which are not in conformity with regulations relating to composition, &c.
+[20,7 of 1971.]
+Any person who uses for the purpose of any trade, or has in his possession for use in any trade, any weight or measure or weighing or measuring instrument or any striker which is not in conformity with the requirements of any regulation relating to its composition, weight, length or form shall be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be liable to a fine not exceeding five hundred rupees or to imprisonment of either description for a term not exceeding one year or to both such fine and imprisonment.
