@@ -5,4 +5,6 @@ Act Nos,
 7 of 1962
 33 of 1962
 21 of 1979
+82 of 1988
+9 of 1993
 [ 10 th October
