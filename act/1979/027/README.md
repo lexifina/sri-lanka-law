@@ -1,6 +1,6 @@
 # Control Of Finance Companies (Act No. 27 of 1979)
 
-Act No. 27 of 1979 · version in force from 1979-12-06 · <https://web.archive.org/web/20200928081826/http://www.lawnet.gov.lk/control-of-finance-companies-2/>
+Act No. 27 of 1979 · version in force from 1988-12-18 · <https://web.archive.org/web/20240805184907/http://www.lawnet.gov.lk/control-of-finance-companies-3/>
 
 | Provision | File |
 | --- | --- |
