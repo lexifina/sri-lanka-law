@@ -1,6 +1,6 @@
-# Rubber Replanting Subsidy (Amendment) Law, No. 2 of 1977
+# Rubber Replanting Subsidy (Law No. 2 of 1977)
 
-Law No. 2 of 1977 · version in force from 1977-01-20 · <https://web.archive.org/web/20220929110203/http://www.lawnet.gov.lk/rubber-replanting-subsidy-amendment-law-2/>
+Law No. 2 of 1977 · version in force from 1998-03-30 · <https://web.archive.org/web/20240519041922/http://www.lawnet.gov.lk/rubber-replanting-subsidy-4/>
 
 | Provision | File |
 | --- | --- |
@@ -11,3 +11,11 @@ Law No. 2 of 1977 · version in force from 1977-01-20 · <https://web.archive.or
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-007 | [sec-007.md](sec-007.md) |
+| sec-007a | [sec-007a.md](sec-007a.md) |
+| sec-008 | [sec-008.md](sec-008.md) |
+| sec-009 | [sec-009.md](sec-009.md) |
+| sec-010 | [sec-010.md](sec-010.md) |
+| sec-010a | [sec-010a.md](sec-010a.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
