@@ -1,6 +1,6 @@
 # Code Of Intellectual Property (Act No. 52 of 1979)
 
-Act No. 52 of 1979 · version in force from 1980-08-18 · <https://web.archive.org/web/20200928074005/http://www.lawnet.gov.lk/code-of-intellectual-property-2/>
+Act No. 52 of 1979 · version in force from 2003-11-12 · <https://web.archive.org/web/20240920094845/http://www.lawnet.gov.lk/code-of-intellectual-property-3/>
 
 | Provision | File |
 | --- | --- |
@@ -103,7 +103,6 @@ Act No. 52 of 1979 · version in force from 1980-08-18 · <https://web.archive.o
 | sec-097 | [sec-097.md](sec-097.md) |
 | sec-098 | [sec-098.md](sec-098.md) |
 | sec-099 | [sec-099.md](sec-099.md) |
-| sec-100 | [sec-100.md](sec-100.md) |
 | sec-101 | [sec-101.md](sec-101.md) |
 | sec-102 | [sec-102.md](sec-102.md) |
 | sec-103 | [sec-103.md](sec-103.md) |
@@ -196,3 +195,4 @@ Act No. 52 of 1979 · version in force from 1980-08-18 · <https://web.archive.o
 | sec-190 | [sec-190.md](sec-190.md) |
 | sec-191 | [sec-191.md](sec-191.md) |
 | sec-192 | [sec-192.md](sec-192.md) |
+| sec-193 | [sec-193.md](sec-193.md) |
