@@ -1,6 +1,6 @@
-# State Mortgage and Investment Bank Law, No. 13 of 1975
+# State Mortgage And Investment Bank (Law No. 13 of 1975)
 
-Law No. 13 of 1975 · version in force from 1975-03-17 · <https://web.archive.org/web/20220929103102/http://www.lawnet.gov.lk/state-mortgage-and-investment-bank-law-2/>
+Law No. 13 of 1975 · version in force from 1975-05-15 · <https://web.archive.org/web/20210124182630/http://www.lawnet.gov.lk/state-mortgage-and-investment-bank-2/>
 
 | Provision | File |
 | --- | --- |
@@ -15,7 +15,6 @@ Law No. 13 of 1975 · version in force from 1975-03-17 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
-| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
