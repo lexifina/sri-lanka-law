@@ -1,6 +1,6 @@
 # Sri Lanka State Plantations Corporation (Act No. 4 of 1958)
 
-Act No. 4 of 1958 · version in force from 1979-07-27 · <https://web.archive.org/web/20210124180051/http://www.lawnet.gov.lk/sri-lanka-state-plantations-corporation-2/>
+Act No. 4 of 1958 · version in force from 1985-09-03 · <https://web.archive.org/web/20240918191429/http://www.lawnet.gov.lk/sri-lanka-state-plantations-corporation-4/>
 
 | Provision | File |
 | --- | --- |
