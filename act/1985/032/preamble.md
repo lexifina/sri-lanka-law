@@ -1,0 +1,3 @@
+AN ACT TO MAKE PROVISION FOR THE BETTER REGULATION AND ADMINISTRATION OF POOR RELIEF; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
+[ 14 th August
