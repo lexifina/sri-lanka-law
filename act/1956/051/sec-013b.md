@@ -1,7 +1,6 @@
 # 13B. Power of board to register a mosque when no application for registration is made.
-[ 4, 21 of 1962.]
+[ 4, 21 of 1962]
 (1) Where the board determines that a mosque in respect of which no application for registration has been made should be registered, the board shall for the purposes of such registration collect all such information as it may consider necessary regarding that mosque, and publish a notice of such determination in the Sinhala, Tamil and English languages in the Gazette and in one or more newspapers circulating in the area in which such mosque is situated.
 (2)Every notice under subsection (I) shall specify a date (such date being not later than one month after the date of that notice) on or before which objections to the proposed registration will be received by the board.
 (3) Every objection preferred, in consequence of a notice under subsection (2) shall be in writing and shall contain a statement of the grounds upon which the objection is made.
 (4) After the expiry of the date referred to in subsection (2), the board shall, if it is of the opinion that the mosque should be registered after considering the objections, if any, to the registration of the mosque, cause the mosque to be registered in the register of mosques by the entry therein of such particulars relating to the mosque as are available to the board.
-Power of board to cancel the registration of a mosque which had been registered by reason of a mistake of law or of fact,
