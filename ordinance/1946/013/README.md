@@ -1,6 +1,6 @@
 # Town And Country Planning (Ordinance No. 13 of 1946)
 
-Ordinance No. 13 of 1946 · version in force from 1955-04-14 · <https://web.archive.org/web/20210124193909/http://www.lawnet.gov.lk/town-and-country-planning-3/>
+Ordinance No. 13 of 1946 · version in force from 2000-08-18 · <https://web.archive.org/web/20240919141905/http://www.lawnet.gov.lk/town-and-country-planning-4/>
 
 | Provision | File |
 | --- | --- |
@@ -9,7 +9,12 @@ Ordinance No. 13 of 1946 · version in force from 1955-04-14 · <https://web.arc
 | sec-002 | [sec-002.md](sec-002.md) |
 | sec-003 | [sec-003.md](sec-003.md) |
 | sec-004 | [sec-004.md](sec-004.md) |
+| sec-004a | [sec-004a.md](sec-004a.md) |
+| sec-004b | [sec-004b.md](sec-004b.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
+| sec-005a | [sec-005a.md](sec-005a.md) |
+| sec-005b | [sec-005b.md](sec-005b.md) |
+| sec-005c | [sec-005c.md](sec-005c.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
@@ -91,3 +96,4 @@ Ordinance No. 13 of 1946 · version in force from 1955-04-14 · <https://web.arc
 | sec-085 | [sec-085.md](sec-085.md) |
 | sec-086 | [sec-086.md](sec-086.md) |
 | sec-087 | [sec-087.md](sec-087.md) |
+| sec-088 | [sec-088.md](sec-088.md) |
