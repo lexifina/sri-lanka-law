@@ -1,3 +1,7 @@
-AN ACT TO AMEND THE FAIR TRADING COMMISSION ACT, No. 1 OF 1987
-BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :
-[ 25 th November
+Consumer Production was repealed and replaced by Consumer Authority Act No. 9 of 2003.The following contents are prior to repeal.
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A FAIR TRADING COMMISSION OR THE CONTROL OF MONOPOLIES, MERGERS AND ANTICOMPETITIVE PRACTICES AND FOR THE FORMULATION AND IMPLEMENTATION OF A NATIONAL PRICE POLICY; FOR THE REPEL OF THE NATIONAL PRICES COMMISSION ACT, No. 42 OF 1975; AND FOR ALL MATTERS CONNECTED THERE WITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
+Act Nos,
+57 of 1993
+9 of 2003
+[ 22 nd January
