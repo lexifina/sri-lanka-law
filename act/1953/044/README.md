@@ -1,6 +1,6 @@
 # School Teachers Pension (Act No. 44 of 1953)
 
-Act No. 44 of 1953 · version in force from 1953-12-19 · <https://web.archive.org/web/20220818152927/http://www.lawnet.gov.lk/school-teachers-pension/>
+Act No. 44 of 1953 · version in force from 1964-11-12 · <https://web.archive.org/web/20210119123509/http://www.lawnet.gov.lk/school-teachers-pension-3/>
 
 | Provision | File |
 | --- | --- |
@@ -13,6 +13,9 @@ Act No. 44 of 1953 · version in force from 1953-12-19 · <https://web.archive.o
 | sec-006 | [sec-006.md](sec-006.md) |
 | sec-007 | [sec-007.md](sec-007.md) |
 | sec-008 | [sec-008.md](sec-008.md) |
+| sec-008a | [sec-008a.md](sec-008a.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
+| sec-009a | [sec-009a.md](sec-009a.md) |
+| sec-009b | [sec-009b.md](sec-009b.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
