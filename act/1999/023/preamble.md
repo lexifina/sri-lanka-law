@@ -1,0 +1,3 @@
+AN ACT TO INCORPORATE THE MAHANUWARA BAUDDHA VIDYA PEETAYA WHEREAS a centre called and known as the “Mahanuwara Bauddha Vidya Peetaya” has heretofore been established at Gurudeniya, Tennakumbura, Kandy for the purpose of effectively carrying out and transacting all matters connected with the said Centre, according to the rules agreed to, by its members:
+AND WHEREAS the said Centre has heretofore successfully carried out and transacted the several objects and matters for which it was established and has applied to be incorporated, and it is now desirable and expedient that the said Centre should be incorporated:
+BE it therefore, enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
