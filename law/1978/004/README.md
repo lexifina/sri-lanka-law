@@ -1,6 +1,6 @@
-# Greater Colombo Economic Commission (Law No. 4 of 1978)
+# Board Of Investment Of Sri Lanka (Greater Colombo Economic Commission) (Law No. 4 of 1978)
 
-Law No. 4 of 1978 · version in force from 1980-10-24 · <https://web.archive.org/web/20200928083630/http://www.lawnet.gov.lk/greater-colombo-economic-commission-2/>
+Law No. 4 of 1978 · version in force from 2002-06-19 · <https://web.archive.org/web/20240920145835/http://www.lawnet.gov.lk/board-of-investment-of-sri-lanka-greater-colombo-economic-commission-2/>
 
 | Provision | File |
 | --- | --- |
@@ -25,6 +25,7 @@ Law No. 4 of 1978 · version in force from 1980-10-24 · <https://web.archive.or
 | sec-018 | [sec-018.md](sec-018.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
+| sec-020a | [sec-020a.md](sec-020a.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-022a | [sec-022a.md](sec-022a.md) |
@@ -32,6 +33,7 @@ Law No. 4 of 1978 · version in force from 1980-10-24 · <https://web.archive.or
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
+| sec-026a | [sec-026a.md](sec-026a.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |

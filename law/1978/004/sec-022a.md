@@ -1,4 +1,4 @@
 # 22A. Establishment of licensed zones.
-[4,43 of 1980.]
-(1) Where the President is of the opinion that in any area, not included in the Area of Authority, it would be necessary to provide facilities or improvements for the establishment of undertakings by licensed enterprises and for such purpose to enable the Commission to exercise certain powers under this Law, he may, by Order published in the Gazette, declare such area to be a licensed zone, and specify the boundaries of such zone.
-(2) Where a licensed zone is declared under subsection (!), no person, body or authority other than the Commission shall exercise, perform and discharge any powers, duties and functions relating to the approval of building plans or the planning, development or improvement under any written law, within such zone.
+[4,43 of 1980]
+(1) Where the President is of the opinion that in any area, not included in the Area of Authority, it would be necessary to provide facilities or improvements for the establishment of undertakings by licensed enterprises and for such purpose to enable the Board to exercise certain powers under this Law, he may, by Order published in the Gazette, declare such area to be a licensed zone, and specify the boundaries of such zone.
+(2) Where a licensed zone is declared under subsection (1), no person, body or authority other than the Board shall exercise, perform and discharge any powers, duties and functions relating to the approval of building plans or the planning, development or improvement under any written law, within such zone.
