@@ -1,0 +1,39 @@
+# 46A. Minister may issue directions to amalgamate peoplised companies.
+[ 3,30 of 1996]
+Where the Minister considers it expedient, having regard to the national economy in general and the need to provide adequate omnibus transport services to the public in particular, that two or more of the peoplised companies specified in the Second Schedule to this Act should be amalgamated, the Minister may forward a Memorandum and Articles of Association to the Registrar of Companies, together with a direction to such Registrar to register a new company to carry on the business activities carried on by the peoplised companies referred to in such direction.
+Functions of the Registrar of Companies upon receipt of a direction under section 46A.
+[ 3,30 of 1996]
+46B , Notwithstanding any other provision of the Companies Act, No. 17 of 1982, on receipt of a direction from the Minister under section 46A, the Registrar of Companies shall-
+(a) register a company (such company is hereinafter referred to as a “new company”) in the name specified in such direction and issue a certificate of incorporation under section 15 (1) of that Act, in respect of that company ;
+(b) publish an Order in the Gazette that a public company has been incorporated under that Act, in the name specified in the Order to take over and carry on the business activities carried on by the peoplised companies referred to in the Order.
+Allotment of shares in new companies.
+[ 3,30 of 1996]
+46C . upon the publication of an Order under section 46B in the Gazette, the Registrar of Companies shall allot to every shareholder of a peoplised company referred to in that Order, shares in the new company equivalent, as far as practicable, to the nominal vale of shares held by such shareholder in the peoplised company.
+Effect of Order made under section 46B.
+[ 3,30 of 1996]
+46D . With effect from the publication in the Gazette of an Order under section 46B :-
+(a) every peoplised company referred to in such Order shall, notwithstanding anything in section 45 be deemed to have been liquidated under the Companies Act, No. 17 of 1982, and the Registrar of Companies shall take steps to delete the name of such company from the registers maintained by him ;
+(b) all property, movable or immovable, owned by a peoplised company referred to in such Order, on the day immediately preceding the date of such Order shall, with effect from the date of such Order, vest in the new company specified in such Order ;
+(c) all contracts and agreements entered into by a peoplised company referred to in such Order and subsisting on the day immediately preceding the date of such order shall, with effect from the date of such Order, be deemed to be contracts and agreements entered into by the new company referred to in such Order ;
+(d) all liabilities of a peoplised company referred to in such Order and subsisting on the day immediately preceding the date of such Order shall, with effect from the date of such Order, be deemed to be the liabilities of the new company specified in such Order ;
+(e) all actions and proceedings instituted by or against a peoplised company referred to in such Order and pending on the day immediately preceding the date of such Order shall, with effect from the date of such Order, be deemed to be actions and proceedings instituted by or against the new company specified in such Order and may be continued accordingly ;
+(f) all decrees and awards entered or made by any Court or Tribunal in any action or proceeding instituted by or against a peoplised company referred to in such Order and remaining unsatisfied on the day preceding the date of such Order shall, with effect from the date of such Order, be deemed to be decrees or awards entered or made in favour or against, as the case may be, of the new company specified in such Order and may be enforced accordingly.
+Section 18 not to apply to new companies.
+[ 3,30 of 1996]
+46E . Nothing in section 18 shall be deemed to prohibit the grant, by an authorized person of the Commission, of a passenger service permit in respect of an omnibus, the registered owner of which is a new company.
+Commission may give directions to a new company .
+[ 3,30 of 1996]
+46F . The Commission may give to any new company, such general or special directions as may be necessary to ensure new company, compliance by such company with time tables for operating omnibuses- It shall be the duty of every new company to comply with a direction given to it under this section.
+Government guarantee.
+[ 3,30 of 1996]
+46G . (1) The Minister in charge of the subject of Finance may with the concurrence of the Cabinet of Ministers, guarantee any sum due on a loan, overdraft or other accommodation, granted to a new company or on debentures issued by such new company.
+(2) Any sum required for the fulfillment of a guarantee provided in subsection (1) shall be paid out of the Consolidated Fund.
+(3) Any sum paid out of the Consolidated Fund in fulfillment of a guarantee provided under subsection (1) shall be repaid with interest thereon at such rate as the Minister in charge of the subject of Finance may determine, by the new company in such manner and over such period as such Minister may determine.
+(4) Immediately after a guarantee is provided under subsection (1), the Minister in charge of the subject of Finance, shall lay a statement of the guarantee before Parliament.
+(5) Where any sum is paid out of the Consolidated Fund in fulfillment of a guarantee provided under subsection (1),the Minister in charge of the subject of Finance shall forthwith lay before Parliament a statement that such sum has been paid.
+Restriction on issue of passenger service permits.
+[ 3,30 of 1996]
+46H . (1) From and after such date as the Minister may appoint by Order published in the Gazette, a passenger service permit, authorizing the use of an omnibus for the carriage of passengers shall except in the case of omnibuses operating on such routes or classes of routes as may be prescribed, be issued by an authorized person or the Commission, only in respect of an omnibus the capacity of which is not less than forty seats.
+(2) The making of an Order under subsection (1) shall be deemed not to prohibit, the renewal, after the date of such Order, of a passenger service permit authorizing the use of an omnibus for the carriage of passengers, issued prior to the date of such Order, in respect of an omnibus designed to carry less than the prescribed number of passengers.
+(3) After the expiration of five years from such date, as the Minister may appoint by Order published in the Gazette, a passenger service permit authorizing the use of an omnibus for the carriage of passengers shall except in the case of a permit issued in respect of such route or classes of routes as may be prescribed be issued by an authorized person or the Commission, only to a person or body of persons who owns and operates at least fifty omnibuses.
+(4) The provisions of this section shall have effect notwithstanding anything to the contrary in this Act, or any other written law authorizing the issue of a passenger service permit or similar authority authorizing the use of an omnibus for the carriage of passengers.
