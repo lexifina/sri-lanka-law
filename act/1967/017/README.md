@@ -1,6 +1,6 @@
 # Coconut Fibre (Act No. 17 of 1967)
 
-Act No. 17 of 1967 · version in force from 1971-11-08 · <https://web.archive.org/web/20200925074316/http://www.lawnet.gov.lk/coconut-fibre/>
+Act No. 17 of 1967 · version in force from 1984-11-28 · <https://web.archive.org/web/20240528075434/http://www.lawnet.gov.lk/coconut-fibre-3/>
 
 | Provision | File |
 | --- | --- |
