@@ -1,6 +1,6 @@
 # Arts Council Of Ceylon (Act No. 18 of 1952)
 
-Act No. 18 of 1952 · version in force from 1952-03-24 · <https://web.archive.org/web/20200922165031/http://www.lawnet.gov.lk/arts-council-of-ceylon-3/>
+Act No. 18 of 1952 · version in force from 1987-11-25 · <https://web.archive.org/web/20240805024445/http://www.lawnet.gov.lk/arts-council-of-ceylon-4/>
 
 | Provision | File |
 | --- | --- |
@@ -17,6 +17,7 @@ Act No. 18 of 1952 · version in force from 1952-03-24 · <https://web.archive.o
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
