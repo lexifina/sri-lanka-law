@@ -1,0 +1,6 @@
+# 70F. Power of minister to vest undertaking of degree Awarding Institute in the government.
+[2, 3 of 1989]
+(1) Where the Minister considers it necessary to do so, in the public interest, he may by Order published in the Gazette, vest in the Government with effect from such date as is specified in such Order, any under- taking carried on by a Degree Awarding Institute.
+(2) Where any undertaking carried on by a Degree Awarding Institute is vested in the Government by an Order made under subsection (1), the Government shall with effect from the date specified in such Order,, have absolute title to that undertaking free from all encumbrances.
+(3) Every order made under subsection (1) shall be laid before parliament within thirty days of the date specified in such Order and if Parliament is not in session within fifty days of the Commencement of the session next ensuing by a motion that such Order be approved.
+(4) Where Parliament refuses to approve an Order made under subsection (1) in respect of an undertaking carried on by a Degree Awarding Institute, that undertaking shall be deemed never to have vested in the Government by virtue of that Order and any question which may arise as to any right, title or interest in, or over, such undertaking shall be determined accordingly.
