@@ -1,0 +1,3 @@
+# 42A. Minister to give directions.
+[4, 61 of 1980]
+The Minister may from time to time give general or special directions in writing to the Board as to the performance of the duties and the exercise of the powers of the bank and it shall be the duty of the Board to comply with such directions.

@@ -1,6 +1,6 @@
-# Sale of State Lands (Special Provisions Law, No. 43 of 1973
+# People’S Bank (Law No. 43 of 1973)
 
-Law No. 43 of 1973 · version in force from 1973-10-17 · <https://web.archive.org/web/20220930104831/http://www.lawnet.gov.lk/sale-of-state-lands-special-provisions-law-2/>
+Law No. 43 of 1973 · version in force from 1980-12-29 · <https://web.archive.org/web/20220117040029/http://www.lawnet.gov.lk/peoples-bank-2/>
 
 | Provision | File |
 | --- | --- |
@@ -18,7 +18,6 @@ Law No. 43 of 1973 · version in force from 1973-10-17 · <https://web.archive.o
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
-| sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
@@ -35,7 +34,6 @@ Law No. 43 of 1973 · version in force from 1973-10-17 · <https://web.archive.o
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
-| sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
 | sec-033 | [sec-033.md](sec-033.md) |
 | sec-034 | [sec-034.md](sec-034.md) |
@@ -47,16 +45,8 @@ Law No. 43 of 1973 · version in force from 1973-10-17 · <https://web.archive.o
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
+| sec-042a | [sec-042a.md](sec-042a.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
-| sec-046 | [sec-046.md](sec-046.md) |
-| sec-047 | [sec-047.md](sec-047.md) |
 | sec-048 | [sec-048.md](sec-048.md) |
-| sec-049 | [sec-049.md](sec-049.md) |
-| sec-050 | [sec-050.md](sec-050.md) |
-| sec-051 | [sec-051.md](sec-051.md) |
-| sec-052 | [sec-052.md](sec-052.md) |
-| sec-053 | [sec-053.md](sec-053.md) |
-| sec-054 | [sec-054.md](sec-054.md) |
-| sec-055 | [sec-055.md](sec-055.md) |
