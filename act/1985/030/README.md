@@ -1,6 +1,6 @@
-# Pensions (Special Provisions) Act, No. 30 of 1985
+# Pensions (Special Provisions) (Act No. 30 of 1985)
 
-Act No. 30 of 1985 · version in force from 1985-08-06 · <https://web.archive.org/web/20220925200451/http://www.lawnet.gov.lk/pensions-special-provisions-3/>
+Act No. 30 of 1985 · version in force from 1988-05-19 · <https://web.archive.org/web/20240813064741/http://www.lawnet.gov.lk/pensions-special-provisions-2/>
 
 | Provision | File |
 | --- | --- |
