@@ -1,0 +1,4 @@
+# 12A. Appointment of a Research Planning Council
+[6 19 of 1981]
+(1) The Minister shall appoint a scientific advisory council, called the Research Planning Council, composed of the director of the Institute, the deputy director or deputy directors of the Institute, heads of research divisions and sections, and six other persons, being persons not In the employ of the Institute, each of whom shall have distinguished himself in science, engineering or industry or is otherwise specially qualified in relation to some aspect of the work of the Institute.
+(2) The function of the Research Planning Council shall be to advise the board on all aspects of the Institute’s activities relevant to its research and development functions. The mode and manner of the conduct of meetings of such Council shall be determined by the Council.
