@@ -1,0 +1,5 @@
+# 25A. Application for grant of provisional possession of property by Public Trustee.
+[ 4,61 of 1988]
+(1) Where the Public Trustee makes an application for probate or letters of administration in respect of the estate of the deceased person, he may at the same time make an application for an order authorising him to take provisional possession of the movable and immovable property of the estate (in this section referred to as an ” order for provisional possession “).
+(2) The court may make an order for provisional possession of an estate at the stage when it enters an order nisi in the application by the Public Trustee for the issue of probate or letters of administration in respect of that estate. If the court at any stage discharges such order nisi, it shall also cancel the order for provisional possession.
+(3) Where the Public Trustee takes possession of the movable and immovable property of an estate of a deceased person by virtue of an order for provisional possession, he shall hold such property in trust for the heirs of the estate.
