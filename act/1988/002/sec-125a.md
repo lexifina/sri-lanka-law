@@ -1,0 +1,3 @@
+# 125A. Procedure for casting vote where there is a reasonable fear of inability to cast vote at a given polling station.
+[ 3,7 of 1993]
+(1) Notwithstanding the provisions of any other law, any registered elector who is compelled by conditions prevailing in the area within which his polling station is situate to reside outside such area, and who reasonably fears that he would be unable to cast his vote at such polling station may make an application to the Commissioner of Election within one week of the notice of nomination, requesting that he may be allowed to cast his vote at another polling station determined by the, Commissioner, in his absolute discretion.

@@ -1,0 +1,12 @@
+AN ACT TO MAKE PROVISION FOR THE PROCEDURE OF THE ELECTION OF MEMBER OF PROVINCIAL COUNCILS AND FOR MATTERS CONNECTED THERE WITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of sri lanka as follows : –
+Act Nos,
+2 of 1988
+35 of 1988
+55 of 1988
+27 of 1990
+29 of 1990
+7 of 1993
+5 of 2004
+14 of 2004
+[ 27 th January
