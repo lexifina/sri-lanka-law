@@ -1,0 +1,3 @@
+# 24A. Resolution of doubts.
+[ 6,41 of 1975]
+(* Section 24A operation form 1st day of November, 1978 – See Gazette No, 7 of 20.10.1978.)* For the resolution of any doubts, it is hereby declared, that, notwithstanding anything to the contrary in section 24, where any Kandyan marriage has, before the coming into operation of this section, been solemnized and registered between the hours of 6 a.m. and 6 p.m. at any place outside the office of a District Registrar or Divisional Registrar, such solemnization and registration shall be deemed to be as valid and effectual, as if it has been solemnized and registered between the hours of 6 a.m. and 6 p.m. in the office of the District Registrar or the Divisional Registrar.
