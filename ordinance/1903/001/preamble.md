@@ -19,4 +19,8 @@ Act Nos,
 41 of 1961
 7 of 1966
 20 of 1971
+49 of 1983
+25 of 1986
+60 of 1993
+12 of 2005
 [ 15 th October

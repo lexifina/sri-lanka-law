@@ -1,5 +1,3 @@
-# 13A. Penalty for occupying seats clergy
-[ 2, 7 of 1966]
+# 13A. Penalty for occupying seats clergy.
+[ 2, 7 of 1966.]
 Where any seats are set apart for the exclusive use of members of the clergy, any person (other than a member of the clergy) reserved for who occupies any such seat and refuses to leave it when it is required for occupation by a member of the clergy, may be removed from such seat by any railway official, and shall be guilty of an offence and liable to a fine not exceeding one hundred rupees.
-Fine for riding on engine, tender, or luggage van.
-14 Any person other than the engineman and fireman and assistant fireman, if any, who, without the special leave of the General Manager, shall ride or attempt to ride upon any locomotive engine or tender upon the railway ; and any person other than the guard or brakeman who, without special permission of the General Manager, shall ride or attempt to ride upon the railway in or upon any luggage van or goods van or other vehicle not appropriated to the carriage of passengers, shall be guilty of an offence, and liable to a fine not exceeding fifty rupees for each offence.

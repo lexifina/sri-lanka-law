@@ -1,0 +1,5 @@
+# 31C. Penalty for receiving, possessing or keeping. selling, or delivering without lawful excuse any article bearing official inscription.
+[ 4, 49 of 1983.]
+[5, 12 of 2005.]
+Any person who without lawful excuse receives, possesses or keeps, sells or delivers any article bearing the official inscription shall be guilty of an offence and shall, on conviction after summary trial before a Magistrate, be punishable, notwithstanding the provisions of the Code of Criminal Procedure Act, with a fine not less than two thousand rupees and not exceeding ten thousand rupees or with imprisonment of either description for a term not exceeding one year or to both such fine and imprisonment.
+For the purposes of this section an article shall be deemed to be in the possession or keeping of any person if he knowingly has it in the actual possession or keeping of any other person or in any building or place whether occupied by him or not and where it is so had for his own use or benefit or for the use or benefit of another.
