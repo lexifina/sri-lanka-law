@@ -1,6 +1,6 @@
-# Offences Committed under the Influence of Liquor (Special Provisions) Act, No. 41 of 1979
+# Offences Committed Under The Influence Of Liquor (Act No. 41 of 1979)
 
-Act No. 41 of 1979 · version in force from 1979-06-25 · <https://web.archive.org/web/20220521184718/http://www.lawnet.gov.lk/offences-committed-under-the-influence-of-liquor-special-provisions-2/>
+Act No. 41 of 1979 · version in force from 2005-05-11 · <https://web.archive.org/web/20240814144337/http://www.lawnet.gov.lk/offences-committed-under-the-influence-of-liquor-3/>
 
 | Provision | File |
 | --- | --- |
