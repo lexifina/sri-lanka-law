@@ -1,6 +1,6 @@
 # Antiquities (Ordinance No. 9 of 1940)
 
-Ordinance No. 9 of 1940 · version in force from 1955-04-14 · <https://web.archive.org/web/20200922022911/http://www.lawnet.gov.lk/antiquities-3/>
+Ordinance No. 9 of 1940 · version in force from 2005-05-11 · <https://web.archive.org/web/20240913122005/http://www.lawnet.gov.lk/antiquities-4/>
 
 | Provision | File |
 | --- | --- |
@@ -20,6 +20,10 @@ Ordinance No. 9 of 1940 · version in force from 1955-04-14 · <https://web.arch
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
+| sec-015a | [sec-015a.md](sec-015a.md) |
+| sec-015b | [sec-015b.md](sec-015b.md) |
+| sec-015c | [sec-015c.md](sec-015c.md) |
+| sec-015d | [sec-015d.md](sec-015d.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
@@ -44,10 +48,13 @@ Ordinance No. 9 of 1940 · version in force from 1955-04-14 · <https://web.arch
 | sec-037 | [sec-037.md](sec-037.md) |
 | sec-038 | [sec-038.md](sec-038.md) |
 | sec-039 | [sec-039.md](sec-039.md) |
+| sec-039a | [sec-039a.md](sec-039a.md) |
 | sec-040 | [sec-040.md](sec-040.md) |
 | sec-041 | [sec-041.md](sec-041.md) |
 | sec-042 | [sec-042.md](sec-042.md) |
 | sec-043 | [sec-043.md](sec-043.md) |
+| sec-043a | [sec-043a.md](sec-043a.md) |
+| sec-043b | [sec-043b.md](sec-043b.md) |
 | sec-044 | [sec-044.md](sec-044.md) |
 | sec-045 | [sec-045.md](sec-045.md) |
 | sec-046 | [sec-046.md](sec-046.md) |
