@@ -10,4 +10,5 @@ Ordinance Nos,
 38 of 1943
 Act Nos,
 12 of 1952
+12 of 2005
 [ 9 th February

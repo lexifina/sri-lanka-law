@@ -1,6 +1,6 @@
 # Quarantine And Prevention Of Diseases (Ordinance No. 3 of 1897)
 
-Ordinance No. 3 of 1897 · version in force from 1952-03-08 · <https://web.archive.org/web/20220117042654/http://www.lawnet.gov.lk/quarantine-and-prevention-of-diseases-3/>
+Ordinance No. 3 of 1897 · version in force from 2005-05-11 · <https://web.archive.org/web/20210916161555/http://www.lawnet.gov.lk/quarantine-and-prevention-of-diseases-4/>
 
 | Provision | File |
 | --- | --- |
