@@ -1,6 +1,6 @@
 # Births And Deaths (Law No. 40 of 1975)
 
-Law No. 40 of 1975 · version in force from 1978-07-03 · <https://web.archive.org/web/20200928083517/http://www.lawnet.gov.lk/births-and-deaths-3/>
+Law No. 40 of 1975 · version in force from 2005-05-11 · <https://web.archive.org/web/20240805023218/http://www.lawnet.gov.lk/births-and-deaths-4/>
 
 | Provision | File |
 | --- | --- |
@@ -32,7 +32,6 @@ Law No. 40 of 1975 · version in force from 1978-07-03 · <https://web.archive.o
 | sec-024 | [sec-024.md](sec-024.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
-| sec-027 | [sec-027.md](sec-027.md) |
 | sec-027a | [sec-027a.md](sec-027a.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
@@ -77,3 +76,4 @@ Law No. 40 of 1975 · version in force from 1978-07-03 · <https://web.archive.o
 | sec-068 | [sec-068.md](sec-068.md) |
 | sec-069 | [sec-069.md](sec-069.md) |
 | sec-070 | [sec-070.md](sec-070.md) |
+| sec-071 | [sec-071.md](sec-071.md) |
