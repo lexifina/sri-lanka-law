@@ -1,4 +1,7 @@
 AN ORDINANCE RELATING TO OBSCENE PUBLICATIONS.
 Ordinance Nos,
 4 of 1927
+Act Nos,
+22 of 1983
+12 of 2005
 [ 1 st August

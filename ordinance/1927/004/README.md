@@ -1,6 +1,6 @@
 # Obscene Publications (Ordinance No. 4 of 1927)
 
-Ordinance No. 4 of 1927 · version in force from 1927-08-01 · <https://web.archive.org/web/20220117035248/http://www.lawnet.gov.lk/obscene-publications-3/>
+Ordinance No. 4 of 1927 · version in force from 2005-05-11 · <https://web.archive.org/web/20240524054418/http://www.lawnet.gov.lk/obscene-publications-4/>
 
 | Provision | File |
 | --- | --- |
