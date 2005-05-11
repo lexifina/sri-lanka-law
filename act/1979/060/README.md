@@ -1,6 +1,6 @@
-# Motor Traffic (Special Provisions) Act, No. 60 of 1979
+# Motor Traffic(Special Provisions) (Act No. 60 of 1979)
 
-Act No. 60 of 1979 · version in force from 1979-10-04 · <https://web.archive.org/web/20220521194854/http://www.lawnet.gov.lk/motor-traffic-special-provisions-2/>
+Act No. 60 of 1979 · version in force from 2005-05-11 · <https://web.archive.org/web/20240918044420/http://www.lawnet.gov.lk/motor-trafficspecial-provisions-3/>
 
 | Provision | File |
 | --- | --- |
