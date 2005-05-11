@@ -7,4 +7,6 @@ Law Nos,
 Act Nos,
 1 of 1964
 38 of 1979
+15 of 1992
+12 of 2005
 [ 1 st February

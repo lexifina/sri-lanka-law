@@ -1,5 +1,5 @@
 # 10A. Quarterly return.
-[4, Law 6 of 1977.]
+[4, Law 6 of 1977]
 (1) Every court empowered to make an adoption order shall cause to be transmitted to the Registrar-General a return (hereinafter referred to as the “quarterly return”), of all adoption orders made by that court during each period of three months.
 (2) The first quarterly return of any year shall be for the period commencing on the first day of January of that year and the remaining quarterly returns for that year shall be for the periods commencing on the first day of April, July and October of that year and the quarterly return for any such period shall be transmitted to the Registrar-General not later than fifteen days after the expiration of that period.
 (3) Every such return shall contain the following particulars :-

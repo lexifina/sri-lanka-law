@@ -1,6 +1,6 @@
 # Adoption Of Children (Ordinance No. 24 of 1941)
 
-Ordinance No. 24 of 1941 · version in force from 1979-06-08 · <https://web.archive.org/web/20200926222715/http://www.lawnet.gov.lk/adoption-of-children-3/>
+Ordinance No. 24 of 1941 · version in force from 2005-05-11 · <https://web.archive.org/web/20240917045653/http://www.lawnet.gov.lk/adoption-of-children-4/>
 
 | Provision | File |
 | --- | --- |
@@ -17,6 +17,7 @@ Ordinance No. 24 of 1941 · version in force from 1979-06-08 · <https://web.arc
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-010a | [sec-010a.md](sec-010a.md) |
 | sec-010b | [sec-010b.md](sec-010b.md) |
+| sec-010c | [sec-010c.md](sec-010c.md) |
 | sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
@@ -36,6 +37,7 @@ Ordinance No. 24 of 1941 · version in force from 1979-06-08 · <https://web.arc
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
+| sec-027a | [sec-027a.md](sec-027a.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
