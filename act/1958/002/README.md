@@ -1,6 +1,6 @@
 # Tea And Rubber Estates (Control Of Fragmentation) (Act No. 2 of 1958)
 
-Act No. 2 of 1958 · version in force from 1957-12-11 · <https://web.archive.org/web/20210119105707/http://www.lawnet.gov.lk/tea-and-rubber-estates-control-of-fragmentation-2/>
+Act No. 2 of 1958 · version in force from 2005-07-22 · <https://web.archive.org/web/20240525075009/http://www.lawnet.gov.lk/tea-and-rubber-estates-control-of-fragmentation-3/>
 
 | Provision | File |
 | --- | --- |
@@ -16,6 +16,7 @@ Act No. 2 of 1958 · version in force from 1957-12-11 · <https://web.archive.or
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
+| sec-012a | [sec-012a.md](sec-012a.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
 | sec-015 | [sec-015.md](sec-015.md) |
