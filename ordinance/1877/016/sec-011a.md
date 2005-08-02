@@ -1,5 +1,5 @@
 # 11A. Power to make rules for the establishment and operation of a scheme for the grant of compensation in respect of the permanent total or partial disablement or death of prison officers in the discharge of their duties.
-[2,6 of 1980.]
+[2,6 of 1980]
 (1) The Minister may, with the concurrence of the Minister in charge of the subject of Finance, make rules providing for the establishment and operation of a scheme for the grant of compensation to any prison officer who is permanently totally or partially disabled, or to the legal heir or heirs of any prison officer who is dead, in any case where such disablement or death, as the case may be, is due to any injury –
 (a) received by such officer while on duty, or
 (b) received by such officer while not on duty in the performance of some act which is within the scope of his ordinary duties, or

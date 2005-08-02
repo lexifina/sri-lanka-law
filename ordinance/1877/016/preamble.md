@@ -19,4 +19,5 @@ Act Nos,
 35 of 1952
 21 of 1958
 6 of 1980
+22 of 2005
 [ 1 st May
