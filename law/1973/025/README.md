@@ -1,6 +1,6 @@
 # Sports (Law No. 25 of 1973)
 
-Law No. 25 of 1973 · version in force from 1973-08-10 · <https://web.archive.org/web/20210124192312/http://www.lawnet.gov.lk/sports-2/>
+Law No. 25 of 1973 · version in force from 2005-09-29 · <https://web.archive.org/web/20240910013332/http://www.lawnet.gov.lk/sports-3/>
 
 | Provision | File |
 | --- | --- |
@@ -22,10 +22,13 @@ Law No. 25 of 1973 · version in force from 1973-08-10 · <https://web.archive.o
 | sec-015 | [sec-015.md](sec-015.md) |
 | sec-016 | [sec-016.md](sec-016.md) |
 | sec-017 | [sec-017.md](sec-017.md) |
+| sec-017a | [sec-017a.md](sec-017a.md) |
 | sec-018 | [sec-018.md](sec-018.md) |
+| sec-018a | [sec-018a.md](sec-018a.md) |
 | sec-019 | [sec-019.md](sec-019.md) |
 | sec-020 | [sec-020.md](sec-020.md) |
 | sec-021 | [sec-021.md](sec-021.md) |
+| sec-021a | [sec-021a.md](sec-021a.md) |
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
