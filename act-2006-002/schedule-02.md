@@ -1,0 +1,58 @@
+SCHEDULE II
+URBAN COUNCILS
+1. Kathankudy Urban Council
+2. Chavekachcheri Urban Council
+3. Point Pedro Urban Council
+4. Valvettithurai Urban Council
+5. Trincomalee Urban Council
+6. Vavuniya Urban Council PRADESHIYA SABHAS
+1. Ninthavur Pradeshiya Sabha
+2. Samanthurai Pradeshiya Sabha
+3. Addlarchenai Pradeshiya Sabha
+4. Akkaraipattu Pradeshiya Sabha
+5. Pottuvil Pradeshiya Sabha
+6. Thriukkovil Pradeshiya Sabha
+7. Koralai Pattu North Pradeshiya Sabha
+8. Koralai Pattu West Pradeshiya Sabha
+9. Koralai Pattu Pradeshiya Sabha
+10. Eravul Pattu Pradeshiya Sabha
+11. Mannmunai West Pradeshiya Sabha
+12. Mannmunai Pattu Pradeshiya Sabha
+13. Mannmunai South Earuvil Pattu Pradeshiya Sabha
+14. Mannmunai Pattu South West Pradeshiya Sabha
+15. Town and Gravets Pradeshiya Sabha
+16. Kuchchaveli Pradeshiya Sabha
+17. Thampalagamam Pradeshiya Sabha
+18. Kinniya Pradeshiya Sabha
+19. Muthur Pradeshiya Sabha
+20. Kanthale Pradeshiya Sabha
+21. Gomarankadawela Pradeshiya Sabha
+22. Morawewa Pradeshiya Sabha
+23. Padavisiripura Pradeshiya Sabha
+24. Seruwila Pradeshiya Sabha
+25. Chavakachcheri Pradeshiya Sabha
+26. Delft Pradeshiya Sabha
+27. Velanai Pradeshiya Sabha
+28. Kayts Pradeshiya Sabha
+29. Valikamam West Pradeshiya Sabha
+30. Valikamam South West Pradeshiya Sabha
+31. Valikamam South Pradeshiya Sabha
+32. Valikamam North Pradeshiya Sabha
+33. Valikamam East Pradeshiya Sabha
+34. Vadamarachchi South West Pradeshiya Sabha
+35. Point Pedro Pradeshiya Sabha
+36. Nallur Pradeshiya Sabha
+37. Vavuniya South Tamil Pradeshiya Sabha
+38. Vavuniya South Sinhala Pradeshiya Sabha
+39. Vavuniya North Pradeshiya Sabha
+40. Vengalachchedikulam Pradeshiya Sabha
+41. Mannar Pradeshiya Sabha
+42. Manthai West Pradeshiya Sabha
+43. Nanattan Pradeshiya Sabha
+45. Maritime Pradeshiya Sabha
+46. Puthukudiyiruppu Pradeshiya Sabha
+47. Thunukkai Pradeshiya Sabha
+48. Manthai East Pradeshiya Sabha
+49. Karachchi Pradeshiya Sabha
+50. Poonakary Pradeshiya Sabha
+51. Pachchilaipalli Pradeshiya Sabha
