@@ -1,0 +1,2 @@
+AN ACT TO CHANGE THE DESIGNATION OF THE DIRECTOR OF MERCHANT SHIPPING AND TO MAKE SUCH AMENDMENTS IN WRITTEN LAW AS ARE CONSEQUENTIAL.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
