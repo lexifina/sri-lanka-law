@@ -1,6 +1,6 @@
-# Betting and Gaming Levy (Amendment) Act, No. 7 of 2001
+# Betting and Gaming Levy (Act No. 7 of 2001)
 
-Act No. 7 of 2001 · version in force from 2001-04-11 · <https://web.archive.org/web/20200923153222/http://www.lawnet.gov.lk/betting-and-gaming-levy-amendment-2/>
+Act No. 7 of 2001 · version in force from 2006-03-31 · <https://web.archive.org/web/20241006220816/http://www.lawnet.gov.lk/betting-and-gaming-levy-2/>
 
 | Provision | File |
 | --- | --- |
@@ -11,3 +11,4 @@ Act No. 7 of 2001 · version in force from 2001-04-11 · <https://web.archive.or
 | sec-004 | [sec-004.md](sec-004.md) |
 | sec-005 | [sec-005.md](sec-005.md) |
 | sec-006 | [sec-006.md](sec-006.md) |
+| sec-007 | [sec-007.md](sec-007.md) |

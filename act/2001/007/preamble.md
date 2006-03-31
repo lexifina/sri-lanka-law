@@ -1,3 +1,12 @@
-AN ACT TO AMEND THE BETTING AND GAMING ACT LEVY ACT, NO. 40 OF 1988 AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
-BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
-[ 11 th April
+AN ACT TO PROVIDE FOR THE IMPOSITION OF AN ANNUAL LEVY ON PERSONS CARRYING OH THE BUSINESS OF BOOKMAKER OR GAMING; AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:
+Act Nos,
+7 of 2001
+11 of 2002
+23 of 2003
+9 of 2005
+12 of 2005
+14 of 2006
+[ 24 th November
+, 1988 ]
+short title.
