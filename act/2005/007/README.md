@@ -1,6 +1,6 @@
-# Finance (Amendment) Act, No. 7 of 2005
+# Finance – 2004 (Act No. 7 of 2005)
 
-Act No. 7 of 2005 · version in force from 2005-03-31 · <https://www.parliament.lk/en/business-of-parliament/act-details/G5634>
+Act No. 7 of 2005 · version in force from 2006-03-31 · <https://web.archive.org/web/20240525204449/http://www.lawnet.gov.lk/finance-2004-2/>
 
 | Provision | File |
 | --- | --- |
@@ -15,3 +15,27 @@ Act No. 7 of 2005 · version in force from 2005-03-31 · <https://www.parliament
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011a | [sec-011a.md](sec-011a.md) |
+| sec-012 | [sec-012.md](sec-012.md) |
+| sec-013 | [sec-013.md](sec-013.md) |
+| sec-014 | [sec-014.md](sec-014.md) |
+| sec-015 | [sec-015.md](sec-015.md) |
+| sec-016 | [sec-016.md](sec-016.md) |
+| sec-018 | [sec-018.md](sec-018.md) |
+| sec-019 | [sec-019.md](sec-019.md) |
+| sec-020 | [sec-020.md](sec-020.md) |
+| sec-021 | [sec-021.md](sec-021.md) |
+| sec-022 | [sec-022.md](sec-022.md) |
+| sec-023 | [sec-023.md](sec-023.md) |
+| sec-024 | [sec-024.md](sec-024.md) |
+| sec-025 | [sec-025.md](sec-025.md) |
+| sec-026 | [sec-026.md](sec-026.md) |
+| sec-027 | [sec-027.md](sec-027.md) |
+| sec-028 | [sec-028.md](sec-028.md) |
+| sec-028a | [sec-028a.md](sec-028a.md) |
+| sec-028b | [sec-028b.md](sec-028b.md) |
+| sec-028c | [sec-028c.md](sec-028c.md) |
+| sec-028d | [sec-028d.md](sec-028d.md) |
+| sec-029 | [sec-029.md](sec-029.md) |
+| sec-030 | [sec-030.md](sec-030.md) |
+| sec-031 | [sec-031.md](sec-031.md) |

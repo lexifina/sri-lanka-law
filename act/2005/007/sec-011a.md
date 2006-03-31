@@ -1,0 +1,7 @@
+# 11A. Regulations.
+[ 5, 11 of 2004.]
+(1) The Minister may make regulations in respect of all matters which are required by this Act to be prescribed or in respect of which regulations are required or authorized to be made under this Act.
+(2) In particular and without prejudice to the generality of the powers conferred by subsection (1), the Minster may make regulations specifying the guidelines relating to the meaning of the expression “turnover” as is used in subsection (3) of section 2 is to be ascertained in its application to cases where the proviso to the definition of the expression “turnover” in that subsection does not apply.
+(3) Every regulation made under subsection (1) shall be published in the Gazette and shall come into operation on the date of publication, or on such later date as may be specified therein.
+(4) Every regulation made under subsection (1) shall, as soon as convenient after its publication in the Gazette, be placed before Parliament for approval. Every regulation which is not so approved shall be deemed to be rescinded as from the date of disapproval, but without prejudice to anything previously done thereunder.
+(5) Notification of the date on which any regulation is deemed to be so rescinded shall be published in the Gazette.”.

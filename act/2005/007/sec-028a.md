@@ -1,0 +1,4 @@
+# 28A. Imposition of withholding tax on motor vehicles.
+[ 8, 11 of 2004.]
+(1) There shall be levied in accordance with the rates as are specified in section 28B, with effect from April 1, 2005, a withholding tax, on every applicant seeking to register a motor vehicle, in respect of every motor vehicle registered by the Commissioner of Motor Traffic in accordance with the provisions of the Motor Traffic Act, (Chapter 203) other than on three-wheelers, lorries and buses used solely for the purpose of providing public transport. For the purpose of this section “motor vehicle” shall have the same meaning as in the Motor Traffic Act (Chapter 203).
+(2) The Commissioner of Motor Traffic shall not issue in respect of any motor vehicle a Certificate of Registration unless the withholding tax payable in terms of this section has been paid by the applicant. Any tax paid under this section shall be duly acknowledged by the issue of a Certificate to the applicant.
