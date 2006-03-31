@@ -1,0 +1,4 @@
+# 29B. Director of Bank Supervision to examine books of any subsidiary or agency of a banking institution or of a Cooperative Society carrying on banking business.
+[7, 52 of 1985]
+(1) The Director of Bank Supervision shall examine or cause an examiner of his department to examine the books and accounts of any subsidiary or agency of any commercial bank, or the books and accounts of any subsidiary or agency of any banking institution other than a commercial bank, if directions in that behalf are given by the Monetary Board, or the books and accounts of any society registered under the Co-operative Societies Law, No. 5 of 1972, which carries on banking business, if directions in that behalf are given by the Governor.
+(2) The provisions of subsections (3), (4) and (5) of section 29 and sections 30, 31 and 32 of this Act shall, mutatis mutandis apply, to and in relation to, all or any of the institutions referred to in subsection (1) of this section.

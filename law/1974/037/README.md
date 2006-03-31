@@ -1,6 +1,6 @@
 # Monetary Law (Law No. 37 of 1974)
 
-Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.org/web/20220117163423/http://www.lawnet.gov.lk/monetary-law-3/>
+Law No. 37 of 1974 · version in force from 2006-03-31 · <https://web.archive.org/web/20240918060933/http://www.lawnet.gov.lk/monetary-law-4/>
 
 | Provision | File |
 | --- | --- |
@@ -16,6 +16,7 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-008 | [sec-008.md](sec-008.md) |
 | sec-009 | [sec-009.md](sec-009.md) |
 | sec-010 | [sec-010.md](sec-010.md) |
+| sec-011 | [sec-011.md](sec-011.md) |
 | sec-012 | [sec-012.md](sec-012.md) |
 | sec-013 | [sec-013.md](sec-013.md) |
 | sec-014 | [sec-014.md](sec-014.md) |
@@ -29,11 +30,14 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-022 | [sec-022.md](sec-022.md) |
 | sec-023 | [sec-023.md](sec-023.md) |
 | sec-024 | [sec-024.md](sec-024.md) |
+| sec-024a | [sec-024a.md](sec-024a.md) |
 | sec-025 | [sec-025.md](sec-025.md) |
 | sec-026 | [sec-026.md](sec-026.md) |
 | sec-027 | [sec-027.md](sec-027.md) |
 | sec-028 | [sec-028.md](sec-028.md) |
 | sec-029 | [sec-029.md](sec-029.md) |
+| sec-029a | [sec-029a.md](sec-029a.md) |
+| sec-029b | [sec-029b.md](sec-029b.md) |
 | sec-030 | [sec-030.md](sec-030.md) |
 | sec-031 | [sec-031.md](sec-031.md) |
 | sec-032 | [sec-032.md](sec-032.md) |
@@ -73,6 +77,7 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-060 | [sec-060.md](sec-060.md) |
 | sec-061 | [sec-061.md](sec-061.md) |
 | sec-062 | [sec-062.md](sec-062.md) |
+| sec-062a | [sec-062a.md](sec-062a.md) |
 | sec-063 | [sec-063.md](sec-063.md) |
 | sec-064 | [sec-064.md](sec-064.md) |
 | sec-065 | [sec-065.md](sec-065.md) |
@@ -112,6 +117,8 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-096 | [sec-096.md](sec-096.md) |
 | sec-097 | [sec-097.md](sec-097.md) |
 | sec-098 | [sec-098.md](sec-098.md) |
+| sec-098a | [sec-098a.md](sec-098a.md) |
+| sec-098b | [sec-098b.md](sec-098b.md) |
 | sec-099 | [sec-099.md](sec-099.md) |
 | sec-100 | [sec-100.md](sec-100.md) |
 | sec-101 | [sec-101.md](sec-101.md) |
@@ -119,14 +126,16 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-103 | [sec-103.md](sec-103.md) |
 | sec-104 | [sec-104.md](sec-104.md) |
 | sec-105 | [sec-105.md](sec-105.md) |
+| sec-105a | [sec-105a.md](sec-105a.md) |
 | sec-106 | [sec-106.md](sec-106.md) |
 | sec-107 | [sec-107.md](sec-107.md) |
 | sec-108 | [sec-108.md](sec-108.md) |
 | sec-108a | [sec-108a.md](sec-108a.md) |
 | sec-109 | [sec-109.md](sec-109.md) |
 | sec-110 | [sec-110.md](sec-110.md) |
-| sec-111 | [sec-111.md](sec-111.md) |
 | sec-112 | [sec-112.md](sec-112.md) |
+| sec-112a | [sec-112a.md](sec-112a.md) |
+| sec-112b | [sec-112b.md](sec-112b.md) |
 | sec-113 | [sec-113.md](sec-113.md) |
 | sec-114 | [sec-114.md](sec-114.md) |
 | sec-115 | [sec-115.md](sec-115.md) |
@@ -136,6 +145,7 @@ Law No. 37 of 1974 · version in force from 1980-12-29 · <https://web.archive.o
 | sec-118 | [sec-118.md](sec-118.md) |
 | sec-119 | [sec-119.md](sec-119.md) |
 | sec-120 | [sec-120.md](sec-120.md) |
+| sec-120a | [sec-120a.md](sec-120a.md) |
 | sec-121 | [sec-121.md](sec-121.md) |
 | sec-121a | [sec-121a.md](sec-121a.md) |
 | sec-121b | [sec-121b.md](sec-121b.md) |

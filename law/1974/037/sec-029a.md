@@ -1,0 +1,6 @@
+# 29A. Continuous supervision of banking institutions.
+[7, 52 of 1985]
+The Director of Bank Supervision may for the purpose of the continuous supervision of banking institutions
+(a) require any commercial bank, and if so authorized by the Monetary Board any banking institution other than a commercial bank, to furnish from time to time and within such period as may be specified by him, such statement and information relating to the business or affairs of a commercial bank or a banking institution, as the case may be, as he may consider necessary to obtain for the purpose of ascertaining the true condition of the affairs of the commercial bank or the banking institution;
+(b) require the auditor of any commercial bank, and if so authorized by the Monetary Board of any banking institution other than a commercial bank, to furnish to him within such period as may be specified by him, any information in relation to an audit carried out by such auditor of the commercial bank or banking institution, as the case may be, as he may consider necessary to obtain for the purpose referred to in paragraph (a) ; and
+(c) examine or cause an examiner of his department to examine the books and accounts kept by any commercial bank, or other banking institution as he may deem necessary for the purpose of verifying the accuracy of any statement or information so furnished.
