@@ -1,0 +1,1 @@
+AN ACT TO AMEND THE PENAL CODE ; TO PROVIDE FOR CERTAIN NEW OFFENCES ; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO. BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
