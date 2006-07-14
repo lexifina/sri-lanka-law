@@ -1,0 +1,3 @@
+AN ACT TO PROVIDE FOR THE REGISTRATION, REGULATION, MONITORING AND INSPECTION OF PRIVATE MEDICAL INSTITUTIONS; AND TO FOSTER THE DEVELOPMENT OF, PRIVATE MEDICAL INSTITUTIONS; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS it has become necessary for the Government, in the interest of providing a safe and efficient medical service to the public, to set out a National Policy in relation to the provision of medical services through private medical institutions and to identify the manner in which such services are to be so provided in order to achieve its objectives :
+NOW THEREFORE BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
