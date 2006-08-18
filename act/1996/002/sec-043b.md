@@ -1,0 +1,10 @@
+# 43B. Cancellation of a licence.
+[ 3,22 of 2006]
+(1) A licnece issued under section 41 shall be cancelled by the Director-General, where –
+(a) it is found that the licence had been obtained by providing false, misleading or inaccurate information;
+(b) the licensee has been convicted of an offence under this Act or the National Aquaculture Development Authority of Sri Lanka Act, No. 53 of 1998 ;
+(c) the licensee has been convicted for an offence relating to any fishing or aquaculture activity under any written law;
+(d) the licensee has contravened any provision of this Act or the National Aquaculture development Authority of Sri Lanka Act, No. 53 of 1998 or any regulation made under those Acts ;
+(e) the licensee has acted in contravention or in violation of any terms or conditions subject to which such licence was issued ; or
+(f) the continuation of the aquaculture operation would have an adverse impact on the environment.
+(2) Where a licence issued is suspended or cancelled as the case may be under section 43A or this section, it shall be the duty of the Director-General to forthwith inform the licensee of such suspension or cancellation, by a written communication sent under registered post to the address given by the licensee.
