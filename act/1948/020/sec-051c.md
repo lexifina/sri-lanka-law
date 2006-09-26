@@ -1,0 +1,4 @@
+# 51C. Court may impound travel document to procure attendance of accused, suspect or witness.
+[ 3,16 of 1993]
+(1) Whenever in any proceeding in respect of any offence under any law it appears to the court that the attendance of an accused or suspect or the examination of a witness is necessary, it may, impound any travel document issued to such accused, suspect or witness, as the case may be, and for the time being in force, for such period as it may deem necessary to procure the attendance of such accused, or suspect or the examination of such witness. A court making an order under this section impounding a travel document issued to any person shall cause a copy of such order to be transmitted to the Controller.
+(2) In this section, the expression ” travel document” means a Sri Lanka passport, or an emergency certificate or identity certificate issued under the Immigrants and Emigrants Regulations, 1956.’.

@@ -1,21 +1,15 @@
 # 45A. Offences of bringing persons into Sri Lanka in contravention of Act, & c.
-[5, 68 of 1961.]
-(1) Any person who –
+[5, 68 of 1961]
+(1) Any person who
 (a) brings any other person into Sri Lanka by any means whatsoever, knowing that the entry into Sri Lanka of that other person is or would be in contravention of any provision of this Act or of any order or regulation made thereunder;
 (b) conceals or harbours any other person in any place whatsoever, or transports any other person or causes any other person to be transported by any means whatsoever, knowing that such other person has entered Sri Lanka or is remaining in Sri Lanka in contravention of any provision of this Act or of any order or regulation made thereunder; or
-(c) employs any other person, knowing that such other person has entered Sri Lanka or is remaining in Sri Lanka in contravention of any provision of this Act or of any order or regulation made thereunder,
-shall be guilty of an offence under this Act and shall on conviction be liable to rigorous imprisonment for a term of not less than two years and of not more than five years.
-(2) Any person who –
+(c) employs any other person, knowing that such other person has entered Sri Lanka or is remaining in Sri Lanka in contravention of any provision of this Act or of any order or regulation made thereunder, shall be guilty of an offence under this Act and shall on conviction be liable to rigorous imprisonment for a term of not less than two years and of not more than five years.
+(2) Any person who
 (a) attempts to commit or aids or abets the commission of an offence under subsection (1), or
-(b) does any act preparatory to the commission of an offence under paragraph (a) or paragraph (b) of subsection (1),
-shall be guilty of an offence under this Act and shall on conviction be liable to rigorous imprisonment for a term of not less than two years and of not more than five years.
+(b) does any act preparatory to the commission of an offence under paragraph (a) or paragraph (b) of subsection (1), shall be guilty of an offence under this Act and shall on conviction be liable to rigorous imprisonment for a term of not less than two years and of not more than five years.
 (3) Where a person is charged with an offence under subsection (1) or subsection (2), it shall be presumed that he acted knowing that the entry of that other person into Sri Lanka was or would have been, or that the other person had entered Sri Lanka or was remaining in Sri Lanka, as the case may be, in contravention of a provision of this Act or of any order or regulation made thereunder, and the burden of rebutting the presumption of such knowledge shall lie upon the person so charged.
-(4) For the purpose of every prosecution under paragraph (c) of subsection (1) of this section, a person alleged to have entered Sri Lanka or to be remaining in Sri Lanka in contravention of any provision of this Act or of any order or regulation made thereunder, –
-(a) who is in the service of a body of persons shall –
+(4) For the purpose of every prosecution under paragraph (c) of subsection (1) of this section, a person alleged to have entered Sri Lanka or to be remaining in Sri Lanka in contravention of any provision of this Act or of any order or regulation made thereunder,
+(a) who is in the service of a body of persons shall
 (i) where the body of persons is a body corporate, be deemed to be employed by the manager, secretary and every director of that body corporate, and
-(ii) where the body of persons is a firm, be deemed to be employed by every partner of the firm,
-unless such manager, secretary, director or partner, as the case may be, proves, having regard to the nature of his functions and to all the circumstances, that such person was employed without his knowledge ; and
-(b) who is in the service of a business registered under the Business Names Ordinance, shall, as regards every individual, every firm and every body corporate registered under that Ordinance in respect of that business, be deemed to be employed by such individual, every partner of such firm and every manager, secretary and director of such body corporate,
-unless such individual, partner, manager, secretary or director, as the case may be, proves, having regard to the nature of his functions and all the circumstances, that such person was employed without his knowledge.
-Presumption with regard to certain certificates.
-[5.68of 1961.]
+(ii) where the body of persons is a firm, be deemed to be employed by every partner of the firm, unless such manager, secretary, director or partner, as the case may be, proves, having regard to the nature of his functions and to all the circumstances, that such person was employed without his knowledge ; and
+(b) who is in the service of a business registered under the Business Names Ordinance, shall, as regards every individual, every firm and every body corporate registered under that Ordinance in respect of that business, be deemed to be employed by such individual, every partner of such firm and every manager, secretary and director of such body corporate, unless such individual, partner, manager, secretary or director, as the case may be, proves, having regard to the nature of his functions and all the circumstances, that such person was employed without his knowledge.
