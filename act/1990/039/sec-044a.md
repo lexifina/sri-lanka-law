@@ -1,0 +1,4 @@
+# 44A. Chief Executive Officers and executive officers.
+[17, 2 of 2005]
+(1) The Chief Executive Officer and such other officers of a licensed commercial bank performing executive functions as may be determined by the Monetary Board shall be fit and proper persons and the provisions of subsection (2) of section 42 shall, mutatis mutandis, apply in determining whether the Chief Executive Officer and such other officers performing executive functions are fit and proper persons.
+(2) The provisions of subsections (5) (6), (8), (9) and (10) of section 42 shall apply to the Chief Executive Officer and officers performing executive functions referred to in subsection (1) of this section and to the licensed commercial bank of which such person is a Chief Executive Officer or an officer performing executive functions as they apply to a director of a licensed commercial bank and to the licensed commercial bank of which such person is a director.

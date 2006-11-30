@@ -1,0 +1,8 @@
+# 49B. Order vesting banking business of any licensed Bank.
+[ 30,33 of 1995]
+(1) Whereupon a report made by the Director of Bank Supervision, the Monetary Board is satisfied that any licensed commercial bank is unable to carry on banking business in Sri Lanka ; or is unable to meet the demands of its depositors and other persons who have had transactions with sue a licensed commercial bank (in this Part of this Act referred to as “the defaulting bank “) and that its continuance in business is likely to involve serious economic loss to, and to adversely affect, the monetary and banking system and the national economy, the Monetary Board may, notwithstanding the provisions of any other law to the contrary, by Order published in the Gazette, vest the business carried on by defaulting bank being a business which it is authorized to carry on by or under this Act or such part thereof as the Monetary Board may determine, in another licensed commercial bank (in this Part of this Act referred to as the “acquiring bank”) which consents to sub vesting.
+(2) For the purpose of subsection (1), the “business carried on by a defaulting bank” includes-
+(a) all immovable and movable property owned by the defaulting bank on the day preceding to relevant date (including cash balances, reserve funds, investments and deposits) ;
+(b) all rights, powers, privileges, authorities and interests arising in, or out of, any property, movable or immovable, owned by the defaulting bank on the day preceding the relevant date;
+(c) all the liabilities of the defaulting bank and subsisting on the day preceding the relevant date; and
+(d) all books, accounts and documents relating or appertaining, to such undertaking in Sri Lanka.

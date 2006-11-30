@@ -1,0 +1,25 @@
+# 83B. Commercial bank deemed to be an exempted company.
+[ 38,33 of 1995]
+A company incorporated outside Sri Lanka which has been issued a licence under section 5 of this Act as a licensed commercial bank, shall with, effect from the date of issue of such licence, be deemed to be an exempted company for the purposes of the Companies (Special Provisions) Law, No. 19 of 1974.
+Prohibition on conduct of certain Schemes.
+[38, 2 of 2005]
+83c .
+(1) No person shall directly or indirectly initiate, offer, promote, advertise, conduct, finance, manage or direct a Scheme where a participant is required to contribute or pay money or monetary value and the benefits earned by the participant are largely dependent on-
+(a) increase in the number of participants in the Scheme; or
+(b) increase in the contributions made by the participants in the Scheme.
+For the purpose of this subsection –
+money means a monetary unit or a medium of exchange that is issued, established, authorized or adopted by Sri Lanka or a foreign government; and
+“monetary value” means a medium of exchange whether or not redeemable in money, including in the form of stored value, payment instrument or credit to account and shall also include gold coin and gold bullion.”.
+(2) Any person who contravenes the provisions of subsection (1) shall be guilty of an offence and shall be liable on conviction after summary trial before a Magistrate to imprisonment of either description for a term not exceeding three years or to a fine not exceeding rupees one million or to both such imprisonment and fine. Where the offence is committed wilfully or knowingly, or with knowledge that the act will cause damage or harm to any other person, to rigorous imprisonment for a term not less than three years and not more than five years and to a fine of rupees two million or twice the aggregate amount in Sri Lanka currency revealed or divulged to have been received from the participants in the Scheme, whichever is higher.
+(3) An officer of the Central Bank authorized in that behalf by the Governor, may, where information has been received that there has been or is likely to be a contravention of the provisions of subsection (1), conduct an investigation into such matter. In carrying out his duties under this section the authorised officer may,-
+(a) enter and search any premeises where he has reason to believe that any acts relating to the commission of the offence specified in subsection (1) are being committed or any books or other records or documents relating to such acts are kept or maintained at such place;
+(b) call for further information or documents ;
+(c) examine any documents, books or records, including records maintained in electronic form or computer generated transcripts;
+(d) obtain copies of any documents, books or records or computer generated transcripts or any part thereof,
+for the purpose of ascertaing whether any person has contravened or is likely to contravene the provisions of subsection (1).
+(4) Any person who obstructs or resists the authorised officer in the exercise of his powers under this section, shall be guilty of an offence under this Act.
+(5) any person who fails to furnish any information within his knowledge, or any book or other record or documents or computer generated transcripts relating to such acts which are in his custody or possession, shall be guilty of an offence under this Act.
+(6) In any prosecution for an offence under this section, the extracts from any books or other record or documents or computer generated trascripts relating to such acts shall be admissible in evidence and shall be prima facie eveidence of the facts stated therein.
+(7) The Central Bank shall provide any information, documents, books, records or computer generated transcripts obtained in the course of an investigation conducted under subsection (3) to the law enforcement authorities and shall co-operate with such authorities in the prosecution of a person for violation of the provisions of subsection (1).
+(8) Upon an application made to it by an officer of the Police above the rank of an Inspector of Police and upon satisfying itself that a prima facie case exists against a person for the violation of the pro visions of subsection (1), the High Court of the Western Province established under Article 154P of the Constitution holder in Colombo shall issue an exparte Order against the offender prohibiting him from engaging in any act specified in subsection (1).
+(9) The High Court may, upon application made in that behalf by the person on whom an order under subsection (8) has been made or by any other person adversely affected by such order, and upon hearing all parties as it may consider necessary, make order revoking the order made by it under subsection (8), or permit any act prohibited under subsection (8) conditionally or unconditionally, if it is satisfied that such revocation or permission is necessary to avoid undue damage to legitimate business or the legitimate interests of the applicant.”
