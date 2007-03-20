@@ -1,0 +1,13 @@
+THIRTEENTH SCHEDULE
+[Section 497 (1)] LIQUIDATION OF ASSETS OF OVERSEAS COMPANIES
+1. Part XII shall apply to the winding up of the assets in Sri Lanka of an overseas company with all necessary modifications and exclusions, and in particular the following :-
+(a) references to assets shall be taken as references to assets in Sri Lanka;
+(b) references to a company shall be taken as including references to an overseas company;
+(c) references to dissolution shall be taken as references to ceasing to carry on business in Sri Lanka;
+(d) the following provisions shall not apply to such a winding up:-
+(i) paragraphs (b) and (c) of subsection (1) of section 267;
+(ii) sections 268, 269, 316, 319 to 355 (both inclusive), 393, 394 and 395;
+(e) from the commencement of the winding up, the overseas company and its directors shall cease to have any powers, functions and duties in relation to the company's assets in Sri Lanka, other than those required or permitted to be exercised under Part XII.
+2. Nothing contained in this Act shall exclude or affect the right of a creditor of an overseas company in relation to the assets of which a liquidator has been appointed-
+(a) to bring proceedings outside Sri Lanka against the overseas company, in relation to a debt not claimed in the liquidation or the balance of a debt remaining unpaid after the completion of the liquidation; or
+(b) to bring proceedings in Sri Lanka in relation to the balance of a debt remaining unpaid after the completion of the liquidation.

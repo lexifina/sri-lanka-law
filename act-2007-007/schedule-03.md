@@ -1,0 +1,2 @@
+THIRD SCHEDULE
+[Section 35 (1)] PROVISIONS WHICH DO NOT APPLY TO COMPANIES LIMITED BY GUARANTEE Part IV (Shares and Debentures) Sections 93 to 98 (Minority buy-out rights) Sections 99 to 101 (Interest groups) Section 123(1)(b) and (c) (Company to maintain share register) Section 124(1) and (3) (Place of share register) Sections 198 to 200 (Disclosure of director's interests in shares) Section 220 (Duty of directors on serious loss of capital) Part VIII (Amalgamations) Sub-paragraphs (b) and (e) to (j) of the Fifth Schedule (Matters to be included in Annual Return).
