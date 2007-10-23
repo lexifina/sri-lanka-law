@@ -1,0 +1,3 @@
+SCHEDULE
+(Section 2)
+All that allotment of land called and known as Kongahawatta, marked Lot 1 in Tracing No. Gam/Gam/03/275-B dated September and October 2003 and certified on 12/11/2003 by I. A. Wijethilaka, Superintendent of Surveys Gampaha, situated in the Village of Yakkala in the Meda Pattu, in the Divisional Secretaries Division of Gampaha in the District of Gampaha Western Province, together with all the buildings and plantations standing thereon including the Gampaha Wickramarachchi Ayurveda Hospital complex and containing in extent One Acre and Thirty Five point Twelve Decimals (A01. R0. P35.12) as per the said Tracing.

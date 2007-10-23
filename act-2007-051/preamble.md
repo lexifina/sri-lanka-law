@@ -1,0 +1,6 @@
+AN ACT TO PROVIDE FOR THE TRANSFER OF THE GAMPAHA WICKRAMARACHCHI AYURVEDA TEACHING HOSPITAL TO THE DEPARTMENT OF AYURVEDA AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS a college called and known as the Gampaha Wickramarachchi Ayurveda Vidyalaya was incorporated by Act, No. 30 of 1982 under the name and style of the Gampaha Wickramarachchi Ayurveda Vidyalaya (hereinafter referred to as "the Vidyalaya") :
+AND WHEREAS an Ayurveda Teaching Hospital has been established and maintained by the said Vidyalaya to train medical students and provide free medical aid to patients and such hospital has been functioning under the said Vidyalaya since its incorporation :
+AND WHEREAS by an Order under section 24B of the Universities Act, No. 16 of 1978, the said Vidyalaya was recognized as an Institute for Higher Learning and was affiliated to the University of Kelaniya resulting in the transfer of the said Ayurveda Teaching Hospital to the said University of Kelaniya :
+AND WHEREAS the said University of Kelaniya has requested the State to take over and manage the said Ayurveda Teaching Hospital and it will be in the public interest to provide for such transfer :
+NOW THEREFORE be enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
