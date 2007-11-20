@@ -1,0 +1,20 @@
+SCHEDULE III
+A. Toxic Chemicals :
+(1) Phosgene : Carbonyl dichloride (75-44-5)
+(2) Cyanogen chloride (506-77-4)
+(3) Hydrogen cyanide (74-90-8)
+(4) Chloropicrin: Trichloronitromethane (76-06-2)
+B. Precursors:
+(1) Phosphorus oxyichloride (10025-87-3)
+(2) Phosphorus trichloride (7719-12-2)
+(3) Phosphorus penta chloride (10026-13-8)
+(4) Trimethyl phosphite (121-45-9)
+(5) Triethyl phosphite (122-52-1)
+(6) Dimethly phosphite (868-85-9)
+(7) Diethly phosphite (762-04-9)
+(8) Sulfur monochloride (10025-67-9)
+(9) Sulfur dichloride (10545-99-0)
+(10) Thionyl chloride (7719-09-7)
+(11) Ethyldiethanolamie (139-87-7)
+(12) Methyldiethanolamine (105-59-9)
+(13) Triethanolamine (102-71-6)
