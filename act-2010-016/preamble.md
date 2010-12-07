@@ -1,0 +1,5 @@
+AN ACT TO PROVIDE FOR A STREAMLINED AND SPEEDIER PROCESS FOR THE RECOVERY OF TAXES IN DEFAULT IN A TIME BOUND MANNER ; TO PROVIDE FOR THE WRITING-OFF OF TAXES IN DEFAULT IN CERTAIN CIRCUMSTANCES AND FOR MATTERS CONNECTED THEREWITH AND INCIDENTAL THERETO.
+WHEREAS it has become imperative to formulate a mechanism for the speedy recovery of taxes imposed under certain specified laws and which have been in default for over a long period of time :
+AND WHEREAS it has become necessary in order to facilitate such process, to evolve a method for the recovery of some of these default taxes in a manageable and justifiable manner and to ensure that in the future, taxes in arrears are maintained at a reasonable limit and the officials entrusted with this task be made more accountable towards the collection of these taxes :
+AND WHEREAS it has also become necessary to write-off some of the taxes which are in default, adopting a transparent and an accountable process :
+NOW THEREFORE be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
