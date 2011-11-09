@@ -1,0 +1,2 @@
+AN ACT TO PROVIDE FOR THE REGULATION OF FINANCE BUSINESS AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
