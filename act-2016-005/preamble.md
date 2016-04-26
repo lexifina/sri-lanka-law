@@ -1,0 +1,4 @@
+AN ACT TO ENABLE SPECIAL LEGAL PROVISIONS TO BE MADE IN RESPECT OF PERSONS WHO WERE UNABLE TO PURSUE THEIR RIGHTS IN COURT FOR THE RECOVERY OF ANY IMMOVABLE PROPERTY INCLUDING LAND DUE TO THE ACTIVITIES OF ANY MILITANT TERRORIST GROUP WHICH PREVAILED IN SRI LANKA AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO
+WHEREAS certain persons have been disadvantaged and therefore unable to pursue their rights in court for the recovery of any immovable property including land due to the activities of any militant terrorist group during the period commencing on May 1st, 1983 and ending on May 18th, 2009:
+AND WHEREAS it has now become necessary to enact special legal provisions to enable such persons to pursue their rights in court.
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
