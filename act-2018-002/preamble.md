@@ -1,0 +1,7 @@
+AN ACT TO PROVIDE FOR THE INVESTIGATION AND IMPOSITION OF ANTI-
+DUMPING DUTIES AND COUNTERVAILING DUTIES WITH REGARD TO PRODUCTS IMPORTED INTO SRI LANKA AND FOR MATTERS CONNECTED THEREWITH AND INCIDENTAL THERETO.
+WHEREAS Sri Lanka was one of the original contracting parties to the General Agreement on Tariffs and Trade of 1947(GATT 1947):
+AND WHEREAS the General Agreement on Tariffs and Trade 1994 (GATT 1994) which is based upon the text of GATT 1947 and was signed in April 1994, includes among others the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 and the Agreement on Subsidies and Countervailing Measures:
+AND WHEREAS Sri Lanka intends to protect the domestic industries from prohibited and actionable subsidies and dumping:
+AND WHEREAS it is expedient to make legislative provisions for the implementation in Sri Lanka of the two agreements referred to above:
+BE it therefore enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
