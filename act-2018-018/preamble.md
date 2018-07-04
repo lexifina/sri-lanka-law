@@ -1,0 +1,5 @@
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF THE 1990 SUWASERIYA FOUNDATION; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS the Government having identified pre-hospital care ambulance services as an essential service in enhancing the standard of living of pepole in Sri Lanka by delivering comprehensive, speedy, reliable and quality pre-hospital care services, established with a grant from the Government of India a pre-hospital care ambulance service free of charge initially in the western and southern provinces:
+AND WHEREAS it has now become necessary to expand the pre-hospital care ambulance service to cover the whole island and to ensure the smooth operation of such service in a sustainable manner:
+AND WHEREAS it has become necessary to establish a Foundation for effectively carrying out pre-hospital care ambulance services free of charge to any person and to specify the powers, functions and duties of such Foundation:
+NOW THEREFORE be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
