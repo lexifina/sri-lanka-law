@@ -1,0 +1,2 @@
+AN ACT TO AMEND THE CONVENTION AGAINST TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT ACT, NO. 22 OF1994
+BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
