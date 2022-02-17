@@ -1,0 +1,6 @@
+AN ACT TO PROVIDE FOR THE IMPLEMENTATION OF THE CONVENTION ON THE PROHIBITION OF THE USE, STOCKPILING, PRODUCTION AND TRANSFER OF ANTI-PERSONNEL MINES AND ON THEIR DESTRUCTION;
+AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS a Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on Their Destruction was concluded by the Diplomatic Conference on an International Total Ban on Anti-Personnel Land Mines at Oslo on September 18, 1997:
+WHEREAS the Convention was acceded to on behalf of the Government of Sri Lanka on December 13, 2017:
+AND WHEREAS it has become necessary for the Government of Sri Lanka to make legislative provision to give effect to Sri Lanka's obligations under the aforesaid Convention:
+NOW THEREFORE BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:-
