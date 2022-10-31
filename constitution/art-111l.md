@@ -1,0 +1,4 @@
+# Article 111L
+(1) Every person who otherwise than in the course of such persons lawful duty, directly or indirectly, alone or by or with any other person, in any manner whatsoever, influences or attempts to influence any decision or order made by the Commission or to so influence any member thereof, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment:
+Provided however that the giving of a certificate or testimonial to any applicant or candidate for any judicial office or scheduled public office shall not be an offence.
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).

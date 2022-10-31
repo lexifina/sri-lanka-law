@@ -1,0 +1,2 @@
+# Article 104D
+It shall be lawful for the Commission, upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of a Referendum, as the case may be, to make recommendations to the President regarding the deployment of the armed forces of the Republic for the prevention or control of any actions or incidents which may be prejudicial to the holding or conducting of a free and fair election or Referendum, as the case may be.

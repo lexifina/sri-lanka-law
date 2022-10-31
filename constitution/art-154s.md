@@ -1,0 +1,3 @@
+# Article 154S
+(1) A Provincial Council may, by resolution, decide not to exercise its powers under Article 154G with respect to any matter or part thereof set out in the Provincial Council List or the Concurrent List of the Ninth Schedule.
+(2) Where a resolution has been passed by a Provincial Council under paragraph (1) and the terms of such resolution have been accepted by Parliament, by resolution, the powers of such Provincial Council under Article 154G shall be deemed not to extend to the matter specified in such resolution and Parliament may make law, with respect to that matter, applicable to the province for which that Provincial Council is established, otherwise than in accordance with the provisions of Article 154G.

@@ -1,0 +1,3 @@
+# Article 153D
+(1) A person who otherwise than in the course of his duty, directly or indirectly, by himself or through any other person, in any manner whatsoever, influences or attempts to influence any decision of the Commission, any member thereof or any officer of the Sri Lanka State Audit Service, commits an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).

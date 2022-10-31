@@ -1,0 +1,2 @@
+# Schedule 4
+ARTICLE 32, 53, 61, 107, 165 "I……………………………..…………………………………… do solemnly declare and affirm/swear that I will faithfully perform the duties and discharge the functions of the office of ………………………………. in accordance with the Constitution of the Democratic Socialist Republic of Sri Lanka and the law, and that I will be faithful to the Republic of Sri Lanka and that I will to the best of my ability uphold and defend the Constitution of the Democratic Socialist Republic of Sri Lanka."

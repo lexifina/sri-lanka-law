@@ -1,0 +1,7 @@
+# Article 156E
+(1) The Commission shall meet as often as may be necessary for the discharge of its functions.
+(2) The Chairman shall preside at all meetings of the Commission. In the absence of the Chairman from any meeting of the Commission, the members present shall elect a Chairman for that meeting, from among themselves.
+(3) The quorum for any meeting of the Commission shall be three.
+(4) Decisions of the Commission shall be by the majority vote of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or member presiding at the meeting shall have a casting vote.
+(5) Subject to the preceding provisions of this Article, the Commission may determine the procedure with regard to its meetings and the transaction of business at such meetings.
+(6) The Commission shall have the power to act notwithstanding any vacancy in the membership of the Commission, and no act, proceeding or decision of the Commission shall be invalid or deemed to be invalid, by reason only of such vacancy of defect in the appointment of a member.

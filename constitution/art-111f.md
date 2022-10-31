@@ -1,0 +1,3 @@
+# Article 111F
+A member of the Commission shall be paid such allowances as may be determined by Parliament. Such allowances shall be charged on the Consolidated Fund and shall not be reduced during the period of office of a member and shall be in addition to the salary and other allowances attached to and received from, the substantive appointment:
+Provided that until the amount to be paid as allowances is determined under the provisions of this Article, the members of the Commission shall continue to receive as allowances, such amount as they were receiving on the day immediately preceding the date on which this Chapter comes into operation.

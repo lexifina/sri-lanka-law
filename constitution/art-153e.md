@@ -1,0 +1,2 @@
+# Article 153E
+Subject to the jurisdiction conferred on the Supreme Court under Article 126 and to the powers granted to the Administrative Appeals Tribunal under Article 153G, no court or tribunal shall have the power or jurisdiction to inquire into, pronounce upon or in any manner whatsoever call in question any order or decision made by the Commission, in pursuance of any function assigned to such Commission under this Chapter or under any law.

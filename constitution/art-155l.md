@@ -1,0 +1,2 @@
+# Article 155L
+Any police officer aggrieved by any order relating to promotion, transfer or any order on a disciplinary matter or dismissal made by the Commission in terms of Article 155K, in respect of such officer, may appeal therefrom to the Administrative Appeals Tribunal established under Article 59, which shall have the power to alter, vary, rescind or confirm any order or decision made by the Commission.

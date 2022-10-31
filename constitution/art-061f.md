@@ -1,0 +1,2 @@
+# Article 61F
+For the purposes of this Chapter, "public officer" does not include a member of the Army, Navy or Air Force, an officer of the Election Commission appointed by such Commission, a police officer appointed by the National Police Commission, a scheduled public officer appointed by the Judicial Service Commission or a member of the Sri Lanka State Audit Service appointed by the Audit Service Commission.

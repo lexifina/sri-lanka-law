@@ -1,0 +1,3 @@
+# Article 155F
+(1) Every person who, otherwise than in the course of such person's lawful duty directly or indirectly by himself or by or with any other person, in any manner whatsoever influences or attempts to influence or interferes with any decision of the Commission or a Committee or to so influence any member of the Commission or a Committee shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.
+(2) A High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).

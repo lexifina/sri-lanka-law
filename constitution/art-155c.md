@@ -1,0 +1,2 @@
+# Article 155C
+Subject to the jurisdiction conferred on the Supreme Court under paragraph (1) of Article 126 and the powers granted to the Administrative Appeals Tribunal under Article 155L, no court or tribunal shall have the power or jurisdiction to inquire into, or pronounce upon or in any manner call in question any order or decision made by the Commission or a Committee, in pursuance of any power or duty, conferred or imposed on such Commission or Committee under this Chapter or under any other law.

@@ -1,0 +1,5 @@
+# Article 104GG
+(1) Any public officer, any employee of any public corporation, business or other undertaking vested in the Government under any other written law and any company registered or deemed to be registered under the Companies Act, No. 7 of 2007, in which the Government or any public corporation or local authority holds fifty per centum or more of the shares of that company, who -
+(a) refuses or fails without a reasonable cause to co-operate with the Commission, to secure the enforcement of any law relating to the holding of an election or the conduct of a Referendum; or
+(b) fails without a reasonable cause to comply with any directions or guidelines issued by the Commission under sub-paragraph (a) of paragraph (4) or sub-paragraph (a) of paragraph (5), respectively, of Article 104B, shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.
+(2) Every High Court established under Article 154P of the Constitution shall have jurisdiction to hear and determine any matter referred to in paragraph (1).

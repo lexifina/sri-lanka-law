@@ -1,0 +1,2 @@
+# Schedule 2
+ARTICLE 6 THE NATIONAL FLAG

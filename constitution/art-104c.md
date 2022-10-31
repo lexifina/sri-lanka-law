@@ -1,0 +1,6 @@
+# Article 104C
+(1) Upon the making of an Order for the holding of an election or the making of a Proclamation requiring the conduct of a Referendum, as the case may be, the Commission shall notify the Inspector-General of Police of the facilities and the number of police officers required by the Commission for the holding or conduct of such election or Referendum, as the case may be.
+(2) The Inspector-General of Police shall make available to the Commission the facilities and police officers specified in any notification made under paragraph (1) of this Article.
+(3) The Commission may deploy the police officers and facilities made available to the Commission in such manner as is calculated to promote the conduct of a free and fair election or referendum, as the case may be.
+(4) Every police officer made available to the Commission under paragraph (2) of this Article, shall be responsible to and act under the direction and control of the Commission during the period of an election.
+(5) No suit, prosecution or other proceeding, shall lie against any police officer made available to the Commission under this Article for any lawful act or thing in good faith done by such police officer, in pursuance of a direction of the Commission or his functioning under the Commission.
