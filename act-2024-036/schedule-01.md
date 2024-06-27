@@ -1,0 +1,12 @@
+SCHEDULE I
+[Section 17] STRUCTURE OF THE ELECTRICITY INDUSTRY The activities relating to the hydro-electric generation, thermal electricity generation, and renewable energy generation as set out below, which are presently vested with the Ceylon Electricity Board, shall on the appointed date be re-structured and vest in the corporate entities which will be incorporated under the Companies Act, No.07 of 2007 for the purposes of the implementation of this Act, substantially in the manner set out below:-
+(a) one company of which one hundred per centum of the shares are held by the Secretary to the Treasury to take over the hydropower generation assets of the Ceylon Electricity Board;
+(b) one company to take over the Coal power Plant owned and operated by the Ceylon Electricity Board as well as Lanka Coal Company;
+(c) one company to take over the thermal generation assets of the Ceylon Electricity Board;
+(d) one company to take over the Wind Power Plant owned, possessed and operated by the Ceylon Electricity Board.;
+(e) one company of which the Secretary to the Treasury holds more than fifty per centum of the shares to take over the functions of the Ceylon Electricity Board relating to the development, maintenance and operation of the physical infrastructure that makes up the National Grid of Sri Lanka;
+(f) one company of which the Secretary to the Treasury holds one hundred per centum of the shares to take over the functions of the Ceylon Electricity Board relating to generation scheduling, commitment and economic dispatch of generating plants and functions relating to the planning of future electricity and transmission capacity;
+(g) separate companies to take over the distribution functions of the distribution divisions of the Ceylon Electricity Board; and
+(h) such number of companies as shall be required for managing the residual functions of the Ceylon Electricity Board. Such residual companies shall be incorporated to undertake among other matters which may not be allocated to any successor company, the following residual functions:-
+(i) one company to take over functions of the Ceylon Electricity Board other than those functions and activities entrusted to the companies incorporated;
+(ii) one company to take over the functions of the Provident Fund and Pension Fund of the Ceylon Electricity Board and to act as the custodian and trustee and manage of such provident fund and pension fund, provided that, the entire share holdings of the company shall always remain with the Secretary to the Treasury.
