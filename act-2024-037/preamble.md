@@ -1,0 +1,5 @@
+AN ACT TO MAKE PROVISIONS FOR THE EMPOWERMENT OF WOMEN; TO PROVIDE FOR THE FORMULATION AND IMPLEMENTATION OF THE NATIONAL POLICY ON ADVANCEMENT AND EMPOWERMENT OF WOMEN; TO ESTABLISHED A NATIONAL COMMISSION ON WOMEN; TO MAKE PROVISIONS TO APPOINT OMBUDS FOR THE WOMEN'S RIGHTS; TO ESTABLISH MECHANISMS FOR THE PROTECTION OF WOMEN'S RIGHTS AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTIAL THERETO.
+WHEREAS the Universal Declaration of Human Rights affirms the principle of non-discrimination and proclaims that all human beings are born free and equal in dignity and rights and entitled to all rights and freedoms without distinction, including distinctions based on gender:
+WHEREAS the Constitution of the Democratic Socialist Republic of Sri Lanka recognizes special provisions being made by Law, subordinate legislation or executive action for the advancement of women:
+AND WHEREAS the establishment of the National Women's Commission operating at national level, will serve as the effective mechanism for ensuring the empowerment of women:
+NOW THEREFORE be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -
