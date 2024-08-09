@@ -1,0 +1,12 @@
+AN ACT TO PROVIDE FOR THE NATIONAL POLICY ON ECONOMIC TRANSFORMATION AND FOR THE ESTABLISHMENT OF THE ECONOMIC COMMISSION OF SRI LANKA, INVESTMENT ZONES SRI LANKA, OFFICE FOR INTERNATIONAL TRADE, NATIONAL PRODUCTIVITY COMMISSION, AND SRI LANKA INSTITUTE OF ECONOMICS AND INTERNATIONAL TRADE; FOR THE REPEAL OF THE BOARD OF INVESTMENT OF SRI LANKA LAW, NO. 4 OF 1978 AND FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
+WHEREAS the global economic landscape is rapidly evolving, characterised by technological advancements, shifting demographics, and emerging environmental challenges:
+AND WHEREAS acknowledging the interconnectedness of national economies and the importance of international cooperation in addressing shared economic challenges:
+AND WHEREAS economic transformation is vital for fostering sustainable development, enhancing prosperity, boosting productivity, promoting social progress and ensuring equitable opportunities for all citizens:
+AND WHEREAS understanding the role of the Government of Sri Lanka in creating an enabling environment for economic transformation, including through targeted interventions, investment in infrastructure, and the provision of essential public services:
+AND WHEREAS acknowledging the crucial role of investment in driving economic growth, creating employment opportunities, and fostering innovation and technological advancement: AND WHEREAS affirming Sri Lanka's commitment to fostering a transparent, inclusive, and rules-based system that promotes fair and equitable treatment of investors, both domestic and foreign:
+AND WHEREAS recognizing the significance of international trade as a catalyst for economic development, promoting competitiveness, and facilitating the integration of economies into the global marketplace:
+AND WHEREAS understanding the imperative need to enact legislation that provides a conducive environment for investment, expanded trade opportunities, negotiates trade agreements, and facilitates export-import activities to stimulate economic growth:
+AND WHEREAS reaffirming Sri Lanka's commitment to international cooperation and collaboration to address global challenges and harness opportunities for mutual benefit:
+AND WHEREAS considering the objectives of the Democratic Socialist Society as provided in subparagraphs
+(c) and (d) of paragraph (2) of Article 27 of the Constitution:
+NOW THEREFORE BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -
