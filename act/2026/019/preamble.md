@@ -1,0 +1,1 @@
+Animals (Amendment) Act, No. 19 of 2026 L.D. - O. 71/2025 An Act to amend the Animals Act, No. 29 of 1958 BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows: -
