@@ -180,7 +180,7 @@ def markers_in(t):
 # ---------------------------------------------------------------- units
 
 ART_RE = re.compile(r'^\s*(?:' + SENT + r'\{[^}]*\}\s*)?(?:\*{1,6}\s*)?\[?\s*(\d{1,3})\s*([A-Z]{0,2})\s*\.\s*(.*)$')
-TOKEN_RE = re.compile(r'^(\(\d+[A-Z]?\)|\([a-z]{1,2}\)|\([ivxl]+\)|\([A-Z]\)|Provided\b|Explanation\b)')
+TOKEN_RE = re.compile(r'^(\(\d+[A-Z]?\)|\([a-z]{1,2}\)|\([ivxl]+\)|\([A-Z]\)|Provided\b|Explanation\b|"[A-Za-z])')
 SCHED_RE = re.compile(r'^(FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH)\s+SCHEDULE\b', re.I)
 SCHED_N = {'FIRST': 1, 'SECOND': 2, 'THIRD': 3, 'FOURTH': 4, 'FIFTH': 5, 'SIXTH': 6, 'SEVENTH': 7, 'EIGHTH': 8, 'NINTH': 9}
 
