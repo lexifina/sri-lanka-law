@@ -34,9 +34,58 @@ def units_from(parsed):
     return out
 
 
+# Proof-read corrections against the pdftotext reading of the same PDF (2026-10-29 verifier sweep).
+HYPHEN_JOINS = {'Commis-sioner': 'Commissioner', 'Parlia-ment': 'Parliament', 'reg-istered': 'registered', 'be-tween': 'between', 're-ferred': 'referred', 'four-teen': 'fourteen', 'op-eration': 'operation', 'ac-cordance': 'accordance', 'Procla-mation': 'Proclamation', 'disa-bility': 'disability', 'per-taining': 'pertaining', 'accord-ing': 'according', 'com-plaints': 'complaints', 'institu-tions': 'institutions', 'rec-ommendation': 'recommendation', 'infor-mation': 'information', 'deter-mine': 'determine', 'declara-tion': 'declaration', 'Pub-lic': 'Public', 'pend-ing': 'pending', 'Constitu-tion': 'Constitution', 'ju-risdiction': 'jurisdiction', 'Pres-idential': 'Presidential', 'de-clared': 'declared', 'im-mediately': 'immediately', 'pro-vided': 'provided', 'preven-tion': 'prevention', 'prepara-tion': 'preparation', 'de-mobilisation': 'demobilisation', 'Gov-ernment': 'Government', 'au-thorities': 'authorities', 'produc-tion': 'production', 'pow-ers': 'powers', 'compa-nies': 'companies', 'na-tional': 'national', 'Conti-nental': 'Continental', 'detec-tion': 'detection', 'enter-prises': 'enterprises', 'plan-ning': 'planning', 'facili-ties': 'facilities', 'indus-try': 'industry', 'pro-motion': 'promotion'}
+TRAILING_HEADINGS = {
+    'art-029': 'The President of the Republic', 'art-041j': 'The Cabinet of Ministers', 'art-053': 'The Public Service',
+    'art-061f': 'Parliament', 'art-069': 'Procedure and Powers', 'art-081': 'Amendment of the Constitution',
+    'art-106': 'Independence of the Judiciary', 'art-136': 'The Court of Appeal',
+    'art-156': 'Commission to Investigate Allegations of Bribery or Corruption', 'art-156a': 'National Procurement Commission',
+    'preamble': 'CHAPTER I THE PEOPLE, THE STATE AND SOVEREIGNTY',
+}
+TAIL_FIXES = {  # text cut at a page break: (unit, old ending, new ending)
+    'art-017': ('provisions of this', 'provisions of this Chapter.'),
+    'art-111f': ('date on which this', 'date on which this Chapter comes into operation.'),
+}
+OATH_FIXES = [  # marginal alternatives ("swear", "solemnly declare and affirm") restored to the line they qualify
+    ('do ------------------ that I will uphold', 'do solemnly declare and affirm/swear that I will uphold'),
+    ('do solemnly declare and affirm ---------------------------- that I will faithfully perform the duties swear and discharge',
+     'do solemnly declare and affirm/swear that I will faithfully perform the duties and discharge'),
+    ('ARTICLE 157A AND ARTICLE 161(d) (iii) do solemnly declare and affirm "I,…………...........................……………---------------------------- swear that I will',
+     'ARTICLE 157A AND ARTICLE 161(d) (iii)\n"I,…………...........................…………… do solemnly declare and affirm/swear that I will'),
+    ('1 Member......... 2 Members Kalutara', '1 Member\nColombo District (excluding Colombo City and Dehiwela-Mount Lavinia) ......... 2 Members Kalutara'),
+]
+
+
+def fixup(units):
+    for k, u in units.items():
+        t = u['text']
+        if k == 'art-018':
+            t = t.replace(chr(1), '(1)', 1)
+        if k == 'art-156e':
+            t = t.replace(chr(1), '(3)', 1)
+        for a, b in HYPHEN_JOINS.items():
+            t = t.replace(a, b)
+        t = t.replace('SecretaryGeneral', 'Secretary-General')
+        if k in TRAILING_HEADINGS:
+            t = t.rstrip('\n')
+            if t.endswith(' ' + TRAILING_HEADINGS[k]):
+                t = t[:-len(TRAILING_HEADINGS[k]) - 1] + '\n'
+        if k in TAIL_FIXES:
+            old, new = TAIL_FIXES[k]
+            t = t.rstrip('\n')
+            if t.endswith(old):
+                t = t[:-len(old)] + new + '\n'
+        for a, b in OATH_FIXES:
+            t = t.replace(a, b)
+        u['text'] = t
+    return units
+
+
+
 def main():
     parsed, _ = C.parse_edition(cpath(ED21), '21')
-    u21 = units_from(parsed)
+    u21 = fixup(units_from(parsed))
     # Twenty Second Amendment, ss. 2 and 3 (text of the Act, parliament.lk 6433.pdf)
     changes = {}
     a107 = u21['art-107']['text'].split('\n')
