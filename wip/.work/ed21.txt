@@ -78,7 +78,7 @@ Provided that the burden of proving particular facts may, by law, be placed on a
 ##### art-017 []
 Every person shall be entitled to apply to the Supreme Court, as provided by Article 126, in respect of the infringement or imminent infringement, by executive or administrative action, of a fundamental right to which such person is entitled under the provisions of this
 ##### art-018 [13]
-(1)The Official Language of Sri Lanka shall be Sinhala.
+ The Official Language of Sri Lanka shall be Sinhala.
 (2) Tamil shall also be an official language.
 (3) English shall be the link language.
 (4) Parliament shall by law provide for the implementation of the provisions of this Chapter.
@@ -318,8 +318,7 @@ Provided that any such Secretary, officer or member of the staff who immediately
 (3) It shall be the duty of the Council to recommend to the President fit and proper persons for appointment as Chairmen or members of the Commissions specified in the Schedule to this Article, whenever the occasion for such appointments arises, and such recommendations shall endeavour to ensure that such recommendations reflect the pluralistic character of Sri Lankan society, including gender. In the case of the Chairmen of such Commissions, the Council shall recommend three persons for appointment, and the President shall appoint one of the persons recommended as Chairman.
 (4) The President shall appoint the Chairmen and the members of the Commissions specified in the Schedule to this Article, within fourteen days of receiving the recommendations of the Council for such appointments.
 (5) No person appointed under paragraph (1) or a person appointed to act as the Chairman or a member of any such Commission, shall be removed except as provided for in the Constitution or in any written law, and where there is no such provision, such person shall be removed by the President only with the prior approval of the Council.
-(6) All the Commissions referred to in the Schedule to this Article shall be responsible and answerable to Parliament.
-(a) The Election Commission.
+(6) All the Commissions referred to in the Schedule to this Article shall be responsible and answerable to Parliament. SCHEDULE (a) The Election Commission.
 (b) The Public Service Commission.
 (c) The National Police Commission.
 (d) The Audit Service Commission.
@@ -332,15 +331,15 @@ Provided that any such Secretary, officer or member of the staff who immediately
 (1) No person shall be appointed by the President to any of the Offices specified in the Schedule to this Article, unless such appointment has been approved by the Council upon a recommendation made to the Council by the President. 2) The provisions of paragraph (1) of this Article shall apply in respect of any person appointed to act for a period exceeding fourteen days, in any Office specified in the Schedule to this Article:
 Provided that no person shall be appointed to act in any such office for successive periods not exceeding fourteen days, unless such acting appointment has been approved by the Council on a recommendation by the President.
 (3) No person appointed to any Office specified in the Schedule to this Article or to act in any such Office, shall be removed from such Office except as provided for in the Constitution or in any law.
-(4) In the discharge of its function relating to the appointment of Judges of the Supreme Court and the President and Judges of the Court of Appeal, the Council shall obtain the views of the Chief Justice.
-(a) The Chief Justice and the Judges of the Supreme Court.
+(4) In the discharge of its function relating to the appointment of Judges of the Supreme Court and the President and Judges of the Court of Appeal, the Council shall obtain the views of the Chief Justice. SCHEDULE PART I (a) The Chief Justice and the Judges of the Supreme Court.
 (b) The President and the Judges of the Court of Appeal.
-(c) The Members of the Judicial Service Commission, other than the Chairman.
-(a) The Attorney-General.
+(c) The Members of the Judicial Service Commission, other than the Chairman. PART II (a) The Attorney-General.
 (b) The Governor of the Central Bank of Sri Lanka.
 (c) The Auditor-General.
 (d) The Inspector-General of Police.
-(e) The Parliamentary Commissioner for Administration (Ombudsman) (f) The Secretary-General of Parliament. 4lD. (1) There shall be a Secretary-General to the Council who shall be appointed by the Council for a term of three years. Upon the expiration of his term of office, the SecretaryGeneral shall be eligible for re-appointment.
+(e) The Parliamentary Commissioner for Administration (Ombudsman) (f) The Secretary-General of Parliament.
+##### art-041d []
+(1) There shall be a Secretary-General to the Council who shall be appointed by the Council for a term of three years. Upon the expiration of his term of office, the SecretaryGeneral shall be eligible for re-appointment.
 (2) The Council may appoint such officers as it considers necessary for the discharge of its functions, on such terms and conditions as may be determined by the Council.
 ##### art-041e []
 (1) The Council shall meet at least twice every month, and as often as may be necessary to discharge the functions assigned to the Council by the provisions of this Chapter or by any law, and such meetings shall be summoned by the Secretary-General to the Council on the direction of the Chairman of the Council.
@@ -683,13 +682,15 @@ The voting for the election of the President of the Republic and of the Members 
 ##### art-095 [21]
 (1) Within three months of the commencement of the Constitution the President shall for the delimitation of Electoral Districts, establish a Delimitation Commission consisting of three persons appointed by him who he is satisfied are not actively engaged in politics. The President shall appoint one of such persons to be the Chairman.
 (2) If any member of the Delimitation Commission shall die or resign or if the President is satisfied that any such member has become incapable of discharging his functions as such, the President shall, in accordance with the provisions of paragraph (1) and on the recommendation of the Constitutional Council, appoint another person in his place.
-##### art-096 [7, 15]
+##### art-096 [7]
 (1) The Delimitation Commission shall divide Sri Lanka into not less than twenty and not more than twenty-five Electoral Districts and shall assign names thereto.
 (2) Each Province of Sri Lanka may itself constitute an electoral district or may be divided into two or more electoral districts.
 (3) Where a Province is divided into a number of electoral districts the Delimitation Commission shall have regard to the existing administrative districts so as to ensure as far as is practicable that each electoral district shall be an administrative district or a combination of two or more administrative districts or two or more electoral districts together constitute an administrative district.
 (4) The electoral districts of each Province shall together be entitled to return four members, (independently of the number of members which they are entitled to return by reference to the number of electors whose names appear in the registers of electors of such electoral districts) and the Delimitation Commission shall apportion such entitlement equitably among such electoral districts.
 (5) In the event of a difference of opinion among the members of the Delimitation Commission, the opinion of the majority thereof shall prevail and shall be deemed to be the decision of the Commission. Where each member of the Commission is of a different opinion, the opinion of the Chairman shall be deemed to be the decision of the Commission. Any dissentient member may state his reasons for such dissent.
-(6) The Chairman of the Delimitation Commission shall communicate the decisions of the Commission together with the reasons, if any, stated by a dissentient member to the President. 96A Repealed
+(6) The Chairman of the Delimitation Commission shall communicate the decisions of the Commission together with the reasons, if any, stated by a dissentient member to the President.
+##### art-096a [15]
+Repealed
 ##### art-097 []
 The President shall by proclamation publish the names and boundaries of the electoral districts and the number of members, which each such electoral district is entitled to return by virtue of the provisions of paragraph (4) of Article 96 in accordance with the decision of the Delimitation Commission. The electoral districts specified in the Proclamation shall come into operation at the next ensuing General Election of Members of Parliament and shall thereafter be the electoral districts of Sri Lanka for all the purposes of the Constitution and of any law for the time being in force relating to the election of Members of Parliament.
 ##### art-098 [15]
@@ -966,9 +967,11 @@ Save as otherwise provided in Articles 120, 121 and 122, no court or tribunal cr
 (3) Where in the course of hearing in the Court of Appeal into an application for orders in the nature of a writ of habeas corpus, certiorari, prohibition, procedendo, mandamus or quo warranto, it appears to such Court that there is prima facie evidence of an infringement or imminent infringement of the provisions of Chapter III or Chapter IV by a party to such application, such Court shall forthwith refer such matter for determination by the Supreme Court.
 (4) The Supreme Court shall have power to grant such relief or make such directions as it may deem just and equitable in the circumstance in respect of any petition or reference referred to in paragraphs (2) and (3) of this Article or refer the matter back to the Court of Appeal if in its opinion there is no infringement of a fundamental right or language right.
 (5) The Supreme Court shall hear and finally dispose of any petition or reference under this Article within two months of the filing of such petition or the making of such reference.
-##### art-127 [20]
+##### art-127 []
 (1) The Supreme Court shall, subject to the Constitution, be the final Court of civil and criminal appellate jurisdiction for and within the Republic of Sri Lanka for the correction of all errors in fact or in law which shall be committed by the Court of Appeal or any Court of First Instance, tribunal or other institution and the judgments and orders of the Supreme Court shall in all cases be final and conclusive in all such matters.
-(2) The Supreme Court shall, in the exercise of its jurisdiction, have sole and exclusive cognizance by way of appeal from any order, judgement, decree, or sentence made by the Court of Appeal, where any appeal lies in law to the Supreme Court and it may affirm, reverse or vary any such order, judgement, decree or sentence of the Court of Appeal and may issue such directions to any Court of First Instance or order a new trial or further hearing in any proceedings as the justice of the case may require and may also call for and admit fresh or additional evidence if the interests of justice so demands and may in such event, direct that such evidence be recorded by the Court of Appeal or any Court of First Instance. l28. (1) An appeal shall lie to the Supreme Court from any final order, judgement, decree or sentence of the Court of Appeal in any matter or proceedings, whether civil or criminal, which involves a substantial question of law, if the Court of Appeal grants leave to appeal to the Supreme Court ex mero motu or at the instance of any aggrieved party to such matter or proceedings.
+(2) The Supreme Court shall, in the exercise of its jurisdiction, have sole and exclusive cognizance by way of appeal from any order, judgement, decree, or sentence made by the Court of Appeal, where any appeal lies in law to the Supreme Court and it may affirm, reverse or vary any such order, judgement, decree or sentence of the Court of Appeal and may issue such directions to any Court of First Instance or order a new trial or further hearing in any proceedings as the justice of the case may require and may also call for and admit fresh or additional evidence if the interests of justice so demands and may in such event, direct that such evidence be recorded by the Court of Appeal or any Court of First Instance.
+##### art-128 [20]
+(1) An appeal shall lie to the Supreme Court from any final order, judgement, decree or sentence of the Court of Appeal in any matter or proceedings, whether civil or criminal, which involves a substantial question of law, if the Court of Appeal grants leave to appeal to the Supreme Court ex mero motu or at the instance of any aggrieved party to such matter or proceedings.
 (2) The Supreme Court may, in its discretion, grant special leave to appeal to the Supreme Court from any final or interlocutory order, judgement, decree, or sentence made by the Court of Appeal in any matter or proceedings, whether civil or criminal, where the Court of Appeal has refused to grant leave to appeal to the Supreme Court or where in the opinion of the Supreme Court, the case or matter is fit for review by the Supreme Court:
 Provided that the Supreme Court shall grant leave to appeal in every matter or proceedings in which it is satisfied that the question to be decided is of public or general importance.
 (3) Any appeal from an order or judgement of the Court of Appeal, made or given in the exercise of its jurisdiction under Article 139, 140, 141, 142 or 143 to which the President, a Minister, a Deputy Minister or a public officer in his official capacity is a party, shall be heard and determined within two months of the date of filing thereof.
@@ -1412,7 +1415,7 @@ The Commission shall be responsible and answerable to Parliament in accordance w
 ##### art-156e []
 (1) The Commission shall meet as often as may be necessary for the discharge of its functions.
 (2) The Chairman shall preside at all meetings of the Commission. In the absence of the Chairman from any meeting of the Commission, the members present shall elect a Chairman for that meeting, from among themselves.
-(3)The quorum for any meeting of the Commission shall be three.
+ The quorum for any meeting of the Commission shall be three.
 (4) Decisions of the Commission shall be by the majority vote of the members present and voting at the meeting at which the decision is taken, and in the event of an equality of votes, the Chairman or member presiding at the meeting shall have a casting vote.
 (5) Subject to the preceding provisions of this Article, the Commission may determine the procedure with regard to its meetings and the transaction of business at such meetings.
 (6) The Commission shall have the power to act notwithstanding any vacancy in the membership of the Commission, and no act, proceeding or decision of the Commission shall be invalid or deemed to be invalid, by reason only of such vacancy of defect in the appointment of a member.
@@ -1551,38 +1554,7 @@ In the Constitution - "civic disability" shall have the same meaning as in the S
 The Constitution adopted and enacted on the 22nd day of May, 1972, is hereby repealed.
 ##### art-172 []
 (1) The provisions of Chapter I to Chapter XXIII shall come into force on the day appointed by the President by Proclamation.
-(2) Parliament shall meet on the day so appointed and the President may, in such Proclamation, specify the time at which Parliament shall so meet. Devo Vassatukalena sassasampattihetu ca phito bhavatu loko ca raja bhavatu dhammiko Other Consequential Amendments in the Twenty first Amendment to the Constitution [ 30. (1) (a) The ninth Parliament in existence on the day proceeding the date which this Act comes into operation. Shall, unless dissolved earlier continue to function until August 19, 2025 and shall thereafter stand dissolved.
-(b) The persons holding office respectively as the President and the Prime Minister on the day presiding the date on which this Act comes into operation, shall continue to hold office after such date subject to the provisions of the Constitution.
-(2) Every person holding office on the day preceding the date on which this Act comes into operation, as-
-(a) the Chief Justice;
-(b) the Judges of the Supreme Court;
-(c) the members of the Judicial Service Commission;
-(d) the President of the Court of Appeal;
-(e) the Judges of the Court of Appeal;
-(f) the Attorney-General;
-(g) Governor of the Central Bank of Sri Lanka;
-(h) the Auditor-General;
-(i) the Inspector-General of Police;
-(j) the Parliamentary Commissioner for Administration (Ombudsman);
-(k) the Secretary-General of Parliament;
-(l) the judges of the High Court; or
-(m) the judicial officers, scheduled public Shall continue to hold such office and shall, subject to paragraph (3) of Article 41C, continue to exercise, perform and discharge the powers, duties and functions of that office, under the same terms and conditions.
-(3) Every person holding office on the day preceding the date on which this Act comes into operations, as a member of the Parliamentary Council shall cease to hold office as a member of the Parliamentary Council with effect from the date on which this Act into operations.
-(4) Every person holding office on the day preceding the date on which this Act comes into operation, as the Chairman or a member of -
-(a) the Election Commission;
-(b) the Public Service Commission;
-(c) the National Police Commission;
-(d) the Human Rights Commission of Sri Lanka;
-(e) the Commission to Investigate Allegations of Bribery or Corruption;
-(f) the Finance Commission; and
-(g) the Delimitation Commission, Shall cease to hold such office with effect from the date on which this Act comes into operation:
-Provided however, a person holding office on the day preceding the date on which this Act comes into operation, as a Chairman or a member of any such Commission referred to above may continue to exercise and discharge powers and functions of their respective Commissions are constituted in accordance with Chapter VII A of the Constitution.
-(5) All matters relating to -
-(a) the appointment, promotion, transfer, disciplinary control and dismissal of police officers; and
-(b) appeals by police officers to the Public Service Commission, pending before Public Service Commission on the day preceding the date on which this Act comes into operations, shall with effect from that date, stand transferred to the National Police Commission established by Article 155A and shall be determined by the National Police Commission accordingly.
-(6) All matters relating to the appointment, promotion, transfer, disciplinary control and dismissal of members of the Sri Lanka State Audit Service and pending before the Public Service Commission on the day preceding the date on which this Act comes in to operation, shall, with effect from that date, stand transferred to the Audit Service Commission established by Article 153A and shall be determined by the Audit Service Commission accordingly. 31. For the avoidance of doubt, it is hereby declared that -
-(a) where there is a requirement in any written law to obtain the recommendation or approval of the Parliamentary Council, on the day preceding the date on which this Act comes into operation, the reference to the Parliamentary Council shall be read and constructed as a reference to the Constitutional Council with effect from the date on which this Act comes into operation; and
-(b) any Member of the ninth Parliament in existence on the day preceding the date on which this Act comes into operation, who is subject to the disqualification specified in item (xiii) of sub paragraph (d) of paragraph (1) of Article 91 of the Constitution shall not be qualified to sit and vote in Parliament with effect from the date on which this Act comes into operation.
+(2) Parliament shall meet on the day so appointed and the President may, in such Proclamation, specify the time at which Parliament shall so meet.
 ##### schedule-01 [7]
 ARTICLE 5 Names of Administrative Districts 1 Colombo 2 Gampaha 3 Kalutara 4 Kandy 5 Matale 6 Nuwara - Eliya 7 Galle 8 Matara 9 Hambantota 10. Jaffna 11 Kilinochchi 12 Mannar 13 Vavuniya 14 Mullaitivu 15 Batticaloa 16 Ampara 17 Trincomalee 18 Kurunegala 19 Puttalam 20 Anuradhapura 21 Polonnaruwa 22 Badulla 23 Moneragala 24 Ratnapura 25 Kegalle
 ##### schedule-02 []

@@ -146,6 +146,7 @@ def norm(t):
     t = re.sub(r'\s+', ' ', t).strip()
     t = re.sub(r'\s+([,;:.])', r'\1', t)
     t = re.sub(r'([,;:])(?=[A-Za-z(])', r'\1 ', t)
+    t = re.sub(r'^(\(\w{1,4}\))(?=[A-Za-z"])', r' ', t)
     t = re.sub(r'\(\s+', '(', t)
     t = re.sub(r'\s+\)', ')', t)
     t = re.sub(r'"\s+', '"', t) if t.count('"') == 1 else t
@@ -212,6 +213,7 @@ def split_units(rows, last_article=(170, '')):
     cur_art = (0, '')
     started = False
     in_sched = False
+    drop_caps = False
     for r in rows:
         t = r['text']
         p = plain(t).strip()
@@ -223,6 +225,9 @@ def split_units(rows, last_article=(170, '')):
                 order.append(cur)
             else:
                 continue
+        if re.match(r'^Other\s+Consequential\s+Amendments', p, re.I) or re.match(r'^Devo\s+Vassatu', p, re.I):
+            cur = None
+            continue
         ms = SCHED_RE.match(p)
         if ms and cur_art >= last_article:
             n = SCHED_N[ms.group(1).upper()]
@@ -235,7 +240,10 @@ def split_units(rows, last_article=(170, '')):
                 continue
         if not in_sched:
             m = ART_RE.match(t if not t.lstrip().startswith(SENT) else t)
-            mm = ART_RE.match(p)
+            mm = ART_RE.match(re.sub(r'(?<![A-Za-z])l(?=\d)|(?<=\d)l(?=[\dA-Z]*\s*\.)', '1', p))
+            if not mm:
+                mr = re.match(r'^\s*\[?\s*(\d{1,3})\s*([A-Z]{0,2})\s+(Repealed)', p)
+                mm = mr
             if mm:
                 num, suf = int(mm.group(1)), mm.group(2)
                 nxt = (num, suf)
@@ -248,7 +256,14 @@ def split_units(rows, last_article=(170, '')):
             if cur == 'preamble' and is_heading(t) and not re.search(r'SUPREME LAW|CONSTITUTION|DEMOCRATIC|SOCIALIST|REPUBLIC|SRI LANKA|PEOPLE', p):
                 pass
             elif cur != 'preamble' and is_heading(t):
-                continue
+                if re.match(r'^CHAPTER', p, re.I):
+                    drop_caps = True
+                    continue
+                if drop_caps or not re.match(r'^(SCHEDULE|PART\s+[IVX]+|LIST)', p):
+                    continue
+            drop_caps = False
+        if cur is None:
+            continue
         units[cur].append(r)
     return order, units
 
@@ -261,7 +276,7 @@ def unit_text(rows, key):
         t = r['text']
         p = plain(t).strip()
         if key.startswith('art-') and i == 0:
-            mm = re.match(r'^\s*((?:' + SENT + r'\{[^}]*\}\s*)?(?:\*{1,6}\s*)?\[?\s*)(\d{1,3}\s*[A-Z]{0,2}\s*\.\s*)(.*)$', t)
+            mm = re.match(r'^\s*((?:' + SENT + r'\{[^}]*\}\s*)?(?:\*{1,6}\s*)?\[?\s*)([l\d]{1,3}\s*[A-Z]{0,2}\s*(?:\.|(?=\s+Repealed))\s*)(.*)$', t)
             if mm:
                 t = mm.group(1) + mm.group(3)
                 p = plain(t).strip()
