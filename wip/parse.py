@@ -71,7 +71,7 @@ def main():
             'slug': 'constitution', 'short': 'Constitution',
             'title': 'The Constitution of the Democratic Socialist Republic of Sri Lanka',
             'url': B + '/en/constitution/main', 'first_law': None,
-            'earlier_laws': ['The Constitution of 1978 and the First to Twenty First Amendments'],
+            'earlier_laws': [],
             'versions': [
                 {'from': '2022-10-31', 'source_url': ED21, 'sha256': sha(ED21), 'units': u21, 'credits': {},
                  'note': 'Oldest version available: Parliament consolidated edition as amended up to 31 October 2022 (Revised Edition 2023).'},

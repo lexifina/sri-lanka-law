@@ -1,9 +1,7 @@
 {
  "acts": [
   {
-   "earlier_laws": [
-    "The Constitution of 1978 and the First to Twenty First Amendments"
-   ],
+   "earlier_laws": [],
    "first_law": null,
    "short": "Constitution",
    "slug": "constitution",
