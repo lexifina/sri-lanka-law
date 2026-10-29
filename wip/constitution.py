@@ -228,7 +228,7 @@ def split_units(rows, last_article=(170, '')):
         if re.match(r'^Other\s+Consequential\s+Amendments', p, re.I) or re.match(r'^Devo\s+Vassatu', p, re.I):
             cur = None
             continue
-        ms = SCHED_RE.match(p)
+        ms = SCHED_RE.match(re.sub(r'^[\[\*"\s]+', '', p))
         if ms and cur_art >= last_article:
             n = SCHED_N[ms.group(1).upper()]
             key = 'schedule-%02d' % n
