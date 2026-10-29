@@ -21,7 +21,7 @@ EDITIONS = {
     '18': {'top': 155, 'min_size': 9.8},
     '19': {'top': 64, 'min_size': 10.2},
     '20': {'top': 58, 'min_size': 9.5},
-    '21': {'top': 78, 'min_size': 10.5},
+    '21': {'top': 78, 'min_size': 9.95},
 }
 
 SENT = '\x01'  # where a footnote marker was dropped
@@ -75,7 +75,7 @@ def page_rows(page, cfg):
             markers.append(sp)
             if m.group(2):
                 # the rest of the span ("[(2) Tamil ...") is body text typeset small after the marker
-                body.append((y0, y1, x1 - 0.01, x1, cfg['min_size'], font, m.group(2)))
+                body.append((y0, y1, x0 + 0.02, x1, cfg['min_size'], font, m.group(2)))
                 markers[-1] = (y0, y1, x0, x0 + 0.01, size, font, m.group(1))
         else:
             rest.append(sp)
