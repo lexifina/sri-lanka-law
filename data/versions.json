@@ -1,0 +1,25 @@
+{
+ "country": "LK",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of the Democratic Socialist Republic of Sri Lanka",
+   "url": "https://www.parliament.lk/en/constitution/main",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 267,
+     "source_url": "https://www.parliament.lk/files/pdf/constitution/constitution-upto-21st.pdf",
+     "sha256": "4ff29ec67b4a27fe9a66636bb65ca06e75dc228cc3b915a5c8817665cb23e2ac"
+    },
+    {
+     "from": "2026-09-25",
+     "units": 267,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6433.pdf",
+     "sha256": "a3b3e91de155fb5ad08fff361ab377e97619d2730feee061ecccbc0dd9c58750"
+    }
+   ]
+  }
+ ]
+}

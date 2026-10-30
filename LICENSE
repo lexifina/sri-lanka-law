@@ -1,0 +1,13 @@
+The legal texts are the Constitution of the Democratic Socialist Republic of Sri Lanka (unofficial English
+consolidated edition) and the Twenty Second Amendment to the Constitution, as published by the Parliament of
+Sri Lanka (https://www.parliament.lk). The site states no licence. The Intellectual Property Act, No. 36 of 2003,
+section 8, does not protect official texts of a legislative, administrative or legal nature. The texts are
+reproduced without change to their wording.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+line-end hyphenation and page furniture from the PDF were removed. The versions were arranged as git commits.
+Lexifina does not claim the Parliament of Sri Lanka endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
