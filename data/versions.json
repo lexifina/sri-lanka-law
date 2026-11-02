@@ -20,6 +20,160 @@
      "sha256": "a3b3e91de155fb5ad08fff361ab377e97619d2730feee061ecccbc0dd9c58750"
     }
    ]
+  },
+  {
+   "slug": "act-2000-038",
+   "short": "Inland Revenue Act 2000",
+   "title": "Inland Revenue Act, No. 38 of 2000",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3792",
+   "versions": [
+    {
+     "from": "2000-08-03",
+     "units": 64,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3792.pdf",
+     "sha256": "7d09695c0388bfac1ff1c193c3e86008c6cb5c7fb22ab088891742c029191fc9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2004-010",
+   "short": "Inland Revenue (Regulation of Amnesty) Act 2004",
+   "title": "Inland Revenue (Regulation of Amnesty) Act, No. 10 of 2004",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G4801",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/4801.pdf",
+     "sha256": "410413c84aba682af0f0b73cc5ddc114e2602f6be4e73247b047405608fa8325"
+    }
+   ]
+  },
+  {
+   "slug": "act-2004-013",
+   "short": "Value Added Tax (Amendment) Act 2004",
+   "title": "Value Added Tax (Amendment) Act, No. 13 of 2004",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G4810",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/4810.pdf",
+     "sha256": "b5a8c0e21dcd491e6ab90d1a07c28e1eb7e14d09b069e6bf3221401a41a137a3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-010",
+   "short": "Inland Revenue Act 2006",
+   "title": "Inland Revenue Act, No. 10 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5713",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5713.pdf",
+     "sha256": "ec7d8b731da63f0069b4fd5f2c34679fe8019549830e84ef1e717c4e728d291c"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-007",
+   "short": "Companies Act 2007",
+   "title": "Companies Act, No. 07 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3776",
+   "versions": [
+    {
+     "from": "2007-03-20",
+     "units": 548,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3776.pdf",
+     "sha256": "6fc7b6b36b00c786ba0b12386e4808a8f6c29fca353f00f72a5407a614d35a6a"
+    }
+   ]
+  },
+  {
+   "slug": "act-2010-012",
+   "short": "National Institute of Labour Studies Act 2010",
+   "title": "National Institute of Labour Studies Act, No. 12 of 2010",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5805",
+   "versions": [
+    {
+     "from": "2010-10-06",
+     "units": 30,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5805.pdf",
+     "sha256": "9bc24919b0ee9a050b98c6071349024863f0af4fd9be949d6bcf8b05d148ccdf"
+    }
+   ]
+  },
+  {
+   "slug": "act-2013-017",
+   "short": "Value Added Tax (Amendment) Act 2013",
+   "title": "Value Added Tax (Amendment) Act, No. 17 of 2013",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5906",
+   "versions": [
+    {
+     "from": "2013-04-24",
+     "units": 25,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5906.pdf",
+     "sha256": "13cc39d22712d8050146487cc493d84eb6cbabd5a0298cb5abb0fadff112eb55"
+    }
+   ]
+  },
+  {
+   "slug": "act-2017-024",
+   "short": "Inland Revenue Act 2017",
+   "title": "Inland Revenue Act, No. 24 of 2017",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6054",
+   "versions": [
+    {
+     "from": "2017-10-24",
+     "units": 210,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6054.pdf",
+     "sha256": "e857f11ec026b424c4c8a5bc458f3fdd9cf1cca96e667b9a9bb80d8ccd972d77"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-009",
+   "short": "Personal Data Protection Act 2022",
+   "title": "Personal Data Protection Act, No. 9 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6242",
+   "versions": [
+    {
+     "from": "2022-03-19",
+     "units": 64,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6242.pdf",
+     "sha256": "6fcdf94fe219d9f7cd18c4790a2c6332568c65eb72846790480e65834012ef46"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-009",
+   "short": "Anti-Corruption Act 2023",
+   "title": "Anti-Corruption Act, No. 9 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6296",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 167,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6296.pdf",
+     "sha256": "e6d40c137d383e88fee98fdf57b80c79b18e9563f9c0eeaff91a98bba8035530"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-009",
+   "short": "Online Safety Act 2024",
+   "title": "Online Safety Act, No. 9 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6311",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 55,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6311.pdf",
+     "sha256": "aa0a1b9aff5f0440f91154007d5e5d2becc0eb091847d866fbc0f88977df3767"
+    }
+   ]
   }
  ]
 }
