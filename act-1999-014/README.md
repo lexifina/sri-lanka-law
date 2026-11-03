@@ -1,0 +1,9 @@
+# Pradeshiya Sabhas (Amendment) Act, No.14 of 1999
+
+Pradeshiya Sabhas (Amendment) Act 1999 · 1 versions, from 1999-06-15 (latest in force: 1999-06-15) · <https://www.parliament.lk/en/business-of-parliament/act-details/G3669>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

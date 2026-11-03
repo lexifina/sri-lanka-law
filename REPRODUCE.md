@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
+| Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -629,20 +630,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-1999-044` | UNESCO Scholarship Fund Act, No.44 of 1999 | 1 | 1999-12-03 to 1999-12-03 |
 | `act-1999-046` | Community Based Corrections Act, No. 46 of 1999 | 1 | 1999-12-10 to 1999-12-10 |
 | `act-1999-054` | Ranaviru Seva Authority Act, No. 54 of 1999 | 1 | 1999-12-23 to 1999-12-23 |
+| `act-1999-004` | Apartment Ownership (Special Provisions) Act, No. 4 of 1999 | 1 | 1999-03-10 to 1999-03-10 |
+| `act-1999-006` | Bretton Woods Agreements (Amendment) Act, No.6 of 1999 | 1 | 1999-03-26 to 1999-03-26 |
+| `act-1999-009` | Institute of Policy Studies of Sri Lanka (Amendment ) Act, No. 9 of 1999 | 1 | 1999-04-09 to 1999-04-09 |
+| `act-1999-014` | Pradeshiya Sabhas (Amendment) Act, No.14 of 1999 | 1 | 1999-06-15 to 1999-06-15 |
+| `act-1999-021` | National Security Levy (Amendment) Act, No.21 of 1999 | 1 | 1999-07-27 to 1999-07-27 |
+| `act-1999-022` | National Savings Bank (Amendment) Act, No.22 of 1999 | 1 | 1999-08-12 to 1999-08-12 |
+| `act-1999-024` | Finance (Amendment) Act, No. 24 of 1999 | 1 | 1999-08-30 to 1999-08-30 |
+| `act-1999-025` | Stamp Duty (Amendment) Act, No. 25 of 1999 | 1 | 1999-08-30 to 1999-08-30 |
+| `act-1999-028` | Offences Against Public Property (Amendment) Act, No. 28 of 1999 | 1 | 1999-09-17 to 1999-09-17 |
+| `act-1999-029` | Debt Conciliation (Amendment) Act, No.29 of 1999 | 1 | 1999-09-17 to 1999-09-17 |
+| `act-1999-030` | National Housing Development Authority (Amendment) Act, No.30 of 1999 | 1 | 1999-09-23 to 1999-09-23 |
+| `act-1999-033` | Social Security Board (Amendment) Act, No.33 of 1999 | 1 | 1999-10-07 to 1999-10-07 |
+| `act-1999-034` | National Development Bank of Sri Lanka (Amendment) Act, No. 34 of 1999 | 1 | 1999-10-07 to 1999-10-07 |
+| `act-1999-045` | Public Service Provident Fund (Amendment) Act, No.45 of 1999 | 1 | 1999-12-10 to 1999-12-10 |
+| `act-1999-049` | Appropriation (Amendment) Act, No. 49 of 1999 | 1 | 1999-12-10 to 1999-12-10 |
+| `act-1999-050` | Tertiary and Vocational Education (Amendment) Act, No. 50 of 1999 | 1 | 1999-12-14 to 1999-12-14 |
+| `act-1999-053` | Navy (Amendment) Act, No. 53 of 1999 | 1 | 1999-12-14 to 1999-12-14 |
+| `act-1999-055` | Widows ' and Orphans' Pension Scheme (Armed Forces) (Amendment) Act, No. 55 of 1999 | 1 | 1999-12-31 to 1999-12-31 |
 
-The build made 608 commits:
+The build made 626 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 607 | first version of an act |
+| 625 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 607 laws in the record.
-- 1215 tags.
+- 625 laws in the record.
+- 1251 tags.
 
 ## Dates
 
@@ -654,8 +673,8 @@ When a law gives no date of its own, the default rule applies: Constitution Art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `eccc8d97a094c4daf8d7b5133ae216bf275ac476ca8a776ac8aab488651ca3ea` (16588632 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `478edb3823c966c22e6867f7b6bfffb7786bc309e09645ae5c8863bd69e2e55b` (16714762 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -702,6 +721,10 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
 - Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as certified, dated by the Speaker's certificate printed on it ("[Certified on ...]"): under Article 80(1) of the Constitution a Bill becomes law when the certificate is endorsed on it. Where an Act brings itself or some of its provisions into operation later (an appointed day, a Minister's Order), that later day is not modelled: the version is dated by the certificate.
+- Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
+- Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
 
 ## What AI did and did not do
 
@@ -713,6 +736,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time; parsers written by Claude Code (claude-opus-5-5); no model wrote legal text
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.

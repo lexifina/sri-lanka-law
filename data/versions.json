@@ -8504,6 +8504,258 @@
      "sha256": "48e79ad5c5ebdff59d9e318500607ed32ce045964bdd46da5394b1493197e5c7"
     }
    ]
+  },
+  {
+   "slug": "act-1999-004",
+   "short": "Apartment Ownership (Special Provisions) Act 1999",
+   "title": "Apartment Ownership (Special Provisions) Act, No. 4 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3633",
+   "versions": [
+    {
+     "from": "1999-03-10",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3633.pdf",
+     "sha256": "53b96f5e6140b69f91a097f99a910f46e3d802ced4a26a5326b2bcdb28166eae"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-006",
+   "short": "Bretton Woods Agreements (Amendment) Act 1999",
+   "title": "Bretton Woods Agreements (Amendment) Act, No.6 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3635",
+   "versions": [
+    {
+     "from": "1999-03-26",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3635.pdf",
+     "sha256": "f16feda47d4bc369c52057ddd17fd939e713637b234af73dd8e966b01ee01e87"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-009",
+   "short": "Institute of Policy Studies of Sri Lanka (Amendment ) Act 1999",
+   "title": "Institute of Policy Studies of Sri Lanka (Amendment ) Act, No. 9 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3665",
+   "versions": [
+    {
+     "from": "1999-04-09",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3665.pdf",
+     "sha256": "653e537543bb90ce9d19f8f838164abb5f9e083ac0e261c6c5bf5c50f6b8a0e5"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-014",
+   "short": "Pradeshiya Sabhas (Amendment) Act 1999",
+   "title": "Pradeshiya Sabhas (Amendment) Act, No.14 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3669",
+   "versions": [
+    {
+     "from": "1999-06-15",
+     "units": 3,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3669.pdf",
+     "sha256": "ce01e97a016a14187a1259225460030fde987af9cf35e0660cefa74c01db39c1"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-021",
+   "short": "National Security Levy (Amendment) Act 1999",
+   "title": "National Security Levy (Amendment) Act, No.21 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3675",
+   "versions": [
+    {
+     "from": "1999-07-27",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3675.pdf",
+     "sha256": "a2e69e238da03f14eacc790a7396c2986ea0d194e819d0e12364a9f6e6d3da79"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-022",
+   "short": "National Savings Bank (Amendment) Act 1999",
+   "title": "National Savings Bank (Amendment) Act, No.22 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3676",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 13,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3676.pdf",
+     "sha256": "7f3fa300f912407fc504fedaa7431ed5e2348308c7089f6e85ed0b9ab293e9ab"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-024",
+   "short": "Finance (Amendment) Act 1999",
+   "title": "Finance (Amendment) Act, No. 24 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3677",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 18,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3677.pdf",
+     "sha256": "e8086dec3594556880774a0d0e92ada8bc6dcfb5ccfa88e974f6c8c1e0972872"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-025",
+   "short": "Stamp Duty (Amendment) Act 1999",
+   "title": "Stamp Duty (Amendment) Act, No. 25 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3681",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3681.pdf",
+     "sha256": "da38c1a4b0839a742f1e1d708ef06cd837386c133c90fb1a60b5fca1c03457db"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-028",
+   "short": "Offences Against Public Property (Amendment) Act 1999",
+   "title": "Offences Against Public Property (Amendment) Act, No. 28 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3684",
+   "versions": [
+    {
+     "from": "1999-09-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3684.pdf",
+     "sha256": "0246cb04422419c29664578d55fdcb0635da7ba86b221ff089e638462947e90e"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-029",
+   "short": "Debt Conciliation (Amendment) Act 1999",
+   "title": "Debt Conciliation (Amendment) Act, No.29 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3686",
+   "versions": [
+    {
+     "from": "1999-09-17",
+     "units": 10,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3686.pdf",
+     "sha256": "15511a8434846813e23c170384ec2f0c8e1df01966c08232e249b65946a8bdaf"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-030",
+   "short": "National Housing Development Authority (Amendment) Act 1999",
+   "title": "National Housing Development Authority (Amendment) Act, No.30 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3687",
+   "versions": [
+    {
+     "from": "1999-09-23",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3687.pdf",
+     "sha256": "4ff33a9c9e0170e0101ec1466c286c117f30b797f742eaddd1adf73ec89281a9"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-033",
+   "short": "Social Security Board (Amendment) Act 1999",
+   "title": "Social Security Board (Amendment) Act, No.33 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3692",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 12,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3692.pdf",
+     "sha256": "c765510fdd9db656f693e589b25df701603e8ed4b97f3e6489f185a2878ba201"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-034",
+   "short": "National Development Bank of Sri Lanka (Amendment) Act 1999",
+   "title": "National Development Bank of Sri Lanka (Amendment) Act, No. 34 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3694",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3694.pdf",
+     "sha256": "39af2471eae6a3cf0e5c9a6c9f7216da0f6788595986693c3a7755ecadacc553"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-045",
+   "short": "Public Service Provident Fund (Amendment) Act 1999",
+   "title": "Public Service Provident Fund (Amendment) Act, No.45 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3736",
+   "versions": [
+    {
+     "from": "1999-12-10",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3736.pdf",
+     "sha256": "51cc4cc5a3188c2aa24821b2a157624f67e67719ed6e86328b0ca855d24f702c"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-049",
+   "short": "Appropriation (Amendment) Act 1999",
+   "title": "Appropriation (Amendment) Act, No. 49 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3745",
+   "versions": [
+    {
+     "from": "1999-12-10",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3745.pdf",
+     "sha256": "83b601700c7a60e99bba66be6089f82663dcf963347336140b135cabb1f55976"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-050",
+   "short": "Tertiary and Vocational Education (Amendment) Act 1999",
+   "title": "Tertiary and Vocational Education (Amendment) Act, No. 50 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3746",
+   "versions": [
+    {
+     "from": "1999-12-14",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3746.pdf",
+     "sha256": "cf491828ab4954ecc2b33b4490f8a5217a9ab4fcd3965dc7f88e5fed5597b3a4"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-053",
+   "short": "Navy (Amendment) Act 1999",
+   "title": "Navy (Amendment) Act, No. 53 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3748",
+   "versions": [
+    {
+     "from": "1999-12-14",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3748.pdf",
+     "sha256": "80e9f008d1045049853462c443d9f4d57c05de7a5a79fda17b12787220a64e1f"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-055",
+   "short": "Widows ' and Orphans' Pension Scheme (Armed Forces) (Amendment) Act 1999",
+   "title": "Widows ' and Orphans' Pension Scheme (Armed Forces) (Amendment) Act, No. 55 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3750",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3750.pdf",
+     "sha256": "d77c295efa3d1722f49ce4d9fcc472cd6d7099b3072251aae9f9f8da685c4520"
+    }
+   ]
   }
  ]
 }
