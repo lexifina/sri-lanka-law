@@ -174,6 +174,398 @@
      "sha256": "aa0a1b9aff5f0440f91154007d5e5d2becc0eb091847d866fbc0f88977df3767"
     }
    ]
+  },
+  {
+   "slug": "act-2022-023",
+   "short": "Termination of Employment of Workmen (Special Provisions) (Amendment) Act 2022",
+   "title": "Termination of Employment of Workmen (Special Provisions) (Amendment) Act, No. 23 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6267",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6267.pdf",
+     "sha256": "095de3224e3953685ebcc55d9963f233b46cbb60c63032f28ef54e4281bec196"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-024",
+   "short": "Industrial Disputes (Amendment) Act 2022",
+   "title": "Industrial Disputes (Amendment) Act, No. 24 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6265",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6265.pdf",
+     "sha256": "6c91e9c27f1c6c2537e233151f4b29e71b664004a80fdf4c10be4703c6b49088"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-034",
+   "short": "Judicature (Amendment) Act 2022",
+   "title": "Judicature (Amendment) Act, No. 34 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6273",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 28,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6273.pdf",
+     "sha256": "a85f9b4b277a220821aca5d2ba571d61777d18869c64c3b33dc977419f5935b3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-036",
+   "short": "Civil Procedure Code (Amendment) Act 2022",
+   "title": "Civil Procedure Code (Amendment) Act, No. 36 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6274",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6274.pdf",
+     "sha256": "5da40a699afe93299376a3db45a90715a4179512ded4f1235621cf46900b511a"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-038",
+   "short": "Code of Criminal Procedure (Amendment) Act 2022",
+   "title": "Code of Criminal Procedure (Amendment) Act, No. 38 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6255",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6255.pdf",
+     "sha256": "ff143ee9cf1856d9066d4a7e51af431ad72b5c97a87a2655b899d9d8fbd91af4"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-044",
+   "short": "Value Added Tax (Amendment) Act 2022",
+   "title": "Value Added Tax (Amendment) Act, No. 44 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6283",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6283.pdf",
+     "sha256": "dcc569d41989c1d142d30689403bb0441bcc0fdbfa752412511e371da2f97fe1"
+    }
+   ]
+  },
+  {
+   "slug": "act-2022-045",
+   "short": "Inland Revenue (Amendment) Act 2022",
+   "title": "Inland Revenue (Amendment) Act, No. 45 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6282",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 40,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6282.pdf",
+     "sha256": "23b1485cbf651508fd7ed93b3e80a61fb3e8816225b49abb75fc3caaa28a2a27"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-004",
+   "short": "Inland Revenue (Amendment) Act 2023",
+   "title": "Inland Revenue (Amendment) Act, No. 4 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6293",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 25,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6293.pdf",
+     "sha256": "66e2bef45624e3c5f50b8ca449ba61a99b8c93873c5bdac5fcd746beb744c8c0"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-014",
+   "short": "Inland Revenue (Amendment) Act 2023",
+   "title": "Inland Revenue (Amendment) Act, No. 14 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6306",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6306.pdf",
+     "sha256": "2a086eb2ab9b222f2f707486ef32436fe5a500ccd4e84530e38cb7aacdd476e2"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-020",
+   "short": "Civil Procedure Code (Amendment) Act 2023",
+   "title": "Civil Procedure Code (Amendment) Act, No. 20 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6307",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6307.pdf",
+     "sha256": "afb467c610f1bf72f93eaa9683362d7102023beebd7572a333a6852654667e29"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-028",
+   "short": "Anti-Corruption (Amendment) Act 2023",
+   "title": "Anti-Corruption (Amendment) Act, No. 28 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6318",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6318.pdf",
+     "sha256": "47b5d55b761c920a79d2df71385d2c0dbdbeee118f787cfd4118dad3b67c47c8"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-029",
+   "short": "Civil Procedure Code (Amendment) Act 2023",
+   "title": "Civil Procedure Code (Amendment) Act, No. 29 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6310",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6310.pdf",
+     "sha256": "5a6dc6e11f6024db3268ab6b19bba61778a6098da4ecc90f1a5b6be3ab70fee1"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-032",
+   "short": "Value Added Tax (Amendment) Act 2023",
+   "title": "Value Added Tax (Amendment) Act, No. 32 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6317",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6317.pdf",
+     "sha256": "05f7755578f0135eedd93b27c613d387b696bde6781373c0d27ca94f699c65bc"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-023",
+   "short": "Companies (Amendment) Act 2024",
+   "title": "Companies (Amendment) Act, No. 23 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6333",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6333.pdf",
+     "sha256": "06a9af4148e9c22175171985666ecbc8a7a7cc4124dc92ae09244457b580b400"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-025",
+   "short": "Code of Criminal Procedure (Amendment) Act 2024",
+   "title": "Code of Criminal Procedure (Amendment) Act, No. 25 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6343",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6343.pdf",
+     "sha256": "241825f7e804e191d364d051caa0587958248c5645e5b1559f445cd1c39ee9ad"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-028",
+   "short": "Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act 2024",
+   "title": "Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 28 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6332",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6332.pdf",
+     "sha256": "e141c83aae763fb78e3feaaaf5786a7a60e6173af58fded3e6de6a017a2557d3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-043",
+   "short": "Civil Procedure Code (Amendment) Act 2024",
+   "title": "Civil Procedure Code (Amendment) Act, No. 43 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6350",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 17,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6350.pdf",
+     "sha256": "96a4d65e28241155121e99e03f2c2b3a6c1d9b63e25bf69f630bb7f396f301c0"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-050",
+   "short": "Code of Criminal Procedure (Amendment) Act 2024",
+   "title": "Code of Criminal Procedure (Amendment) Act, No. 50 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6359",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6359.pdf",
+     "sha256": "2b53081f716ab7f7cc9ea8b701ecd607d808c5835d3d68e870b7b6a569f1ecc8"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-002",
+   "short": "Inland Revenue (Amendment) Act 2025",
+   "title": "Inland Revenue (Amendment) Act, No. 2 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6379",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6379.pdf",
+     "sha256": "0dff13924d408a621ce6dd01c2069c652c6a55be5740b897d145589454e5f7f8"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-004",
+   "short": "Value Added Tax (Amendment) Act 2025",
+   "title": "Value Added Tax (Amendment) Act, No. 4 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6380",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 16,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6380.pdf",
+     "sha256": "ef32efa17f0177189a23bd26dc5c3b9f95d8b6165ff0feef37f2701ef1806ab1"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-007",
+   "short": "Code of Criminal Procedure (Amendment) Act 2025",
+   "title": "Code of Criminal Procedure (Amendment) Act, No. 7 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6381",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6381.pdf",
+     "sha256": "69bfab922814e5e03e5cf182c4d5c58c112307f5876836881ef84a2dada785e3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-012",
+   "short": "Companies (Amendment) Act 2025",
+   "title": "Companies (Amendment) Act, No. 12 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6389",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 24,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6389.pdf",
+     "sha256": "a22a1a0e476880c395b65273cf20903e3158ef900a09d155c8c41709cc70e1a1"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-022",
+   "short": "Personal Data Protection (Amendment) Act 2025",
+   "title": "Personal Data Protection (Amendment) Act, No. 22 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6384",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 17,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6384.pdf",
+     "sha256": "6186f402309b19987e2a0ff759e9085b369357b0230f5034b0a6523d72b9760e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-008",
+   "short": "Judicature (Amendment) Act 2026",
+   "title": "Judicature (Amendment) Act, No. 8 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6410",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6410.pdf",
+     "sha256": "aeac7eab18d8bf1d2174a3eed1f496afec10b0cac26a86fb9060cfac48142dae"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-011",
+   "short": "Inland Revenue (Amendment) Act 2026",
+   "title": "Inland Revenue (Amendment) Act, No. 11 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6420",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6420.pdf",
+     "sha256": "25c44cdd1e93e39e62ad254d1c32624b6a4f99d4d119bd98bb81930db6d5270e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-014",
+   "short": "Value Added Tax (Amendment) Act 2026",
+   "title": "Value Added Tax (Amendment) Act, No. 14 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6427",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 19,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6427.pdf",
+     "sha256": "2f66981191514d1b991c44341147f0f8558f2c491e7ea153e3e1514c15de3e16"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-021",
+   "short": "Employment of Women, Young Persons and Children (Amendment) Act 2026",
+   "title": "Employment of Women, Young Persons and Children (Amendment) Act, No. 21 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6434",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6434.pdf",
+     "sha256": "190b1f34be0a2f419ffc3a1c125b99313450a56214431f3e12ff684498ff766f"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-023",
+   "short": "Judicature (Amendment) Act 2026",
+   "title": "Judicature (Amendment) Act, No. 23 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6435",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6435.pdf",
+     "sha256": "24d4b268b71f52f38d24609ff56356d699ce667a273051147f2ac51d8fcd6aac"
+    }
+   ]
   }
  ]
 }

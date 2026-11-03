@@ -5,7 +5,7 @@ The law of Sri Lanka as a git repository: one file per provision, one commit per
 **What is in it now**
 
 - The Constitution of the Democratic Socialist Republic of Sri Lanka (`constitution/`), 2 versions: the Parliament's consolidated edition as amended to the Twenty First Amendment (31 October 2022), then the Twenty Second Amendment (Articles 107 and 137, certified 25 September 2026).
-- 11 Acts of Parliament as enacted (2000 to 2024), 1,218 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
+- 39 Acts of Parliament as enacted (2000 to 2026), 1,541 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
 
 **Sources.** Both come from the Parliament of Sri Lanka (parliament.lk). The Constitution is the Parliament's consolidated English edition; its first version is credited to the publisher, because earlier editions are not built, and the second replays the Twenty Second Amendment, whose words match the Act exactly. Each Act is the English text as printed by the Department of Government Printing and published by Parliament in its Acts listing. The Sinhala text of an Act prevails over the English and Tamil texts.
 
@@ -44,5 +44,33 @@ See [REPRODUCE.md](REPRODUCE.md).
 | `act-2013-017/` | Value Added Tax (Amendment) Act, No. 17 of 2013 | 2013-04-24 |
 | `act-2017-024/` | Inland Revenue Act, No. 24 of 2017 | 2017-10-24 |
 | `act-2022-009/` | Personal Data Protection Act, No. 9 of 2022 | 2022-03-19 |
+| `act-2022-023/` | Termination of Employment of Workmen (Special Provisions) (Amendment) Act, No. 23 of 2022 | 2022-09-16 |
+| `act-2022-024/` | Industrial Disputes (Amendment) Act, No. 24 of 2022 | 2022-09-16 |
+| `act-2022-034/` | Judicature (Amendment) Act, No. 34 of 2022 | 2022-11-17 |
+| `act-2022-036/` | Civil Procedure Code (Amendment) Act, No. 36 of 2022 | 2022-11-17 |
+| `act-2022-038/` | Code of Criminal Procedure (Amendment) Act, No. 38 of 2022 | 2022-11-17 |
+| `act-2022-044/` | Value Added Tax (Amendment) Act, No. 44 of 2022 | 2022-12-14 |
+| `act-2022-045/` | Inland Revenue (Amendment) Act, No. 45 of 2022 | 2022-12-19 |
+| `act-2023-004/` | Inland Revenue (Amendment) Act, No. 4 of 2023 | 2023-05-08 |
 | `act-2023-009/` | Anti-Corruption Act, No. 9 of 2023 | 2023-08-08 |
+| `act-2023-014/` | Inland Revenue (Amendment) Act, No. 14 of 2023 | 2023-09-08 |
+| `act-2023-020/` | Civil Procedure Code (Amendment) Act, No. 20 of 2023 | 2023-10-17 |
+| `act-2023-028/` | Anti-Corruption (Amendment) Act, No. 28 of 2023 | 2023-11-17 |
+| `act-2023-029/` | Civil Procedure Code (Amendment) Act, No. 29 of 2023 | 2023-11-17 |
+| `act-2023-032/` | Value Added Tax (Amendment) Act, No. 32 of 2023 | 2023-12-13 |
 | `act-2024-009/` | Online Safety Act, No. 9 of 2024 | 2024-02-01 |
+| `act-2024-023/` | Companies (Amendment) Act, No. 23 of 2024 | 2024-04-01 |
+| `act-2024-025/` | Code of Criminal Procedure (Amendment) Act, No. 25 of 2024 | 2024-05-03 |
+| `act-2024-028/` | Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 28 of 2024 | 2024-05-13 |
+| `act-2024-043/` | Civil Procedure Code (Amendment) Act, No. 43 of 2024 | 2024-08-02 |
+| `act-2024-050/` | Code of Criminal Procedure (Amendment) Act, No. 50 of 2024 | 2024-09-13 |
+| `act-2025-002/` | Inland Revenue (Amendment) Act, No. 2 of 2025 | 2025-03-20 |
+| `act-2025-004/` | Value Added Tax (Amendment) Act, No. 4 of 2025 | 2025-04-11 |
+| `act-2025-007/` | Code of Criminal Procedure (Amendment) Act, No. 7 of 2025 | 2025-06-18 |
+| `act-2025-012/` | Companies (Amendment) Act, No. 12 of 2025 | 2025-08-04 |
+| `act-2025-022/` | Personal Data Protection (Amendment) Act, No. 22 of 2025 | 2025-10-30 |
+| `act-2026-008/` | Judicature (Amendment) Act, No. 8 of 2026 | 2026-03-06 |
+| `act-2026-011/` | Inland Revenue (Amendment) Act, No. 11 of 2026 | 2026-06-03 |
+| `act-2026-014/` | Value Added Tax (Amendment) Act, No. 14 of 2026 | 2026-06-30 |
+| `act-2026-021/` | Employment of Women, Young Persons and Children (Amendment) Act, No. 21 of 2026 | 2026-09-08 |
+| `act-2026-023/` | Judicature (Amendment) Act, No. 23 of 2026 | 2026-09-25 |
