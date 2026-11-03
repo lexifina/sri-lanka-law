@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
+| Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -247,20 +248,93 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2026-006` | Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026 | 1 | 2026-02-19 to 2026-02-19 |
 | `act-2026-012` | Rescue, Rehabilitation and Insolvency (Corporate and Personal) Act, No. 12 of 2026 | 1 | 2026-06-17 to 2026-06-17 |
 | `act-2026-013` | Mediation (Civil and Commercial Disputes) Act, No. 13 of 2026 | 1 | 2026-06-30 to 2026-06-30 |
+| `act-2000-042` | Suppression of Unlawful Acts against the Safety of Maritime Navigation Act, No. 42 of 2000 | 1 | 2000-08-09 to 2000-08-09 |
+| `act-2002-003` | Competent Authority (Powers and Functions) Act, No. 3 of 2002 | 1 | 2002-03-25 to 2002-03-25 |
+| `act-2002-004` | Administrative Appeals Tribunal Act, No. 4 of 2002 | 1 | 2002-03-25 to 2002-03-25 |
+| `act-2002-008` | Save the Nation Contribution (Abolition) Act, No. 8 of 2002 | 1 | 2002-06-19 to 2002-06-19 |
+| `act-2003-035` | Grant of Citizenship to Persons of Indian Origin Act, No. 35 of 2003 | 1 | 2003-11-11 to 2003-11-11 |
+| `act-2003-044` | Appropriation Act, No. 44 of 2003 | 1 | 2003-12-31 to 2003-12-31 |
+| `act-2004-015` | Appropriation Act, No. 15 of 2004 | 1 | 2004-12-21 to 2004-12-21 |
+| `act-2005-023` | Corporal Punishment (Repeal) Act, No. 23 of 2005 | 1 | 2005-08-02 to 2005-08-02 |
+| `act-2005-030` | Convention on Preventing and Combating Trafficking in Women and Children for Prostitution Act, No. 30 of 2005 | 1 | 2005-09-20 to 2005-09-20 |
+| `act-2005-032` | Sri Lanka Accreditation Board for Conformity Assessment Act, No. 32 of 2005 | 1 | 2005-09-23 to 2005-09-23 |
+| `act-2005-036` | Budgetary Relief Allowance of Workers Act, No. 36 of 2005 | 1 | 2005-10-18 to 2005-10-18 |
+| `act-2006-003` | Merchant Shipping (Change of Designation) Act, No. 3 of 2006 | 1 | 2006-02-13 to 2006-02-13 |
+| `act-2006-004` | Geneva Conventions Act, No. 4 of 2006 | 1 | 2006-02-26 to 2006-02-26 |
+| `act-2006-019` | Electronic Transactions Act, No. 19 of 2006 | 1 | 2006-05-19 to 2006-05-19 |
+| `act-2006-021` | Private Medical Institutions (Registration) Act, No. 21 of 2006 | 1 | 2006-07-14 to 2006-07-14 |
+| `act-2006-027` | National Authority on Tobacco and Alcohol Act, No. 27 of 2006 | 1 | 2006-08-29 to 2006-08-29 |
+| `act-2006-028` | National Insurance Trust Fund Act, No. 28 of 2006 | 1 | 2006-08-29 to 2006-08-29 |
+| `act-2006-029` | Social Security Benefit Scheme for Media Personnel Act, No. 29 of 2006 | 1 | 2006-09-05 to 2006-09-05 |
+| `act-2006-030` | Payment Devices Frauds Act, No. 30 of 2006 | 1 | 2006-09-12 to 2006-09-12 |
+| `act-2006-047` | Appropriation Act, No. 47 of 2006 | 1 | 2006-12-15 to 2006-12-15 |
+| `act-2006-051` | Regional Infrastructure Development Levy Act, No. 51 of 2006 | 1 | 2006-12-15 to 2006-12-15 |
+| `act-2007-011` | Prevention of Mosquito Breeding Act, No. 11 of 2007 | 1 | 2007-04-11 to 2007-04-11 |
+| `act-2007-024` | Computer Crime Act, No.24 of 2007 | 1 | 2007-07-09 to 2007-07-09 |
+| `act-2007-025` | Ceylon Hotels Corporation (Repeal) Act, No. 25 of 2007 | 1 | 2007-07-12 to 2007-07-12 |
+| `act-2007-026` | National Institute of Language Education and Training Act, No. 26 of 2007 | 1 | 2007-07-13 to 2007-07-13 |
+| `act-2007-035` | Sri Lanka Sustainable Energy Authority Act, No. 35 of 2007 | 1 | 2007-09-18 to 2007-09-18 |
+| `act-2007-048` | Special Commodity Levy Act, No. 48 of 2007 | 1 | 2007-10-15 to 2007-10-15 |
+| `act-2007-051` | Gampaha Wickramarachchi Ayurveda Teaching Hospital (Transfer) Act, No. 51 of 2007 | 1 | 2007-10-23 to 2007-10-23 |
+| `act-2007-054` | Drug Dependant Persons (Treatment and Rehabilitation) Act, No. 54 of 2007 | 1 | 2007-11-13 to 2007-11-13 |
+| `act-2007-056` | International Covenant on Civil and Political Rights (ICCPR) Act, No. 56 of 2007 | 1 | 2007-11-16 to 2007-11-16 |
+| `act-2007-058` | Chemical Weapons Convention Act, No.58 of 2007 | 1 | 2007-11-20 to 2007-11-20 |
+| `act-2008-014` | Strategic Development Projects Act, No. 14 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-026` | Environment Conservation Levy Act, No. 26 of 2008 | 1 | 2008-06-06 to 2008-06-06 |
+| `act-2009-009` | Nation Building Tax Act, No. 9 of 2009 | 1 | 2009-03-11 to 2009-03-11 |
+| `act-2009-012` | Sri Lanka Institute of Textile and Apparel Act, No. 12 of 2009 | 1 | 2009-03-20 to 2009-03-20 |
+| `act-2009-020` | Sri Lanka Electricity Act, No. 20 of 2009 | 1 | 2009-04-08 to 2009-04-08 |
+| `act-2009-023` | Institute of Certified Management Accountants of Sri Lanka Act, No. 23 of 2009 | 1 | 2009-04-20 to 2009-04-20 |
+| `act-2009-033` | Sri Lanka Institute of Landscape Architects Act, No. 33 of 2009 | 1 | 2009-06-12 to 2009-06-12 |
+| `act-2009-035` | Chief of Defence Staff Act, No. 35 of 2009 | 1 | 2009-07-09 to 2009-07-09 |
+| `act-2023-042` | Appropriation (Amendment) Act, No. 42 of 2022 | 1 | 2022-11-30 to 2022-11-30 |
+| `act-2023-023` | Sri Lanka Ports Authority (Amendment) Act, No. 23 of 2023 | 1 | 2023-10-17 to 2023-10-17 |
+| `act-2023-024` | Civil Aviation (Amendment) Act, No. 24 of 2023 | 1 | 2023-10-17 to 2023-10-17 |
+| `act-2023-027` | Fisheries and Aquatic Resources (Amendment) Act, No. 27 of 2023 | 1 | 2023-11-17 to 2023-11-17 |
+| `act-2024-003` | Powers of Attorney (Amendment) Act, No. 3 of 2024 | 1 | 2024-01-23 to 2024-01-23 |
+| `act-2024-004` | Prevention of Frauds (Amendment) Act, No. 4 of 2024 | 1 | 2024-01-23 to 2024-01-23 |
+| `act-2024-015` | Social Security Contribution Levy (Amendment) Act, No. 15 of 2024 | 1 | 2024-03-20 to 2024-03-20 |
+| `act-2024-019` | Trust Receipts (Amendment) Act, No. 19 of 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `act-2024-021` | Finance Leasing (Amendment) Act, No. 21 of 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `act-2024-022` | Inland Trust Receipts (Amendment) Act, No. 22 of 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `act-2024-026` | Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024 | 1 | 2024-05-08 to 2024-05-08 |
+| `act-2024-039` | Sri Lanka Telecommunications (Amendment) Act, No. 39 of 2024 | 1 | 2024-07-17 to 2024-07-17 |
+| `act-2024-046` | Medical (Amendment) Act, No. 46 of 2024 | 1 | 2024-08-15 to 2024-08-15 |
+| `act-2025-008` | National Transport Commission (Amendment) Act, No. 8 of 2025 | 1 | 2025-06-19 to 2025-06-19 |
+| `act-2025-009` | Budgetary Relief Allowance of Workers (Amendment) Act, No. 9 of 2025 | 1 | 2025-07-23 to 2025-07-23 |
+| `act-2025-010` | Budgetary Relief Allowance of Workers (Amendment) Act, No.10 of 2025 | 1 | 2025-07-23 to 2025-07-23 |
+| `act-2025-011` | National Minimum Wage of Workers (Amendment) Act, No. 11 of 2025 | 1 | 2025-07-23 to 2025-07-23 |
+| `act-2025-013` | Bills of Exchange (Amendment) Act, No. 13 of 2025 | 1 | 2025-08-15 to 2025-08-15 |
+| `act-2025-014` | Sri Lanka Electricity (Amendment) Act, No. 14 of 2025 | 1 | 2025-08-18 to 2025-08-18 |
+| `act-2025-015` | Samurdhi (Amendment) Act, No. 15 of 2025 | 1 | 2025-08-22 to 2025-08-22 |
+| `act-2025-016` | Rubber Control (Amendment) Act, No. 16 of 2025 | 1 | 2025-08-22 to 2025-08-22 |
+| `act-2025-019` | National Audit (Amendment) Act, No. 19 of 2025 | 1 | 2025-09-22 to 2025-09-22 |
+| `act-2025-024` | Social Security Contribution Levy (Amendment) Act, No. 24 of 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `act-2025-025` | Betting and Gaming Levy (Amendment) Act, No. 25 of 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `act-2025-026` | Strategic Development Projects (Amendment) Act, No. 26 of 2025 | 1 | 2025-12-17 to 2025-12-17 |
+| `act-2026-001` | Colombo Port City Economic Commission (Amendment) Act, No. 1 of 2026 | 1 | 2026-01-20 to 2026-01-20 |
+| `act-2026-002` | Universities (Amendment) Act, No. 2 of 2026 | 1 | 2026-02-03 to 2026-02-03 |
+| `act-2026-007` | Poisons, Opium and Dangerous Drugs (Amendment) Act, No. 7 of 2026 | 1 | 2026-03-06 to 2026-03-06 |
+| `act-2026-010` | Social Security Contribution Levy (Amendment) Act, No. 10 of 2026 | 1 | 2026-04-09 to 2026-04-09 |
+| `act-2026-015` | National Environmental (Amendment) Act, No. 15 of 2026 | 1 | 2026-07-21 to 2026-07-21 |
+| `act-2026-016` | Prevention of Money Laundering (Amendment) Act, No. 16 of 2026 | 1 | 2026-08-04 to 2026-08-04 |
+| `act-2026-018` | Convention on the Suppression of Terrorist Financing (Amendment) Act, No. 18 of 2026 | 1 | 2026-08-04 to 2026-08-04 |
+| `act-2026-020` | National Water Supply and Drainage Board (Amendment) Act, No. 20 of 2026 | 1 | 2026-08-18 to 2026-08-18 |
+| `act-2026-024` | Promotion of Export Agriculture (Amendment) Act, No. 24 of 2026 | 1 | 2026-10-06 to 2026-10-06 |
 
-The build made 231 commits:
+The build made 304 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 230 | first version of an act |
+| 303 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 230 laws in the record.
-- 461 tags.
+- 303 laws in the record.
+- 607 tags.
 
 ## Dates
 
@@ -272,7 +346,7 @@ When a law gives no date of its own, the default rule applies: Constitution Art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0063e1eca971cd1ec008fd91f96cf988dcb461a237354d69f1154d9d30c65de1` (11557278 bytes).
+- Corpus: sha256 `68cf64d3f407fd590cba089afcab137230c8f3d6727e17bb4c7c1c0bfa3b2674` (13134553 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -300,6 +374,10 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
 - Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as certified, dated by the Speaker's certificate printed on it ("[Certified on ...]"): under Article 80(1) of the Constitution a Bill becomes law when the certificate is endorsed on it. Where an Act brings itself or some of its provisions into operation later (an appointed day, a Minister's Order), that later day is not modelled: the version is dated by the certificate.
+- Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
+- Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
 
 ## What AI did and did not do
 
@@ -311,6 +389,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time; parsers written by Claude Code (claude-opus-5-5); no model wrote legal text
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.

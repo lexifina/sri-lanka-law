@@ -3226,6 +3226,1028 @@
      "sha256": "78ec9a71ab8daa140a1192632d5e027567168c1c517d2b37a61368a5cd66a9ef"
     }
    ]
+  },
+  {
+   "slug": "act-2000-042",
+   "short": "Suppression of Unlawful Acts against the Safety of Maritime Navigation Act 2000",
+   "title": "Suppression of Unlawful Acts against the Safety of Maritime Navigation Act, No. 42 of 2000",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3798",
+   "versions": [
+    {
+     "from": "2000-08-09",
+     "units": 12,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3798.pdf",
+     "sha256": "57dff2f1e2df20b527de2270fde3cede45a4d7c2cfce26d37a68dbf95fcd4d96"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-003",
+   "short": "Competent Authority (Powers and Functions) Act 2002",
+   "title": "Competent Authority (Powers and Functions) Act, No. 3 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G2844",
+   "versions": [
+    {
+     "from": "2002-03-25",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/2844.pdf",
+     "sha256": "dfbecde66f5a355cf3cf1f8e343db8e90b46b666c3daed37d4a74e536fd8b901"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-004",
+   "short": "Administrative Appeals Tribunal Act 2002",
+   "title": "Administrative Appeals Tribunal Act, No. 4 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G2846",
+   "versions": [
+    {
+     "from": "2002-03-25",
+     "units": 12,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/2846.pdf",
+     "sha256": "3979c0270456cb8e8da8c2c1f108e87ac3ced2bdac753a2efcdd8fa76188205d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-008",
+   "short": "Save the Nation Contribution (Abolition) Act 2002",
+   "title": "Save the Nation Contribution (Abolition) Act, No. 8 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G2856",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/2856.pdf",
+     "sha256": "8196d0b44e25972ebfda5701842ba7ae61aee8191096b81150ae5c19a232073f"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-035",
+   "short": "Grant of Citizenship to Persons of Indian Origin Act 2003",
+   "title": "Grant of Citizenship to Persons of Indian Origin Act, No. 35 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3725",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 10,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3725.pdf",
+     "sha256": "8788c9db433b33a7fd24ed2c8c8b10e2896cb7a70a9200d564659f4f1b997afc"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-044",
+   "short": "Appropriation Act 2003",
+   "title": "Appropriation Act, No. 44 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3835",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 10,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3835.pdf",
+     "sha256": "63239746367dec7a33a88be783ff6eb148e9b7cfdaf3b49357446b32440acc40"
+    }
+   ]
+  },
+  {
+   "slug": "act-2004-015",
+   "short": "Appropriation Act 2004",
+   "title": "Appropriation Act, No. 15 of 2004",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G4820",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/4820.pdf",
+     "sha256": "9f4526440f1dba6559595aabd37161e1d42a063b3d645dc25cbf27a998de7d64"
+    }
+   ]
+  },
+  {
+   "slug": "act-2005-023",
+   "short": "Corporal Punishment (Repeal) Act 2005",
+   "title": "Corporal Punishment (Repeal) Act, No. 23 of 2005",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5651",
+   "versions": [
+    {
+     "from": "2005-08-02",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5651.pdf",
+     "sha256": "20de3c4b47362503d9f7c3ba6ce4133f179346a02556d1284256c15d1b63f77e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2005-030",
+   "short": "Convention on Preventing and Combating Trafficking in Women and Children for Prostitution Act 2005",
+   "title": "Convention on Preventing and Combating Trafficking in Women and Children for Prostitution Act, No. 30 of 2005",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5658",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 16,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5658.pdf",
+     "sha256": "9f2cd0593b3497cf17c34a2a6efc1341fdbe582f7bfe893a449a34056cfbfa0a"
+    }
+   ]
+  },
+  {
+   "slug": "act-2005-032",
+   "short": "Sri Lanka Accreditation Board for Conformity Assessment Act 2005",
+   "title": "Sri Lanka Accreditation Board for Conformity Assessment Act, No. 32 of 2005",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5800",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 44,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5800.pdf",
+     "sha256": "1e16184417687cb75c5df250d6eab17d66611df6f18c7593f7e9a00c5b49f786"
+    }
+   ]
+  },
+  {
+   "slug": "act-2005-036",
+   "short": "Budgetary Relief Allowance of Workers Act 2005",
+   "title": "Budgetary Relief Allowance of Workers Act, No. 36 of 2005",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5700",
+   "versions": [
+    {
+     "from": "2005-10-18",
+     "units": 13,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5700.pdf",
+     "sha256": "749a9d200f6b438d737f59b59026eb4d5912d4a11905af3f175c4f608971ca1e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-003",
+   "short": "Merchant Shipping (Change of Designation) Act 2006",
+   "title": "Merchant Shipping (Change of Designation) Act, No. 3 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5706",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5706.pdf",
+     "sha256": "072ca7a116d43df71188515ba3bf5833d33332a529782e35a6d65cdbeda176c3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-004",
+   "short": "Geneva Conventions Act 2006",
+   "title": "Geneva Conventions Act, No. 4 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5707",
+   "versions": [
+    {
+     "from": "2006-02-26",
+     "units": 16,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5707.pdf",
+     "sha256": "25966c09e13610cf89ac0bc20b9693be9ee02fad72516cdb354e965e2baf6111"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-019",
+   "short": "Electronic Transactions Act 2006",
+   "title": "Electronic Transactions Act, No. 19 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5722",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "units": 27,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5722.pdf",
+     "sha256": "ac0c5fabdea3551c511630ce8c274f2669d3f2b8f23ffca2963fa570bbd87fb0"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-021",
+   "short": "Private Medical Institutions (Registration) Act 2006",
+   "title": "Private Medical Institutions (Registration) Act, No. 21 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5723",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5723.pdf",
+     "sha256": "125ffbe237c244eceaa1109829e1d7093b581502ca147893eb4a60a3d1a319f9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-027",
+   "short": "National Authority on Tobacco and Alcohol Act 2006",
+   "title": "National Authority on Tobacco and Alcohol Act, No. 27 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5728",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 46,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5728.pdf",
+     "sha256": "7167b7464ba0bf2cb503154538448a849f206a09620cbee46acdd94edc1a756b"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-028",
+   "short": "National Insurance Trust Fund Act 2006",
+   "title": "National Insurance Trust Fund Act, No. 28 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5729",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 31,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5729.pdf",
+     "sha256": "754e079d0fad0e0cef38e0c5e68159008dc282fb7ce3726f587782a8b2aa5f02"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-029",
+   "short": "Social Security Benefit Scheme for Media Personnel Act 2006",
+   "title": "Social Security Benefit Scheme for Media Personnel Act, No. 29 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5730",
+   "versions": [
+    {
+     "from": "2006-09-05",
+     "units": 25,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5730.pdf",
+     "sha256": "2d4d32753d17b4a81d4fbb1e5ca2e8bb556a5d80f159bfc1c4835951e032587e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-030",
+   "short": "Payment Devices Frauds Act 2006",
+   "title": "Payment Devices Frauds Act, No. 30 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5731",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 33,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5731.pdf",
+     "sha256": "baf24a138c4e8544fdc51db701f95fdf1e54f2802430e0f31a2857b3e51bd7bb"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-047",
+   "short": "Appropriation Act 2006",
+   "title": "Appropriation Act, No. 47 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5744",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5744.pdf",
+     "sha256": "31c962c4a3c6e75e3782afb68f4b13f3bc345ed3c3a5a0d9ab5ad39fe0ea3a10"
+    }
+   ]
+  },
+  {
+   "slug": "act-2006-051",
+   "short": "Regional Infrastructure Development Levy Act 2006",
+   "title": "Regional Infrastructure Development Levy Act, No. 51 of 2006",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5748",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5748.pdf",
+     "sha256": "bbcc48aefa8b78213d4fb0821b3d91086509f9863dfcc2aa0b748a2344ead5a4"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-011",
+   "short": "Prevention of Mosquito Breeding Act 2007",
+   "title": "Prevention of Mosquito Breeding Act, No. 11 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G4664",
+   "versions": [
+    {
+     "from": "2007-04-11",
+     "units": 26,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/4664.pdf",
+     "sha256": "5ca2cc60b1c31c1c7b5b95bcf9be6bb1ca19b4bac543e6dacfdf96822c299b51"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-024",
+   "short": "Computer Crime Act 2007",
+   "title": "Computer Crime Act, No.24 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G4684",
+   "versions": [
+    {
+     "from": "2007-07-09",
+     "units": 39,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/4684.pdf",
+     "sha256": "25d4aaeaf3d641440751587b5e9d2de79ffcdd8608331baa51da6c97f43d12f0"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-025",
+   "short": "Ceylon Hotels Corporation (Repeal) Act 2007",
+   "title": "Ceylon Hotels Corporation (Repeal) Act, No. 25 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G51",
+   "versions": [
+    {
+     "from": "2007-07-12",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/51.pdf",
+     "sha256": "c897f4d3c00cfc903488c433b7602a135cda0b510325d7aa5a70f3e8a7c348cb"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-026",
+   "short": "National Institute of Language Education and Training Act 2007",
+   "title": "National Institute of Language Education and Training Act, No. 26 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G58",
+   "versions": [
+    {
+     "from": "2007-07-13",
+     "units": 27,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/58.pdf",
+     "sha256": "cfd79b2fd071ac2430ac57286d8fea66ede7ac30d2e53f477821d4e92a6cea66"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-035",
+   "short": "Sri Lanka Sustainable Energy Authority Act 2007",
+   "title": "Sri Lanka Sustainable Energy Authority Act, No. 35 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G53",
+   "versions": [
+    {
+     "from": "2007-09-18",
+     "units": 74,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/53.pdf",
+     "sha256": "2082332969c42167ecbc9c4d4308972212af628c963817f2453a2eab2d18db06"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-048",
+   "short": "Special Commodity Levy Act 2007",
+   "title": "Special Commodity Levy Act, No. 48 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G42",
+   "versions": [
+    {
+     "from": "2007-10-15",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/42.pdf",
+     "sha256": "82a9bf4bbcf40c3bd7d04ab7a68e4850977296ec188a012f128d1150ee9ec155"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-051",
+   "short": "Gampaha Wickramarachchi Ayurveda Teaching Hospital (Transfer) Act 2007",
+   "title": "Gampaha Wickramarachchi Ayurveda Teaching Hospital (Transfer) Act, No. 51 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G57",
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/57.pdf",
+     "sha256": "47d11fc7ba1c4954c4786bb40f6ce45ebb4e6f199fcb13fe9f225236e32285d5"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-054",
+   "short": "Drug Dependant Persons (Treatment and Rehabilitation) Act 2007",
+   "title": "Drug Dependant Persons (Treatment and Rehabilitation) Act, No. 54 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G39",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 24,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/39.pdf",
+     "sha256": "ff689f073e1b4da3a381d8fe1e9a341b61b0f006ff390c31793f0d5fda787d17"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-056",
+   "short": "International Covenant on Civil and Political Rights (ICCPR) Act 2007",
+   "title": "International Covenant on Civil and Political Rights (ICCPR) Act, No. 56 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G9",
+   "versions": [
+    {
+     "from": "2007-11-16",
+     "units": 12,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/9.pdf",
+     "sha256": "bdefa41632d6d924e376328a54f76b97753bcf0d6e60105740d1d7e104ba89cf"
+    }
+   ]
+  },
+  {
+   "slug": "act-2007-058",
+   "short": "Chemical Weapons Convention Act 2007",
+   "title": "Chemical Weapons Convention Act, No.58 of 2007",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G47",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 51,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/47.pdf",
+     "sha256": "6aed2652786f79ac63044d520f214731efaa72cd6660f915cd44627490052000"
+    }
+   ]
+  },
+  {
+   "slug": "act-2008-014",
+   "short": "Strategic Development Projects Act 2008",
+   "title": "Strategic Development Projects Act, No. 14 of 2008",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G28",
+   "versions": [
+    {
+     "from": "2008-02-29",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/28.pdf",
+     "sha256": "24045391b4ecbcd33c0b72ef519d1a634c6bd604271bbd9a5da513d2764cd470"
+    }
+   ]
+  },
+  {
+   "slug": "act-2008-026",
+   "short": "Environment Conservation Levy Act 2008",
+   "title": "Environment Conservation Levy Act, No. 26 of 2008",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G14",
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/14.pdf",
+     "sha256": "f1324d47f67deb74d5e09152e55ca570bd4b6e69db8ff64fb23507e7823bf332"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-009",
+   "short": "Nation Building Tax Act 2009",
+   "title": "Nation Building Tax Act, No. 9 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G79",
+   "versions": [
+    {
+     "from": "2009-03-11",
+     "units": 12,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/79.pdf",
+     "sha256": "1b278826ae06ac34fb14510538a577fc3edcef183103cc91eac8edea3f658c56"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-012",
+   "short": "Sri Lanka Institute of Textile and Apparel Act 2009",
+   "title": "Sri Lanka Institute of Textile and Apparel Act, No. 12 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G24",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 32,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/24.pdf",
+     "sha256": "eff25426244e8309306fef3568d17ca7655f7499afe0dca1c9b8620be35bfbba"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-020",
+   "short": "Sri Lanka Electricity Act 2009",
+   "title": "Sri Lanka Electricity Act, No. 20 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G19",
+   "versions": [
+    {
+     "from": "2009-04-08",
+     "units": 71,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/19.pdf",
+     "sha256": "97f11ff4103a25c2290748e60d2cb7cf2ef95512710ad3fb7faa662f0ea69f3b"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-023",
+   "short": "Institute of Certified Management Accountants of Sri Lanka Act 2009",
+   "title": "Institute of Certified Management Accountants of Sri Lanka Act, No. 23 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G372",
+   "versions": [
+    {
+     "from": "2009-04-20",
+     "units": 29,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/372.pdf",
+     "sha256": "e2e00d5ef2f3aaf8c1689e93ae5614744c54ca71fc6263d7e9b2682e9d554ed4"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-033",
+   "short": "Sri Lanka Institute of Landscape Architects Act 2009",
+   "title": "Sri Lanka Institute of Landscape Architects Act, No. 33 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G2645",
+   "versions": [
+    {
+     "from": "2009-06-12",
+     "units": 26,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/2645.pdf",
+     "sha256": "6c50472c9c56b9c2927cb4f9759c9cca6d4577a245bf046880e8f849d431d2fc"
+    }
+   ]
+  },
+  {
+   "slug": "act-2009-035",
+   "short": "Chief of Defence Staff Act 2009",
+   "title": "Chief of Defence Staff Act, No. 35 of 2009",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G2655",
+   "versions": [
+    {
+     "from": "2009-07-09",
+     "units": 17,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/2655.pdf",
+     "sha256": "0a93a4bb482b0a56ff285a858eaaefd1462e70f1f1963a7d65c5780954f71926"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-042",
+   "short": "Appropriation (Amendment) Act 2022",
+   "title": "Appropriation (Amendment) Act, No. 42 of 2022",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6284",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6284.pdf",
+     "sha256": "311fd0e1e5630c9dfe3b7ba5ea2dd9f7338426cb10aba3c4a5c3ea0fad7b79f9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-023",
+   "short": "Sri Lanka Ports Authority (Amendment) Act 2023",
+   "title": "Sri Lanka Ports Authority (Amendment) Act, No. 23 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6315",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6315.pdf",
+     "sha256": "afc734c56155a9172333aea709e6db4b4b03bdf5e34e1a77705347dcde33a5e6"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-024",
+   "short": "Civil Aviation (Amendment) Act 2023",
+   "title": "Civil Aviation (Amendment) Act, No. 24 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6308",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6308.pdf",
+     "sha256": "954bf58b4d319712ba537dcb3a189bbadaa2c8b96853c01a5402cf78e0fd8d21"
+    }
+   ]
+  },
+  {
+   "slug": "act-2023-027",
+   "short": "Fisheries and Aquatic Resources (Amendment) Act 2023",
+   "title": "Fisheries and Aquatic Resources (Amendment) Act, No. 27 of 2023",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6289",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6289.pdf",
+     "sha256": "7dfb566e7b254e456133334426dffe4542044ee4c96dee3a4624436df1938ab8"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-003",
+   "short": "Powers of Attorney (Amendment) Act 2024",
+   "title": "Powers of Attorney (Amendment) Act, No. 3 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6327",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6327.pdf",
+     "sha256": "18bc22e65229ace7f0d05bfd32f87602a4a7c4328da8610cc878fb3cf7ba9a90"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-004",
+   "short": "Prevention of Frauds (Amendment) Act 2024",
+   "title": "Prevention of Frauds (Amendment) Act, No. 4 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6330",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6330.pdf",
+     "sha256": "6c98a2dd648c29fe70d6722ef29224907f61b472ed908da1b7ca66c941ff138f"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-015",
+   "short": "Social Security Contribution Levy (Amendment) Act 2024",
+   "title": "Social Security Contribution Levy (Amendment) Act, No. 15 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6336",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6336.pdf",
+     "sha256": "64adfc3f5bac308926f92af55a2f6bbc4118d7e3e9e2c8b679e92894e7fd68b2"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-019",
+   "short": "Trust Receipts (Amendment) Act 2024",
+   "title": "Trust Receipts (Amendment) Act, No. 19 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6334",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6334.pdf",
+     "sha256": "a4a1a8235e5e238e266f34438f2177b8255f04b9e6cf1055003319cf297f17c3"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-021",
+   "short": "Finance Leasing (Amendment) Act 2024",
+   "title": "Finance Leasing (Amendment) Act, No. 21 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6325",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6325.pdf",
+     "sha256": "a7b59917debaf55b7b82d14afbdf8a519983a71d765e5937f6d7312300897aca"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-022",
+   "short": "Inland Trust Receipts (Amendment) Act 2024",
+   "title": "Inland Trust Receipts (Amendment) Act, No. 22 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6323",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6323.pdf",
+     "sha256": "e6c623d768f5fabc87dc2b3dbae5a2f8797139eeba82da6634c08138551f3c65"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-026",
+   "short": "Recovery of Loans by Banks (Special Provisions) (Amendment) Act 2024",
+   "title": "Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6344",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6344.pdf",
+     "sha256": "d6937f4a2fcc289e42c4c6872224021ecb0c5335651c29221135810735a8bb9a"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-039",
+   "short": "Sri Lanka Telecommunications (Amendment) Act 2024",
+   "title": "Sri Lanka Telecommunications (Amendment) Act, No. 39 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6349",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 38,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6349.pdf",
+     "sha256": "c455e3d9f59e9ed0f5aeb66c3c89fbbb4983c91d4b7412bedf8d12bc1dff404d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2024-046",
+   "short": "Medical (Amendment) Act 2024",
+   "title": "Medical (Amendment) Act, No. 46 of 2024",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6355",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6355.pdf",
+     "sha256": "a5f2ed4d04015c7897dca4e803b995681938f021b95c8df8f801d80466026a30"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-008",
+   "short": "National Transport Commission (Amendment) Act 2025",
+   "title": "National Transport Commission (Amendment) Act, No. 8 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6383",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 28,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6383.pdf",
+     "sha256": "0b9435802f946da5821f48bc8e8dc98f41e2e6202aa527e26ba3dfc243526a19"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-009",
+   "short": "Budgetary Relief Allowance of Workers (Amendment) Act 2025",
+   "title": "Budgetary Relief Allowance of Workers (Amendment) Act, No. 9 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6390",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6390.pdf",
+     "sha256": "ee4575005a7a4d00092f392653f7cf9d8b72a860eb147c9d78d2f18079bcbe1b"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-010",
+   "short": "Budgetary Relief Allowance of Workers (Amendment) Act 2025",
+   "title": "Budgetary Relief Allowance of Workers (Amendment) Act, No.10 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6387",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6387.pdf",
+     "sha256": "e07930075fecb0c6b59d29a15185dcd52cb64a2a5289ac4a7763b07a92e9e2e6"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-011",
+   "short": "National Minimum Wage of Workers (Amendment) Act 2025",
+   "title": "National Minimum Wage of Workers (Amendment) Act, No. 11 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6388",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6388.pdf",
+     "sha256": "f225c61e7844299f5afc60dfd704e5fa27f6046d9fc3453e2442a6885e5b0ca9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-013",
+   "short": "Bills of Exchange (Amendment) Act 2025",
+   "title": "Bills of Exchange (Amendment) Act, No. 13 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6392",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 19,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6392.pdf",
+     "sha256": "71975fcc6a2ab35dcd5b611413dcbe881753f57e4ee5c63395f6747d6a3aa0d9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-014",
+   "short": "Sri Lanka Electricity (Amendment) Act 2025",
+   "title": "Sri Lanka Electricity (Amendment) Act, No. 14 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6385",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 24,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6385.pdf",
+     "sha256": "0bd7cd86dfcbeca22bd55b2ddfcab7820bbae3f1a5149059bbd250b58696e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-015",
+   "short": "Samurdhi (Amendment) Act 2025",
+   "title": "Samurdhi (Amendment) Act, No. 15 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6391",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6391.pdf",
+     "sha256": "6c6675f6f6c68c6c0307a68cd1333edfecccdebfa88e80408c6c31794a46ad3b"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-016",
+   "short": "Rubber Control (Amendment) Act 2025",
+   "title": "Rubber Control (Amendment) Act, No. 16 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6395",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6395.pdf",
+     "sha256": "e5dbf0f58204c4504004a8072e3678a7a509aa047a8a89b52677b074a5055167"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-019",
+   "short": "National Audit (Amendment) Act 2025",
+   "title": "National Audit (Amendment) Act, No. 19 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6394",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 17,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6394.pdf",
+     "sha256": "e9299c851e2f3cdc743576c298be43ca875782bdd96373c9c9a068a57888ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-024",
+   "short": "Social Security Contribution Levy (Amendment) Act 2025",
+   "title": "Social Security Contribution Levy (Amendment) Act, No. 24 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6407",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6407.pdf",
+     "sha256": "5261dfdbbc4c9d7c7efa89b3731f9fbab007b47e2dd9f598346e45aeb0ea0ead"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-025",
+   "short": "Betting and Gaming Levy (Amendment) Act 2025",
+   "title": "Betting and Gaming Levy (Amendment) Act, No. 25 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6406",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6406.pdf",
+     "sha256": "8c2dc9733b202a5b7a0c8c9d84f5add88941ee93e1b705cbf40e35db60921363"
+    }
+   ]
+  },
+  {
+   "slug": "act-2025-026",
+   "short": "Strategic Development Projects (Amendment) Act 2025",
+   "title": "Strategic Development Projects (Amendment) Act, No. 26 of 2025",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6412",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 13,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6412.pdf",
+     "sha256": "010eaa2e62ff40300ae6198ef8ca73acf282a31808c2e2bacd761720f05cd57e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-001",
+   "short": "Colombo Port City Economic Commission (Amendment) Act 2026",
+   "title": "Colombo Port City Economic Commission (Amendment) Act, No. 1 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6411",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 19,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6411.pdf",
+     "sha256": "10cce8943e6cf0a2f5d8f2f2ad5d866fb365011bfe40ee0e3170fab79dd191d5"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-002",
+   "short": "Universities (Amendment) Act 2026",
+   "title": "Universities (Amendment) Act, No. 2 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6409",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6409.pdf",
+     "sha256": "e86a6b549b234a9a481e40188812c4c970cd7cc90bc721756d3d36a8b9e02ddb"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-007",
+   "short": "Poisons, Opium and Dangerous Drugs (Amendment) Act 2026",
+   "title": "Poisons, Opium and Dangerous Drugs (Amendment) Act, No. 7 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6413",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6413.pdf",
+     "sha256": "787179dad86f3e950a8191b5203375469af2f2dd411726d4a2a45bdbd4d6b944"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-010",
+   "short": "Social Security Contribution Levy (Amendment) Act 2026",
+   "title": "Social Security Contribution Levy (Amendment) Act, No. 10 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6418",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6418.pdf",
+     "sha256": "5835db66e0ad2f4cbda93a9896940e049f7229fb145510e101bf412b8491d160"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-015",
+   "short": "National Environmental (Amendment) Act 2026",
+   "title": "National Environmental (Amendment) Act, No. 15 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6425",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 43,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6425.pdf",
+     "sha256": "a8ee4b5d515899e778cfeffab6e240e20a864318f7066c48cd535968a65099e6"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-016",
+   "short": "Prevention of Money Laundering (Amendment) Act 2026",
+   "title": "Prevention of Money Laundering (Amendment) Act, No. 16 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6422",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 33,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6422.pdf",
+     "sha256": "e8278a46a5a50f478cb6b5a502373f5d3eeeca8dd9c5176ceeab9510efad181d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-018",
+   "short": "Convention on the Suppression of Terrorist Financing (Amendment) Act 2026",
+   "title": "Convention on the Suppression of Terrorist Financing (Amendment) Act, No. 18 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6421",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 19,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6421.pdf",
+     "sha256": "a9602713b5a9535f7c21113f02631a97a6d6ad2f97882af790d2c903225e1dea"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-020",
+   "short": "National Water Supply and Drainage Board (Amendment) Act 2026",
+   "title": "National Water Supply and Drainage Board (Amendment) Act, No. 20 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6429",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 21,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6429.pdf",
+     "sha256": "d3d87db46443b7e8fd6c4d1787bd935c039723d2718430847c842bf77fc1e4cc"
+    }
+   ]
+  },
+  {
+   "slug": "act-2026-024",
+   "short": "Promotion of Export Agriculture (Amendment) Act 2026",
+   "title": "Promotion of Export Agriculture (Amendment) Act, No. 24 of 2026",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G6432",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/6432.pdf",
+     "sha256": "e8f30cb69058dd3e457d80e2f18070a6a58cc3d6a510a2fa15e897c9f3e86bde"
+    }
+   ]
   }
  ]
 }

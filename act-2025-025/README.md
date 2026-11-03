@@ -1,0 +1,10 @@
+# Betting and Gaming Levy (Amendment) Act, No. 25 of 2025
+
+Betting and Gaming Levy (Amendment) Act 2025 · 1 versions, from 2025-12-17 (latest in force: 2025-12-17) · <https://www.parliament.lk/en/business-of-parliament/act-details/G6406>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
