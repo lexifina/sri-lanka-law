@@ -8322,6 +8322,188 @@
      "sha256": "a96ae9981190d3fcbcb9485223e714d69d3cae020dfae7f237e31b9287007364"
     }
    ]
+  },
+  {
+   "slug": "act-1999-008",
+   "short": "Tobacco Tax Act 1999",
+   "title": "Tobacco Tax Act, No. 08 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3664",
+   "versions": [
+    {
+     "from": "1999-04-09",
+     "units": 25,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3664.pdf",
+     "sha256": "06838282e43ff13b5bd853a2a138721746102ba16386f284a2004cc21ad2064e"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-011",
+   "short": "Suppression of Terrorist bombings Act 1999",
+   "title": "Suppression of Terrorist bombings Act, No.11 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3667",
+   "versions": [
+    {
+     "from": "1999-05-24",
+     "units": 15,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3667.pdf",
+     "sha256": "822bba9d310e468fc3b1b616d2590c7fc326912c9129c7a88176323487f11d73"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-017",
+   "short": "Sugathadasa National Sports Complex Authority Act 1999",
+   "title": "Sugathadasa National Sports Complex Authority Act, No. 17 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3672",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 20,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3672.pdf",
+     "sha256": "581d20f6abcc200bbd5bd1c6c43de0cbebce6db4d756f202f4efe483a8e2d4d7"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-020",
+   "short": "Agricultural and Agrarian Insurance Act 1999",
+   "title": "Agricultural and Agrarian Insurance Act, No. 20 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3674",
+   "versions": [
+    {
+     "from": "1999-07-16",
+     "units": 36,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3674.pdf",
+     "sha256": "b5ca6da4e8f8514fbded939367c34ef0deb08cbe52ddb3ea43a8d9dc7863136e"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-031",
+   "short": "Sri Lanka Institute of Local Governance Act 1999",
+   "title": "Sri Lanka Institute of Local Governance Act, No. 31 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3689",
+   "versions": [
+    {
+     "from": "1999-09-23",
+     "units": 31,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3689.pdf",
+     "sha256": "4b252998b0716f4db9b12c792ebf832428cf1229a7b634c83395ac939f776adf"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-035",
+   "short": "Plant Protection Act 1999",
+   "title": "Plant Protection Act, No. 35 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3695",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 16,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3695.pdf",
+     "sha256": "ebc0c4e38eec90659630bc4ea9c8ddf4cd87010cb4ee6127d41cb6d5237e8ead"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-036",
+   "short": "National Institute of Fisheries and Nautical Engineering Act 1999",
+   "title": "National Institute of Fisheries and Nautical Engineering Act, No. 36 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3697",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 37,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3697.pdf",
+     "sha256": "6b92d73738766b60cddd0e9b647729891825e6df95115e7d3454b85932b58476"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-037",
+   "short": "Maintenance Act 1999",
+   "title": "Maintenance Act, No. 37 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3699",
+   "versions": [
+    {
+     "from": "1999-10-22",
+     "units": 24,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3699.pdf",
+     "sha256": "9b7b11bab66ba447e9377b89e3f370cae6f02861b740014d210d7d547ff9bed0"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-038",
+   "short": "Vijaya Kumaratunga Memorial Hospital Board Act 1999",
+   "title": "Vijaya Kumaratunga Memorial Hospital Board Act, No. 38 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3701",
+   "versions": [
+    {
+     "from": "1999-11-11",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3701.pdf",
+     "sha256": "9b95fd6f5fa7b9328b24cc7e2cde4681bf5be992d5bb8baa4c00b039284715b2"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-040",
+   "short": "Public Service Pensioners' Trust Fund Act 1999",
+   "title": "Public Service Pensioners' Trust Fund Act, No. 40 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3703",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 23,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3703.pdf",
+     "sha256": "e97a1ce3415f5d3e58bb70a2e011a46bcf2213d1bce561ddcc9ec3e5a3c910a2"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-044",
+   "short": "UNESCO Scholarship Fund Act 1999",
+   "title": "UNESCO Scholarship Fund Act, No.44 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3708",
+   "versions": [
+    {
+     "from": "1999-12-03",
+     "units": 18,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3708.pdf",
+     "sha256": "eda3fa000a28100f7c8f0e6879d7fabe60c44ce9ba45924dbe1500b836ea01e2"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-046",
+   "short": "Community Based Corrections Act 1999",
+   "title": "Community Based Corrections Act, No. 46 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3740",
+   "versions": [
+    {
+     "from": "1999-12-10",
+     "units": 20,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3740.pdf",
+     "sha256": "2ac28219ea43cd744d8350ecb222ae6d2b19823bbfed326f12d0f4ff7e23dc14"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-054",
+   "short": "Ranaviru Seva Authority Act 1999",
+   "title": "Ranaviru Seva Authority Act, No. 54 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3749",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 19,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3749.pdf",
+     "sha256": "48e79ad5c5ebdff59d9e318500607ed32ce045964bdd46da5394b1493197e5c7"
+    }
+   ]
   }
  ]
 }

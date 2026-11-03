@@ -5,7 +5,7 @@ The law of Sri Lanka as a git repository: one file per provision, one commit per
 **What is in it now**
 
 - The Constitution of the Democratic Socialist Republic of Sri Lanka (`constitution/`), 2 versions: the Parliament's consolidated edition as amended to the Twenty First Amendment (31 October 2022), then the Twenty Second Amendment (Articles 107 and 137, certified 25 September 2026).
-- 593 Acts of Parliament as enacted (1999 to 2026), 11,046 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
+- 606 Acts of Parliament as enacted (1999 to 2026), 11,353 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
 
 **Sources.** Both come from the Parliament of Sri Lanka (parliament.lk). The Constitution is the Parliament's consolidated English edition; its first version is credited to the publisher, because earlier editions are not built, and the second replays the Twenty Second Amendment, whose words match the Act exactly. Each Act is the English text as printed by the Department of Government Printing and published by Parliament in its Acts listing. The Sinhala text of an Act prevails over the English and Tamil texts.
 
@@ -35,9 +35,22 @@ See [REPRODUCE.md](REPRODUCE.md).
 
 | Folder | Act | Certified |
 | --- | --- | --- |
+| `act-1999-008/` | Tobacco Tax Act, No. 08 of 1999 | 1999-04-09 |
+| `act-1999-011/` | Suppression of Terrorist bombings Act, No.11 of 1999 | 1999-05-24 |
+| `act-1999-017/` | Sugathadasa National Sports Complex Authority Act, No. 17 of 1999 | 1999-06-24 |
+| `act-1999-020/` | Agricultural and Agrarian Insurance Act, No. 20 of 1999 | 1999-07-16 |
 | `act-1999-027/` | Judicature (Amendment) Act, No. 27 of 1999 | 1999-08-30 |
+| `act-1999-031/` | Sri Lanka Institute of Local Governance Act, No. 31 of 1999 | 1999-09-23 |
+| `act-1999-035/` | Plant Protection Act, No. 35 of 1999 | 1999-10-07 |
+| `act-1999-036/` | National Institute of Fisheries and Nautical Engineering Act, No. 36 of 1999 | 1999-10-07 |
+| `act-1999-037/` | Maintenance Act, No. 37 of 1999 | 1999-10-22 |
+| `act-1999-038/` | Vijaya Kumaratunga Memorial Hospital Board Act, No. 38 of 1999 | 1999-11-11 |
+| `act-1999-040/` | Public Service Pensioners' Trust Fund Act, No. 40 of 1999 | 1999-11-30 |
 | `act-1999-041/` | Inland Revenue (Amendment) Act, No. 41 of 1999 | 1999-11-30 |
+| `act-1999-044/` | UNESCO Scholarship Fund Act, No.44 of 1999 | 1999-12-03 |
+| `act-1999-046/` | Community Based Corrections Act, No. 46 of 1999 | 1999-12-10 |
 | `act-1999-047/` | Code of Criminal Procedure (Amendment) Act, No.47 of 1999 | 1999-12-10 |
+| `act-1999-054/` | Ranaviru Seva Authority Act, No. 54 of 1999 | 1999-12-23 |
 | `act-1999-056/` | Industrial Disputes (Amendment) Act, No. 56 of 1999 | 1999-12-31 |
 | `act-2000-024/` | National Security Levy (Amendment) Act, No. 24 of 2000 | 2000-07-12 |
 | `act-2000-025/` | Minimum Wages (Indian Labour) (Amendment) Act, No. 25 of 2000 | 2000-07-12 |
