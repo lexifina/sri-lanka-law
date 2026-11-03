@@ -1,41 +1,231 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+act-2000-025,Act No. 25 of 2000,law,"Minimum Wages (Indian Labour) (Amendment) Act, No. 25 of 2000",2000-07-12,2000-07-12,2000-07-12,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3780
+act-2000-034,Act No. 34 of 2000,law,"Civil Procedure Code (Amendment) Act, No. 34 of 2000",2000-07-21,2000-07-21,2000-07-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3790
 act-2000-038,Act No. 38 of 2000,law,"Inland Revenue Act, No. 38 of 2000",2000-08-03,2000-08-04,2000-08-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3792
+act-2001-008,Act No. 8 of 2001,law,"Inland Revenue (Amendment) Act, No. 8 of 2001",2001-07-24,2001-07-24,2001-07-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2750
+act-2002-012,Act No. 12 of 2002,law,"Penal Code (Amendment) Act, No. 12 of 2002",2002-07-17,2002-07-19,2002-07-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3044
+act-2003-007,Act No. 7 of 2003,law,Value Added Tax (Amendment) Act No. 7 of 2003,2003-02-27,2003-02-28,2003-02-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3544
+act-2003-008,Act No. 8 of 2003,law,"Employment of Women, Young Persons and Children (Amendment) Act, No. 8 of 2003",2003-03-17,2003-03-21,2003-03-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3547
+act-2003-011,Act No. 11 of 2003,law,"Industrial Disputes (Amendment) Act, No. 11 of 2003",2003-03-20,2003-03-21,2003-03-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3558
+act-2003-031,Act No. 31 of 2003,law,"Inland Revenue (Special Provisions) (Amendment) Act, No. 31 of 2003",2003-10-22,2003-10-23,2003-10-22,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3717
 act-2004-010,Act No. 10 of 2004,law,"Inland Revenue (Regulation of Amnesty) Act, No. 10 of 2004",2004-10-20,2004-10-22,2004-10-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G4801
+act-2004-012,Act No. 12 of 2004,law,"Inland Revenue (Amendment) Act, No. 12 of 2004",2004-11-18,2004-11-19,2004-11-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G4807
 act-2004-013,Act No. 13 of 2004,law,"Value Added Tax (Amendment) Act, No. 13 of 2004",2004-11-18,2004-11-19,2004-11-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G4810
+act-2005-004,Act No. 4 of 2005,law,"Civil Procedure Code (Amendment) Act, No. 4 of 2005",2005-02-22,2005-02-25,2005-02-22,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5631
+act-2005-010,Act No. 10 of 2005,law,"Workmen's Compensation (Amendment) Act, No. 10 of 2005",2005-04-20,2005-04-21,2005-04-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5637
+act-2005-029,Act No. 29 of 2005,law,"Evidence (Amendment) Act, No. 29 of 2005",2005-09-20,2005-09-23,2005-09-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5657
 act-2006-010,Act No. 10 of 2006,law,"Inland Revenue Act, No. 10 of 2006",2006-03-31,2006-03-31,2006-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5713
+act-2006-024,Act No. 24 of 2006,law,"Employment of Women, Young Persons and Children (Amendment) Act, No. 24 of 2006",2006-08-21,2006-08-25,2006-08-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5726
+act-2006-049,Act No. 49 of 2006,law,"Value Added Tax (Amendment) Act, No. 49 of 2006",2006-12-15,2006-12-15,2006-12-15,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5746
 act-2007-007,Act No. 7 of 2007,law,"Companies Act, No. 07 of 2007",2007-03-20,2007-03-23,2007-03-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G3776
+act-2007-010,Act No. 10 of 2007,law,"Inland Revenue (Amendment) Act, No. 10 of 2007",2007-03-30,2007-03-30,2007-03-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G59
+act-2007-014,Act No. 14 of 2007,law,"Value Added Tax (Amendment) Act, No. 14 of 2007",2007-04-12,2007-04-12,2007-04-12,1,https://www.parliament.lk/en/business-of-parliament/act-details/G61
+act-2007-031,Act No. 31 of 2007,law,"Judicature (Amendment) Act, No. 31 of 2007",2007-08-08,2007-08-10,2007-08-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G52
+act-2007-042,Act No. 42 of 2007,law,"Code of Criminal Procedure (Special Provisions) Act, No. 42 of 2007",2007-10-09,2007-10-12,2007-10-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G48
+act-2008-009,Act No. 9 of 2008,law,"Inland Revenue (Amendment) Act, No. 9 of 2008",2008-02-29,2008-02-29,2008-02-29,1,https://www.parliament.lk/en/business-of-parliament/act-details/G32
+act-2008-015,Act No. 15 of 2008,law,"Value Added Tax (Amendment) Act, No. 15 of 2008",2008-02-29,2008-02-29,2008-02-29,1,https://www.parliament.lk/en/business-of-parliament/act-details/G27
+act-2009-015,Act No. 15 of 2009,law,"Value Added Tax (Amendment) Act, No. 15 of 2009",2009-03-31,2009-04-03,2009-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2634
+act-2009-019,Act No. 19 of 2009,law,"Inland Revenue (Amendment) Act, No. 19 of 2009",2009-03-31,2009-04-03,2009-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2636
+act-2009-041,Act No. 41 of 2009,law,"Department of Coast Guard Act, No. 41 of 2009",2009-08-06,2009-08-07,2009-08-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2658
+act-2009-044,Act No. 44 of 2009,law,"Ambuluwawa Dissanayake Mudiyanselage Jayaratne Religious Centre and Bio-diversity Complex Trust Fund Act, No. 44 of 2009",2009-08-21,2009-08-21,2009-08-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2657
+act-2009-049,Act No. 49 of 2009,law,"Secured Transactions Act, No. 49 of 2009",2009-09-25,2009-09-25,2009-09-25,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2650
+act-2009-055,Act No. 55 of 2009,law,"Employees' Provident Fund (Special Provisions) (Amendment) Act, No. 55 of 2009",2009-09-30,2009-10-02,2009-09-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2654
+act-2009-056,Act No. 56 of 2009,law,"Sri Lanka Bureau of Foreign Employment (Amendment) Act, No. 56 of 2009",2009-10-01,2009-10-02,2009-10-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G2665
+act-2010-007,Act No. 7 of 2010,law,"Appropriation Act, No. 7 of 2010",2010-07-13,2010-07-16,2010-07-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5752
+act-2010-010,Act No. 10 of 2010,law,"Judicature (Amendment) Act, No. 10 of 2010",2010-08-18,2010-08-20,2010-08-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5803
+act-2010-011,Act No. 11 of 2010,law,"Civil Procedure Code (Amendment) Act, No. 11 of 2010",2010-10-05,2010-10-08,2010-10-05,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5804
 act-2010-012,Act No. 12 of 2010,law,"National Institute of Labour Studies Act, No. 12 of 2010",2010-10-06,2010-10-08,2010-10-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5805
+act-2010-014,Act No. 14 of 2010,law,"Civil Aviation Act, No. 14 of 2010",2010-11-03,2010-11-04,2010-11-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5808
+act-2010-015,Act No. 15 of 2010,law,"Secretary to the Treasury (Nomination of Representative) Act, No. 15 of 2010",2010-12-07,2010-12-10,2010-12-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5810
+act-2010-017,Act No. 17 of 2010,law,"Casino Business (Regulation) Act, No. 17 of 2010",2010-12-07,2010-12-10,2010-12-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5818
+act-2010-018,Act No. 18 of 2010,law,"Public Enterprises Reform Commission of Sri Lanka (Repeal) Act, No. 18 of 2010",2010-12-07,2010-12-10,2010-12-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5817
+act-2010-019,Act No. 19 of 2010,law,"Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010",2010-12-10,2010-12-10,2010-12-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5811
+act-2010-020,Act No. 20 of 2010,law,"Appropriation Act, No. 20 of 2010",2010-12-10,2010-12-10,2010-12-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5809
+act-2011-009,Act No. 9 of 2011,law,"Value Added Tax (Amendment) Act, No. 9 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5838
+act-2011-013,Act No. 13 of 2011,law,"Provincial Councils (Transfer of Stamp Duty) Act, No. 13 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5836
+act-2011-014,Act No. 14 of 2011,law,"Debits Tax (Repeal) Act, No. 14 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5828
+act-2011-016,Act No. 16 of 2011,law,"Regional Infrastructure Development Levy (Repeal) Act, No. 16 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5827
+act-2011-018,Act No. 18 of 2011,law,"Ports and Airports Development Levy Act, No. 18 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5835
+act-2011-021,Act No. 21 of 2011,law,"Telecommunication Levy Act, No. 21 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5831
+act-2011-022,Act No. 22 of 2011,law,"Inland Revenue (Amendment) Act, No. 22 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5825
+act-2011-023,Act No. 23 of 2011,law,"Tax Appeals Commission Act, No. 23 of 2011",2011-03-31,2011-04-01,2011-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5837
+act-2011-039,Act No. 39 of 2011,law,"Industrial Disputes (Amendment) Act, No. 39 of 2011",2011-10-06,2011-10-07,2011-10-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5848
+act-2011-042,Act No. 42 of 2011,law,"Finance Business Act, No. 42 of 2011",2011-11-09,2011-11-11,2011-11-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5852
+act-2011-043,Act No. 43 of 2011,law,"Revival of Underperforming Enterprises or Underutilized Assets Act, No. 43 of 2011",2011-11-11,2011-11-11,2011-11-11,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5859
+act-2011-044,Act No. 44 of 2011,law,"National Police Academy Act, No. 44 of 2011",2011-11-21,2011-11-25,2011-11-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5855
+act-2011-052,Act No. 52 of 2011,law,"Appropriation Act, No. 52 of 2011",2011-12-21,2011-12-23,2011-12-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5857
+act-2012-002,Act No. 2 of 2012,law,"Employees' Provident Fund (Amendment) Act, No. 2 of 2012",2012-02-09,2012-02-10,2012-02-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5822
+act-2012-007,Act No. 7 of 2012,law,"Value Added Tax (Amendment) Act, No. 7 of 2012",2012-03-30,2012-03-30,2012-03-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5864
+act-2012-008,Act No. 8 of 2012,law,"Inland Revenue (Amendment) Act, No. 8 of 2012",2012-03-30,2012-03-30,2012-03-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5863
+act-2012-023,Act No. 23 of 2012,law,"Appropriation Act, No. 23 of 2012",2012-12-08,2012-12-14,2012-12-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5879
+act-2013-001,Act No. 1 of 2013,law,"Divineguma Act, No. 1 of 2013",2013-01-11,2013-01-11,2013-01-11,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5881
+act-2013-002,Act No. 2 of 2013,law,"Code of Criminal Procedure (Special Provisions) Act, No. 2 of 2013",2013-02-06,2013-02-08,2013-02-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5917
+act-2013-012,Act No. 12 of 2013,law,"Finance Act, No.12 of 2013",2013-04-23,2013-04-26,2013-04-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5914
 act-2013-017,Act No. 17 of 2013,law,"Value Added Tax (Amendment) Act, No. 17 of 2013",2013-04-24,2013-04-26,2013-04-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5906
+act-2013-018,Act No. 18 of 2013,law,"Inland Revenue (Amendment) Act, No. 18 of 2013",2013-04-24,2013-04-26,2013-04-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5902
+act-2013-028,Act No. 28 of 2013,law,"Parliamentary Scholarship Board (Repeal) Act, No. 28 of 2013",2013-07-08,2013-07-12,2013-07-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5915
+act-2013-033,Act No. 33 of 2013,law,"Convention against Doping in Sport Act, No. 33 of 2013",2013-11-11,2013-11-15,2013-11-11,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5929
+act-2013-036,Act No. 36 of 2013,law,"Appropriation Act, No. 36 of 2013",2013-12-20,2013-12-20,2013-12-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5930
+act-2014-007,Act No. 7 of 2014,law,"Value Added Tax (Amendment) Act, No. 7 of 2014",2014-04-24,2014-04-25,2014-04-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5940
+act-2014-008,Act No. 8 of 2014,law,"Inland Revenue (Amendment) Act, No. 8 of 2014",2014-04-24,2014-04-25,2014-04-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5944
+act-2014-013,Act No. 13 of 2014,law,"Companies (Amendment) Act, No. 13 of 2014",2014-04-24,2014-04-25,2014-04-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5946
+act-2014-018,Act No. 18 of 2014,law,"National Enterprise Development Authority (Amendment)Act, No. 18 of 2014",2014-06-04,2014-06-06,2014-06-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5932
+act-2014-031,Act No. 31 of 2014,law,"Ocean University Of Sri Lanka Act, No. 31 of 2014",2014-09-07,2014-09-12,2014-09-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5951
+act-2014-033,Act No. 33 of 2014,law,"Construction Industry Development Act, No. 33 of 2014",2014-10-16,2014-10-17,2014-10-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5960
+act-2014-038,Act No. 38 of 2014,law,"Land (Restrictions on Alienation) Act, No. 38 of 2014",2014-10-29,2014-10-31,2014-10-29,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5963
+act-2014-039,Act No. 39 of 2014,law,"DFCC Bank (Repeal and Consequential Provisions) Act, No. 39 of 2014",2014-11-01,2014-11-07,2014-11-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5966
+act-2014-040,Act No. 40 of 2014,law,"Sri Lanka Atomic Energy Act, No. 40 of 2014",2014-11-04,2014-11-07,2014-11-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5964
+act-2014-041,Act No. 41 of 2014,law,"Appropriation Act, No. 41 of 2014",2014-11-24,2014-11-28,2014-11-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5961
+act-2015-004,Act No. 4 of 2015,law,"Assistance to and Protection of Victims of Crime and Witnesses Act, No. 4 of 2015",2015-03-07,2015-03-13,2015-03-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5971
+act-2015-005,Act No. 5 of 2015,law,"National Medicines Regulatory Authority Act, No. 5 of 2015",2015-03-19,2015-03-20,2015-03-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5973
+act-2015-008,Act No. 8 of 2015,law,"National Authority on Teacher Education (Repeal) Act, No. 8 of 2015",2015-06-03,2015-06-05,2015-06-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5982
+act-2015-009,Act No. 9 of 2015,law,"Inland Revenue (Amendment) Act, No. 9 of 2015",2015-10-30,2015-10-30,2015-10-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5986
+act-2015-010,Act No. 10 of 2015,law,"Finance Act, No. 10 of 2015",2015-10-30,2015-10-30,2015-10-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5988
+act-2015-011,Act No. 11 of 2015,law,"Value Added Tax (Amendment) Act, No. 11 of 2015",2015-10-30,2015-10-30,2015-10-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5994
+act-2015-016,Act No. 16 of 2015,law,"Appropriation Act, No. 16 of 2015",2015-12-19,2015-12-23,2015-12-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G5993
+act-2016-003,Act No. 3 of 2016,law,"National Minimum Wage of Workers Act, No. 3 of 2016",2016-03-23,2016-03-24,2016-03-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6010
+act-2016-004,Act No. 4 of 2016,law,"Budgetary Relief Allowance of Workers Act, No. 4 of 2016",2016-03-23,2016-03-24,2016-03-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6003
+act-2016-006,Act No. 6 of 2016,law,"Microfinance Act, No. 6 of 2016",2016-05-20,2016-05-20,2016-05-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6001
+act-2016-007,Act No. 7 of 2016,law,"Asian Infrastructure Investment Bank Agreement (Ratification) Act, No. 7 of 2016",2016-05-30,2016-06-03,2016-05-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6008
+act-2016-010,Act No. 10 of 2016,law,"Homoeopathy Act, No. 10 of 2016",2016-07-27,2016-07-29,2016-07-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6014
+act-2016-011,Act No. 11 of 2016,law,"National Research Council of Sri Lanka Act, No. 11 of 2016",2016-07-27,2016-07-29,2016-07-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6015
+act-2016-012,Act No. 12 of 2016,law,"Right to Information Act, No. 12 of 2016",2016-08-04,2016-08-05,2016-08-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6007
+act-2016-014,Act No. 14 of 2016,law,"Office on Missing Persons (Establishment, Administration and Discharge of Functions) Act, No. 14 of 2016",2016-08-23,2016-08-26,2016-08-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6016
+act-2016-018,Act No. 18 of 2016,law,"Code of Criminal Procedure (Amendment) Act, No. 18 of 2016",2016-10-17,2016-10-21,2016-10-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6020
+act-2016-020,Act No. 20 of 2016,law,"Value Added Tax (Amendment) Act, No. 20 of 2016",2016-11-01,2016-11-04,2016-11-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6028
+act-2016-024,Act No. 24 of 2016,law,"Appropriation Act, No. 24 of 2016",2016-12-10,2016-12-16,2016-12-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6029
+act-2017-004,Act No. 4 of 2017,law,"Engineering Council, Sri Lanka Act, No. 4 of 2017",2017-03-09,2017-03-10,2017-03-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6023
+act-2017-005,Act No. 5 of 2017,law,"Revocation of Irrevocable Deeds of Gift on the ground of Gross Ingratitude Act, No. 5 of 2017",2017-04-04,2017-04-07,2017-04-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6034
+act-2017-008,Act No. 8 of 2017,law,"Civil Procedure Code (Amendment) Act, No. 8 of 2017",2017-06-07,2017-06-09,2017-06-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6039
+act-2017-012,Act No. 12 of 2017,law,"Foreign Exchange Act, No. 12 of 2017",2017-07-28,2017-07-28,2017-07-28,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6043
+act-2017-015,Act No. 15 of 2017,law,"Ceylon German Technical Training Institute Act, No. 15 of 2017",2017-08-24,2017-08-25,2017-08-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6038
+act-2017-019,Act No. 19 of 2017,law,"Sri Lanka Sustainable Development Act, No. 19 of 2017",2017-10-03,2017-10-06,2017-10-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6033
 act-2017-024,Act No. 24 of 2017,law,"Inland Revenue Act, No. 24 of 2017",2017-10-24,2017-10-27,2017-10-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6054
+act-2017-026,Act No. 26 of 2017,law,"Judicature (Amendment) Act, No. 26 of 2017",2017-11-17,2017-11-17,2017-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6060
+act-2017-030,Act No. 30 of 2017,law,"Appropriation Act, No. 30 of 2017",2017-12-09,2017-12-15,2017-12-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6064
+act-2018-002,Act No. 2 of 2018,law,"Anti-Dumping and Countervailing Duties Act, No. 2 of 2018",2018-03-19,2018-03-23,2018-03-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6067
+act-2018-003,Act No. 3 of 2018,law,"Safeguard Measures Act, No. 3 of 2018",2018-03-19,2018-03-23,2018-03-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6068
+act-2018-005,Act No. 5 of 2018,law,"International Convention for the Protection of All Persons from Enforced Disappearance Act, No. 5 of 2018",2018-03-21,2018-03-23,2018-03-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6035
+act-2018-007,Act No. 7 of 2018,law,"Intellectual Property (Amendment) Act, No. 7 of 2018",2018-03-28,2018-03-29,2018-03-28,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6077
+act-2018-008,Act No. 8 of 2018,law,"Active Liability Management Act, No. 8 of 2018",2018-03-28,2018-03-29,2018-03-28,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6079
+act-2018-009,Act No. 9 of 2018,law,"Judicature (Amendment) Act, No. 9 of 2018",2018-05-15,2018-05-18,2018-05-15,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6082
+act-2018-010,Act No. 10 of 2018,law,"Penal Code (Amendment) Act, No. 10 of 2018",2018-05-21,2018-05-25,2018-05-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6089
+act-2018-011,Act No. 11 of 2018,law,"Code of Criminal Procedure (Amendment) Act, No. 11 of 2018",2018-05-21,2018-05-25,2018-05-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6096
+act-2018-014,Act No. 14 of 2018,law,"Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 14 of 2018",2018-06-18,2018-06-22,2018-06-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6094
+act-2018-018,Act No. 18 of 2018,law,"1990 Suwaseriya Foundation Act, No. 18 of 2018",2018-07-04,2018-07-06,2018-07-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6097
+act-2018-019,Act No. 19 of 2018,law,"National Audit Act, No. 19 of 2018",2018-07-17,2018-07-20,2018-07-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6086
+act-2018-025,Act No. 25 of 2018,law,"Value Added Tax (Amendment) Act, No. 25 of 2018",2018-08-16,2018-08-17,2018-08-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6104
+act-2018-027,Act No. 27 of 2018,law,"Amaradeva Aesthetic and Research Centre Act, No. 27 of 2018",2018-09-03,2018-09-07,2018-09-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6101
+act-2018-029,Act No. 29 of 2018,law,"Carriage by Air Act, No. 29 of 2018",2018-09-28,2018-09-28,2018-09-28,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6103
+act-2018-032,Act No. 32 of 2018,law,"New Villages Development Authority for Plantation Region Act, No. 32 of 2018",2018-10-04,2018-10-05,2018-10-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6102
+act-2018-034,Act No. 34 of 2018,law,"Office for Reparations Act, No. 34 of 2018",2018-10-22,2018-10-22,2018-10-22,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6107
+act-2018-035,Act No. 35 of 2018,law,"Finance Act, No. 35 of 2018",2018-11-01,2018-11-02,2018-11-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6112
+act-2019-002,Act No. 2 of 2019,law,"Recovery of Damages for the Death of a Person Act, No. 2 of 2019",2019-01-17,2019-01-18,2019-01-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6116
+act-2019-005,Act No. 5 of 2019,law,"Judicature (Amendment) Act, No. 5 of 2019",2019-04-05,2019-04-05,2019-04-05,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6129
+act-2019-006,Act No. 6 of 2019,law,"Appropriation Act, No. 6 of 2019",2019-04-05,2019-04-05,2019-04-05,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6127
+act-2019-012,Act No. 12 of 2019,law,"Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019",2019-06-28,2019-06-28,2019-06-28,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6135
+act-2019-013,Act No. 13 of 2019,law,"Companies (Amendment) Act, No. 13 of 2019",2019-08-06,2019-08-09,2019-08-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6119
+act-2019-019,Act No. 19 of 2019,law,"Value Added Tax (Amendment) Act, No. 19 of 2019",2019-10-31,2019-11-01,2019-10-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6146
+act-2019-021,Act No. 21 of 2019,law,"Finance Act, No. 21 of 2019",2019-10-31,2019-11-01,2019-10-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6151
+act-2019-022,Act No. 22 of 2019,law,"National Innovation Agency Act, No. 22 of 2019",2019-11-15,2019-11-15,2019-11-15,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6158
+act-2019-024,Act No. 24 of 2019,law,"Prevention of Offences relating to Sports Act, No. 24 of 2019",2019-11-18,2019-11-22,2019-11-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6153
+act-2020-006,Act No. 6 of 2020,law,"Appropriation Act, No. 6 of 2020",2020-11-20,2020-11-20,2020-11-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6204
+act-2020-007,Act No. 7 of 2020,law,"Appropriation Act, No. 7 of 2020",2020-12-10,2020-12-11,2020-12-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6202
+act-2021-001,Act No. 1 of 2021,law,"Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 1 of 2021",2021-01-18,2021-01-22,2021-01-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6201
+act-2021-002,Act No. 2 of 2021,law,"Employment of Women, Young Persons and Children (Amendment) Act, No. 2 of 2021",2021-01-18,2021-01-22,2021-01-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6200
+act-2021-003,Act No. 3 of 2021,law,"Minimum Wages (Indian Labour) (Amendment) Act, No. 3 of 2021",2021-01-18,2021-01-22,2021-01-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6199
+act-2021-005,Act No. 5 of 2021,law,"Penal Code (Amendment) Act, No. 5 of 2021",2021-01-18,2021-01-22,2021-01-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6205
+act-2021-008,Act No. 8 of 2021,law,"Intellectual Property (Amendment) Act, No. 8 of 2021",2021-01-18,2021-01-22,2021-01-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6208
+act-2021-010,Act No. 10 of 2021,law,"Inland Revenue (Amendment) Act, No. 10 of 2021",2021-05-13,2021-05-13,2021-05-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6216
+act-2021-011,Act No. 11 of 2021,law,"Colombo Port City Economic Commission Act, No. 11 of 2021",2021-05-27,2021-05-28,2021-05-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6218
+act-2021-014,Act No. 14 of 2021,law,"Code of Criminal Procedure (Amendment) Act, No. 14 of 2021",2021-07-15,2021-07-16,2021-07-15,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6211
+act-2021-017,Act No. 17 of 2021,law,"Coronavirus Disease 2019 (COVID -19) (Temporary Provisions) Act, No. 17 of 2021",2021-08-23,2021-08-27,2021-08-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6219
+act-2021-018,Act No. 18 of 2021,law,"Finance Act, No. 18 of 2021",2021-09-15,2021-09-17,2021-09-15,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6222
+act-2021-019,Act No. 19 of 2021,law,"Securities and Exchange Commission of Sri Lanka Act, No. 19 of 2021",2021-09-21,2021-09-24,2021-09-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6221
+act-2021-021,Act No. 21 of 2021,law,"Petroleum Resources Act, No. 21 of 2021",2021-10-08,2021-10-08,2021-10-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6224
+act-2021-023,Act No. 23 of 2021,law,"Employees' Provident Fund (Amendment) Act, No. 23 of 2021",2021-10-13,2021-10-15,2021-10-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6226
+act-2021-025,Act No. 25 of 2021,law,"Penal Code (Amendment) Act, No. 25 of 2021",2021-10-26,2021-10-29,2021-10-26,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6227
+act-2021-028,Act No. 28 of 2021,law,"Minimum Retirement Age of Workers Act, No. 28 of 2021",2021-11-17,2021-11-19,2021-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6235
+act-2021-030,Act No. 30 of 2021,law,"Appropriation Act, No. 30 of 2021",2021-12-10,2021-12-10,2021-12-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6232
+act-2022-002,Act No. 2 of 2022,law,"Code of Criminal Procedure (Amendment) Act, No. 2 of 2022",2022-02-17,2022-02-18,2022-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6230
+act-2022-003,Act No. 3 of 2022,law,"Prohibition of Anti-Personnel Mines Act, No. 3 of 2022",2022-02-17,2022-02-18,2022-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6231
+act-2022-004,Act No. 4 of 2022,law,"Judicature (Amendment) Act, No. 4 of 2022",2022-02-17,2022-02-18,2022-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6239
+act-2022-005,Act No. 5 of 2022,law,"Civil Procedure Code (Amendment) Act, No. 5 of 2022",2022-02-17,2022-02-18,2022-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6238
+act-2022-008,Act No. 8 of 2022,law,"Intellectual Property (Amendment) Act, No. 8 of 2022",2022-03-16,2022-03-18,2022-03-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6251
 act-2022-009,Act No. 9 of 2022,law,"Personal Data Protection Act, No. 9 of 2022",2022-03-19,2022-03-25,2022-03-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6242
+act-2022-010,Act No. 10 of 2022,law,"Workmen's Compensation (Amendment) Act, No. 10 of 2022",2022-03-19,2022-03-25,2022-03-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6247
+act-2022-013,Act No. 13 of 2022,law,"Value Added Tax (Amendment) Act, No. 13 of 2022",2022-03-31,2022-04-01,2022-03-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6243
+act-2022-014,Act No. 14 of 2022,law,"Surcharge Tax Act, No. 14 of 2022",2022-04-08,2022-04-08,2022-04-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6249
+act-2022-017,Act No. 17 of 2022,law,"Civil Procedure Code (Amendment) Act, No. 17 of 2022",2022-06-23,2022-06-24,2022-06-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6253
+act-2022-018,Act No. 18 of 2022,law,"Code of Criminal Procedure (Amendment) Act, No.18 of 2022",2022-06-23,2022-06-24,2022-06-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6250
+act-2022-019,Act No. 19 of 2022,law,"Industrial Disputes (Special Provisions) Act, No. 19 of 2022",2022-06-23,2022-06-24,2022-06-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6254
+act-2021-029,Act No. 29 of 2021,law,"Termination of Employment of Workmen (Special Provisions) (Amendment) Act, No. 23 of 2022",2022-09-16,2022-09-16,2022-09-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6236
+act-2022-022,Act No. 22 of 2022,law,"Industrial Disputes (Amendment) Act, No. 22 of 2022",2022-09-16,2022-09-16,2022-09-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6260
 act-2022-023,Act No. 23 of 2022,law,"Termination of Employment of Workmen (Special Provisions) (Amendment) Act, No. 23 of 2022",2022-09-16,2022-09-16,2022-09-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6267
 act-2022-024,Act No. 24 of 2022,law,"Industrial Disputes (Amendment) Act, No. 24 of 2022",2022-09-16,2022-09-16,2022-09-16,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6265
+act-2022-025,Act No. 25 of 2022,law,"Social Security Contribution Levy Act, No. 25 of 2022",2022-09-20,2022-09-23,2022-09-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6262
+act-2022-033,Act No. 33 of 2022,law,"Small Claims Courts' Procedure Act, No. 33 of 2022",2022-11-17,2022-11-18,2022-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6272
 act-2022-034,Act No. 34 of 2022,law,"Judicature (Amendment) Act, No. 34 of 2022",2022-11-17,2022-11-18,2022-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6273
 act-2022-036,Act No. 36 of 2022,law,"Civil Procedure Code (Amendment) Act, No. 36 of 2022",2022-11-17,2022-11-18,2022-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6274
 act-2022-038,Act No. 38 of 2022,law,"Code of Criminal Procedure (Amendment) Act, No. 38 of 2022",2022-11-17,2022-11-18,2022-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6255
+act-2022-043,Act No. 43 of 2022,law,"Appropriation Act, No. 43 of 2022",2022-12-08,2022-12-09,2022-12-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6281
 act-2022-044,Act No. 44 of 2022,law,"Value Added Tax (Amendment) Act, No. 44 of 2022",2022-12-14,2022-12-16,2022-12-14,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6283
 act-2022-045,Act No. 45 of 2022,law,"Inland Revenue (Amendment) Act, No. 45 of 2022",2022-12-19,2022-12-23,2022-12-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6282
+act-2023-002,Act No. 2 of 2023,law,"Bureau of Rehabilitation Act, No. 2 of 2023",2023-01-24,2023-01-27,2023-01-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6280
+act-2023-003,Act No. 3 of 2023,law,"Regulation of Election Expenditure Act, No. 3 of 2023",2023-01-24,2023-01-27,2023-01-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6287
 act-2023-004,Act No. 4 of 2023,law,"Inland Revenue (Amendment) Act, No. 4 of 2023",2023-05-08,2023-05-12,2023-05-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6293
+act-2023-006,Act No. 6 of 2023,law,"Parliamentary Budget Office Act, No. 6 of 2023",2023-06-27,2023-06-30,2023-06-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6298
 act-2023-009,Act No. 9 of 2023,law,"Anti-Corruption Act, No. 9 of 2023",2023-08-08,2023-08-11,2023-08-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6296
+act-2023-010,Act No. 10 of 2023,law,"Assistance to and Protection of Victims of Crime and Witnesses Act, No. 10 of 2023",2023-08-08,2023-08-11,2023-08-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6297
 act-2023-014,Act No. 14 of 2023,law,"Inland Revenue (Amendment) Act, No. 14 of 2023",2023-09-08,2023-09-08,2023-09-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6306
+act-2023-016,Act No. 16 of 2023,law,"Central Bank of Sri Lanka Act, No. 16 of 2023",2023-09-14,2023-09-15,2023-09-14,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6288
 act-2023-020,Act No. 20 of 2023,law,"Civil Procedure Code (Amendment) Act, No. 20 of 2023",2023-10-17,2023-10-20,2023-10-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6307
+act-2023-022,Act No. 22 of 2023,law,"National Eye Bank Trust of Sri Lanka Act, No. 22 of 2023",2023-10-17,2023-10-20,2023-10-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6309
+act-2023-026,Act No. 26 of 2023,law,"Conferring the Honour of Senior Instructing Attorneys-at-Law Act, No. 26 of 2023",2023-11-01,2023-11-03,2023-11-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6312
 act-2023-028,Act No. 28 of 2023,law,"Anti-Corruption (Amendment) Act, No. 28 of 2023",2023-11-17,2023-11-17,2023-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6318
 act-2023-029,Act No. 29 of 2023,law,"Civil Procedure Code (Amendment) Act, No. 29 of 2023",2023-11-17,2023-11-17,2023-11-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6310
+act-2023-031,Act No. 31 of 2023,law,"Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. 31 of 2023",2023-11-24,2023-11-24,2023-11-24,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6252
 act-2023-032,Act No. 32 of 2023,law,"Value Added Tax (Amendment) Act, No. 32 of 2023",2023-12-13,2023-12-15,2023-12-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6317
+act-2023-033,Act No. 33 of 2023,law,"Finance Act, No. 33 of 2023",2023-12-13,2023-12-15,2023-12-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6316
+act-2023-034,Act No. 34 of 2023,law,"Appropriation Act, No. 34 of 2023",2023-12-13,2023-12-15,2023-12-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6314
+act-2024-005,Act No. 5 of 2024,law,"Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act, No. 5 of 2024",2024-01-31,2024-02-02,2024-01-31,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6319
+act-2024-007,Act No. 7 of 2024,law,"National Hydrographic Act, No. 7 of 2024",2024-02-01,2024-02-02,2024-02-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6321
+act-2024-008,Act No. 8 of 2024,law,"Contempt of a Court, Tribunal or Institution Act, No. 8 of 2024",2024-02-01,2024-02-02,2024-02-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6305
 act-2024-009,Act No. 9 of 2024,law,"Online Safety Act, No. 9 of 2024",2024-02-01,2024-02-02,2024-02-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6311
+act-2024-017,Act No. 17 of 2024,law,"Secured Transactions Act, No. 17 of 2024",2024-04-01,2024-04-05,2024-04-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6326
 act-2024-023,Act No. 23 of 2024,law,"Companies (Amendment) Act, No. 23 of 2024",2024-04-01,2024-04-05,2024-04-01,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6333
 act-2024-025,Act No. 25 of 2024,law,"Code of Criminal Procedure (Amendment) Act, No. 25 of 2024",2024-05-03,2024-05-03,2024-05-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6343
 act-2024-028,Act No. 28 of 2024,law,"Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 28 of 2024",2024-05-13,2024-05-17,2024-05-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6332
+act-2024-033,Act No. 33 of 2024,law,"Public Debt Management Act, No. 33 of 2024",2024-06-18,2024-06-20,2024-06-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6346
+act-2024-036,Act No. 36 of 2024,law,"Sri Lanka Electricity Act, No. 36 of 2024",2024-06-27,2024-06-28,2024-06-27,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6347
+act-2024-037,Act No. 37 of 2024,law,"Women Empowerment Act, No. 37 of 2024",2024-07-02,2024-07-05,2024-07-02,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6348
+act-2024-038,Act No. 38 of 2024,law,"Sri Lanka National Commission for the UNESCO Act, No. 38 of 2024",2024-07-02,2024-07-05,2024-07-02,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6338
 act-2024-043,Act No. 43 of 2024,law,"Civil Procedure Code (Amendment) Act, No. 43 of 2024",2024-08-02,2024-08-02,2024-08-02,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6350
+act-2024-044,Act No. 44 of 2024,law,"Public Financial Management Act, No. 44 of 2024",2024-08-08,2024-08-09,2024-08-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6352
+act-2024-045,Act No. 45 of 2024,law,"Economic Transformation Act, No. 45 of 2024",2024-08-09,2024-08-09,2024-08-09,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6351
+act-2024-049,Act No. 49 of 2024,law,"Reciprocal Recognition, Registration and Enforcement of Foreign Judgments Act, No. 49 of 2024",2024-09-13,2024-09-20,2024-09-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6356
 act-2024-050,Act No. 50 of 2024,law,"Code of Criminal Procedure (Amendment) Act, No. 50 of 2024",2024-09-13,2024-09-20,2024-09-13,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6359
 act-2025-002,Act No. 2 of 2025,law,"Inland Revenue (Amendment) Act, No. 2 of 2025",2025-03-20,2025-03-21,2025-03-20,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6379
+act-2025-003,Act No. 3 of 2025,law,"Appropriation Act, No. 3 of 2025",2025-03-21,2025-03-21,2025-03-21,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6377
 act-2025-004,Act No. 4 of 2025,law,"Value Added Tax (Amendment) Act, No. 4 of 2025",2025-04-11,2025-04-17,2025-04-11,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6380
+act-2025-005,Act No. 5 of 2025,law,"Proceeds of Crime Act, No. 5 of 2025",2025-04-30,2025-04-30,2025-04-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6378
+act-2025-006,Act No. 6 of 2025,law,"Foreign Loans (Repeal) Act, No. 6 of 2025",2025-05-23,2025-05-23,2025-05-23,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6382
 act-2025-007,Act No. 7 of 2025,law,"Code of Criminal Procedure (Amendment) Act, No. 7 of 2025",2025-06-18,2025-06-20,2025-06-18,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6381
 act-2025-012,Act No. 12 of 2025,law,"Companies (Amendment) Act, No. 12 of 2025",2025-08-04,2025-08-07,2025-08-04,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6389
+act-2025-017,Act No. 17 of 2025,law,"Gambling Regulatory Authority Act, No. 17 of 2025",2025-09-03,2025-09-04,2025-09-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6393
+act-2025-018,Act No. 18 of 2025,law,"Presidents' Entitlements (Repeal) Act, No. 18 of 2025",2025-09-10,2025-09-12,2025-09-10,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6399
+act-2025-020,Act No. 20 of 2025,law,"National Building Research Institute Act, No. 20 of 2025",2025-10-07,2025-10-10,2025-10-07,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6397
 act-2025-022,Act No. 22 of 2025,law,"Personal Data Protection (Amendment) Act, No. 22 of 2025",2025-10-30,2025-10-31,2025-10-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6384
+act-2025-023,Act No. 23 of 2025,law,"Appropriation Act, No. 23 of 2025",2025-12-05,2025-12-05,2025-12-05,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6401
+act-2026-005,Act No. 5 of 2026,law,"Parliamentary Pensions (Repeal) Act, No. 5 of 2026",2026-02-17,2026-02-20,2026-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6415
+act-2026-003,Act No. 3 of 2026,law,"Licensing of Container Depot Operators Act, No. 3 of 2026",2026-02-17,2026-02-27,2026-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6414
+act-2026-004,Act No. 4 of 2026,law,"Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) Act, No. 4 of 2026",2026-02-17,2026-02-27,2026-02-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6416
+act-2026-006,Act No. 6 of 2026,law,"Institute of Real Estate Professionals, Sri Lanka Act, No. 6 of 2026",2026-02-19,2026-02-27,2026-02-19,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6404
 act-2026-008,Act No. 8 of 2026,law,"Judicature (Amendment) Act, No. 8 of 2026",2026-03-06,2026-03-06,2026-03-06,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6410
 act-2026-011,Act No. 11 of 2026,law,"Inland Revenue (Amendment) Act, No. 11 of 2026",2026-06-03,2026-06-03,2026-06-03,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6420
 act-2026-014,Act No. 14 of 2026,law,"Value Added Tax (Amendment) Act, No. 14 of 2026",2026-06-30,2026-06-30,2026-06-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6427
+act-2026-013,Act No. 13 of 2026,law,"Mediation (Civil and Commercial Disputes) Act, No. 13 of 2026",2026-06-30,2026-07-03,2026-06-30,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6396
+act-2026-012,Act No. 12 of 2026,law,"Rescue, Rehabilitation and Insolvency (Corporate and Personal) Act, No. 12 of 2026",2026-06-17,2026-07-10,2026-06-17,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6419
 act-2026-021,Act No. 21 of 2026,law,"Employment of Women, Young Persons and Children (Amendment) Act, No. 21 of 2026",2026-09-08,2026-09-11,2026-09-08,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6434
 act-2026-023,Act No. 23 of 2026,law,"Judicature (Amendment) Act, No. 23 of 2026",2026-09-25,2026-09-25,2026-09-25,1,https://www.parliament.lk/en/business-of-parliament/act-details/G6435
 amendment-22,Twenty Second Amendment to the Constitution,law,Twenty Second Amendment to the Constitution,2026-09-25,2026-09-25,2026-09-25,1,https://www.parliament.lk/uploads/acts/gbills/english/6433.pdf

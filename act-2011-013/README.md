@@ -1,0 +1,10 @@
+# Provincial Councils (Transfer of Stamp Duty) Act, No. 13 of 2011
+
+Provincial Councils (Transfer of Stamp Duty) Act 2011 · 1 versions, from 2011-03-31 (latest in force: 2011-03-31) · <https://www.parliament.lk/en/business-of-parliament/act-details/G5836>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
