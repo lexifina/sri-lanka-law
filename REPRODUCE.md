@@ -12,6 +12,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
+| Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -591,20 +592,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2023-015` | Social Security Contribution Levy (Amendment) Act, No. 15 of 2023 | 1 | 2023-09-08 to 2023-09-08 |
 | `act-2023-017` | Banking (Special Provisions) Act, No. 17 of 2023 | 1 | 2023-09-14 to 2023-09-14 |
 | `act-2023-019` | Ayurveda (Amendment) Act, No. 19 of 2023 | 1 | 2023-10-09 to 2023-10-09 |
+| `act-2000-024` | National Security Levy (Amendment) Act, No. 24 of 2000 | 1 | 2000-07-12 to 2000-07-12 |
+| `act-2002-015` | National Security Levy (Amendment) Act, No. 15 of 2002 | 1 | 2002-07-30 to 2002-07-30 |
+| `act-2002-018` | Licensing of Shipping Agents (Amendment) Act, No. 18 of 2002 | 1 | 2002-10-04 to 2002-10-04 |
+| `act-2002-019` | Factories (Amendment) Act, No. 19 of 2002 | 1 | 2002-10-04 to 2002-10-04 |
+| `act-2002-023` | National Housing Development Authority (Amendment) Act, No. 23 of 2002 | 1 | 2002-10-11 to 2002-10-11 |
+| `act-2002-029` | Appropriation (Amendment) Act, No. 29 of 2002 | 1 | 2002-12-11 to 2002-12-11 |
+| `act-2002-030` | Finance (Amendment) Act, No.30 of 2002 | 1 | 2002-12-11 to 2002-12-11 |
+| `act-2002-033` | Petroleum Products (Special Provisions) Act, No. 33 of 2002 | 1 | 2002-12-17 to 2002-12-17 |
+| `act-2003-004` | Finance (Amendment) Act, No. 4 of 2003 | 1 | 2003-02-27 to 2003-02-27 |
+| `act-2003-006` | Finance (Amendment) Act, No. 6 of 2003 | 1 | 2003-02-27 to 2003-02-27 |
+| `act-2003-016` | Citizenship (Amendment) Act, No. 16 of 2003 | 1 | 2003-04-01 to 2003-04-01 |
+| `act-2003-017` | Public Service Provident Fund (Amendment) Act, No. 17 of 2003 | 1 | 2003-04-04 to 2003-04-04 |
+| `act-2003-018` | Securities and Exchange Commission of Sri Lanka (Amendment) Act, No. 18 of 2003 | 1 | 2003-04-29 to 2003-04-29 |
+| `act-2003-029` | Sri Lanka Tea Board (Amendment) Act, No. 29 of 2003 | 1 | 2003-10-15 to 2003-10-15 |
+| `act-2003-030` | Tea Research Board (Amendment) Act, No. 30 of 2003 | 1 | 2003-10-15 to 2003-10-15 |
+| `act-2003-032` | National Housing Development Authority (Amendment) Act, No. 32 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
+| `act-2003-033` | Protection of the Rights of Persons with Disabilities (Amendment) Act, No. 33 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
+| `act-2003-034` | Tea Small Holdings Development (Amendment) Act, No. 34 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
 
-The build made 573 commits:
+The build made 591 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 572 | first version of an act |
+| 590 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 572 laws in the record.
-- 1145 tags.
+- 590 laws in the record.
+- 1181 tags.
 
 ## Dates
 
@@ -616,7 +635,7 @@ When a law gives no date of its own, the default rule applies: Constitution Art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a66dad10dbafc15ac423a783647f1f874e8de1ca6179cdc822949d9cbb87b844` (16122478 bytes).
+- Corpus: sha256 `84e26047617d8d37d21cb68c15d0a1f5b828dc0139c1e9abe174e6a6191a182d` (16247247 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -652,6 +671,10 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
 - Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as certified, dated by the Speaker's certificate printed on it ("[Certified on ...]"): under Article 80(1) of the Constitution a Bill becomes law when the certificate is endorsed on it. Where an Act brings itself or some of its provisions into operation later (an appointed day, a Minister's Order), that later day is not modelled: the version is dated by the certificate.
+- Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
+- Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
 
 ## What AI did and did not do
 
@@ -663,6 +686,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time; parsers written by Claude Code (claude-opus-5-5); no model wrote legal text
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.

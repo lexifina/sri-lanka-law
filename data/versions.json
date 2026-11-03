@@ -8014,6 +8014,258 @@
      "sha256": "3a995397764f7cc93b8233d2ca87f010331b28198c14fdcaf01ccd304215c619"
     }
    ]
+  },
+  {
+   "slug": "act-2000-024",
+   "short": "National Security Levy (Amendment) Act 2000",
+   "title": "National Security Levy (Amendment) Act, No. 24 of 2000",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3779",
+   "versions": [
+    {
+     "from": "2000-07-12",
+     "units": 11,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3779.pdf",
+     "sha256": "220186b185ce0087585c74640adf17e0cb5d21ef1d0e082f8e89b82da75cc68e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-015",
+   "short": "National Security Levy (Amendment) Act 2002",
+   "title": "National Security Levy (Amendment) Act, No. 15 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3055",
+   "versions": [
+    {
+     "from": "2002-07-30",
+     "units": 9,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3055.pdf",
+     "sha256": "c97b9852b4854a02d0dbc4e6a31db55a0c0939905878b208e3cc9232a374035f"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-018",
+   "short": "Licensing of Shipping Agents (Amendment) Act 2002",
+   "title": "Licensing of Shipping Agents (Amendment) Act, No. 18 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3069",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3069.pdf",
+     "sha256": "040c6f5894ccac267446f8713105e581f421248097408b3c0e0e0c7cbff36b4d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-019",
+   "short": "Factories (Amendment) Act 2002",
+   "title": "Factories (Amendment) Act, No. 19 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3074",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3074.pdf",
+     "sha256": "8c148db73643d0b129a33baa1bd13d566d8e4ef10736d53104518bce5647c1c9"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-023",
+   "short": "National Housing Development Authority (Amendment) Act 2002",
+   "title": "National Housing Development Authority (Amendment) Act, No. 23 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3467",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3467.pdf",
+     "sha256": "2d7d7244799c24db12eeb257363ff5e4d424f92263642d3e8142dcac87784e1e"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-029",
+   "short": "Appropriation (Amendment) Act 2002",
+   "title": "Appropriation (Amendment) Act, No. 29 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3476",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3476.pdf",
+     "sha256": "3d5714b56710624dad5cc2b4e8b6be225a9e2027e4d0eae3f0ab0218830f160f"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-030",
+   "short": "Finance (Amendment) Act 2002",
+   "title": "Finance (Amendment) Act, No.30 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3477",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3477.pdf",
+     "sha256": "33e228ed3493fd0c4d4ea4982a3dd6d809ee5e69cc5ab453eea7632a7f79d459"
+    }
+   ]
+  },
+  {
+   "slug": "act-2002-033",
+   "short": "Petroleum Products (Special Provisions) Act 2002",
+   "title": "Petroleum Products (Special Provisions) Act, No. 33 of 2002",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3480",
+   "versions": [
+    {
+     "from": "2002-12-17",
+     "units": 10,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3480.pdf",
+     "sha256": "d55bbb7be0bd45560aa905795c927635afc57044577875416aec6c8f8565caac"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-004",
+   "short": "Finance (Amendment) Act 2003",
+   "title": "Finance (Amendment) Act, No. 4 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3541",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 7,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3541.pdf",
+     "sha256": "3d85ce7291e49af5b7e607e65f4526bec71a58be65206d2739d7ebcc16cb4424"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-006",
+   "short": "Finance (Amendment) Act 2003",
+   "title": "Finance (Amendment) Act, No. 6 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3543",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3543.pdf",
+     "sha256": "184215260aa0204afe3b87c776a53f3ac25f4e4bcf1571f73d1973b0c4d50382"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-016",
+   "short": "Citizenship (Amendment) Act 2003",
+   "title": "Citizenship (Amendment) Act, No. 16 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3582",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 15,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3582.pdf",
+     "sha256": "64b68d1e5b924ea1eb3b0a87b52aa49a46c8fcfde5fbd5ffce76352a606f10ad"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-017",
+   "short": "Public Service Provident Fund (Amendment) Act 2003",
+   "title": "Public Service Provident Fund (Amendment) Act, No. 17 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G5799",
+   "versions": [
+    {
+     "from": "2003-04-04",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/5799.pdf",
+     "sha256": "2f586c190b4d96c6a2feb33f127c3fe32f51066b77b49101eaa65d9fb73a3526"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-018",
+   "short": "Securities and Exchange Commission of Sri Lanka (Amendment) Act 2003",
+   "title": "Securities and Exchange Commission of Sri Lanka (Amendment) Act, No. 18 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3584",
+   "versions": [
+    {
+     "from": "2003-04-29",
+     "units": 25,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3584.pdf",
+     "sha256": "bb5d236e9702679cc7ec4413d31601c8ee8e3836b0401bc14a3517b8fdd3e5df"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-029",
+   "short": "Sri Lanka Tea Board (Amendment) Act 2003",
+   "title": "Sri Lanka Tea Board (Amendment) Act, No. 29 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3656",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3656.pdf",
+     "sha256": "b0c8a45a73971bfff353b559924e1753386b31598417a68dfbf9154640f3c91d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-030",
+   "short": "Tea Research Board (Amendment) Act 2003",
+   "title": "Tea Research Board (Amendment) Act, No. 30 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3659",
+   "versions": [
+    {
+     "from": "2003-10-15",
+     "units": 8,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3659.pdf",
+     "sha256": "3c8805ec5de39831a9b4671f0ad17cb6c679ecdf67f18da3efb717f74fa9d94d"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-032",
+   "short": "National Housing Development Authority (Amendment) Act 2003",
+   "title": "National Housing Development Authority (Amendment) Act, No. 32 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3719",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3719.pdf",
+     "sha256": "ca944a5c1c86db3eb45558d1e60225eae00808684d4c07079dcc9665777c5496"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-033",
+   "short": "Protection of the Rights of Persons with Disabilities (Amendment) Act 2003",
+   "title": "Protection of the Rights of Persons with Disabilities (Amendment) Act, No. 33 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3721",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3721.pdf",
+     "sha256": "d4bcbbd8e4e33fa1593749e752a274df44f438af6412a3174981c4d362034f23"
+    }
+   ]
+  },
+  {
+   "slug": "act-2003-034",
+   "short": "Tea Small Holdings Development (Amendment) Act 2003",
+   "title": "Tea Small Holdings Development (Amendment) Act, No. 34 of 2003",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3723",
+   "versions": [
+    {
+     "from": "2003-10-22",
+     "units": 10,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3723.pdf",
+     "sha256": "8f41b854c13f9e2df80a02926523416fd22a6710cb0d2174674325bc7d0f8338"
+    }
+   ]
   }
  ]
 }

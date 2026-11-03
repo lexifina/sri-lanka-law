@@ -5,7 +5,7 @@ The law of Sri Lanka as a git repository: one file per provision, one commit per
 **What is in it now**
 
 - The Constitution of the Democratic Socialist Republic of Sri Lanka (`constitution/`), 2 versions: the Parliament's consolidated edition as amended to the Twenty First Amendment (31 October 2022), then the Twenty Second Amendment (Articles 107 and 137, certified 25 September 2026).
-- 571 Acts of Parliament as enacted (2000 to 2026), 10,866 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
+- 589 Acts of Parliament as enacted (2000 to 2026), 11,014 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
 
 **Sources.** Both come from the Parliament of Sri Lanka (parliament.lk). The Constitution is the Parliament's consolidated English edition; its first version is credited to the publisher, because earlier editions are not built, and the second replays the Twenty Second Amendment, whose words match the Act exactly. Each Act is the English text as printed by the Department of Government Printing and published by Parliament in its Acts listing. The Sinhala text of an Act prevails over the English and Tamil texts.
 
@@ -35,6 +35,7 @@ See [REPRODUCE.md](REPRODUCE.md).
 
 | Folder | Act | Certified |
 | --- | --- | --- |
+| `act-2000-024/` | National Security Levy (Amendment) Act, No. 24 of 2000 | 2000-07-12 |
 | `act-2000-025/` | Minimum Wages (Indian Labour) (Amendment) Act, No. 25 of 2000 | 2000-07-12 |
 | `act-2000-034/` | Civil Procedure Code (Amendment) Act, No. 34 of 2000 | 2000-07-21 |
 | `act-2000-038/` | Inland Revenue Act, No. 38 of 2000 | 2000-08-03 |
@@ -44,10 +45,27 @@ See [REPRODUCE.md](REPRODUCE.md).
 | `act-2002-004/` | Administrative Appeals Tribunal Act, No. 4 of 2002 | 2002-03-25 |
 | `act-2002-008/` | Save the Nation Contribution (Abolition) Act, No. 8 of 2002 | 2002-06-19 |
 | `act-2002-012/` | Penal Code (Amendment) Act, No. 12 of 2002 | 2002-07-17 |
+| `act-2002-015/` | National Security Levy (Amendment) Act, No. 15 of 2002 | 2002-07-30 |
+| `act-2002-018/` | Licensing of Shipping Agents (Amendment) Act, No. 18 of 2002 | 2002-10-04 |
+| `act-2002-019/` | Factories (Amendment) Act, No. 19 of 2002 | 2002-10-04 |
+| `act-2002-023/` | National Housing Development Authority (Amendment) Act, No. 23 of 2002 | 2002-10-11 |
+| `act-2002-029/` | Appropriation (Amendment) Act, No. 29 of 2002 | 2002-12-11 |
+| `act-2002-030/` | Finance (Amendment) Act, No.30 of 2002 | 2002-12-11 |
+| `act-2002-033/` | Petroleum Products (Special Provisions) Act, No. 33 of 2002 | 2002-12-17 |
+| `act-2003-004/` | Finance (Amendment) Act, No. 4 of 2003 | 2003-02-27 |
+| `act-2003-006/` | Finance (Amendment) Act, No. 6 of 2003 | 2003-02-27 |
 | `act-2003-007/` | Value Added Tax (Amendment) Act No. 7 of 2003 | 2003-02-27 |
 | `act-2003-008/` | Employment of Women, Young Persons and Children (Amendment) Act, No. 8 of 2003 | 2003-03-17 |
 | `act-2003-011/` | Industrial Disputes (Amendment) Act, No. 11 of 2003 | 2003-03-20 |
+| `act-2003-016/` | Citizenship (Amendment) Act, No. 16 of 2003 | 2003-04-01 |
+| `act-2003-017/` | Public Service Provident Fund (Amendment) Act, No. 17 of 2003 | 2003-04-04 |
+| `act-2003-018/` | Securities and Exchange Commission of Sri Lanka (Amendment) Act, No. 18 of 2003 | 2003-04-29 |
+| `act-2003-029/` | Sri Lanka Tea Board (Amendment) Act, No. 29 of 2003 | 2003-10-15 |
+| `act-2003-030/` | Tea Research Board (Amendment) Act, No. 30 of 2003 | 2003-10-15 |
 | `act-2003-031/` | Inland Revenue (Special Provisions) (Amendment) Act, No. 31 of 2003 | 2003-10-22 |
+| `act-2003-032/` | National Housing Development Authority (Amendment) Act, No. 32 of 2003 | 2003-10-22 |
+| `act-2003-033/` | Protection of the Rights of Persons with Disabilities (Amendment) Act, No. 33 of 2003 | 2003-10-22 |
+| `act-2003-034/` | Tea Small Holdings Development (Amendment) Act, No. 34 of 2003 | 2003-10-22 |
 | `act-2003-035/` | Grant of Citizenship to Persons of Indian Origin Act, No. 35 of 2003 | 2003-11-11 |
 | `act-2003-044/` | Appropriation Act, No. 44 of 2003 | 2003-12-31 |
 | `act-2004-001/` | Local Treasury Bills (Amendment) Act, No. 1 of 2004 | 2004-01-06 |
