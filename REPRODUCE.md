@@ -13,6 +13,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
+| Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -610,20 +611,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2003-032` | National Housing Development Authority (Amendment) Act, No. 32 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
 | `act-2003-033` | Protection of the Rights of Persons with Disabilities (Amendment) Act, No. 33 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
 | `act-2003-034` | Tea Small Holdings Development (Amendment) Act, No. 34 of 2003 | 1 | 2003-10-22 to 2003-10-22 |
+| `act-1999-027` | Judicature (Amendment) Act, No. 27 of 1999 | 1 | 1999-08-30 to 1999-08-30 |
+| `act-1999-041` | Inland Revenue (Amendment) Act, No. 41 of 1999 | 1 | 1999-11-30 to 1999-11-30 |
+| `act-1999-047` | Code of Criminal Procedure (Amendment) Act, No.47 of 1999 | 1 | 1999-12-10 to 1999-12-10 |
+| `act-1999-056` | Industrial Disputes (Amendment) Act, No. 56 of 1999 | 1 | 1999-12-31 to 1999-12-31 |
 
-The build made 591 commits:
+The build made 595 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 590 | first version of an act |
+| 594 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 590 laws in the record.
-- 1181 tags.
+- 594 laws in the record.
+- 1189 tags.
 
 ## Dates
 
@@ -635,7 +640,7 @@ When a law gives no date of its own, the default rule applies: Constitution Art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `84e26047617d8d37d21cb68c15d0a1f5b828dc0139c1e9abe174e6a6191a182d` (16247247 bytes).
+- Corpus: sha256 `d70012444dc8298c092ae7d24a10d63f707b7832cfbf4cc6e79e8c27610a5c27` (16285710 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -675,6 +680,10 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
 - Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as certified, dated by the Speaker's certificate printed on it ("[Certified on ...]"): under Article 80(1) of the Constitution a Bill becomes law when the certificate is endorsed on it. Where an Act brings itself or some of its provisions into operation later (an appointed day, a Minister's Order), that later day is not modelled: the version is dated by the certificate.
+- Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
+- Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
 
 ## What AI did and did not do
 
@@ -686,6 +695,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time; parsers written by Claude Code (claude-opus-5-5); no model wrote legal text
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.

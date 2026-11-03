@@ -5,7 +5,7 @@ The law of Sri Lanka as a git repository: one file per provision, one commit per
 **What is in it now**
 
 - The Constitution of the Democratic Socialist Republic of Sri Lanka (`constitution/`), 2 versions: the Parliament's consolidated edition as amended to the Twenty First Amendment (31 October 2022), then the Twenty Second Amendment (Articles 107 and 137, certified 25 September 2026).
-- 589 Acts of Parliament as enacted (2000 to 2026), 11,014 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
+- 593 Acts of Parliament as enacted (1999 to 2026), 11,046 files: one folder per Act, named by its number and year (`act-2007-007/` is the Companies Act, No. 07 of 2007). The table at the end lists them.
 
 **Sources.** Both come from the Parliament of Sri Lanka (parliament.lk). The Constitution is the Parliament's consolidated English edition; its first version is credited to the publisher, because earlier editions are not built, and the second replays the Twenty Second Amendment, whose words match the Act exactly. Each Act is the English text as printed by the Department of Government Printing and published by Parliament in its Acts listing. The Sinhala text of an Act prevails over the English and Tamil texts.
 
@@ -35,6 +35,10 @@ See [REPRODUCE.md](REPRODUCE.md).
 
 | Folder | Act | Certified |
 | --- | --- | --- |
+| `act-1999-027/` | Judicature (Amendment) Act, No. 27 of 1999 | 1999-08-30 |
+| `act-1999-041/` | Inland Revenue (Amendment) Act, No. 41 of 1999 | 1999-11-30 |
+| `act-1999-047/` | Code of Criminal Procedure (Amendment) Act, No.47 of 1999 | 1999-12-10 |
+| `act-1999-056/` | Industrial Disputes (Amendment) Act, No. 56 of 1999 | 1999-12-31 |
 | `act-2000-024/` | National Security Levy (Amendment) Act, No. 24 of 2000 | 2000-07-12 |
 | `act-2000-025/` | Minimum Wages (Indian Labour) (Amendment) Act, No. 25 of 2000 | 2000-07-12 |
 | `act-2000-034/` | Civil Procedure Code (Amendment) Act, No. 34 of 2000 | 2000-07-21 |

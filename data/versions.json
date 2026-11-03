@@ -8266,6 +8266,62 @@
      "sha256": "8f41b854c13f9e2df80a02926523416fd22a6710cb0d2174674325bc7d0f8338"
     }
    ]
+  },
+  {
+   "slug": "act-1999-027",
+   "short": "Judicature (Amendment) Act 1999",
+   "title": "Judicature (Amendment) Act, No. 27 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3682",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 4,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3682.pdf",
+     "sha256": "5c1ee57ceeb7ba3cdced3c0f1b0df12c2f44bf4d988c4db862a74e45f4140fce"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-041",
+   "short": "Inland Revenue (Amendment) Act 1999",
+   "title": "Inland Revenue (Amendment) Act, No. 41 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3704",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 17,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3704.pdf",
+     "sha256": "205ae589a4aebee60c35d87a0cd203e9b765da31da006269575f788546d73637"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-047",
+   "short": "Code of Criminal Procedure (Amendment) Act 1999",
+   "title": "Code of Criminal Procedure (Amendment) Act, No.47 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3742",
+   "versions": [
+    {
+     "from": "1999-12-10",
+     "units": 5,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3742.pdf",
+     "sha256": "17906be81d884c3191735c237ad405cc37d89d65c6077a861893f36788e11530"
+    }
+   ]
+  },
+  {
+   "slug": "act-1999-056",
+   "short": "Industrial Disputes (Amendment) Act 1999",
+   "title": "Industrial Disputes (Amendment) Act, No. 56 of 1999",
+   "url": "https://www.parliament.lk/en/business-of-parliament/act-details/G3752",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 6,
+     "source_url": "https://www.parliament.lk/uploads/acts/gbills/english/3752.pdf",
+     "sha256": "a96ae9981190d3fcbcb9485223e714d69d3cae020dfae7f237e31b9287007364"
+    }
+   ]
   }
  ]
 }
