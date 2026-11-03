@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
+| Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -321,20 +322,289 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `act-2026-018` | Convention on the Suppression of Terrorist Financing (Amendment) Act, No. 18 of 2026 | 1 | 2026-08-04 to 2026-08-04 |
 | `act-2026-020` | National Water Supply and Drainage Board (Amendment) Act, No. 20 of 2026 | 1 | 2026-08-18 to 2026-08-18 |
 | `act-2026-024` | Promotion of Export Agriculture (Amendment) Act, No. 24 of 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `act-2004-001` | Local Treasury Bills (Amendment) Act, No. 1 of 2004 | 1 | 2004-01-06 to 2004-01-06 |
+| `act-2004-008` | Finance (Amendment) Act, No. 8 of 2004 | 1 | 2004-10-05 to 2004-10-05 |
+| `act-2004-009` | Tobacco Tax (Amendment) Act, No. 9 of 2004 | 1 | 2004-10-08 to 2004-10-08 |
+| `act-2005-009` | Betting and Gaming Levy (Amendment) Act, No. 9 of 2005 | 1 | 2005-03-31 to 2005-03-31 |
+| `act-2005-011` | Societies Ordinance (Amendment) Act, No. 11 of 2005 | 1 | 2005-05-06 to 2005-05-06 |
+| `act-2005-022` | Prisons (Amendment) Act, No. 22 of 2005 | 1 | 2005-08-02 to 2005-08-02 |
+| `act-2005-024` | Finance Leasing (Amendment) Act, No. 24 of 2005 | 1 | 2005-08-08 to 2005-08-08 |
+| `act-2005-033` | Sports (Amendment) Act, No. 33 of 2005 | 1 | 2005-09-23 to 2005-09-23 |
+| `act-2005-035` | Sri Lanka Nurses Council (Amendment) Act, No. 35 of 2005 | 1 | 2005-10-03 to 2005-10-03 |
+| `act-2005-037` | Commercial Mediation Centre of Sri Lanka (Amendment) Act, No. 37 of 2005 | 1 | 2005-11-21 to 2005-11-21 |
+| `act-2006-001` | Protection of Government Revenue (Special Provisions) Act, No. 1 of 2006 | 1 | 2006-01-06 to 2006-01-06 |
+| `act-2006-002` | Local Authorities (Special Provisions) Act, No. 2 of 2006 | 1 | 2006-01-19 to 2006-01-19 |
+| `act-2006-009` | Monetary Law (Amendment) Act, No. 9 of 2006 | 1 | 2006-03-31 to 2006-03-31 |
+| `act-2006-014` | Betting and Gaming Levy (Amendment) Act, No. 14 of 2006 | 1 | 2006-03-31 to 2006-03-31 |
+| `act-2006-018` | Consular Functions (Amendment) Act, No. 18 of 2006 | 1 | 2006-05-18 to 2006-05-18 |
+| `act-2006-022` | Fisheries and Aquatic Resources (Amendment) Act, No. 22 of 2006 | 1 | 2006-08-16 to 2006-08-16 |
+| `act-2006-023` | National Aquaculture Development Authority of Sri Lanka (Amendment) Act, No. 23 of 2006 | 1 | 2006-08-16 to 2006-08-16 |
+| `act-2006-025` | Sri Lanka Institute of Advanced Technical Education (Amendment) Act, No. 25 of 2006 | 1 | 2006-08-21 to 2006-08-21 |
+| `act-2006-031` | Immigrants and Emigrants (Amendment) Act, No. 31 of 2006 | 1 | 2006-09-26 to 2006-09-26 |
+| `act-2006-032` | Sri Lanka Institute of Strategic Studies (Amendment) Act, No. 32 of 2006 | 1 | 2006-09-26 to 2006-09-26 |
+| `act-2006-035` | Sri Lanka Land Reclamation and Development Corporation (Amendment) Act, No.35 of 2006 | 1 | 2006-10-26 to 2006-10-26 |
+| `act-2006-036` | Marriage Registration (Amendment) Act, No. 36 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-037` | Births and Deaths Registration (Amendment) Act, No. 37 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-038` | Marriage Registration (Amendment) Act, No. 38 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-039` | Kandyan Marriage and Divorce (Amendment) Act, No. 39 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-040` | Muslim Marriage and Divorce (Amendment) Act, No. 40 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-043` | Tea Research Board (Amendment) Act, No. 43 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-044` | Sri Lanka Tea Board (Amendment) Act, No. 44 of 2006 | 1 | 2006-11-06 to 2006-11-06 |
+| `act-2006-046` | Banking (Amendment) Act, No. 46 of 2006 | 1 | 2006-11-30 to 2006-11-30 |
+| `act-2006-048` | Finance (Amendment) Act, No. 48 of 2006 | 1 | 2006-12-15 to 2006-12-15 |
+| `act-2006-050` | Excise (Special Provisions) (Amendment) Act, No. 50 of 2006 | 1 | 2006-12-15 to 2006-12-15 |
+| `act-2006-054` | High Court of the Provinces (Special Provisions) (Amendment) Act, No. 54 of 2006 | 1 | 2006-12-28 to 2006-12-28 |
+| `act-2007-012` | Debits Tax (Amendment) Act, No. 12 of 2007 | 1 | 2007-04-11 to 2007-04-11 |
+| `act-2007-013` | Finance (Amendment) Act, No. 13 of 2007 | 1 | 2007-04-11 to 2007-04-11 |
+| `act-2007-015` | Economic Service Charge (Amendment) Act, No. 15 of 2007 | 1 | 2007-04-12 to 2007-04-12 |
+| `act-2007-016` | Local Authorities Elections (Amendment) Act, No. 16 of 2007 | 1 | 2007-04-30 to 2007-04-30 |
+| `act-2007-027` | Regulation of Insurance Industry (Amendment) Act, No. 27 of 2007 | 1 | 2007-07-18 to 2007-07-18 |
+| `act-2007-028` | National Insurance Trust Fund (Amendment) Act, No. 28 of 2007 | 1 | 2007-07-18 to 2007-07-18 |
+| `act-2007-030` | Local Authorities (Special Provisions) Act, No. 30 of 2007 | 1 | 2007-08-08 to 2007-08-08 |
+| `act-2007-033` | Finance Leasing (Amendment) Act, No. 33 of 2007 | 1 | 2007-08-21 to 2007-08-21 |
+| `act-2007-036` | Urban Development Authority (Amendment) Act, No. 36 of 2007 | 1 | 2007-09-18 to 2007-09-18 |
+| `act-2007-037` | Finance (Amendment) Act, No. 37 of 2007 | 1 | 2007-09-24 to 2007-09-24 |
+| `act-2007-045` | Finance (Amendment) Act, No. 45 of 2007 | 1 | 2007-10-15 to 2007-10-15 |
+| `act-2007-046` | Excise (Special Provisions) (Amendment) Act, No. 46 of 2007 | 1 | 2007-10-15 to 2007-10-15 |
+| `act-2007-047` | Regional Infrastructure Development Levy (Amendment) Act, No. 47 of 2007 | 1 | 2007-10-15 to 2007-10-15 |
+| `act-2007-050` | Sir John Kotelawala Defence Academy (Amendment) Act, No. 50 of 2007 | 1 | 2007-10-23 to 2007-10-23 |
+| `act-2007-055` | Local Authorities (Special Provisions) Act, No. 55 of 2007 | 1 | 2007-11-16 to 2007-11-16 |
+| `act-2008-007` | Finance (Amendment) Act, No. 7 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-008` | Finance (Amendment) Act, No. 8 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-010` | Stamp Duty (Special Provisions) (Amendment) Act, No. 10 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-011` | Economic Service Charge (Amendment) Act, No. 11 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-012` | Regional Infrastructure Development Levy (Amendment) Act, No. 12 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-013` | Butchers (Amendment) Act, No. 13 of 2008 | 1 | 2008-02-29 to 2008-02-29 |
+| `act-2008-033` | Information and Communication Technology (Amendment) Act, No. 33 of 2008 | 1 | 2008-09-26 to 2008-09-26 |
+| `act-2008-039` | Sri Lanka Transport Board (Amendment) Act, No. 39 of 2008 | 1 | 2008-11-07 to 2008-11-07 |
+| `act-2009-005` | Grant of Citizenship to Stateless Persons (Special Provisions) (Amendment) Act, No. 5 of 2009 | 1 | 2009-02-18 to 2009-02-18 |
+| `act-2009-006` | Grant of Citizenship to Persons of Indian Origin (Amendment) Act, No. 6 of 2009 | 1 | 2009-02-18 to 2009-02-18 |
+| `act-2009-007` | Ranaviru Seva Authority (Amendment) Act, No. 7 of 2009 | 1 | 2009-02-18 to 2009-02-18 |
+| `act-2009-008` | Motor Traffic (Amendment) Act, No. 8 of 2009 | 1 | 2009-03-11 to 2009-03-11 |
+| `act-2009-010` | Animals (Amendment) Act, No. 10 of 2009 | 1 | 2009-03-17 to 2009-03-17 |
+| `act-2009-013` | Finance (Amendment) Act, No. 13 of 2009 | 1 | 2009-03-31 to 2009-03-31 |
+| `act-2009-014` | Excise (Special Provisions) (Amendment) Act, No. 14 of 2009 | 1 | 2009-03-31 to 2009-03-31 |
+| `act-2009-016` | Economic Service Charge (Amendment) Act, No. 16 of 2009 | 1 | 2009-03-31 to 2009-03-31 |
+| `act-2009-017` | Debits Tax (Amendment) Act, No. 17 of 2009 | 1 | 2009-03-31 to 2009-03-31 |
+| `act-2009-018` | Finance (Amendment) Act, No. 18 of 2009 | 1 | 2009-03-31 to 2009-03-31 |
+| `act-2009-022` | Fauna and Flora Protection (Amendment) Act, No. 22 of 2009 | 1 | 2009-04-20 to 2009-04-20 |
+| `act-2009-028` | Widowers' and Orphans' Pension Scheme (Armed Forces) (Amendment) Act, No. 28 of 2009 | 1 | 2009-05-18 to 2009-05-18 |
+| `act-2009-029` | Widows' and Orphans' Pension Scheme (Armed Forces) (Amendment) Act, No. 29 of 2009 | 1 | 2009-05-18 to 2009-05-18 |
+| `act-2009-030` | Local Authorities (Special Provisions) (Amendment) Act, No. 30 of 2009 | 1 | 2009-05-18 to 2009-05-18 |
+| `act-2009-032` | Nation Building Tax (Amendment) Act, No. 32 of 2009 | 1 | 2009-05-18 to 2009-05-18 |
+| `act-2009-036` | Board of Investment of Sri Lanka (Amendment) Act, No. 36 of 2009 | 1 | 2009-07-15 to 2009-07-15 |
+| `act-2009-037` | Road Development Authority (Amendment) Act, No. 37 of 2009 | 1 | 2009-07-23 to 2009-07-23 |
+| `act-2009-047` | Securities and Exchange Commission of Sri Lanka (Amendment) Act, No. 47 of 2009 | 1 | 2009-09-22 to 2009-09-22 |
+| `act-2009-057` | Universities (Amendment) Act, No. 57 of 2009 | 1 | 2009-10-07 to 2009-10-07 |
+| `act-2009-058` | Parliamentary Elections (Amendment) Act, No. 58 of 2009 | 1 | 2009-10-16 to 2009-10-16 |
+| `act-2009-065` | Forest (Amendment) Act, No. 65 of 2009 | 1 | 2009-11-16 to 2009-11-16 |
+| `act-2009-066` | Mines and Minerals (Amendment) Act, No. 66 of 2009 | 1 | 2009-11-17 to 2009-11-17 |
+| `act-2009-068` | Gramodaya Mandala Fund (Amendment) Act, No. 68 of 2009 | 1 | 2009-11-18 to 2009-11-18 |
+| `act-2009-069` | Appropriation (Amendment) Act, No. 69 of 2009 | 1 | 2009-11-20 to 2009-11-20 |
+| `act-2010-008` | Widows' and Orphans' Pension Fund (Amendment) Act, No. 8 of 2010 | 1 | 2010-08-17 to 2010-08-17 |
+| `act-2010-009` | Widowers' and Orphans' Pension (Amendment) Act, No. 9 of 2010 | 1 | 2010-08-17 to 2010-08-17 |
+| `act-2010-013` | Provincial Councils (Amendment) Act, No. 13 of 2010 | 1 | 2010-10-30 to 2010-10-30 |
+| `act-2010-016` | Default Taxes (Special Provisions) Act, No. 16 of 2010 | 1 | 2010-12-07 to 2010-12-07 |
+| `act-2011-001` | Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 1 of 2011 | 1 | 2011-01-28 to 2011-01-28 |
+| `act-2011-002` | Offensive Weapons (Amendment) Act, No. 2 of 2011 | 1 | 2011-01-28 to 2011-01-28 |
+| `act-2011-003` | Regulation of Insurance Industry (Amendment) Act, No. 3 of 2011 | 1 | 2011-02-07 to 2011-02-07 |
+| `act-2011-004` | Mediation Boards (Amendment) Act, No. 4 of 2011 | 1 | 2011-02-23 to 2011-02-23 |
+| `act-2011-005` | Protection of the Rights of Elders (Amendment) Act, No. 5 of 2011 | 1 | 2011-02-23 to 2011-02-23 |
+| `act-2011-010` | Nation Building Tax (Amendment) Act, No. 10 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-011` | Economic Service Charge (Amendment) Act, No. 11 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-012` | Strategic Development Projects (Amendment) Act, No. 12 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-015` | Finance (Amendment) Act No. 15 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-017` | Excise (Special Provisions) (Amendment) Act, No. 17 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-019` | Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 19 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-020` | Excise (Amendment) Act, No. 20 of 2011 | 1 | 2011-03-31 to 2011-03-31 |
+| `act-2011-026` | Census (Amendment) Act, No. 26 of 2011 | 1 | 2011-05-06 to 2011-05-06 |
+| `act-2011-028` | Elections (Special Provisions) Act, No. 28 of 2011 | 1 | 2011-05-25 to 2011-05-25 |
+| `act-2011-029` | Food (Amendment) Act, No. 29 of 2011 | 1 | 2011-06-07 to 2011-06-07 |
+| `act-2011-030` | Pradeshiya Sanwardana Bank (Amendment) Act, No. 30 of 2011 | 1 | 2011-06-07 to 2011-06-07 |
+| `act-2011-031` | Control of Pesticides (Amendment) Act, No. 31 of 2011 | 1 | 2011-06-23 to 2011-06-23 |
+| `act-2011-032` | Navy (Amendment) Act, No. 32 of 2011 | 1 | 2011-06-24 to 2011-06-24 |
+| `act-2011-040` | Prevention of Money Laundering (Amendment) Act, No. 40 of 2011 | 1 | 2011-10-06 to 2011-10-06 |
+| `act-2011-041` | Convention on the Suppression of Terrorist Financing (Amendment) Act, No. 41 of 2011 | 1 | 2011-10-06 to 2011-10-06 |
+| `act-2011-045` | Housing Development Finance Corporation Bank of Sri Lanka (Amendment) Act, No. 45 of 2011 | 1 | 2011-11-21 to 2011-11-21 |
+| `act-2011-046` | Agrarian Development (Amendment) Act, No. 46 of 2011 | 1 | 2011-11-22 to 2011-11-22 |
+| `act-2011-047` | Notaries (Amendment) Act, No. 47 of 2011 | 1 | 2011-11-24 to 2011-11-24 |
+| `act-2011-048` | Registration of Documents (Amendment) Act, No. 48 of 2011 | 1 | 2011-11-24 to 2011-11-24 |
+| `act-2011-049` | Coast Conservation (Amendment) Act, No. 49 of 2011 | 1 | 2011-11-30 to 2011-11-30 |
+| `act-2012-003` | Board of Investment of Sri Lanka (Amendment) Act, No. 3 of 2012 | 1 | 2012-02-15 to 2012-02-15 |
+| `act-2012-004` | Tax Appeals Commission (Amendment) Act, No. 4 of 2012 | 1 | 2012-02-15 to 2012-02-15 |
+| `act-2012-009` | Nation Building Tax (Amendment) Act, No. 9 of 2012 | 1 | 2012-03-30 to 2012-03-30 |
+| `act-2012-010` | Ports and Airports Development Levy (Amendment) Act, No. 10 of 2012 | 1 | 2012-03-30 to 2012-03-30 |
+| `act-2012-011` | Economic Service Charge (Amendment) Act, No. 11 of 2012 | 1 | 2012-03-30 to 2012-03-30 |
+| `act-2012-013` | Defence Services Command and Staff College (Amendment) Act, No. 13 of 2012 | 1 | 2012-05-04 to 2012-05-04 |
+| `act-2012-015` | Buddhasravaka Bhikku University (Amendement) Act, No. 15 of 2012 | 1 | 2012-07-11 to 2012-07-11 |
+| `act-2012-020` | Ranaviru Seva Authority (Amendment) Act, No. 20 of 2012 | 1 | 2012-10-08 to 2012-10-08 |
+| `act-2012-021` | Local Authorities (Special Provisions) Act, No. 21 of 2012 | 1 | 2012-11-15 to 2012-11-15 |
+| `act-2012-022` | Local Authorities Elections (Amendment) Act, No. 22 of 2012 | 1 | 2012-11-15 to 2012-11-15 |
+| `act-2013-003` | Convention on the Suppression of Terrorist Financing (Amendment) Act, No. 3 of 2013 | 1 | 2013-02-12 to 2013-02-12 |
+| `act-2013-005` | Ports and Airports Development Levy (Amendment) Act, No. 5 of 2013 | 1 | 2013-03-22 to 2013-03-22 |
+| `act-2013-006` | Economic Service Charge (Amendment) Act, No. 6 of 2013 | 1 | 2013-03-22 to 2013-03-22 |
+| `act-2013-007` | Excise (Amendment) Act, No. 7 of 2013 | 1 | 2013-03-22 to 2013-03-22 |
+| `act-2013-008` | Telecommunication Levy (Amendment) Act, No. 8 of 2013 | 1 | 2013-03-22 to 2013-03-22 |
+| `act-2013-009` | Customs (Amendment) Act, No. 9 of 2013 | 1 | 2013-03-22 to 2013-03-22 |
+| `act-2013-010` | Resettlement Authority (Amendment) Act, No. 10 of 2013 | 1 | 2013-03-28 to 2013-03-28 |
+| `act-2013-011` | Nation Building Tax (Amendment) Act, No. 11 of 2013 | 1 | 2013-04-23 to 2013-04-23 |
+| `act-2013-013` | Notaries (Amendment) Act, No. 13 of 2013 | 1 | 2013-04-23 to 2013-04-23 |
+| `act-2013-014` | Powers of Attorney (Amendment) Act, No.14 of 2013 | 1 | 2013-04-23 to 2013-04-23 |
+| `act-2013-015` | Fiscal Management (Responsibility) (Amendment) Act, No. 15 of 2013 | 1 | 2013-04-23 to 2013-04-23 |
+| `act-2013-016` | Strategic Development Projects (Amendment) Act, No. 16 of 2013 | 1 | 2013-04-23 to 2013-04-23 |
+| `act-2013-019` | Betting and Gaming Levy (Amendment) Act, No. 19 of 2013 | 1 | 2013-04-24 to 2013-04-24 |
+| `act-2013-020` | Tax Appeals Commission (Amendment) Act, No. 20 of 2013 | 1 | 2013-04-24 to 2013-04-24 |
+| `act-2013-021` | Registration of Documents (Amendment) Act, No. 21 of 2013 | 1 | 2013-04-24 to 2013-04-24 |
+| `act-2013-022` | Marriage Registration (Amendment) Act, No. 22 of 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `act-2013-023` | Kandyan Marriage and Divorce (Amendment) Act, No. 23 of 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `act-2013-024` | Muslim Marriage and Divorce (Amendment) Act, No. 24 of 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `act-2013-025` | Birth and Deaths Registration (Amendment) Act, No. 25 of 2013 | 1 | 2013-05-08 to 2013-05-08 |
+| `act-2013-027` | Registration of Electors (Special Provisions) Act, No. 27 of 2013 | 1 | 2013-06-20 to 2013-06-20 |
+| `act-2013-029` | Defence Services Command and Staff College (Amendment) Act, No. 29 of 2013 | 1 | 2013-07-08 to 2013-07-08 |
+| `act-2013-030` | Local Authorities Filling of Vacancies (Special Provisions) Act, No. 30 of 2013 | 1 | 2013-07-12 to 2013-07-12 |
+| `act-2013-031` | Sri Lanka Electricity (Amendment) Act, No. 31 of 2013 | 1 | 2013-08-07 to 2013-08-07 |
+| `act-2013-032` | Science and Technology Development (Amendment) Act, No. 32 of 2013 | 1 | 2013-10-25 to 2013-10-25 |
+| `act-2013-034` | Buddhist Temporalities (Amendment) Act, No. 34 of 2013 | 1 | 2013-11-11 to 2013-11-11 |
+| `act-2013-035` | Fisheries and Aquatic Resources (Amendment) Act, No. 35 of 2013 | 1 | 2013-11-22 to 2013-11-22 |
+| `act-2014-001` | Institute of Policy Studies of Sri Lanka (Amendment) Act, No. 1 of 2014 | 1 | 2014-02-06 to 2014-02-06 |
+| `act-2014-002` | National Institute of Business Management (Amendment) Act, No. 2 of 2014 | 1 | 2014-02-21 to 2014-02-21 |
+| `act-2014-006` | Medical (Amendment) Act, No. 6 of 2014 | 1 | 2014-04-10 to 2014-04-10 |
+| `act-2014-009` | Economic Service Charge (Amendment) Act, No. 9 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-010` | Nation Building Tax (Amendment) Act, No. 10 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-011` | Telecommunication Levy (Amendment) Act, No. 11 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-012` | Special Commodity Levy (Amendment) Act, No. 12 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-014` | Default Taxes (Special Provisions) (Amendment) Act, No. 14 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-015` | Monetary Law (Amendment) Act, No. 15 of 2014 | 1 | 2014-04-24 to 2014-04-24 |
+| `act-2014-025` | Institute of Fundamental Studies, Sri Lanka (Amendment) Act, No. 25 of 2014 | 1 | 2014-08-08 to 2014-08-08 |
+| `act-2014-026` | Prescription (Amendment) Act, No. 26 of 2014 | 1 | 2014-08-08 to 2014-08-08 |
+| `act-2014-034` | Municipal Councils (Amendment) Act, No. 34 of 2014 | 1 | 2014-10-23 to 2014-10-23 |
+| `act-2014-035` | Urban Councils (Amendment) Act, No. 35 of 2014 | 1 | 2014-10-23 to 2014-10-23 |
+| `act-2014-036` | Pradeshiya Sabha (Amendment) Act, No. 36 of 2014 | 1 | 2014-10-23 to 2014-10-23 |
+| `act-2014-037` | Local Authorities Filling of Vacancies (Special Provisions) (Amendment) Act, No. 37 of 2014 | 1 | 2014-10-23 to 2014-10-23 |
+| `act-2015-002` | Fisheries and Aquatic Resources (Amendment) Act, No. 2 of 2015 | 1 | 2015-03-02 to 2015-03-02 |
+| `act-2015-003` | National Authority on Tobacco and Alcohol (Amendment) Act, No. 3 of 2015 | 1 | 2015-03-03 to 2015-03-03 |
+| `act-2015-007` | Immigrants and Emigrants (Amendment) Act, No. 7 of 2015 | 1 | 2015-06-03 to 2015-06-03 |
+| `act-2015-012` | Nation Building Tax (Amendment) Act, No. 12 of 2015 | 1 | 2015-10-30 to 2015-10-30 |
+| `act-2015-013` | Economic Service Charge (Amendment) Act, No. 13 of 2015 | 1 | 2015-10-30 to 2015-10-30 |
+| `act-2015-014` | Betting and Gaming Levy (Amendment) Act, No. 14 of 2015 | 1 | 2015-10-30 to 2015-10-30 |
+| `act-2016-001` | Local Authorities Elections (Amendment) Act, No. 1 of 2016 | 1 | 2016-02-17 to 2016-02-17 |
+| `act-2016-002` | Fisheries and Aquatic Resources (Amendment) Act, No. 2 of 2016 | 1 | 2016-02-17 to 2016-02-17 |
+| `act-2016-005` | Prescription (Special Provisions) Act, No. 5 of 2016 | 1 | 2016-04-26 to 2016-04-26 |
+| `act-2016-008` | Registration of Persons (Amendment) Act, No. 8 of 2016 | 1 | 2016-07-07 to 2016-07-07 |
+| `act-2016-009` | Mediation Board (Amendment) Act, No. 9 of 2016 | 1 | 2016-07-21 to 2016-07-21 |
+| `act-2016-015` | Animal Feed (Amendment) Act, No. 15 of 2016 | 1 | 2016-09-07 to 2016-09-07 |
+| `act-2016-016` | Registration of Deaths (Temporary Provisions) (Amendment) Act, No. 16 of 2016 | 1 | 2016-09-07 to 2016-09-07 |
+| `act-2016-017` | Universities (Amendment) Act, No. 17 of 2016 | 1 | 2016-10-05 to 2016-10-05 |
+| `act-2016-019` | Law Commission (Amendment) Act, No. 19 of 2016 | 1 | 2016-10-17 to 2016-10-17 |
+| `act-2016-021` | Ports and Airports Development Levy (Amendment) Act, No. 21 of 2016 | 1 | 2016-11-07 to 2016-11-07 |
+| `act-2016-022` | Nation Building Tax (Amendment) Act, No. 22 of 2016 | 1 | 2016-11-07 to 2016-11-07 |
+| `act-2016-023` | Appropriation (Amendment) Act, No. 23 of 2016 | 1 | 2016-11-07 to 2016-11-07 |
+| `act-2017-001` | Medical (Amendment) Act, No. 1 of 2017 | 1 | 2017-02-21 to 2017-02-21 |
+| `act-2017-002` | Divineguma (Amendment) Act, No. 2 of 2017 | 1 | 2017-02-21 to 2017-02-21 |
+| `act-2017-003` | Land (Restrictions on Alienation) (Amendment) Act, No. 3 of 2017 | 1 | 2017-02-22 to 2017-02-22 |
+| `act-2017-006` | National Transport Commission (Amendment) Act, No. 6 of 2017 | 1 | 2017-04-07 to 2017-04-07 |
+| `act-2017-007` | Economic Service Charge (Amendment) Act, No. 7 of 2017 | 1 | 2017-05-17 to 2017-05-17 |
+| `act-2017-009` | Office on Missing Persons (Establishment, Administration and Discharge of Functions) (Amendment) Act, No. 9 of 2017 | 1 | 2017-07-03 to 2017-07-03 |
+| `act-2017-010` | Registration of Electors (Special Provisions) Act, No. 10 of 2017 | 1 | 2017-07-21 to 2017-07-21 |
+| `act-2017-011` | Fisheries and Aquatic Resources (Amendment) Act, No. 11 of 2017 | 1 | 2017-07-25 to 2017-07-25 |
+| `act-2017-013` | Nation Building Tax (Amendment) Act, No. 13 of 2017 | 1 | 2017-08-09 to 2017-08-09 |
+| `act-2017-014` | Sugathadasa National Sports Complex Authority (Amendment) Act, No. 14 of 2017 | 1 | 2017-08-17 to 2017-08-17 |
+| `act-2017-016` | Local Authorities Elections (Amendment) Act, No. 16 of 2017 | 1 | 2017-08-31 to 2017-08-31 |
+| `act-2017-017` | Provincial Councils Elections (Amendment) Act, No. 17 of 2017 | 1 | 2017-09-22 to 2017-09-22 |
+| `act-2017-018` | Motor Traffic (Amendment) Act, No. 18 of 2017 | 1 | 2017-10-03 to 2017-10-03 |
+| `act-2017-020` | Municipal Councils (Amendment) Act, No. 20 of 2017 | 1 | 2017-10-12 to 2017-10-12 |
+| `act-2017-021` | Urban Councils (Amendment) Act, No. 21 of 2017 | 1 | 2017-10-12 to 2017-10-12 |
+| `act-2017-022` | Pradeshiya Sabhas (Amendment) Act, No. 22 of 2017 | 1 | 2017-10-12 to 2017-10-12 |
+| `act-2017-023` | Regulation of Insurance Industry (Amendment) Act, No. 23 of 2017 | 1 | 2017-10-19 to 2017-10-19 |
+| `act-2017-025` | Electronic Transactions (Amendment) Act, No. 25 of 2017 | 1 | 2017-11-02 to 2017-11-02 |
+| `act-2017-027` | Assistance to and Protection of Victims of Crime and Witnesses (Amendment) Act, No. 27 of 2017 | 1 | 2017-11-17 to 2017-11-17 |
+| `act-2017-028` | Local Authorities (Special Provisions) Act, No. 28 of 2017 | 1 | 2017-11-17 to 2017-11-17 |
+| `act-2017-029` | Prevention of Crimes (Amendment) Act, No. 29 of 2017 | 1 | 2017-11-18 to 2017-11-18 |
+| `act-2017-031` | Local Authorities Elections (Amendment) Act, No. 31 of 2017 | 1 | 2017-12-14 to 2017-12-14 |
+| `act-2017-032` | Appropriation (Amendment) Act, No. 32 of 2017 | 1 | 2017-12-14 to 2017-12-14 |
+| `act-2018-001` | Fisheries (Regulation of Foreign Fishing Boats) (Amendment) Act, No. 1 of 2018 | 1 | 2018-02-08 to 2018-02-08 |
+| `act-2018-004` | Excise (Amendment) Act, No. 4 of 2018 | 1 | 2018-03-19 to 2018-03-19 |
+| `act-2018-006` | Trusts (Amendment) Act, No. 6 of 2018 | 1 | 2018-03-28 to 2018-03-28 |
+| `act-2018-012` | Civil Aviation (Amendment) Act, No. 12 of 2018 | 1 | 2018-05-21 to 2018-05-21 |
+| `act-2018-013` | Sri Lanka Tea Board (Amendment) Act, No. 13 of 2018 | 1 | 2018-06-05 to 2018-06-05 |
+| `act-2018-015` | Maternity Benefits (Amendment) Act, No. 15 of 2018 | 1 | 2018-06-18 to 2018-06-18 |
+| `act-2018-016` | National Defence Fund (Amendment) Act, No. 16 of 2018 | 1 | 2018-06-22 to 2018-06-22 |
+| `act-2018-017` | General Sir John Kotelawala Defence University (Special Provisions) Act, No. 17 of 2018 | 1 | 2018-06-28 to 2018-06-28 |
+| `act-2018-020` | Nation Building Tax (Amendment) Act, No. 20 of 2018 | 1 | 2018-07-30 to 2018-07-30 |
+| `act-2018-021` | Land (Restrictions on Alienation) (Amendment) Act, No. 21 of 2018 | 1 | 2018-07-30 to 2018-07-30 |
+| `act-2018-022` | Bribery (Amendment) Act, No. 22 of 2018 | 1 | 2018-07-30 to 2018-07-30 |
+| `act-2018-023` | Apartment Ownership (Special Provisions) Act, No. 23 of 2018 | 1 | 2018-08-15 to 2018-08-15 |
+| `act-2018-024` | Mutual Assistance in Criminal Matters (Amendment) Act, No. 24 of 2018 | 1 | 2018-08-15 to 2018-08-15 |
+| `act-2018-026` | Excise (Amendment) Act, No. 26 of 2018 | 1 | 2018-09-03 to 2018-09-03 |
+| `act-2018-028` | Medical (Amendment) Act, No. 28 of 2018 | 1 | 2018-09-19 to 2018-09-19 |
+| `act-2018-030` | Pradeshiya Sabhas (Amendment) Act, No. 30 of 2018 | 1 | 2018-09-28 to 2018-09-28 |
+| `act-2018-033` | Economic Service Charge (Amendment) Act, No. 33 of 2018 | 1 | 2018-10-04 to 2018-10-04 |
+| `act-2019-001` | Chemical Weapons Convention (Amendment) Act, No. 1 of 2019 | 1 | 2019-01-17 to 2019-01-17 |
+| `act-2019-003` | Commissions of Inquiry (Amendment) Act, No. 3 of 2019 | 1 | 2019-02-01 to 2019-02-01 |
+| `act-2019-004` | Debt Conciliation (Amendment) Act, No. 4 of 2019 | 1 | 2019-02-05 to 2019-02-05 |
+| `act-2019-007` | Coconut Development (Amendment) Act, No. 7 of 2019 | 1 | 2019-05-14 to 2019-05-14 |
+| `act-2019-008` | Tea Research Board (Amendment) Act, No. 8 of 2019 | 1 | 2019-06-18 to 2019-06-18 |
+| `act-2019-009` | Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019 | 1 | 2019-06-18 to 2019-06-18 |
+| `act-2019-010` | Motor Traffic (Amendment) Act, No. 10 of 2019 | 1 | 2019-06-20 to 2019-06-20 |
+| `act-2019-011` | Sri Lanka Land Reclamation and Development Corporation (Amendment) Act, No. 11 of 2019 | 1 | 2019-06-28 to 2019-06-28 |
+| `act-2019-015` | Shrama Vasana Fund (Amendment) Act, No. 15 of 2019 | 1 | 2019-09-30 to 2019-09-30 |
+| `act-2019-016` | People's Bank (Amendment) Act, No. 16 of 2019 | 1 | 2019-09-30 to 2019-09-30 |
+| `act-2019-017` | Merchant Shipping (Amendment) Act, No. 17 of 2019 | 1 | 2019-10-02 to 2019-10-02 |
+| `act-2019-018` | Excise (Amendment) Act, No. 18 of 2019 | 1 | 2019-10-31 to 2019-10-31 |
+| `act-2019-020` | Nation Building Tax (Amendment) Act, No. 20 of 2019 | 1 | 2019-10-31 to 2019-10-31 |
+| `act-2020-002` | Finance (Amendment) Act, No. 2 of 2020 | 1 | 2020-10-12 to 2020-10-12 |
+| `act-2020-003` | Nation Building Tax (Amendment) Act, No. 3 of 2020 | 1 | 2020-10-12 to 2020-10-12 |
+| `act-2020-004` | Economic Service Charge (Amendment) Act, No. 4 of 2020 | 1 | 2020-10-12 to 2020-10-12 |
+| `act-2021-004` | Factories (Amendment) Act, No. 4 of 2021 | 1 | 2021-01-18 to 2021-01-18 |
+| `act-2021-007` | Bail (Amendment) Act, No. 7 of 2021 | 1 | 2021-01-18 to 2021-01-18 |
+| `act-2021-012` | Fiscal Management (Responsibility) (Amendment) Act, No. 12 of 2021 | 1 | 2021-06-14 to 2021-06-14 |
+| `act-2021-013` | Sri Lanka Land Development Corporation (Amendment) Act, No. 13 of 2021 | 1 | 2021-06-30 to 2021-06-30 |
+| `act-2021-015` | Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) Act, No. 15 of 2021 | 1 | 2021-07-15 to 2021-07-15 |
+| `act-2021-016` | National Minimum Wage of Workers (Amendment) Act, No. 16 of 2021 | 1 | 2021-08-16 to 2021-08-16 |
+| `act-2021-020` | Consumer Affairs Authority (Amendment) Act, No. 20 of 2021 | 1 | 2021-09-22 to 2021-09-22 |
+| `act-2021-022` | Registration of Electors (Amendment) Act, No. 22 of 2021 | 1 | 2021-10-13 to 2021-10-13 |
+| `act-2021-024` | Youthful Offenders (Training Schools) (Amendment) Act, No. 24 of 2021 | 1 | 2021-10-26 to 2021-10-26 |
+| `act-2021-026` | Appropriation (Amendment) Act, No. 26 of 2021 | 1 | 2021-11-12 to 2021-11-12 |
+| `act-2021-027` | Immigrants and Emigrants (Amendment) Act, No. 27 of 2021 | 1 | 2021-11-12 to 2021-11-12 |
+| `act-2022-001` | Mahapola Higher Education Scholarship Trust Fund (Amendment) Act, No. 1 of 2022 | 1 | 2022-02-14 to 2022-02-14 |
+| `act-2022-006` | Provincial Councils (Transfer of Stamp Duty) (Amendment) Act, No. 6 of 2022 | 1 | 2022-02-17 to 2022-02-17 |
+| `act-2022-007` | Fauna and Flora Protection (Amendment) Act, No. 7 of 2022 | 1 | 2022-03-02 to 2022-03-02 |
+| `act-2022-011` | Land Development (Amendment) Act, No. 11 of 2022 | 1 | 2022-03-19 to 2022-03-19 |
+| `act-2022-012` | Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022 | 1 | 2022-03-29 to 2022-03-29 |
+| `act-2022-016` | Sri Lanka Electricity (Amendment) Act, No.16 of 2022 | 1 | 2022-06-15 to 2022-06-15 |
+| `act-2022-021` | Appropriation (Amendment) Act, No. 21 of 2022 | 1 | 2022-09-09 to 2022-09-09 |
+| `act-2022-026` | Sri Lanka Rupavahini Corporation (Amendment) Act, No. 26 of 2022 | 1 | 2022-09-26 to 2022-09-26 |
+| `act-2022-027` | Petroleum Products (Special Provisions) (Amendment) Act, No. 27 of 2022 | 1 | 2022-10-21 to 2022-10-21 |
+| `act-2022-028` | Powers of Attorney (Amendment) Act, No. 28 of 2022 | 1 | 2022-10-25 to 2022-10-25 |
+| `act-2022-029` | Wills (Amendment) Act, No. 29 of 2022 | 1 | 2022-10-25 to 2022-10-25 |
+| `act-2022-030` | Prevention of Frauds (Amendment) Act, No. 30 of 2022 | 1 | 2022-10-25 to 2022-10-25 |
+| `act-2022-031` | Notaries (Amendment) Act, No. 31 of 2022 | 1 | 2022-10-31 to 2022-10-31 |
+| `act-2022-032` | Registration of Documents (Amendment) Act, No. 32 of 2022 | 1 | 2022-10-31 to 2022-10-31 |
+| `act-2022-035` | High Court of the Provinces (Special Provisions) (Amendment) Act, No. 35 of 2022 | 1 | 2022-11-17 to 2022-11-17 |
+| `act-2022-037` | Kandyan Marriage and Divorce (Amendment) Act, No. 37 of 2022 | 1 | 2022-11-17 to 2022-11-17 |
+| `act-2022-039` | Children and Young Persons (Amendment) Act, No. 39 of 2022 | 1 | 2022-11-17 to 2022-11-17 |
+| `act-2022-040` | Dangerous Animals (Amendment) Act, No. 40 of 2022 | 1 | 2022-11-17 to 2022-11-17 |
+| `act-2022-041` | Poisons, Opium and Dangerous Drugs (Amendment) Act, No. 41 of 2022 | 1 | 2022-11-23 to 2022-11-23 |
+| `act-2023-008` | Carriage by Air (Amendment) Act, No. 8 of 2023 | 1 | 2023-07-14 to 2023-07-14 |
+| `act-2023-011` | Betting and Gaming Levy (Amendment) Act, No. 11 of 2023 | 1 | 2023-08-21 to 2023-08-21 |
+| `act-2023-012` | Appropriation (Amendment) Act, No. 12 of 2023 | 1 | 2023-08-21 to 2023-08-21 |
+| `act-2023-015` | Social Security Contribution Levy (Amendment) Act, No. 15 of 2023 | 1 | 2023-09-08 to 2023-09-08 |
+| `act-2023-017` | Banking (Special Provisions) Act, No. 17 of 2023 | 1 | 2023-09-14 to 2023-09-14 |
+| `act-2023-019` | Ayurveda (Amendment) Act, No. 19 of 2023 | 1 | 2023-10-09 to 2023-10-09 |
 
-The build made 304 commits:
+The build made 573 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 303 | first version of an act |
+| 572 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 303 laws in the record.
-- 607 tags.
+- 572 laws in the record.
+- 1145 tags.
 
 ## Dates
 
@@ -346,7 +616,7 @@ When a law gives no date of its own, the default rule applies: Constitution Art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `68cf64d3f407fd590cba089afcab137230c8f3d6727e17bb4c7c1c0bfa3b2674` (13134553 bytes).
+- Corpus: sha256 `a66dad10dbafc15ac423a783647f1f874e8de1ca6179cdc822949d9cbb87b844` (16122478 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -378,6 +648,10 @@ No second build of this corpus has been compared yet.
 - Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
 - Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
 - Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
+- Acts of Parliament (parts 30-acts-*): each Act is one version, the Act as certified, dated by the Speaker's certificate printed on it ("[Certified on ...]"): under Article 80(1) of the Constitution a Bill becomes law when the certificate is endorsed on it. Where an Act brings itself or some of its provisions into operation later (an appointed day, a Minister's Order), that later day is not modelled: the version is dated by the certificate.
+- Acts of Parliament: amending Acts are their own acts; their amendments are not replayed into the principal Acts, which are kept as enacted (the Parliament publishes no consolidated text).
+- Acts of Parliament: read from the PDF text layer by the shared reader Lexifina's code: one file per section (its marginal note as the heading), the long title, preamble and enacting words as "preamble", and each Schedule as one file; running heads, page numbers, the certificate line and printer's codes are left out; every other printed word from the long title to the end of the Act is in a file (checked letter for letter), and an Act whose sections are not numbered 1..N without a gap is left out.
+- Acts of Parliament: a line-end hyphen is dropped when the same Act prints the joined word without it elsewhere, and kept otherwise.
 
 ## What AI did and did not do
 
@@ -389,6 +663,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time; parsers written by Claude Code (claude-opus-5-5); no model wrote legal text
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the reader and this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
