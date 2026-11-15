@@ -68,7 +68,9 @@ Lexifina's own contributions (the arrangement of the history, the commit message
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 """
-(H / 'repo' / 'README.md').write_text(README, 'utf-8', newline='\n')
+# Since 2026-11-15 repo/README.md is on the serbia-law model, written by hand: it is left as it is.
+if not (H / 'repo' / 'README.md').exists() or '## Questions as git commands' not in (H / 'repo' / 'README.md').read_text('utf-8'):
+    (H / 'repo' / 'README.md').write_text(README, 'utf-8', newline='\n')
 (H / 'repo' / 'LICENSE').write_text(LICENSE, 'utf-8', newline='\n')
 j = json.loads((H / 'repo' / 'jurisdiction.json').read_text('utf-8'))
 j['build'] = (f'built: Constitution of Sri Lanka (267 units), 2 versions; {n} Acts of Parliament as enacted '
