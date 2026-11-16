@@ -59,6 +59,7 @@ Each law is credited to itself (`Act No. 33 of 1999 <act-1999-033@parliament.lk.
 - All 267 provisions of the Constitution's first version were compared word by word with an independent text extraction of the edition's PDF; the Twenty Second Amendment's two changes match the words of the Act.
 - `tools/append.py` adds new Acts on top of main only after checking that main's newest text of every act equals the corpus; `tools/check_repo.py` reads every version back from git and compares it with the corpus. [`REPRODUCE.md`](REPRODUCE.md) records no full check or second build of this build yet.
 - History is append-only: new acts go on top, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each law is credited to itself (`Act No. 33 of 1999 <act-1999-033@parliament.lk.
 See [`LICENSE`](LICENSE). parliament.lk states no licence; under section 8 of the Intellectual Property Act, No. 36 of 2003, official texts of a legislative, administrative or legal nature are not protected. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
