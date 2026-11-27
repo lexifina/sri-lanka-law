@@ -1,0 +1,30 @@
+{
+  "corpus": "lk/national/acts",
+  "name": "Sri Lankan law: the Constitution, Acts of Parliament, Laws and Ordinances, as enacted and as consolidated",
+  "label": "Sri Lanka",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Source-status",
+      "Kind",
+      "Enacted",
+      "Published"
+    ],
+    "time": "12:00 Asia/Colombo (UTC+5:30)",
+    "before_1970": "1970-01-01 stamp; real day in subject and In-force"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the law that made the version: \"Act No. N of YYYY\", \"Law No. N of YYYY\" or \"Ordinance No. N of YYYY\"",
+  "citation": {
+    "file": "((?:act|law|ordinance)/[0-9]{4}/[0-9]{3}|constitution/constitution)/(?:sec|art)-0*([0-9]+[a-z]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?|article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.parliament.lk",
+    "https://web.archive.org/web/2024/https://www.lawnet.gov.lk/"
+  ]
+}

@@ -9,9 +9,9 @@ The law of Sri Lanka as a git history: one file per article or section, one comm
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Sri Lanka's national law, which global-law reads at `sri-lanka/national/acts/`.
 
-**What is in it now:** the Constitution, 267 provisions in 2 versions, and 623 Acts of Parliament from 1999 to 2026, each as enacted. [`REPRODUCE.md`](REPRODUCE.md) lists every act and its versions; [`data/laws.csv`](data/laws.csv) gives each one's certified, published and in-force days and its page on parliament.lk.
+**What is in it now** (2026-11-27): the Constitution, 267 provisions in 2 versions; 771 Acts of Parliament and 4 Laws of the National State Assembly, enacted from 1961 to 2026, each as enacted. [`REPRODUCE.md`](REPRODUCE.md) lists the sources; [`data/laws.csv`](data/laws.csv) gives each law's days and its source page.
 
-The Constitution is [`constitution/constitution/`](constitution/constitution/), one file per Article and Schedule; each Act is in `act/<year>/<number>/`, one file per section, a `preamble.md` for the long title and enacting words, and one file per Schedule (`act/2007/007/` is the Companies Act, No. 07 of 2007). Commits before 10 November 2026 hold each act under its id (`constitution/`, `act-2007-007/`); `data/paths.json` maps each id to its folder.
+The Constitution is [`constitution/constitution/`](constitution/constitution/), one file per Article and Schedule; each Act is in `act/<year>/<number>/`, each Law of 1972-1978 in `law/<year>/<number>/` and each Ordinance in `ordinance/<year>/<number>/` (the Penal Code, Ordinance No. 2 of 1883, is `ordinance/1883/002/`), one file per section, a `preamble.md` for the long title and enacting words, and one file per Schedule (`act/2007/007/` is the Companies Act, No. 07 of 2007). Commits before 10 November 2026 hold each act under its id (`constitution/`, `act-2007-007/`); `data/paths.json` maps each id to its folder.
 
 The text is in English, as Parliament publishes it. Laws are enacted in Sinhala and Tamil with an English translation, and Parliament decides which text prevails (Article 23 of the Constitution); the Sinhala and Tamil texts are not part of this record.
 
@@ -49,7 +49,10 @@ Each commit is dated at noon, Asia/Colombo, on the day the version took effect, 
 
 - an Act, by the day of the Speaker's certificate printed on it ("[Certified on ...]"): a Bill becomes law when the certificate is endorsed on it (Article 80(1) of the Constitution). Where an Act, or part of it, comes into operation later, on a day a Minister appoints by Order, that day is not shown;
 - the Constitution's first version, by its edition: the Parliament's consolidated edition as amended up to 31 October 2022 (the Twenty First Amendment);
-- the Twenty Second Amendment, which changes Articles 107 and 137, by its Speaker's certificate, 25 September 2026.
+- the Twenty Second Amendment, which changes Articles 107 and 137, by its Speaker's certificate, 25 September 2026;
+- an Act or Law taken from LawNet's "Acts 1956-2006 (Official)", by its endorsed (certified) day in Parliament's Acts listing;
+- a consolidated text (a revised-edition chapter or LawNet's consolidated statutes), by the certified day of the last amending law its header lists, the earliest day that text can be in force; where the header lists only the enactment itself, by the commencement day printed under its title. A consolidation whose last amending law is an Ordinance (no day in Parliament's listing) is held back;
+- before 1970, git cannot hold the date: such commits are stamped 1970-01-01 and the real day is in the subject and the `In-force:` trailer.
 
 Each law is credited to itself (`Act No. 33 of 1999 <act-1999-033@parliament.lk.invalid>`), with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The Constitution's first version is credited to the publisher, the Parliament of Sri Lanka, because earlier editions are not built. The committer is always Lexifina.
 
@@ -64,7 +67,7 @@ Each law is credited to itself (`Act No. 33 of 1999 <act-1999-033@parliament.lk.
 ## What it does not show
 
 - **Amendments to Acts.** Each Act is held as enacted; an amending Act is its own folder and its changes are not replayed into the Act it amends, because Parliament publishes no consolidated text. Only the Constitution has more than one version.
-- **Older law.** Acts before 1999, whose PDFs are scans without a text layer, and the Penal Code, the Civil Procedure Code and the other pre-1978 enactments, which Parliament lists only as revised-edition chapters, are not built yet.
+- **Older law, in part.** Parliament's own PDFs of Acts before 1999 are scans without a text layer and are not read (no OCR). Older law comes from LawNet (Ministry of Justice), whose site is gone and whose pages are read from the Wayback Machine (`Source-status: secondary copy` in each commit); pages LawNet published only as PDF images, consolidations that cannot be dated, and pages whose sections cannot be numbered without a gap are left out.
 - **The Constitution's earlier history.** The 1978 text and the First to Twenty First Amendments are not separate commits.
 - **Act No. 29 of 2021.** Its folder, `act/2021/029/`, holds the text of Act No. 23 of 2022, the same Act as `act/2022/023/`.
 - **Other law.** Regulations, case law and bills are not here; provincial statutes are in their own repositories (global-law's `sri-lanka/northern/`, `sri-lanka/central/` and `sri-lanka/uva/`).
@@ -74,7 +77,8 @@ Each law is credited to itself (`Act No. 33 of 1999 <act-1999-033@parliament.lk.
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Parliament of Sri Lanka: the Constitution](https://www.parliament.lk/en/constitution/main) | Unofficial consolidated English edition, and the Twenty Second Amendment | yes, editions as amended up to the Seventeenth to Twenty First Amendments; only the last is used | The Amendment's changes replayed onto Articles 107 and 137 |
-| [Parliament of Sri Lanka: Acts listing](https://www.parliament.lk/en/business-of-parliament/acts-listing) | Acts of Parliament, English text as printed by the Department of Government Printing | no, the Act as enacted | Read from the PDFs' text layer (no OCR) |
+| [Parliament of Sri Lanka: Acts listing](https://www.parliament.lk/en/business-of-parliament/acts-listing) | Acts of Parliament (public and private), English text as printed by the Department of Government Printing | no, the Act as enacted | Read from the PDFs' text layer (no OCR) |
+| [LawNet](https://web.archive.org/web/2024/https://www.lawnet.gov.lk/) (Ministry of Justice), via the Wayback Machine | Acts 1956-2006 (Official); Legislative Enactments 1956 and 1980; Consolidated Statutes up to 2006 (unofficial) | yes, one version per edition | The live site now serves only a parked host page; secondary copy |
 
 ## Licence
 

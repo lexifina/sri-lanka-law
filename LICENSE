@@ -5,6 +5,8 @@ Sri Lanka (https://www.parliament.lk). The site states no licence. The Intellect
 section 8, does not protect official texts of a legislative, administrative or legal nature. The texts are
 reproduced without change to their wording.
 
+Older Acts, Laws and Ordinances, and consolidated texts of them, come from LawNet (www.lawnet.gov.lk), the legal information site of the Ministry of Justice of Sri Lanka (its pages say "Copyright 2016. Ministry of Justice - Sri Lanka. All Rights Reserved"), read from copies kept by the Internet Archive's Wayback Machine (https://web.archive.org) because the site no longer serves them. Only the official texts of the laws are taken, which section 8 of the Intellectual Property Act, No. 36 of 2003 leaves unprotected; LawNet's own site material is not copied. The Internet Archive's terms: https://archive.org/about/terms.php.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
 line-end hyphenation and page furniture from the PDF were removed. The versions were arranged as git commits.
 Lexifina does not claim the Parliament of Sri Lanka endorses this repository.

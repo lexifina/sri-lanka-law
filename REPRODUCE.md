@@ -16,8 +16,9 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
 | Parliament of Sri Lanka: Acts listing and English Act PDFs | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-02 | No licence stated on parliament.lk. Intellectual Property Act, No. 36 of 2003, section 8: no copyright protection for official texts of a legislative, administrative or legal nature. |
-
-Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+| LawNet (Ministry of Justice), Wayback Machine copies | <https://web.archive.org/web/2024/https://www.lawnet.gov.lk/> | 2026-11-27 | Official texts (Intellectual Property Act, No. 36 of 2003, s. 8); site material "All Rights Reserved", not copied |
+| Parliament of Sri Lanka: private Acts (pbills) and Acts left out before | <https://www.parliament.lk/en/business-of-parliament/acts-listing> | 2026-11-27 | as above |
+Every word of law in this repository comes from these sources. Since 2026-11-27 new versions are added by the runner in lexifina's `scripts/sri-lanka-law/runner/` (lk_parl.py: parliament.lk PDFs, text layer only; lk_lawnet.py and lk_ln_parse.py: LawNet pages from the Wayback Machine; lk_build.py: one commit per version, appended to main with git fast-import, fast-forward only). Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
 ## What is in it
 
